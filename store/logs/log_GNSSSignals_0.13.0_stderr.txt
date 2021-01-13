@@ -5,17 +5,17 @@
   Installed IteratorInterfaceExtensions ──── v1.0.0
   Installed SIMDPirates ──────────────────── v0.8.26
   Installed GNSSSignals ──────────────────── v0.13.0
-  Installed Unitful ──────────────────────── v1.5.0
   Installed VectorizationBase ────────────── v0.12.33
+  Installed Unitful ──────────────────────── v1.5.0
   Installed SLEEFPirates ─────────────────── v0.5.5
-  Installed DataValueInterfaces ──────────── v1.0.0
   Installed DataAPI ──────────────────────── v1.4.0
-  Installed ConstructionBase ─────────────── v1.0.0
   Installed TableTraits ──────────────────── v1.0.0
+  Installed ConstructionBase ─────────────── v1.0.0
   Installed Adapt ────────────────────────── v2.4.0
-  Installed UnPack ───────────────────────── v1.0.2
   Installed Tables ───────────────────────── v1.2.2
+  Installed UnPack ───────────────────────── v1.0.2
   Installed OffsetArrays ─────────────────── v1.5.0
+  Installed DataValueInterfaces ──────────── v1.0.0
   Installed FixedPointSinCosApproximations ─ v0.2.0
   Installed DocStringExtensions ──────────── v0.8.3
   Installed LoopVectorization ────────────── v0.8.26
@@ -63,3 +63,13 @@ Updating `~/.julia/environments/v1.5/Manifest.toml`
   [cf7118a7] + UUIDs
   [4ec0a83e] + Unicode
    Building SLEEFPirates → `~/.julia/packages/SLEEFPirates/jGsib/deps/build.log`
+ERROR: LoadError: LoadError: UndefVarError: SymbolServer not defined
+Stacktrace:
+ [1] include(::String) at ./client.jl:457
+ [2] top-level scope at /SymbolServer/src/indexpackage.jl:16
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include(::Module, ::String) at ./Base.jl:368
+ [5] exec_options(::Base.JLOptions) at ./client.jl:296
+ [6] _start() at ./client.jl:506
+in expression starting at /SymbolServer/src/serialize.jl:2
+in expression starting at /SymbolServer/src/indexpackage.jl:16

@@ -1,0 +1,18 @@
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Strapping ─── v1.0.0
+  Installed DBInterface ─ v1.0.1
+  Installed StructTypes ─ v1.2.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [3787371a] + Strapping v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a10d1c49] + DBInterface v1.0.1
+  [3787371a] + Strapping v1.0.0
+  [856f2bd8] + StructTypes v1.2.1
+  [ade2ca70] + Dates
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode

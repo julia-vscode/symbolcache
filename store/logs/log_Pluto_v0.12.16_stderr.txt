@@ -2,18 +2,18 @@
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
   Installed IniFile ───────────────────── v0.5.0
-  Installed IteratorInterfaceExtensions ─ v1.0.0
   Installed DataAPI ───────────────────── v1.4.0
+  Installed IteratorInterfaceExtensions ─ v1.0.0
   Installed TableTraits ───────────────── v1.0.0
   Installed FuzzyCompletions ──────────── v0.4.0
   Installed MsgPack ───────────────────── v1.1.0
   Installed Tables ────────────────────── v1.2.2
   Installed Pluto ─────────────────────── v0.12.16
-  Installed MbedTLS ───────────────────── v1.0.3
+  Installed MbedTLS_jll ───────────────── v2.16.8+1
   Installed DataValueInterfaces ───────── v1.0.0
   Installed JLLWrappers ───────────────── v1.2.0
+  Installed MbedTLS ───────────────────── v1.0.3
   Installed Artifacts ─────────────────── v1.3.0
-  Installed MbedTLS_jll ───────────────── v2.16.8+1
   Installed HTTP ──────────────────────── v0.8.19
 Updating `~/.julia/environments/v1.5/Project.toml`
   [c3e4b0f8] + Pluto v0.12.16

@@ -1,0 +1,45 @@
+[ Info: Indexing package Gym 1.1.4...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed VersionParsing ─ v1.2.0
+  Installed Parsers ──────── v1.0.15
+  Installed Conda ────────── v1.5.0
+  Installed Gym ──────────── v1.1.4
+  Installed MacroTools ───── v0.5.6
+  Installed PyCall ───────── v1.92.2
+  Installed JSON ─────────── v0.21.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [b0807396] + Gym v1.1.4
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [8f4d0f93] + Conda v1.5.0
+  [b0807396] + Gym v1.1.4
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [69de0a69] + Parsers v1.0.15
+  [438e738f] + PyCall v1.92.2
+  [81def892] + VersionParsing v1.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [4ec0a83e] + Unicode
+   Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building Gym ───→ `~/.julia/packages/Gym/exeFO/deps/build.log`
+┌ Error: Error building `Gym`: 
+│ ERROR: LoadError: LoadError: parsing command `pip install --user -e .[$env]`: special characters "#{}()[]<>|&*?~;" must be quoted in commands
+│ Stacktrace:
+│  [1] error(::String) at ./error.jl:33
+│  [2] shell_parse(::String, ::Bool; special::String) at ./shell.jl:100
+│  [3] @cmd(::LineNumberNode, ::Module, ::Any) at ./cmd.jl:389
+│  [4] include(::String) at ./client.jl:457
+│  [5] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/Gym/exeFO/deps/build.jl:6
+│ in expression starting at /root/.julia/packages/Gym/exeFO/deps/build.jl:1
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+[ Info: Could not load package, exiting.

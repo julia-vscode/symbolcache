@@ -1,0 +1,11 @@
+[ Info: Indexing package BeeEncoder 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed BeeEncoder ─ v0.1.0
+  Installed Suppressor ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [88bd2ba4] + BeeEncoder v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [88bd2ba4] + BeeEncoder v0.1.0
+  [fd094767] + Suppressor v0.2.0
+[ Info: Finished indexing.

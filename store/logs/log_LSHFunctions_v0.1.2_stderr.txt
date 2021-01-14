@@ -1,38 +1,38 @@
 [ Info: Indexing package LSHFunctions 0.1.2...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
+  Installed Reexport ───────────────────── v1.0.0
   Installed SortingAlgorithms ──────────── v0.3.1
   Installed Rmath_jll ──────────────────── v0.2.2+1
-  Installed Reexport ───────────────────── v1.0.0
   Installed Compat ─────────────────────── v3.25.0
   Installed StatsFuns ──────────────────── v0.9.6
   Installed DataStructures ─────────────── v0.18.8
   Installed LSHFunctions ───────────────── v0.1.2
-  Installed MKL_jll ────────────────────── v2020.2.254+0
   Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed MKL_jll ────────────────────── v2020.2.254+0
   Installed PDMats ─────────────────────── v0.10.1
-  Installed JSON ───────────────────────── v0.21.1
-  Installed DocStringExtensions ────────── v0.8.3
-  Installed StaticArrays ───────────────── v0.12.5
-  Installed Distributions ──────────────── v0.23.12
   Installed Documenter ─────────────────── v0.25.5
-  Installed Parsers ────────────────────── v1.0.15
-  Installed OrderedCollections ─────────── v1.3.2
-  Installed FillArrays ─────────────────── v0.9.7
-  Installed QuadGK ─────────────────────── v2.4.1
+  Installed DocStringExtensions ────────── v0.8.3
+  Installed JSON ───────────────────────── v0.21.1
   Installed AbstractFFTs ───────────────── v1.0.0
-  Installed StatsBase ──────────────────── v0.33.2
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed QuadGK ─────────────────────── v2.4.1
+  Installed FillArrays ─────────────────── v0.9.7
+  Installed Parsers ────────────────────── v1.0.15
+  Installed StaticArrays ───────────────── v0.12.5
   Installed Artifacts ──────────────────── v1.3.0
-  Installed JLLWrappers ────────────────── v1.2.0
   Installed Rmath ──────────────────────── v0.6.1
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed DataAPI ────────────────────── v1.4.0
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed StatsBase ──────────────────── v0.33.2
   Installed Missings ───────────────────── v0.4.4
+  Installed Distributions ──────────────── v0.23.12
   Installed IntelOpenMP_jll ────────────── v2018.0.3+0
-  Installed SpecialFunctions ───────────── v0.10.3
   Installed FFTW ───────────────────────── v1.3.1
   Installed IOCapture ──────────────────── v0.1.1
   Installed FFTW_jll ───────────────────── v3.3.9+7
+  Installed SpecialFunctions ───────────── v0.10.3
 Updating `~/.julia/environments/v1.5/Project.toml`
   [5134c85a] + LSHFunctions v0.1.2
 Updating `~/.julia/environments/v1.5/Manifest.toml`

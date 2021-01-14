@@ -1,25 +1,25 @@
 [ Info: Indexing package GNSSSignals 0.12.2...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed CpuId ────────────────────────── v0.2.2
   Installed IteratorInterfaceExtensions ──── v1.0.0
+  Installed CpuId ────────────────────────── v0.2.2
   Installed StructArrays ─────────────────── v0.4.4
   Installed SIMDPirates ──────────────────── v0.6.8
-  Installed VectorizationBase ────────────── v0.7.1
-  Installed SLEEFPirates ─────────────────── v0.4.7
   Installed GNSSSignals ──────────────────── v0.12.2
   Installed Unitful ──────────────────────── v1.5.0
+  Installed VectorizationBase ────────────── v0.7.1
+  Installed SLEEFPirates ─────────────────── v0.4.7
   Installed DataAPI ──────────────────────── v1.4.0
+  Installed ConstructionBase ─────────────── v1.0.0
   Installed TableTraits ──────────────────── v1.0.0
   Installed Adapt ────────────────────────── v2.4.0
-  Installed ConstructionBase ─────────────── v1.0.0
-  Installed OrderedCollections ───────────── v1.3.2
-  Installed OffsetArrays ─────────────────── v1.5.0
   Installed UnPack ───────────────────────── v1.0.2
   Installed Tables ───────────────────────── v1.2.2
+  Installed OrderedCollections ───────────── v1.3.2
+  Installed OffsetArrays ─────────────────── v1.5.0
+  Installed Parameters ───────────────────── v0.12.1
   Installed DataValueInterfaces ──────────── v1.0.0
   Installed FixedPointSinCosApproximations ─ v0.1.0
-  Installed Parameters ───────────────────── v0.12.1
   Installed DocStringExtensions ──────────── v0.8.3
   Installed LoopVectorization ────────────── v0.6.21
 Updating `~/.julia/environments/v1.5/Project.toml`

@@ -1,0 +1,15 @@
+[ Info: Indexing package LIKWID 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed LIKWID ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [bf22376a] + LIKWID v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [bf22376a] + LIKWID v0.1.0
+┌ Warning: Package LIKWID does not have Libdl in its dependencies:
+│ - If you have LIKWID checked out for development and have
+│   added Libdl as a dependency but haven't updated your primary
+│   environment's manifest file, try `Pkg.resolve()`.
+│ - Otherwise you may need to report an issue with LIKWID
+└ Loading Libdl into LIKWID from project dependency, future warnings for LIKWID are suppressed.
+[ Info: Could not load package, exiting.

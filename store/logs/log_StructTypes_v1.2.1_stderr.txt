@@ -1,0 +1,17 @@
+[ Info: Indexing package StructTypes 1.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#################                                                         24.5%###################################                                       49.6%#########################################################                 79.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed StructTypes ─ v1.2.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [856f2bd8] + StructTypes v1.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [856f2bd8] + StructTypes v1.2.1
+  [ade2ca70] + Dates
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

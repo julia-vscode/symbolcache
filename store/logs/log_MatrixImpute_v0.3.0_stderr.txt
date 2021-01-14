@@ -1,20 +1,20 @@
 [ Info: Indexing package MatrixImpute 0.3.0...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed SortingAlgorithms ─────────── v0.3.1
   Installed MatrixImpute ──────────────── v0.3.0
+  Installed SortingAlgorithms ─────────── v0.3.1
   Installed Reexport ──────────────────── v0.2.0
-  Installed Compat ────────────────────── v2.2.1
   Installed IteratorInterfaceExtensions ─ v1.0.0
+  Installed Compat ────────────────────── v2.2.1
   Installed DataStructures ────────────── v0.17.20
   Installed JSON ──────────────────────── v0.21.1
   Installed DataFrames ────────────────── v0.19.4
   Installed PooledArrays ──────────────── v0.5.3
   Installed InvertedIndices ───────────── v1.0.0
-  Installed Tables ────────────────────── v0.2.11
-  Installed DataAPI ───────────────────── v1.4.0
   Installed DataValueInterfaces ───────── v1.0.0
+  Installed DataAPI ───────────────────── v1.4.0
   Installed Parsers ───────────────────── v1.0.15
+  Installed Tables ────────────────────── v0.2.11
   Installed OrderedCollections ────────── v1.3.2
   Installed StatsBase ─────────────────── v0.32.2
   Installed Arpack ────────────────────── v0.3.2

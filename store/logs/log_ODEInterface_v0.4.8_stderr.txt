@@ -1,0 +1,26 @@
+[ Info: Indexing package ODEInterface 0.4.8...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed ODEInterface ─ v0.4.8
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [54ca160b] + ODEInterface v0.4.8
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [54ca160b] + ODEInterface v0.4.8
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [d6f4376e] + Markdown
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+   Building ODEInterface → `~/.julia/packages/ODEInterface/lvq2F/deps/build.log`
+┌ Error: Error building `ODEInterface`: 
+│ ERROR: LoadError: Currently only gfortran is supported.
+│ Stacktrace:
+│  [1] error(::String) at ./error.jl:33
+│  [2] top-level scope at /root/.julia/packages/ODEInterface/lvq2F/deps/build.jl:250
+│  [3] include(::String) at ./client.jl:457
+│  [4] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/ODEInterface/lvq2F/deps/build.jl:249
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+[ Info: Finished indexing.

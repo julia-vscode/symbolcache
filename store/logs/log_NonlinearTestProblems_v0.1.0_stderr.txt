@@ -1,8 +1,8 @@
 [ Info: Indexing package NonlinearTestProblems 0.1.0...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed NonlinearTestProblems ─ v0.1.0
   Installed ArgCheck ────────────── v2.1.0
+  Installed NonlinearTestProblems ─ v0.1.0
   Installed DocStringExtensions ─── v0.8.3
 Updating `~/.julia/environments/v1.5/Project.toml`
   [84d880b8] + NonlinearTestProblems v0.1.0

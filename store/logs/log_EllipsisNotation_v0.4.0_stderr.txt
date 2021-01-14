@@ -1,0 +1,9 @@
+[ Info: Indexing package EllipsisNotation 0.4.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed EllipsisNotation ─ v0.4.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [da5c29d0] + EllipsisNotation v0.4.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [da5c29d0] + EllipsisNotation v0.4.0
+[ Info: Finished indexing.

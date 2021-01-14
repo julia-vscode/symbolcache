@@ -10,34 +10,34 @@
   Installed DataStructures ─────────────── v0.18.8
   Installed Colors ─────────────────────── v0.12.6
   Installed FixedPointNumbers ──────────── v0.8.4
-  Installed IndirectArrays ─────────────── v0.5.1
   Installed OpenSpecFun_jll ────────────── v0.5.3+4
   Installed EllipsisNotation ───────────── v1.0.0
-  Installed ColorTypes ─────────────────── v0.10.9
-  Installed AxisArrays ─────────────────── v0.4.3
+  Installed IndirectArrays ─────────────── v0.5.1
   Installed OrderedCollections ─────────── v1.3.2
-  Installed StatsBase ──────────────────── v0.33.2
+  Installed ColorTypes ─────────────────── v0.10.9
   Installed ColorVectorSpace ───────────── v0.8.7
-  Installed AbstractFFTs ───────────────── v1.0.0
+  Installed StatsBase ──────────────────── v0.33.2
+  Installed AxisArrays ─────────────────── v0.4.3
   Installed SimpleTraits ───────────────── v0.9.3
+  Installed AbstractFFTs ───────────────── v1.0.0
+  Installed JLLWrappers ────────────────── v1.2.0
   Installed Artifacts ──────────────────── v1.3.0
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed PaddedViews ────────────────── v0.5.7
   Installed MosaicViews ────────────────── v0.2.4
-  Installed DataAPI ────────────────────── v1.4.0
   Installed MappedArrays ───────────────── v0.3.0
-  Installed ImageCore ──────────────────── v0.8.20
-  Installed JLLWrappers ────────────────── v1.2.0
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed Adapt ──────────────────────── v2.4.0
   Installed Missings ───────────────────── v0.4.4
-  Installed ImageAxes ──────────────────── v0.6.8
-  Installed NaNMath ────────────────────── v0.3.5
-  Installed SpecialFunctions ───────────── v1.2.1
   Installed IntervalSets ───────────────── v0.5.2
+  Installed ImageAxes ──────────────────── v0.6.8
   Installed RangeArrays ────────────────── v0.3.2
-  Installed IterTools ──────────────────── v1.3.0
+  Installed NaNMath ────────────────────── v0.3.5
+  Installed ImageCore ──────────────────── v0.8.20
+  Installed SpecialFunctions ───────────── v1.2.1
   Installed ChainRulesCore ─────────────── v0.9.25
   Installed MacroTools ─────────────────── v0.5.6
+  Installed IterTools ──────────────────── v1.3.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [bc367c6b] + ImageMetadata v0.9.4
 Updating `~/.julia/environments/v1.5/Manifest.toml`

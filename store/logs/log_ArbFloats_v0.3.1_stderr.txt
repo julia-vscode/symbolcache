@@ -9,8 +9,8 @@
   Installed BinDeps ────────────────────── v0.8.10
   Installed SpecialFunctions ───────────── v0.10.3
   Installed ArbFloats ──────────────────── v0.3.1
-  Installed JLLWrappers ────────────────── v1.2.0
   Installed Artifacts ──────────────────── v1.3.0
+  Installed JLLWrappers ────────────────── v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [9689d877] + ArbFloats v0.3.1
 Updating `~/.julia/environments/v1.5/Manifest.toml`

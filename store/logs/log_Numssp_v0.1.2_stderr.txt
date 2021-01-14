@@ -1,0 +1,11 @@
+[ Info: Indexing package Numssp 0.1.2...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Numssp ─ v0.1.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [bcd14c31] + Numssp v0.1.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [bcd14c31] + Numssp v0.1.2
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

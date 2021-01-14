@@ -9,9 +9,9 @@
   Installed OffsetArrays ───────────────── v1.5.0
   Installed HyperDualNumbers ───────────── v4.0.4
   Installed ChainRulesCore ─────────────── v0.9.25
+  Installed Adapt ──────────────────────── v2.4.0
   Installed Calculus ───────────────────── v0.5.1
   Installed Artifacts ──────────────────── v1.3.0
-  Installed Adapt ──────────────────────── v2.4.0
   Installed JLLWrappers ────────────────── v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [3db4a2ba] + LegendrePolynomials v0.2.3

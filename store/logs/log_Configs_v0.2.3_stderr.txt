@@ -1,0 +1,27 @@
+[ Info: Indexing package Configs 0.2.3...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Memoize ──── v0.4.4
+  Installed YAML ─────── v0.4.5
+  Installed Parsers ──── v1.0.15
+  Installed Configs ──── v0.2.3
+  Installed MacroTools ─ v0.5.6
+  Installed JSON ─────── v0.21.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d3268586] + Configs v0.2.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [d3268586] + Configs v0.2.3
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [c03570c3] + Memoize v0.4.4
+  [69de0a69] + Parsers v1.0.15
+  [ddb6d928] + YAML v0.4.5
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

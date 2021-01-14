@@ -1,16 +1,16 @@
 [ Info: Indexing package GAP_jll 4.11.0+2...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed XML2_jll ───── v2.9.10+3
+  Installed Zlib_jll ───── v1.2.11+18
+  Installed Ncurses_jll ── v6.1.0+5
   Installed GAP_jll ────── v4.11.0+2
   Installed Libiconv_jll ─ v1.16.0+7
-  Installed Ncurses_jll ── v6.1.0+5
-  Installed Zlib_jll ───── v1.2.11+18
   Installed Gettext_jll ── v0.20.1+7
+  Installed XML2_jll ───── v2.9.10+3
   Installed Readline_jll ─ v8.0.4+1
   Installed JLLWrappers ── v1.2.0
-  Installed Artifacts ──── v1.3.0
   Installed GMP_jll ────── v6.1.2+6
+  Installed Artifacts ──── v1.3.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [5cd7a574] + GAP_jll v4.11.0+2
 Updating `~/.julia/environments/v1.5/Manifest.toml`

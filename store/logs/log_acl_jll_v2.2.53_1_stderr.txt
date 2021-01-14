@@ -1,8 +1,8 @@
 [ Info: Indexing package acl_jll 2.2.53+1...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed acl_jll ── v2.2.53+1
   Installed Attr_jll ─ v2.4.48+0
+  Installed acl_jll ── v2.2.53+1
 Updating `~/.julia/environments/v1.5/Project.toml`
   [ed5aba05] + acl_jll v2.2.53+1
 Updating `~/.julia/environments/v1.5/Manifest.toml`

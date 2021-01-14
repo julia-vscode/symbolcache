@@ -1,0 +1,11 @@
+[ Info: Indexing package SymSemiseparableMatrices 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed SymSemiseparableMatrices ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [c927be06] + SymSemiseparableMatrices v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [c927be06] + SymSemiseparableMatrices v0.1.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

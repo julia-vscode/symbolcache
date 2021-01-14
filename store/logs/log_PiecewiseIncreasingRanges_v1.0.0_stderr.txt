@@ -1,0 +1,9 @@
+[ Info: Indexing package PiecewiseIncreasingRanges 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed PiecewiseIncreasingRanges ─ v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [efdf428f] + PiecewiseIncreasingRanges v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [efdf428f] + PiecewiseIncreasingRanges v1.0.0
+[ Info: Finished indexing.

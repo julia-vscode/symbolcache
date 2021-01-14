@@ -1,0 +1,11 @@
+[ Info: Indexing package CryptoUtils 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed CryptoUtils ─ v0.1.1
+  Installed Primes ────── v0.5.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [04afed74] + CryptoUtils v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [04afed74] + CryptoUtils v0.1.1
+  [27ebfcd6] + Primes v0.5.0
+[ Info: Finished indexing.

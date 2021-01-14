@@ -1,10 +1,10 @@
 [ Info: Indexing package Luna_jll 0.23.0+1...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed Artifacts ─── v1.3.0
-  Installed Luna_jll ──── v0.23.0+1
   Installed Zlib_jll ──── v1.2.11+18
   Installed FFTW_jll ──── v3.3.9+7
+  Installed Artifacts ─── v1.3.0
+  Installed Luna_jll ──── v0.23.0+1
   Installed JLLWrappers ─ v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [5c9374ce] + Luna_jll v0.23.0+1
@@ -32,5 +32,5 @@ Updating `~/.julia/environments/v1.5/Manifest.toml`
   [4ec0a83e] + Unicode
 [ Info: Finished indexing.
 -------------------------------------------------------------------
-+++ luna | finishing 14-Jan-2021 00:14:11                       +++
++++ luna | finishing 14-Jan-2021 01:28:46                       +++
 ===================================================================

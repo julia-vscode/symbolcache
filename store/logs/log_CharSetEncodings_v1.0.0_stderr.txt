@@ -1,0 +1,14 @@
+[ Info: Indexing package CharSetEncodings 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed CharSetEncodings ───── v1.0.0
+  Installed ModuleInterfaceTools ─ v1.0.1
+  Installed StrAPI ─────────────── v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [cb9422de] + CharSetEncodings v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [cb9422de] + CharSetEncodings v1.0.0
+  [5cb8414e] + ModuleInterfaceTools v1.0.1
+  [69e7dfc3] + StrAPI v1.0.0
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

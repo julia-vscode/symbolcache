@@ -1,60 +1,60 @@
 [ Info: Indexing package MFrontInterface 0.1.0...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed Lz4_jll ────────────────────── v1.9.2+2
   Installed HDF5_jll ───────────────────── v1.10.5+7
+  Installed Lz4_jll ────────────────────── v1.9.2+2
   Installed Libiconv_jll ───────────────── v1.16.0+7
   Installed NLSolversBase ──────────────── v7.7.1
   Installed FiniteDiff ─────────────────── v2.7.2
   Installed CommonSubexpressions ───────── v0.3.0
   Installed Requires ───────────────────── v1.1.2
-  Installed MFrontInterface ────────────── v0.1.0
   Installed Reexport ───────────────────── v0.2.0
-  Installed Compat ─────────────────────── v3.25.0
+  Installed HeatTransfer ───────────────── v0.3.1
   Installed MortarContact2D ────────────── v0.3.1
   Installed OpenSpecFun_jll ────────────── v0.5.3+4
-  Installed HeatTransfer ───────────────── v0.3.1
-  Installed CxxWrap ────────────────────── v0.8.1
-  Installed OpenBLAS_jll ───────────────── v0.3.9+5
+  Installed Compat ─────────────────────── v3.25.0
   Installed FEMMaterials ───────────────── v0.1.1
+  Installed OpenBLAS_jll ───────────────── v0.3.9+5
+  Installed CxxWrap ────────────────────── v0.8.1
   Installed AsterReader ────────────────── v0.2.3
-  Installed ArrayInterface ─────────────── v2.14.13
-  Installed StaticArrays ───────────────── v1.0.1
-  Installed Tensors ────────────────────── v1.4.3
   Installed ForwardDiff ────────────────── v0.10.14
+  Installed ArrayInterface ─────────────── v2.14.13
+  Installed Tensors ────────────────────── v1.4.3
+  Installed StaticArrays ───────────────── v1.0.1
   Installed OrderedCollections ─────────── v1.3.2
   Installed TimerOutputs ───────────────── v0.5.7
-  Installed FEMBeam ────────────────────── v0.3.1
-  Installed UnPack ─────────────────────── v1.0.2
+  Installed MFrontInterface ────────────── v0.1.0
   Installed Zstd_jll ───────────────────── v1.4.5+2
-  Installed Nullables ──────────────────── v1.0.0
+  Installed UnPack ─────────────────────── v1.0.2
+  Installed FEMBeam ────────────────────── v0.3.1
   Installed FEMQuad ────────────────────── v0.3.2
-  Installed MortarContact2DAD ──────────── v0.2.0
   Installed LineSearches ───────────────── v7.1.1
   Installed JLLWrappers ────────────────── v1.2.0
+  Installed Nullables ──────────────────── v1.0.0
+  Installed MortarContact2DAD ──────────── v0.2.0
   Installed Artifacts ──────────────────── v1.3.0
+  Installed FEMBasis ───────────────────── v0.2.0
   Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed DiffRules ──────────────────── v1.0.2
   Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed XML2_jll ───────────────────── v2.9.10+3
-  Installed FEMBasis ───────────────────── v0.2.0
   Installed Arpack ─────────────────────── v0.4.0
-  Installed DiffRules ──────────────────── v1.0.2
   Installed FEMBase ────────────────────── v0.2.2
-  Installed Distances ──────────────────── v0.10.0
   Installed NLsolve ────────────────────── v4.5.1
-  Installed BinaryProvider ─────────────── v0.5.10
+  Installed Distances ──────────────────── v0.10.0
   Installed AbaqusReader ───────────────── v0.2.5
   Installed DiffResults ────────────────── v1.0.3
-  Installed Blosc_jll ──────────────────── v1.14.3+1
+  Installed BinaryProvider ─────────────── v0.5.10
   Installed Einsum ─────────────────────── v0.4.1
+  Installed Blosc_jll ──────────────────── v1.14.3+1
   Installed NaNMath ────────────────────── v0.3.5
   Installed LightXML ───────────────────── v0.9.0
-  Installed SpecialFunctions ───────────── v1.2.1
   Installed Calculus ───────────────────── v0.5.1
+  Installed SpecialFunctions ───────────── v1.2.1
   Installed Arpack_jll ─────────────────── v3.5.0+3
+  Installed Blosc ──────────────────────── v0.7.0
   Installed Parameters ─────────────────── v0.12.1
   Installed Materials ──────────────────── v0.2.1
-  Installed Blosc ──────────────────────── v0.7.0
   Installed ChainRulesCore ─────────────── v0.9.25
   Installed SIMD ───────────────────────── v3.2.1
   Installed MacroTools ─────────────────── v0.5.6
@@ -212,5 +212,5 @@ true_main at /buildworker/worker/package_linux64/build/ui/repl.c:106
 main at /buildworker/worker/package_linux64/build/ui/repl.c:227
 __libc_start_main at /lib/x86_64-linux-gnu/libc.so.6 (unknown line)
 _start at /usr/local/julia/bin/julia (unknown line)
-Allocations: 1642106 (Pool: 1641479; Big: 627); GC: 1
+Allocations: 1642579 (Pool: 1641953; Big: 626); GC: 1
 [ Info: Could not load package, exiting.

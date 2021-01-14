@@ -22,9 +22,9 @@ Stacktrace:
  [11] #add#19 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
  [12] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
  [13] add(; name::String, uuid::Nothing, version::VersionNumber, url::Nothing, rev::Nothing, path::Nothing, mode::Pkg.Types.PackageMode, subdir::Nothing, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:82
- [14] top-level scope at /SymbolServer/src/indexpackage.jl:23
+ [14] top-level scope at /SymbolServer/src/indexpackage.jl:26
  [15] include(::Function, ::Module, ::String) at ./Base.jl:380
  [16] include(::Module, ::String) at ./Base.jl:368
  [17] exec_options(::Base.JLOptions) at ./client.jl:296
  [18] _start() at ./client.jl:506
-in expression starting at /SymbolServer/src/indexpackage.jl:23
+in expression starting at /SymbolServer/src/indexpackage.jl:26

@@ -1,8 +1,8 @@
 [ Info: Indexing package Xorg_kbproto_jll 1.0.7+2...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed Artifacts ──────── v1.3.0
   Installed Xorg_kbproto_jll ─ v1.0.7+3
+  Installed Artifacts ──────── v1.3.0
   Installed JLLWrappers ────── v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [060dd47b] + Xorg_kbproto_jll v1.0.7+3

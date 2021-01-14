@@ -1,0 +1,9 @@
+[ Info: Indexing package LIKWID 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed LIKWID ─ v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [bf22376a] + LIKWID v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [bf22376a] + LIKWID v0.1.1
+[ Info: Could not load package, exiting.

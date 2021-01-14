@@ -1,0 +1,245 @@
+[ Info: Indexing package ReinforcementLearningEnvironmentGym 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Requires ──────────────────────────── v0.5.2
+  Installed CodecZlib ─────────────────────────── v0.7.0
+  Installed SortingAlgorithms ─────────────────── v0.3.1
+  Installed ReinforcementLearningEnvironmentGym ─ v0.1.0
+  Installed IteratorInterfaceExtensions ───────── v1.0.0
+  Installed ArrayLayouts ──────────────────────── v0.4.7
+  Installed SLEEFPirates ──────────────────────── v0.6.6
+  Installed GPUArrays ─────────────────────────── v6.2.0
+  Installed BFloat16s ─────────────────────────── v0.1.0
+  Installed Compat ────────────────────────────── v2.2.1
+  Installed Conda ─────────────────────────────── v1.5.0
+  Installed OffsetArrays ──────────────────────── v1.5.0
+  Installed CommonSubexpressions ──────────────── v0.3.0
+  Installed DataStructures ────────────────────── v0.17.20
+  Installed FileIO ────────────────────────────── v1.4.5
+  Installed Reexport ──────────────────────────── v0.2.0
+  Installed DataFrames ────────────────────────── v0.21.8
+  Installed Functors ──────────────────────────── v0.1.0
+  Installed FixedPointNumbers ─────────────────── v0.8.4
+  Installed ReinforcementLearning ─────────────── v0.2.1
+  Installed ExprTools ─────────────────────────── v0.1.3
+  Installed JSON ──────────────────────────────── v0.21.1
+  Installed ColorTypes ────────────────────────── v0.10.9
+  Installed TranscodingStreams ────────────────── v0.9.5
+  Installed Colors ────────────────────────────── v0.12.6
+  Installed DocStringExtensions ───────────────── v0.8.3
+  Installed Media ─────────────────────────────── v0.5.0
+  Installed OpenSpecFun_jll ───────────────────── v0.5.3+4
+  Installed PooledArrays ──────────────────────── v0.5.3
+  Installed Parsers ───────────────────────────── v1.0.15
+  Installed PyCall ────────────────────────────── v1.92.2
+  Installed StaticArrays ──────────────────────── v0.12.5
+  Installed StatsBase ─────────────────────────── v0.33.2
+  Installed Hwloc ─────────────────────────────── v1.2.0
+  Installed ZygoteRules ───────────────────────── v0.2.1
+  Installed VectorizationBase ─────────────────── v0.15.3
+  Installed ForwardDiff ───────────────────────── v0.10.14
+  Installed IfElse ────────────────────────────── v0.1.0
+  Installed ArrayInterface ────────────────────── v2.14.13
+  Installed TimerOutputs ──────────────────────── v0.5.7
+  Installed InvertedIndices ───────────────────── v1.0.0
+  Installed UnPack ────────────────────────────── v1.0.2
+  Installed VersionParsing ────────────────────── v1.2.0
+  Installed OrderedCollections ────────────────── v1.3.2
+  Installed Juno ──────────────────────────────── v0.8.4
+  Installed Tables ────────────────────────────── v1.2.2
+  Installed IRTools ───────────────────────────── v0.4.2
+  Installed FillArrays ────────────────────────── v0.9.7
+  Installed Artifacts ─────────────────────────── v1.3.0
+  Installed AbstractFFTs ──────────────────────── v0.5.0
+  Installed StructTypes ───────────────────────── v1.2.1
+  Installed LoopVectorization ─────────────────── v0.9.18
+  Installed PGFPlotsX ─────────────────────────── v0.2.2
+  Installed JLLWrappers ───────────────────────── v1.2.0
+  Installed CEnum ─────────────────────────────── v0.4.1
+  Installed ArgCheck ──────────────────────────── v1.1.0
+  Installed GPUCompiler ───────────────────────── v0.8.3
+  Installed DataAPI ───────────────────────────── v1.4.0
+  Installed Zlib_jll ──────────────────────────── v1.2.11+18
+  Installed JLD2 ──────────────────────────────── v0.1.14
+  Installed DiffRules ─────────────────────────── v1.0.2
+  Installed Zygote ────────────────────────────── v0.5.14
+  Installed CUDA ──────────────────────────────── v2.4.0
+  Installed CompilerSupportLibraries_jll ──────── v0.3.4+0
+  Installed Adapt ─────────────────────────────── v2.4.0
+  Installed NNlib ─────────────────────────────── v0.7.11
+  Installed DataValueInterfaces ───────────────── v1.0.0
+  Installed Crayons ───────────────────────────── v4.0.4
+  Installed CategoricalArrays ─────────────────── v0.8.3
+  Installed Missings ──────────────────────────── v0.4.4
+  Installed AbstractTrees ─────────────────────── v0.3.3
+  Installed Scratch ───────────────────────────── v1.0.3
+  Installed DiffResults ───────────────────────── v1.0.3
+  Installed Hwloc_jll ─────────────────────────── v2.4.0+0
+  Installed NaNMath ───────────────────────────── v0.3.5
+  Installed SpecialFunctions ──────────────────── v0.10.3
+  Installed ChainRules ────────────────────────── v0.7.27
+  Installed LLVM ──────────────────────────────── v3.5.2
+  Installed ZipFile ───────────────────────────── v0.9.3
+  Installed MacroTools ────────────────────────── v0.5.6
+  Installed Parameters ────────────────────────── v0.12.1
+  Installed Flux ──────────────────────────────── v0.11.3
+  Installed ChainRulesCore ────────────────────── v0.9.25
+  Installed TableTraits ───────────────────────── v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [79e443b6] + ReinforcementLearningEnvironmentGym v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [621f4979] + AbstractFFTs v0.5.0
+  [1520ce14] + AbstractTrees v0.3.3
+  [79e6a3ab] + Adapt v2.4.0
+  [dce04be8] + ArgCheck v1.1.0
+  [4fba245c] + ArrayInterface v2.14.13
+  [4c555306] + ArrayLayouts v0.4.7
+  [56f22d72] + Artifacts v1.3.0
+  [ab4f0b2a] + BFloat16s v0.1.0
+  [fa961155] + CEnum v0.4.1
+  [052768ef] + CUDA v2.4.0
+  [324d7699] + CategoricalArrays v0.8.3
+  [082447d4] + ChainRules v0.7.27
+  [d360d2e6] + ChainRulesCore v0.9.25
+  [944b1d66] + CodecZlib v0.7.0
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [bbf7d656] + CommonSubexpressions v0.3.0
+  [34da2185] + Compat v2.2.1
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [8f4d0f93] + Conda v1.5.0
+  [a8cc5b0e] + Crayons v4.0.4
+  [9a962f9c] + DataAPI v1.4.0
+  [a93c6f00] + DataFrames v0.21.8
+  [864edb3b] + DataStructures v0.17.20
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [163ba53b] + DiffResults v1.0.3
+  [b552c78f] + DiffRules v1.0.2
+  [ffbed154] + DocStringExtensions v0.8.3
+  [e2ba6199] + ExprTools v0.1.3
+  [5789e2e9] + FileIO v1.4.5
+  [1a297f60] + FillArrays v0.9.7
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [587475ba] + Flux v0.11.3
+  [f6369f11] + ForwardDiff v0.10.14
+  [d9f16b24] + Functors v0.1.0
+  [0c68f7d7] + GPUArrays v6.2.0
+  [61eb1bfa] + GPUCompiler v0.8.3
+  [0e44f5e4] + Hwloc v1.2.0
+  [e33a78d0] + Hwloc_jll v2.4.0+0
+  [7869d1d1] + IRTools v0.4.2
+  [615f187c] + IfElse v0.1.0
+  [41ab1584] + InvertedIndices v1.0.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [033835bb] + JLD2 v0.1.14
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [e5e0dc1b] + Juno v0.8.4
+  [929cbde3] + LLVM v3.5.2
+  [bdcacae8] + LoopVectorization v0.9.18
+  [1914dd2f] + MacroTools v0.5.6
+  [e89f7d12] + Media v0.5.0
+  [e1d29d7a] + Missings v0.4.4
+  [872c559c] + NNlib v0.7.11
+  [77ba4419] + NaNMath v0.3.5
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [bac558e1] + OrderedCollections v1.3.2
+  [8314cec4] + PGFPlotsX v0.2.2
+  [d96e819e] + Parameters v0.12.1
+  [69de0a69] + Parsers v1.0.15
+  [2dfb63ee] + PooledArrays v0.5.3
+  [438e738f] + PyCall v1.92.2
+  [189a3867] + Reexport v0.2.0
+  [158674fc] + ReinforcementLearning v0.2.1
+  [79e443b6] + ReinforcementLearningEnvironmentGym v0.1.0
+  [ae029012] + Requires v0.5.2
+  [476501e8] + SLEEFPirates v0.6.6
+  [6c6a2e73] + Scratch v1.0.3
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [276daf66] + SpecialFunctions v0.10.3
+  [90137ffa] + StaticArrays v0.12.5
+  [2913bbd2] + StatsBase v0.33.2
+  [856f2bd8] + StructTypes v1.2.1
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v1.2.2
+  [a759f4b9] + TimerOutputs v0.5.7
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [3a884ed6] + UnPack v1.0.2
+  [3d5dd08c] + VectorizationBase v0.15.3
+  [81def892] + VersionParsing v1.2.0
+  [a5390f91] + ZipFile v0.9.3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [e88e6eb3] + Zygote v0.5.14
+  [700de1a5] + ZygoteRules v0.2.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [9fa8497b] + Future
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [9abbd945] + Profile
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Conda ──────────────────────────────→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall ─────────────────────────────→ `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building PGFPlotsX ──────────────────────────→ `~/.julia/packages/PGFPlotsX/V7bWm/deps/build.log`
+┌ Error: Error building `PGFPlotsX`: 
+│ ERROR: LoadError: UndefVarError: info not defined
+│ Stacktrace:
+│  [1] top-level scope at /root/.julia/packages/PGFPlotsX/V7bWm/deps/build.jl:5
+│  [2] include(::String) at ./client.jl:457
+│  [3] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/PGFPlotsX/V7bWm/deps/build.jl:4
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+   Building ReinforcementLearningEnvironmentGym → `~/.julia/packages/ReinforcementLearningEnvironmentGym/eHtUm/deps/build.log`
+┌ Warning: `@get!(dict, key, default)` at /root/.julia/packages/Requires/9Jse8/src/require.jl:11 is deprecated, use `get!(()->default, dict, key)` instead.
+└ @ Base deprecated.jl:204
+ERROR: LoadError: LoadError: LoadError: UndefVarError: functorm not defined
+Stacktrace:
+ [1] @treelike(::LineNumberNode, ::Module, ::Vararg{Any,N} where N) at /root/.julia/packages/Flux/sY3yx/src/functor.jl:58
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include at ./Base.jl:368 [inlined]
+ [4] include(::String) at /root/.julia/packages/ReinforcementLearning/1zlYZ/src/ReinforcementLearning.jl:2
+ [5] top-level scope at /root/.julia/packages/ReinforcementLearning/1zlYZ/src/ReinforcementLearning.jl:49
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/ReinforcementLearning/1zlYZ/src/flux.jl:15
+in expression starting at /root/.julia/packages/ReinforcementLearning/1zlYZ/src/flux.jl:12
+in expression starting at /root/.julia/packages/ReinforcementLearning/1zlYZ/src/ReinforcementLearning.jl:49
+ERROR: LoadError: Failed to precompile ReinforcementLearning [158674fc-8238-5cab-b5ba-03dfc80d1318] to /root/.julia/compiled/v1.5/ReinforcementLearning/6l2TO_nrrZo.ji.
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] compilecache(::Base.PkgId, ::String) at ./loading.jl:1305
+ [3] _require(::Base.PkgId) at ./loading.jl:1030
+ [4] require(::Base.PkgId) at ./loading.jl:928
+ [5] require(::Module, ::Symbol) at ./loading.jl:923
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/ReinforcementLearningEnvironmentGym/eHtUm/src/ReinforcementLearningEnvironmentGym.jl:3
+[ Info: Could not load package, exiting.

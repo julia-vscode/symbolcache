@@ -9,11 +9,11 @@
   Installed ArraysOfArrays ────────────── v0.5.0
   Installed Tables ────────────────────── v1.2.2
   Installed Requires ──────────────────── v1.1.2
-  Installed Adapt ─────────────────────── v2.4.0
-  Installed DataValueInterfaces ───────── v1.0.0
   Installed BitOperations ─────────────── v0.2.0
   Installed UnsafeArrays ──────────────── v1.0.1
+  Installed Adapt ─────────────────────── v2.4.0
   Installed FillArrays ────────────────── v0.9.7
+  Installed DataValueInterfaces ───────── v1.0.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [97725368] + EncodedArrays v0.2.2
 Updating `~/.julia/environments/v1.5/Manifest.toml`

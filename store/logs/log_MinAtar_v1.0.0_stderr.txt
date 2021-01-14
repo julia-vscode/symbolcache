@@ -1,0 +1,68 @@
+[ Info: Indexing package MinAtar 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed VersionParsing ──── v1.2.0
+  Installed Reexport ────────── v0.2.0
+  Installed RecipesBase ─────── v0.8.0
+  Installed MinAtar ─────────── v1.0.0
+  Installed Parsers ─────────── v1.0.15
+  Installed Conda ───────────── v1.5.0
+  Installed PyCall ──────────── v1.92.2
+  Installed JSON ────────────── v0.21.1
+  Installed FixedPointNumbers ─ v0.7.1
+  Installed MacroTools ──────── v0.5.6
+  Installed ColorTypes ──────── v0.9.1
+  Installed Colors ──────────── v0.11.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a0b457aa] + MinAtar v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [3da002f7] + ColorTypes v0.9.1
+  [5ae59095] + Colors v0.11.2
+  [8f4d0f93] + Conda v1.5.0
+  [53c48c17] + FixedPointNumbers v0.7.1
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [a0b457aa] + MinAtar v1.0.0
+  [69de0a69] + Parsers v1.0.15
+  [438e738f] + PyCall v1.92.2
+  [3cdcf5f2] + RecipesBase v0.8.0
+  [189a3867] + Reexport v0.2.0
+  [81def892] + VersionParsing v1.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Conda ──→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall ─→ `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building MinAtar → `~/.julia/packages/MinAtar/Qd2al/deps/build.log`
+┌ Error: Error building `MinAtar`: 
+│ Collecting git+https://github.com/kenjyoung/MinAtar.git
+│   Cloning https://github.com/kenjyoung/MinAtar.git to /tmp/pip-req-build-984if3ey
+│   ERROR: Error [Errno 2] No such file or directory: 'git' while executing command git clone -q https://github.com/kenjyoung/MinAtar.git /tmp/pip-req-build-984if3ey
+│ ERROR: Cannot find command 'git' - do you have 'git' installed and in your PATH?
+│ ERROR: LoadError: failed process: Process(`/root/.julia/conda/3/bin/python -m pip install --progress-bar off git+https://github.com/kenjyoung/MinAtar.git`, ProcessExited(1)) [1]
+│ 
+│ Stacktrace:
+│  [1] pipeline_error at ./process.jl:525 [inlined]
+│  [2] run(::Cmd; wait::Bool) at ./process.jl:440
+│  [3] run(::Cmd) at ./process.jl:438
+│  [4] top-level scope at /root/.julia/packages/MinAtar/Qd2al/deps/build.jl:15
+│  [5] include(::String) at ./client.jl:457
+│  [6] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/MinAtar/Qd2al/deps/build.jl:7
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+[ Info: Finished indexing.

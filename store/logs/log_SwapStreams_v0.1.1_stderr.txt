@@ -1,0 +1,11 @@
+[ Info: Indexing package SwapStreams 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed MappedArrays ─ v0.2.2
+  Installed SwapStreams ── v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [0b152c4a] + SwapStreams v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [dbb5928d] + MappedArrays v0.2.2
+  [0b152c4a] + SwapStreams v0.1.1
+[ Info: Finished indexing.

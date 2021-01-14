@@ -1,0 +1,12 @@
+[ Info: Indexing package VSL 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#############                                                             18.8%###################################                                       49.6%############################################################              84.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed VSL ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [04294c92] + VSL v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [04294c92] + VSL v0.2.0
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

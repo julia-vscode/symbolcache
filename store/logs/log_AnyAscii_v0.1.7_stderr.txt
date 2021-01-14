@@ -1,0 +1,9 @@
+[ Info: Indexing package AnyAscii 0.1.7...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed AnyAscii ─ v0.1.7
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a6021bc5] + AnyAscii v0.1.7
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a6021bc5] + AnyAscii v0.1.7
+[ Info: Finished indexing.

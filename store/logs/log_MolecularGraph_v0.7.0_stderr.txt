@@ -3,21 +3,21 @@
   Resolving package versions...
   Installed PropertyDicts ─────── v0.1.0
   Installed libinchi_jll ──────── v1.5.0+0
-  Installed DataAPI ───────────── v1.4.0
   Installed YAML ──────────────── v0.4.5
+  Installed DataAPI ───────────── v1.4.0
   Installed Parsers ───────────── v1.0.15
   Installed OrderedCollections ── v1.3.2
   Installed Requires ──────────── v1.1.2
   Installed MolecularGraph ────── v0.7.0
+  Installed IOCapture ─────────── v0.1.1
   Installed coordgenlibs_jll ──── v1.4.0+0
   Installed Nullables ─────────── v1.0.0
   Installed Unmarshal ─────────── v0.4.2
-  Installed IOCapture ─────────── v0.1.1
-  Installed LazyJSON ──────────── v0.2.2
-  Installed DocStringExtensions ─ v0.8.3
   Installed JSON ──────────────── v0.21.1
-  Installed Documenter ────────── v0.25.5
+  Installed DocStringExtensions ─ v0.8.3
   Installed Missings ──────────── v0.4.4
+  Installed Documenter ────────── v0.25.5
+  Installed LazyJSON ──────────── v0.2.2
 Updating `~/.julia/environments/v1.5/Project.toml`
   [6c89ec66] + MolecularGraph v0.7.0
 Updating `~/.julia/environments/v1.5/Manifest.toml`
@@ -60,8 +60,8 @@ Updating `~/.julia/environments/v1.5/Manifest.toml`
   [8dfed614] + Test
   [cf7118a7] + UUIDs
   [4ec0a83e] + Unicode
-WARNING: both Util and Base export "VERSION"; uses of it in module Geometry must be qualified
 WARNING: both Util and Base export "VERSION"; uses of it in module Graph must be qualified
+WARNING: both Util and Base export "VERSION"; uses of it in module Geometry must be qualified
 WARNING: both Geometry and Graph export "distance"; uses of it in module MolecularGraph must be qualified
 WARNING: both Util and Base export "VERSION"; uses of it in module MolecularGraph must be qualified
 [ Info: Finished indexing.

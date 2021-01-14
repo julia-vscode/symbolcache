@@ -1,0 +1,11 @@
+[ Info: Indexing package SimpleQuaternions 0.0.2...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed SimpleQuaternions ─ v0.0.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [3a9c7681] + SimpleQuaternions v0.0.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [3a9c7681] + SimpleQuaternions v0.0.2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

@@ -1,0 +1,50 @@
+[ Info: Indexing package VerTeX 0.0.2...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Requires ────── v0.5.2
+  Installed TerminalMenus ─ v0.1.0
+  Installed Compat ──────── v2.2.1
+  Installed VerTeX ──────── v0.0.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [cc48e778] + VerTeX v0.0.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [34da2185] + Compat v2.2.1
+  [ae029012] + Requires v0.5.2
+  [dc548174] + TerminalMenus v0.1.0
+  [cc48e778] + VerTeX v0.0.2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+┌ Warning: `@get!(dict, key, default)` at /root/.julia/packages/Requires/9Jse8/src/require.jl:11 is deprecated, use `get!(()->default, dict, key)` instead.
+└ @ Base deprecated.jl:204
+ERROR: LoadError: UndefVarError: Pkg2 not defined
+Stacktrace:
+ [1] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [2] include(::Module, ::String) at ./Base.jl:368
+ [3] top-level scope at none:2
+ [4] eval at ./boot.jl:331 [inlined]
+ [5] eval(::Expr) at ./client.jl:467
+ [6] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/VerTeX/pUclC/src/VerTeX.jl:11
+[ Info: Could not load package, exiting.

@@ -2,10 +2,10 @@
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
   Installed Artifacts ───────────────────── v1.3.0
-  Installed libigc_jll ──────────────────── v1.0.5699+0
   Installed oneAPI_Level_Zero_jll ───────── v0.91.10+2
   Installed NEO_jll ─────────────────────── v20.48.18558+0
   Installed gmmlib_jll ──────────────────── v20.3.2+0
+  Installed libigc_jll ──────────────────── v1.0.5699+0
   Installed oneAPI_Level_Zero_Headers_jll ─ v1.0.4+1
   Installed JLLWrappers ─────────────────── v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`

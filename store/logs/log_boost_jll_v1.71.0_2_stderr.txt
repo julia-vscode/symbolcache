@@ -1,8 +1,8 @@
 [ Info: Indexing package boost_jll 1.71.0+2...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed boost_jll ─── v1.71.0+3
   Installed Artifacts ─── v1.3.0
+  Installed boost_jll ─── v1.71.0+3
   Installed JLLWrappers ─ v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [28df3c45] + boost_jll v1.71.0+3

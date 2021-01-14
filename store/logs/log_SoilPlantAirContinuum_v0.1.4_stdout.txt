@@ -1,0 +1,2 @@
+Downloading artifact: land_model_spectrum
+[?25l[1A[2K[?25h

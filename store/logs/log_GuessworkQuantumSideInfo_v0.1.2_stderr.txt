@@ -11,18 +11,18 @@
   Installed Convex ─────────────────── v0.13.8
   Installed UnPack ─────────────────── v1.0.2
   Installed Artifacts ──────────────── v1.3.0
+  Installed BenchmarkTools ─────────── v0.5.0
   Installed Zlib_jll ───────────────── v1.2.11+18
   Installed Combinatorics ──────────── v1.0.2
-  Installed BenchmarkTools ─────────── v0.5.0
   Installed MbedTLS ────────────────── v1.0.3
+  Installed JLLWrappers ────────────── v1.2.0
   Installed MbedTLS_jll ────────────── v2.16.8+1
   Installed IniFile ────────────────── v0.5.0
   Installed AbstractTrees ──────────── v0.3.3
-  Installed JLLWrappers ────────────── v1.2.0
   Installed MathOptInterface ───────── v0.9.19
-  Installed ZipFile ────────────────── v0.9.3
-  Installed JSONSchema ─────────────── v0.3.3
   Installed Bzip2_jll ──────────────── v1.0.6+5
+  Installed JSONSchema ─────────────── v0.3.3
+  Installed ZipFile ────────────────── v0.9.3
   Installed CodecBzip2 ─────────────── v0.7.2
   Installed URIs ───────────────────── v1.2.0
   Installed HTTP ───────────────────── v0.9.2

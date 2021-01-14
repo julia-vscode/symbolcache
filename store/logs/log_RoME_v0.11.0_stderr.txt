@@ -1,0 +1,265 @@
+[ Info: Indexing package RoME 0.11.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed CodecZlib ──────────────────── v0.7.0
+  Installed IteratorInterfaceExtensions ── v1.0.0
+  Installed TensorCast ─────────────────── v0.3.2
+  Installed KernelDensityEstimate ──────── v0.5.4
+  Installed Requires ───────────────────── v1.1.2
+  Installed SLEEFPirates ───────────────── v0.5.5
+  Installed RoME ───────────────────────── v0.11.0
+  Installed LightGraphs ────────────────── v1.3.4
+  Installed SortingAlgorithms ──────────── v0.3.1
+  Installed Libiconv_jll ───────────────── v1.16.0+7
+  Installed Rmath_jll ──────────────────── v0.2.2+1
+  Installed CpuId ──────────────────────── v0.2.2
+  Installed NLSolversBase ──────────────── v7.7.1
+  Installed StatsFuns ──────────────────── v0.9.6
+  Installed CommonSubexpressions ───────── v0.3.0
+  Installed DataStructures ─────────────── v0.18.8
+  Installed FiniteDiff ─────────────────── v2.7.2
+  Installed OffsetArrays ───────────────── v1.5.0
+  Installed Reexport ───────────────────── v0.2.0
+  Installed Compat ─────────────────────── v3.25.0
+  Installed JSON ───────────────────────── v0.21.1
+  Installed FixedPointNumbers ──────────── v0.8.4
+  Installed FileIO ─────────────────────── v1.4.5
+  Installed DataFrames ─────────────────── v0.21.8
+  Installed Colors ─────────────────────── v0.12.6
+  Installed ColorTypes ─────────────────── v0.10.9
+  Installed TranscodingStreams ─────────── v0.9.5
+  Installed Neo4j ──────────────────────── v2.0.0
+  Installed ExprTools ──────────────────── v0.1.3
+  Installed DocStringExtensions ────────── v0.8.3
+  Installed LazyStack ──────────────────── v0.0.7
+  Installed Inflate ────────────────────── v0.1.2
+  Installed PDMats ─────────────────────── v0.10.1
+  Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed PooledArrays ───────────────── v0.5.3
+  Installed ZygoteRules ────────────────── v0.2.1
+  Installed LazyJSON ───────────────────── v0.2.2
+  Installed Parsers ────────────────────── v1.0.15
+  Installed StaticArrays ───────────────── v0.12.5
+  Installed StatsBase ──────────────────── v0.33.2
+  Installed VectorizationBase ──────────── v0.12.33
+  Installed Distributions ──────────────── v0.24.10
+  Installed ForwardDiff ────────────────── v0.10.14
+  Installed ArrayInterface ─────────────── v2.14.13
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed PositiveFactorizations ─────── v0.2.4
+  Installed InvertedIndices ────────────── v1.0.0
+  Installed Tables ─────────────────────── v1.2.2
+  Installed LineSearches ───────────────── v7.1.1
+  Installed UnPack ─────────────────────── v1.0.2
+  Installed Unmarshal ──────────────────── v0.4.2
+  Installed FillArrays ─────────────────── v0.10.2
+  Installed DistributedFactorGraphs ────── v0.11.2
+  Installed QuadGK ─────────────────────── v2.4.1
+  Installed SimpleTraits ───────────────── v0.9.3
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed Nullables ──────────────────── v1.0.0
+  Installed MbedTLS ────────────────────── v1.0.3
+  Installed Rmath ──────────────────────── v0.6.1
+  Installed StructTypes ────────────────── v1.2.1
+  Installed SIMDPirates ────────────────── v0.8.26
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed RecipesBase ────────────────── v1.1.1
+  Installed JSON2 ──────────────────────── v0.3.2
+  Installed Combinatorics ──────────────── v1.0.2
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed CoordinateTransformations ──── v0.6.1
+  Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed Rotations ──────────────────── v1.0.2
+  Installed JLD2 ───────────────────────── v0.2.4
+  Installed Graphs ─────────────────────── v0.10.3
+  Installed FunctionalStateMachine ─────── v0.2.9
+  Installed DiffRules ──────────────────── v1.0.2
+  Installed MetaGraphs ─────────────────── v0.6.6
+  Installed ApproxManifoldProducts ─────── v0.1.4
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed Adapt ──────────────────────── v2.4.0
+  Installed XML2_jll ───────────────────── v2.9.10+3
+  Installed NamedDims ──────────────────── v0.2.29
+  Installed NLsolve ────────────────────── v4.5.1
+  Installed DataValueInterfaces ────────── v1.0.0
+  Installed Distances ──────────────────── v0.10.0
+  Installed MbedTLS_jll ────────────────── v2.16.8+1
+  Installed Missings ───────────────────── v0.4.4
+  Installed ProgressMeter ──────────────── v1.4.1
+  Installed CategoricalArrays ──────────── v0.8.3
+  Installed Mocking ────────────────────── v0.7.1
+  Installed DiffResults ────────────────── v1.0.3
+  Installed SpecialFunctions ───────────── v1.2.1
+  Installed PropertyDicts ──────────────── v0.1.0
+  Installed TableTraits ────────────────── v1.0.0
+  Installed IniFile ────────────────────── v0.5.0
+  Installed NaNMath ────────────────────── v0.3.5
+  Installed TransformUtils ─────────────── v0.2.6
+  Installed BSON ───────────────────────── v0.2.6
+  Installed ArnoldiMethod ──────────────── v0.0.4
+  Installed ChainRulesCore ─────────────── v0.9.25
+  Installed TimeZones ──────────────────── v1.5.3
+  Installed Parameters ─────────────────── v0.12.1
+  Installed MacroTools ─────────────────── v0.5.6
+  Installed HTTP ───────────────────────── v0.8.19
+  Installed EzXML ──────────────────────── v1.1.0
+  Installed Optim ──────────────────────── v1.2.2
+  Installed IncrementalInference ───────── v0.18.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [91fb55c2] + RoME v0.11.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [79e6a3ab] + Adapt v2.4.0
+  [9bbbb610] + ApproxManifoldProducts v0.1.4
+  [ec485272] + ArnoldiMethod v0.0.4
+  [4fba245c] + ArrayInterface v2.14.13
+  [56f22d72] + Artifacts v1.3.0
+  [fbb218c0] + BSON v0.2.6
+  [324d7699] + CategoricalArrays v0.8.3
+  [d360d2e6] + ChainRulesCore v0.9.25
+  [944b1d66] + CodecZlib v0.7.0
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [861a8166] + Combinatorics v1.0.2
+  [bbf7d656] + CommonSubexpressions v0.3.0
+  [34da2185] + Compat v3.25.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [150eb455] + CoordinateTransformations v0.6.1
+  [adafc99b] + CpuId v0.2.2
+  [9a962f9c] + DataAPI v1.4.0
+  [a93c6f00] + DataFrames v0.21.8
+  [864edb3b] + DataStructures v0.18.8
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [163ba53b] + DiffResults v1.0.3
+  [b552c78f] + DiffRules v1.0.2
+  [b4f34e82] + Distances v0.10.0
+  [b5cc3c7e] + DistributedFactorGraphs v0.11.2
+  [31c24e10] + Distributions v0.24.10
+  [ffbed154] + DocStringExtensions v0.8.3
+  [e2ba6199] + ExprTools v0.1.3
+  [8f5d6c58] + EzXML v1.1.0
+  [5789e2e9] + FileIO v1.4.5
+  [1a297f60] + FillArrays v0.10.2
+  [6a86dc24] + FiniteDiff v2.7.2
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [f6369f11] + ForwardDiff v0.10.14
+  [3e9e306e] + FunctionalStateMachine v0.2.9
+  [86223c79] + Graphs v0.10.3
+  [cd3eb016] + HTTP v0.8.19
+  [904591bb] + IncrementalInference v0.18.2
+  [d25df0c9] + Inflate v0.1.2
+  [83e8ac13] + IniFile v0.5.0
+  [41ab1584] + InvertedIndices v1.0.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [033835bb] + JLD2 v0.2.4
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [2535ab7d] + JSON2 v0.3.2
+  [2472808a] + KernelDensityEstimate v0.5.4
+  [fc18253b] + LazyJSON v0.2.2
+  [1fad7336] + LazyStack v0.0.7
+  [94ce4f54] + Libiconv_jll v1.16.0+7
+  [093fc24a] + LightGraphs v1.3.4
+  [d3d80556] + LineSearches v7.1.1
+  [1914dd2f] + MacroTools v0.5.6
+  [739be429] + MbedTLS v1.0.3
+  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
+  [626554b9] + MetaGraphs v0.6.6
+  [e1d29d7a] + Missings v0.4.4
+  [78c3b35d] + Mocking v0.7.1
+  [d41bc354] + NLSolversBase v7.7.1
+  [2774e3e8] + NLsolve v4.5.1
+  [77ba4419] + NaNMath v0.3.5
+  [356022a1] + NamedDims v0.2.29
+  [d2adbeaf] + Neo4j v2.0.0
+  [4d1e1d77] + Nullables v1.0.0
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [429524aa] + Optim v1.2.2
+  [bac558e1] + OrderedCollections v1.3.2
+  [90014a1f] + PDMats v0.10.1
+  [d96e819e] + Parameters v0.12.1
+  [69de0a69] + Parsers v1.0.15
+  [2dfb63ee] + PooledArrays v0.5.3
+  [85a6dd25] + PositiveFactorizations v0.2.4
+  [92933f4c] + ProgressMeter v1.4.1
+  [f8a19df8] + PropertyDicts v0.1.0
+  [1fd47b50] + QuadGK v2.4.1
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [189a3867] + Reexport v0.2.0
+  [ae029012] + Requires v1.1.2
+  [79098fc4] + Rmath v0.6.1
+  [f50d1b31] + Rmath_jll v0.2.2+1
+  [91fb55c2] + RoME v0.11.0
+  [6038ab10] + Rotations v1.0.2
+  [21efa798] + SIMDPirates v0.8.26
+  [476501e8] + SLEEFPirates v0.5.5
+  [699a6c99] + SimpleTraits v0.9.3
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [276daf66] + SpecialFunctions v1.2.1
+  [90137ffa] + StaticArrays v0.12.5
+  [2913bbd2] + StatsBase v0.33.2
+  [4c63d2b9] + StatsFuns v0.9.6
+  [856f2bd8] + StructTypes v1.2.1
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v1.2.2
+  [02d47bb6] + TensorCast v0.3.2
+  [f269a46b] + TimeZones v1.5.3
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [9b8138ad] + TransformUtils v0.2.6
+  [3a884ed6] + UnPack v1.0.2
+  [cbff2730] + Unmarshal v0.4.2
+  [3d5dd08c] + VectorizationBase v0.12.33
+  [02c8fc9c] + XML2_jll v2.9.10+3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [700de1a5] + ZygoteRules v0.2.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [9fa8497b] + Future
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [4607b0f0] + SuiteSparse
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building SLEEFPirates → `~/.julia/packages/SLEEFPirates/jGsib/deps/build.log`
+   Building TimeZones ───→ `~/.julia/packages/TimeZones/K98G0/deps/build.log`
+[ Info: Multithreaded  convolutions possible, Threads.nthreads()=1.  See `addFactor!(.;threadmodel=MultiThreaded)`.
+[ Info: KernelDensityEstimate.FORCE_EVAL_DIRECT = true
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactor, use AbstractRelativeRoots instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:317
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactorMinimize, use AbstractRelativeMinimize instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:318
+[ Info: KernelDensityEstimate.FORCE_EVAL_DIRECT = true
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactor, use AbstractRelativeRoots instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:317
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactorMinimize, use AbstractRelativeMinimize instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:318
+WARNING: ignoring conflicting import of DistributedFactorGraphs.compare into RoME
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactor, use AbstractRelativeRoots instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:317
+┌ Warning: BREAKING CHANGE coming to DistributedFactorGraphs v0.12: deprecating AbstractRelativeFactorMinimize, use AbstractRelativeMinimize instead
+└ @ DistributedFactorGraphs ~/.julia/packages/DistributedFactorGraphs/G7abn/src/DistributedFactorGraphs.jl:318
+[ Info: Including InteractiveUtils related functions in IncrementalInference.
+WARNING: both Optim and ApproxManifoldProducts export "Manifold"; uses of it in module IncrementalInference must be qualified
+WARNING: both LinearAlgebra and ApproxManifoldProducts export "rotate!"; uses of it in module IncrementalInference must be qualified
+WARNING: both Rotations and ApproxManifoldProducts export "AngleAxis"; uses of it in module RoME must be qualified
+WARNING: both ApproxManifoldProducts and IncrementalInference export "Manifold"; uses of it in module RoME must be qualified
+WARNING: both LinearAlgebra and ApproxManifoldProducts export "rotate!"; uses of it in module RoME must be qualified
+[ Info: Finished indexing.

@@ -7,8 +7,8 @@
   Installed TableTraits ───────────────── v1.0.0
   Installed RegistryCLI ───────────────── v0.1.0
   Installed Tables ────────────────────── v1.2.2
-  Installed Mustache ──────────────────── v1.0.10
   Installed TextWrap ──────────────────── v1.0.1
+  Installed Mustache ──────────────────── v1.0.10
   Installed AutoHashEquals ────────────── v0.2.0
   Installed RegistryTools ─────────────── v1.5.3
   Installed LocalRegistry ─────────────── v0.3.2

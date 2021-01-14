@@ -1,27 +1,27 @@
 [ Info: Indexing package Xorg_libXft_jll 2.3.3+0...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed Xorg_libXdmcp_jll ───────── v1.1.3+4
-  Installed Xorg_libXft_jll ─────────── v2.3.3+1
   Installed Libuuid_jll ─────────────── v2.34.0+7
   Installed FreeType2_jll ───────────── v2.10.1+5
   Installed Xorg_libXrender_jll ─────── v0.9.10+4
+  Installed Xorg_libXft_jll ─────────── v2.3.3+1
+  Installed Xorg_libXdmcp_jll ───────── v1.1.3+4
   Installed Xorg_libpthread_stubs_jll ─ v0.1.0+3
   Installed Xorg_libX11_jll ─────────── v1.6.9+4
   Installed Zlib_jll ────────────────── v1.2.11+18
-  Installed Libiconv_jll ────────────── v1.16.0+7
-  Installed Fontconfig_jll ──────────── v2.13.1+14
-  Installed Xorg_libxcb_jll ─────────── v1.13.0+3
-  Installed XML2_jll ────────────────── v2.9.10+3
   Installed XSLT_jll ────────────────── v1.1.33+4
-  Installed Bzip2_jll ───────────────── v1.0.6+5
+  Installed XML2_jll ────────────────── v2.9.10+3
   Installed Xorg_xtrans_jll ─────────── v1.4.0+3
   Installed Libgcrypt_jll ───────────── v1.8.5+4
-  Installed Expat_jll ───────────────── v2.2.7+6
-  Installed Xorg_libXau_jll ─────────── v1.0.9+4
-  Installed JLLWrappers ─────────────── v1.2.0
+  Installed Fontconfig_jll ──────────── v2.13.1+14
+  Installed Libiconv_jll ────────────── v1.16.0+7
+  Installed Xorg_libxcb_jll ─────────── v1.13.0+3
+  Installed Bzip2_jll ───────────────── v1.0.6+5
   Installed Artifacts ───────────────── v1.3.0
+  Installed Xorg_libXau_jll ─────────── v1.0.9+4
+  Installed Expat_jll ───────────────── v2.2.7+6
   Installed Libgpg_error_jll ────────── v1.36.0+3
+  Installed JLLWrappers ─────────────── v1.2.0
 Updating `~/.julia/environments/v1.5/Project.toml`
   [2c808117] + Xorg_libXft_jll v2.3.3+1
 Updating `~/.julia/environments/v1.5/Manifest.toml`

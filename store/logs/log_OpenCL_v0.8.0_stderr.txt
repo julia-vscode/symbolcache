@@ -1,0 +1,37 @@
+[ Info: Indexing package OpenCL 0.8.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed OpenCL ─ v0.8.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [08131aa3] + OpenCL v0.8.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [08131aa3] + OpenCL v0.8.0
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [4ec0a83e] + Unicode
+ERROR: LoadError: LoadError: AssertionError: libopencl != ""
+Stacktrace:
+ [1] top-level scope at /root/.julia/packages/OpenCL/vsBez/src/api.jl:10
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include at ./Base.jl:368 [inlined]
+ [4] include(::String) at /root/.julia/packages/OpenCL/vsBez/src/OpenCL.jl:4
+ [5] top-level scope at /root/.julia/packages/OpenCL/vsBez/src/OpenCL.jl:25
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/OpenCL/vsBez/src/api.jl:10
+in expression starting at /root/.julia/packages/OpenCL/vsBez/src/OpenCL.jl:25
+[ Info: Could not load package, exiting.

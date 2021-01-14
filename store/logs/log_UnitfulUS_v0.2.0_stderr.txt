@@ -1,0 +1,18 @@
+[ Info: Indexing package UnitfulUS 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              16.9%##################################                                        48.3%############################################################              84.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ConstructionBase ─ v1.0.0
+  Installed Unitful ────────── v1.5.0
+  Installed UnitfulUS ──────── v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [7dc9378f] + UnitfulUS v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [187b0558] + ConstructionBase v1.0.0
+  [1986cc42] + Unitful v1.5.0
+  [7dc9378f] + UnitfulUS v0.2.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

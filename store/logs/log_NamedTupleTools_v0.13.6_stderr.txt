@@ -1,0 +1,9 @@
+[ Info: Indexing package NamedTupleTools 0.13.6...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed NamedTupleTools ─ v0.13.6
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d9ec5142] + NamedTupleTools v0.13.6
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [d9ec5142] + NamedTupleTools v0.13.6
+[ Info: Finished indexing.

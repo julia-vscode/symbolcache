@@ -1,0 +1,87 @@
+[ Info: Indexing package Checkpoints 0.3.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##                                                                         3.1%####                                                                       6.9%#########                                                                 12.5%############                                                              17.6%################                                                          23.2%######################                                                    31.4%##########################                                                37.0%################################                                          44.5%#####################################                                     52.1%##########################################                                59.6%###############################################                           66.5%#####################################################                     74.7%###########################################################               82.2%##################################################################        92.2%#######################################################################   99.8%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Libiconv_jll ─────── v1.16.0+7
+  Installed CodecZlib ────────── v0.7.0
+  Installed Compat ───────────── v3.25.0
+  Installed FilePathsBase ────── v0.7.0
+  Installed TranscodingStreams ─ v0.9.5
+  Installed DataStructures ───── v0.18.8
+  Installed JSON ─────────────── v0.21.1
+  Installed ExprTools ────────── v0.1.3
+  Installed JLSO ─────────────── v2.4.0
+  Installed Retry ────────────── v0.4.1
+  Installed OrderedCollections ─ v1.3.2
+  Installed Parsers ──────────── v1.0.15
+  Installed MbedTLS ──────────── v1.0.3
+  Installed JLLWrappers ──────── v1.2.0
+  Installed Artifacts ────────── v1.3.0
+  Installed Zlib_jll ─────────── v1.2.11+18
+  Installed XML2_jll ─────────── v2.9.10+3
+  Installed AWSS3 ────────────── v0.6.12
+  Installed XMLDict ──────────── v0.4.1
+  Installed RecipesBase ──────── v1.1.1
+  Installed Syslogs ──────────── v0.3.0
+  Installed LazyJSON ─────────── v0.2.2
+  Installed MbedTLS_jll ──────── v2.16.8+1
+  Installed PropertyDicts ────── v0.1.0
+  Installed Mocking ──────────── v0.7.1
+  Installed SymDict ──────────── v0.3.0
+  Installed Memento ──────────── v1.1.2
+  Installed IniFile ──────────── v0.5.0
+  Installed IterTools ────────── v1.3.0
+  Installed AWSCore ──────────── v0.6.17
+  Installed EzXML ────────────── v1.1.0
+  Installed TimeZones ────────── v1.5.3
+  Installed BSON ─────────────── v0.2.6
+  Installed HTTP ─────────────── v0.8.19
+    Cloning [b4a3413d-e481-5afc-88ff-bdfbd6a50dce] Checkpoints from https://gitlab.invenia.ca/invenia/Checkpoints.jl.git
+ERROR: LoadError: failed to clone from https://gitlab.invenia.ca/invenia/Checkpoints.jl.git, error: GitError(Code:EUSER, Class:Callback, Aborting, user cancelled credential request.)
+Stacktrace:
+ [1] pkgerror(::String) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Types.jl:52
+ [2] clone(::Pkg.Types.Context, ::String, ::String; header::String, credentials::Nothing, kwargs::Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:isbare,),Tuple{Bool}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/GitTools.jl:153
+ [3] #ensure_clone#3 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/GitTools.jl:112 [inlined]
+ [4] install_git(::Pkg.Types.Context, ::Base.UUID, ::String, ::Base.SHA1, ::Array{String,1}, ::VersionNumber, ::String) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:609
+ [5] download_source(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Dict{Base.UUID,Array{String,1}}; readonly::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:768
+ [6] #download_source#54 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:687 [inlined]
+ [7] download_source at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:685 [inlined]
+ [8] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Array{Base.UUID,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1137
+ [9] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:188
+ [10] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:139
+ [11] #add#21 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [12] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [13] #add#19 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [14] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [15] add(; name::String, uuid::Nothing, version::VersionNumber, url::Nothing, rev::Nothing, path::Nothing, mode::Pkg.Types.PackageMode, subdir::Nothing, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:82
+ [16] top-level scope at /SymbolServer/src/indexpackage.jl:26
+ [17] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [18] include(::Module, ::String) at ./Base.jl:368
+ [19] exec_options(::Base.JLOptions) at ./client.jl:296
+ [20] _start() at ./client.jl:506
+in expression starting at /SymbolServer/src/indexpackage.jl:26
+caused by [exception 1]
+GitError(Code:EUSER, Class:Callback, Aborting, user cancelled credential request.)
+Stacktrace:
+ [1] macro expansion at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/LibGit2/src/error.jl:106 [inlined]
+ [2] clone(::SubString{String}, ::String, ::LibGit2.CloneOptions) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/LibGit2/src/repository.jl:459
+ [3] clone(::SubString{String}, ::String; branch::String, isbare::Bool, remote_cb::Ptr{Nothing}, credentials::LibGit2.CachedCredentials, callbacks::Dict{Symbol,Tuple{Ptr{Nothing},Any}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/LibGit2/src/LibGit2.jl:580
+ [4] clone(::Pkg.Types.Context, ::String, ::String; header::String, credentials::Nothing, kwargs::Base.Iterators.Pairs{Symbol,Bool,Tuple{Symbol},NamedTuple{(:isbare,),Tuple{Bool}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/GitTools.jl:143
+ [5] #ensure_clone#3 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/GitTools.jl:112 [inlined]
+ [6] install_git(::Pkg.Types.Context, ::Base.UUID, ::String, ::Base.SHA1, ::Array{String,1}, ::VersionNumber, ::String) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:609
+ [7] download_source(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Dict{Base.UUID,Array{String,1}}; readonly::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:768
+ [8] #download_source#54 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:687 [inlined]
+ [9] download_source at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:685 [inlined]
+ [10] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Array{Base.UUID,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1137
+ [11] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:188
+ [12] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:139
+ [13] #add#21 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [14] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [15] #add#19 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [16] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [17] add(; name::String, uuid::Nothing, version::VersionNumber, url::Nothing, rev::Nothing, path::Nothing, mode::Pkg.Types.PackageMode, subdir::Nothing, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:82
+ [18] top-level scope at /SymbolServer/src/indexpackage.jl:26
+ [19] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [20] include(::Module, ::String) at ./Base.jl:368
+ [21] exec_options(::Base.JLOptions) at ./client.jl:296
+ [22] _start() at ./client.jl:506

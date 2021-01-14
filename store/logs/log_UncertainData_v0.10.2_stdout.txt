@@ -1,0 +1,8 @@
+
+Update message: UncertainData v0.8.0
+----------------
+New features
+----------------
+
+- Added binned resampling methods that uses `BinnedResampling` and 
+    `BinnedMeanResampling` schemes.

@@ -38,11 +38,11 @@ The following packages will be SUPERSEDED by a higher-priority channel:
 
 
 Downloading and Extracting Packages
-ca-certificates-2020 | 137 KB    |            |   0% ca-certificates-2020 | 137 KB    | #1         |  12% ca-certificates-2020 | 137 KB    | ########## | 100% ca-certificates-2020 | 137 KB    | ########## | 100% 
+certifi-2020.12.5    | 143 KB    |            |   0% certifi-2020.12.5    | 143 KB    | #1         |  11% certifi-2020.12.5    | 143 KB    | ########## | 100% 
+conda-4.9.2          | 3.0 MB    |            |   0% conda-4.9.2          | 3.0 MB    | 9          |  10% conda-4.9.2          | 3.0 MB    | ##9        |  29% conda-4.9.2          | 3.0 MB    | ####7      |  47% conda-4.9.2          | 3.0 MB    | #####7     |  58% conda-4.9.2          | 3.0 MB    | ######9    |  70% conda-4.9.2          | 3.0 MB    | ########   |  80% conda-4.9.2          | 3.0 MB    | #########1 |  92% conda-4.9.2          | 3.0 MB    | ########## | 100% 
 python_abi-3.8       | 4 KB      |            |   0% python_abi-3.8       | 4 KB      | ########## | 100% 
-conda-4.9.2          | 3.0 MB    |            |   0% conda-4.9.2          | 3.0 MB    | #6         |  17% conda-4.9.2          | 3.0 MB    | #####8     |  59% conda-4.9.2          | 3.0 MB    | ########## | 100% conda-4.9.2          | 3.0 MB    | ########## | 100% 
-certifi-2020.12.5    | 143 KB    |            |   0% certifi-2020.12.5    | 143 KB    | ########## | 100% certifi-2020.12.5    | 143 KB    | ########## | 100% 
-awkward-0.15.0       | 62 KB     |            |   0% awkward-0.15.0       | 62 KB     | ########## | 100% awkward-0.15.0       | 62 KB     | ########## | 100% 
+awkward-0.15.0       | 62 KB     |            |   0% awkward-0.15.0       | 62 KB     | ########## | 100% 
+ca-certificates-2020 | 137 KB    |            |   0% ca-certificates-2020 | 137 KB    | ########## | 100% 
 Preparing transaction: ...working... done
 Verifying transaction: ...working... done
 Executing transaction: ...working... done
@@ -126,31 +126,31 @@ The following packages will be SUPERSEDED by a higher-priority channel:
 
 
 Downloading and Extracting Packages
-awkward-1.0.2        | 5.7 MB    |            |   0% awkward-1.0.2        | 5.7 MB    |            |   0% awkward-1.0.2        | 5.7 MB    | #          |  10% awkward-1.0.2        | 5.7 MB    | ##2        |  22% awkward-1.0.2        | 5.7 MB    | ###8       |  39% awkward-1.0.2        | 5.7 MB    | ######4    |  64% awkward-1.0.2        | 5.7 MB    | #######9   |  79% awkward-1.0.2        | 5.7 MB    | ########## | 100% awkward-1.0.2        | 5.7 MB    | ########## | 100% 
-lz4-3.1.1            | 45 KB     |            |   0% lz4-3.1.1            | 45 KB     | ########## | 100% 
-krb5-1.17.2          | 1.4 MB    |            |   0% krb5-1.17.2          | 1.4 MB    | ##8        |  28% krb5-1.17.2          | 1.4 MB    | ########   |  80% krb5-1.17.2          | 1.4 MB    | ########## | 100% 
-zstandard-0.14.1     | 583 KB    |            |   0% zstandard-0.14.1     | 583 KB    | ########## | 100% zstandard-0.14.1     | 583 KB    | ########## | 100% 
-xrootd-5.0.3         | 4.4 MB    |            |   0% xrootd-5.0.3         | 4.4 MB    | #6         |  16% xrootd-5.0.3         | 4.4 MB    | ######2    |  62% xrootd-5.0.3         | 4.4 MB    | ########## | 100% xrootd-5.0.3         | 4.4 MB    | ########## | 100% 
-openssl-1.1.1i       | 2.1 MB    |            |   0% openssl-1.1.1i       | 2.1 MB    | ###5       |  35% openssl-1.1.1i       | 2.1 MB    | ########## | 100% openssl-1.1.1i       | 2.1 MB    | ########## | 100% 
-_openmp_mutex-4.5    | 22 KB     |            |   0% _openmp_mutex-4.5    | 22 KB     | ########## | 100% 
-lz4-c-1.9.3          | 179 KB    |            |   0% lz4-c-1.9.3          | 179 KB    | ########## | 100% lz4-c-1.9.3          | 179 KB    | ########## | 100% 
-libgcc-ng-9.3.0      | 7.8 MB    |            |   0% libgcc-ng-9.3.0      | 7.8 MB    | #2         |  12% libgcc-ng-9.3.0      | 7.8 MB    | ##9        |  30% libgcc-ng-9.3.0      | 7.8 MB    | ######4    |  65% libgcc-ng-9.3.0      | 7.8 MB    | ########1  |  82% libgcc-ng-9.3.0      | 7.8 MB    | ########## | 100% libgcc-ng-9.3.0      | 7.8 MB    | ########## | 100% 
-libiconv-1.16        | 1.4 MB    |            |   0% libiconv-1.16        | 1.4 MB    | ####6      |  46% libiconv-1.16        | 1.4 MB    | ########## | 100% libiconv-1.16        | 1.4 MB    | ########## | 100% 
-icu-68.1             | 13.0 MB   |            |   0% icu-68.1             | 13.0 MB   | 2          |   3% icu-68.1             | 13.0 MB   | #4         |  15% icu-68.1             | 13.0 MB   | ###2       |  33% icu-68.1             | 13.0 MB   | ####5      |  45% icu-68.1             | 13.0 MB   | ######2    |  63% icu-68.1             | 13.0 MB   | #######4   |  75% icu-68.1             | 13.0 MB   | ########8  |  88% icu-68.1             | 13.0 MB   | ########## | 100% 
-libev-4.33           | 104 KB    |            |   0% libev-4.33           | 104 KB    | ########## | 100% libev-4.33           | 104 KB    | ########## | 100% 
-python-xxhash-2.0.0  | 21 KB     |            |   0% python-xxhash-2.0.0  | 21 KB     | ########## | 100% 
-libstdcxx-ng-9.3.0   | 4.0 MB    |            |   0% libstdcxx-ng-9.3.0   | 4.0 MB    | 8          |   8% libstdcxx-ng-9.3.0   | 4.0 MB    | ##7        |  27% libstdcxx-ng-9.3.0   | 4.0 MB    | #####6     |  56% libstdcxx-ng-9.3.0   | 4.0 MB    | #########1 |  92% libstdcxx-ng-9.3.0   | 4.0 MB    | ########## | 100% 
-libgomp-9.3.0        | 378 KB    |            |   0% libgomp-9.3.0        | 378 KB    | ########## | 100% libgomp-9.3.0        | 378 KB    | ########## | 100% 
-xxhash-0.8.0         | 86 KB     |            |   0% xxhash-0.8.0         | 86 KB     | ########## | 100% xxhash-0.8.0         | 86 KB     | ########## | 100% 
-libuuid-2.32.1       | 28 KB     |            |   0% libuuid-2.32.1       | 28 KB     | ########## | 100% 
-libssh2-1.9.0        | 225 KB    |            |   0% libssh2-1.9.0        | 225 KB    | ########## | 100% libssh2-1.9.0        | 225 KB    | ########## | 100% 
-c-ares-1.17.1        | 111 KB    |            |   0% c-ares-1.17.1        | 111 KB    | ########## | 100% c-ares-1.17.1        | 111 KB    | ########## | 100% 
-libnghttp2-1.41.0    | 774 KB    |            |   0% libnghttp2-1.41.0    | 774 KB    | ########## | 100% libnghttp2-1.41.0    | 774 KB    | ########## | 100% 
+c-ares-1.17.1        | 111 KB    |            |   0% c-ares-1.17.1        | 111 KB    | #4         |  14% c-ares-1.17.1        | 111 KB    | ########## | 100% 
+libev-4.33           | 104 KB    |            |   0% libev-4.33           | 104 KB    | ########## | 100% 
+libnghttp2-1.41.0    | 774 KB    |            |   0% libnghttp2-1.41.0    | 774 KB    | #######2   |  72% libnghttp2-1.41.0    | 774 KB    | ########## | 100% libnghttp2-1.41.0    | 774 KB    | ########## | 100% 
+awkward-1.0.2        | 5.7 MB    |            |   0% awkward-1.0.2        | 5.7 MB    | #1         |  12% awkward-1.0.2        | 5.7 MB    | ###1       |  31% awkward-1.0.2        | 5.7 MB    | #####1     |  52% awkward-1.0.2        | 5.7 MB    | #######8   |  78% awkward-1.0.2        | 5.7 MB    | ########## | 100% awkward-1.0.2        | 5.7 MB    | ########## | 100% 
+libiconv-1.16        | 1.4 MB    |            |   0% libiconv-1.16        | 1.4 MB    | #######6   |  76% libiconv-1.16        | 1.4 MB    | ########## | 100% libiconv-1.16        | 1.4 MB    | ########## | 100% 
 libcurl-7.71.1       | 312 KB    |            |   0% libcurl-7.71.1       | 312 KB    | ########## | 100% libcurl-7.71.1       | 312 KB    | ########## | 100% 
+_openmp_mutex-4.5    | 22 KB     |            |   0% _openmp_mutex-4.5    | 22 KB     | ########## | 100% 
+libssh2-1.9.0        | 225 KB    |            |   0% libssh2-1.9.0        | 225 KB    | ########## | 100% libssh2-1.9.0        | 225 KB    | ########## | 100% 
+python-xxhash-2.0.0  | 21 KB     |            |   0% python-xxhash-2.0.0  | 21 KB     | ########## | 100% 
+zstandard-0.14.1     | 583 KB    |            |   0% zstandard-0.14.1     | 583 KB    | ########## | 100% zstandard-0.14.1     | 583 KB    | ########## | 100% 
 uproot-4.0.0         | 7 KB      |            |   0% uproot-4.0.0         | 7 KB      | ########## | 100% 
-_libgcc_mutex-0.1    | 3 KB      |            |   0% _libgcc_mutex-0.1    | 3 KB      | ########## | 100% 
+libstdcxx-ng-9.3.0   | 4.0 MB    |            |   0% libstdcxx-ng-9.3.0   | 4.0 MB    | 3          |   3% libstdcxx-ng-9.3.0   | 4.0 MB    | #9         |  19% libstdcxx-ng-9.3.0   | 4.0 MB    | ####6      |  46% libstdcxx-ng-9.3.0   | 4.0 MB    | #######7   |  78% libstdcxx-ng-9.3.0   | 4.0 MB    | ########## | 100% libstdcxx-ng-9.3.0   | 4.0 MB    | ########## | 100% 
+libgomp-9.3.0        | 378 KB    |            |   0% libgomp-9.3.0        | 378 KB    | ###8       |  38% libgomp-9.3.0        | 378 KB    | ########## | 100% libgomp-9.3.0        | 378 KB    | ########## | 100% 
+libuuid-2.32.1       | 28 KB     |            |   0% libuuid-2.32.1       | 28 KB     | ########## | 100% 
+xxhash-0.8.0         | 86 KB     |            |   0% xxhash-0.8.0         | 86 KB     | ########## | 100% 
+lz4-3.1.1            | 45 KB     |            |   0% lz4-3.1.1            | 45 KB     | ########## | 100% 
+icu-68.1             | 13.0 MB   |            |   0% icu-68.1             | 13.0 MB   | 3          |   3% icu-68.1             | 13.0 MB   | #2         |  13% icu-68.1             | 13.0 MB   | ##3        |  23% icu-68.1             | 13.0 MB   | ###6       |  37% icu-68.1             | 13.0 MB   | ####4      |  45% icu-68.1             | 13.0 MB   | #####2     |  53% icu-68.1             | 13.0 MB   | ######     |  61% icu-68.1             | 13.0 MB   | ######8    |  68% icu-68.1             | 13.0 MB   | #######5   |  76% icu-68.1             | 13.0 MB   | ########3  |  83% icu-68.1             | 13.0 MB   | #########  |  90% icu-68.1             | 13.0 MB   | #########7 |  97% icu-68.1             | 13.0 MB   | ########## | 100% 
+libxml2-2.9.10       | 1.3 MB    |            |   0% libxml2-2.9.10       | 1.3 MB    | ##         |  20% libxml2-2.9.10       | 1.3 MB    | #####1     |  52% libxml2-2.9.10       | 1.3 MB    | ########3  |  83% libxml2-2.9.10       | 1.3 MB    | ########## | 100% 
 uproot-base-4.0.0    | 128 KB    |            |   0% uproot-base-4.0.0    | 128 KB    | ########## | 100% uproot-base-4.0.0    | 128 KB    | ########## | 100% 
-libxml2-2.9.10       | 1.3 MB    |            |   0% libxml2-2.9.10       | 1.3 MB    | ########5  |  86% libxml2-2.9.10       | 1.3 MB    | ########## | 100% 
+openssl-1.1.1i       | 2.1 MB    |            |   0% openssl-1.1.1i       | 2.1 MB    | #1         |  11% openssl-1.1.1i       | 2.1 MB    | ##6        |  26% openssl-1.1.1i       | 2.1 MB    | ####1      |  41% openssl-1.1.1i       | 2.1 MB    | #####8     |  59% openssl-1.1.1i       | 2.1 MB    | #######5   |  75% openssl-1.1.1i       | 2.1 MB    | #########  |  90% openssl-1.1.1i       | 2.1 MB    | ########## | 100% 
+libgcc-ng-9.3.0      | 7.8 MB    |            |   0% libgcc-ng-9.3.0      | 7.8 MB    | 2          |   2% libgcc-ng-9.3.0      | 7.8 MB    | 8          |   9% libgcc-ng-9.3.0      | 7.8 MB    | #4         |  15% libgcc-ng-9.3.0      | 7.8 MB    | #9         |  20% libgcc-ng-9.3.0      | 7.8 MB    | ##5        |  26% libgcc-ng-9.3.0      | 7.8 MB    | ###        |  30% libgcc-ng-9.3.0      | 7.8 MB    | ###6       |  37% libgcc-ng-9.3.0      | 7.8 MB    | ####3      |  43% libgcc-ng-9.3.0      | 7.8 MB    | ####9      |  49% libgcc-ng-9.3.0      | 7.8 MB    | #####4     |  55% libgcc-ng-9.3.0      | 7.8 MB    | #####9     |  60% libgcc-ng-9.3.0      | 7.8 MB    | ######5    |  65% libgcc-ng-9.3.0      | 7.8 MB    | #######    |  70% libgcc-ng-9.3.0      | 7.8 MB    | #######6   |  76% libgcc-ng-9.3.0      | 7.8 MB    | ########2  |  82% libgcc-ng-9.3.0      | 7.8 MB    | ########9  |  89% libgcc-ng-9.3.0      | 7.8 MB    | #########5 |  96% libgcc-ng-9.3.0      | 7.8 MB    | ########## | 100% 
+_libgcc_mutex-0.1    | 3 KB      |            |   0% _libgcc_mutex-0.1    | 3 KB      | ########## | 100% 
+lz4-c-1.9.3          | 179 KB    |            |   0% lz4-c-1.9.3          | 179 KB    | ########## | 100% lz4-c-1.9.3          | 179 KB    | ########## | 100% 
+xrootd-5.0.3         | 4.4 MB    |            |   0% xrootd-5.0.3         | 4.4 MB    | #          |  11% xrootd-5.0.3         | 4.4 MB    | ##8        |  28% xrootd-5.0.3         | 4.4 MB    | ####2      |  43% xrootd-5.0.3         | 4.4 MB    | #####9     |  60% xrootd-5.0.3         | 4.4 MB    | ########1  |  81% xrootd-5.0.3         | 4.4 MB    | ########## | 100% xrootd-5.0.3         | 4.4 MB    | ########## | 100% 
+krb5-1.17.2          | 1.4 MB    |            |   0% krb5-1.17.2          | 1.4 MB    | #7         |  17% krb5-1.17.2          | 1.4 MB    | ####6      |  47% krb5-1.17.2          | 1.4 MB    | #######6   |  76% krb5-1.17.2          | 1.4 MB    | ########## | 100% krb5-1.17.2          | 1.4 MB    | ########## | 100% 
 Preparing transaction: ...working... done
 Verifying transaction: ...working... done
 Executing transaction: ...working... done

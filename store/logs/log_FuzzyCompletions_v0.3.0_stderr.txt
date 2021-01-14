@@ -1,0 +1,14 @@
+[ Info: Indexing package FuzzyCompletions 0.3.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed FuzzyCompletions ─ v0.3.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [fb4132e2] + FuzzyCompletions v0.3.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [fb4132e2] + FuzzyCompletions v0.3.0
+  [2a0f44e3] + Base64
+  [b77e0a4c] + InteractiveUtils
+  [d6f4376e] + Markdown
+  [3fa0cd96] + REPL
+  [6462fe0b] + Sockets
+[ Info: Finished indexing.

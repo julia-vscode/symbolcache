@@ -1,9 +1,9 @@
 [ Info: Indexing package Cgl_jll 0.60.3+1...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed CoinUtils_jll ──────────────── v2.11.4+1
-  Installed Cgl_jll ────────────────────── v0.60.3+1
   Installed ASL_jll ────────────────────── v0.1.1+4
+  Installed Cgl_jll ────────────────────── v0.60.3+1
+  Installed CoinUtils_jll ──────────────── v2.11.4+1
   Installed Osi_jll ────────────────────── v0.108.6+1
   Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed METIS_jll ──────────────────── v4.0.3+3

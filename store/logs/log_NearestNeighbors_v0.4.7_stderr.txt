@@ -1,8 +1,8 @@
 [ Info: Indexing package NearestNeighbors 0.4.7...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed NearestNeighbors ─ v0.4.7
   Installed Distances ──────── v0.10.0
+  Installed NearestNeighbors ─ v0.4.7
   Installed StaticArrays ───── v0.12.5
 Updating `~/.julia/environments/v1.5/Project.toml`
   [b8a86587] + NearestNeighbors v0.4.7

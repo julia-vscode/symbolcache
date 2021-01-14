@@ -9,35 +9,35 @@
   Installed StatsFuns ──────────────────── v0.9.6
   Installed DataStructures ─────────────── v0.17.20
   Installed DataFrames ─────────────────── v0.21.8
-  Installed Reexport ───────────────────── v0.2.0
   Installed PDMats ─────────────────────── v0.9.12
+  Installed Reexport ───────────────────── v0.2.0
   Installed OpenBLAS_jll ───────────────── v0.3.9+5
   Installed OpenSpecFun_jll ────────────── v0.5.3+4
-  Installed PooledArrays ───────────────── v0.5.3
-  Installed Parsers ────────────────────── v1.0.15
-  Installed StatsBase ──────────────────── v0.32.2
   Installed JSON ───────────────────────── v0.21.1
   Installed DocStringExtensions ────────── v0.8.3
-  Installed TimeSeries ─────────────────── v0.19.1
-  Installed OrderedCollections ─────────── v1.3.2
-  Installed Distributions ──────────────── v0.21.12
+  Installed StatsBase ──────────────────── v0.32.2
+  Installed PooledArrays ───────────────── v0.5.3
+  Installed Parsers ────────────────────── v1.0.15
   Installed InvertedIndices ────────────── v1.0.0
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed TimeSeries ─────────────────── v0.19.1
   Installed Tables ─────────────────────── v1.2.2
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed FillArrays ─────────────────── v0.8.14
+  Installed Distributions ──────────────── v0.21.12
   Installed QuadGK ─────────────────────── v2.4.1
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed FillArrays ─────────────────── v0.8.14
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed Artifacts ──────────────────── v1.3.0
   Installed StructTypes ────────────────── v1.2.1
-  Installed Rmath ──────────────────────── v0.6.1
   Installed RecipesBase ────────────────── v1.1.1
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed Rmath ──────────────────────── v0.6.1
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
   Installed DataValueInterfaces ────────── v1.0.0
   Installed Arpack ─────────────────────── v0.4.0
-  Installed Missings ───────────────────── v0.4.4
-  Installed DataAPI ────────────────────── v1.4.0
-  Installed TableTraits ────────────────── v1.0.0
   Installed Arpack_jll ─────────────────── v3.5.0+3
   Installed DependentBootstrap ─────────── v1.1.2
+  Installed Missings ───────────────────── v0.4.4
+  Installed TableTraits ────────────────── v1.0.0
   Installed SpecialFunctions ───────────── v0.9.0
   Installed CategoricalArrays ──────────── v0.8.3
 Updating `~/.julia/environments/v1.5/Project.toml`

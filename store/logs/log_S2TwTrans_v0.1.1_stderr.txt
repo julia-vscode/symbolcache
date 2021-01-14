@@ -1,0 +1,11 @@
+[ Info: Indexing package S2TwTrans 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed S2TwTrans ─ v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [5cf70722] + S2TwTrans v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [5cf70722] + S2TwTrans v0.1.1
+  [8bb1440f] + DelimitedFiles
+  [a63ad114] + Mmap
+[ Info: Finished indexing.

@@ -1,0 +1,9 @@
+[ Info: Indexing package ReadableRegex 0.3.2...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed ReadableRegex ─ v0.3.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [cbbcb084] + ReadableRegex v0.3.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [cbbcb084] + ReadableRegex v0.3.2
+[ Info: Finished indexing.

@@ -1,0 +1,49 @@
+[ Info: Indexing package FlightMechanics 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed FlightMechanics ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d8b13f87] + FlightMechanics v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [d8b13f87] + FlightMechanics v0.1.0
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+ERROR: LoadError: LoadError: LoadError: LoadError: ArgumentError: Package FlightMechanics does not have Dierckx in its dependencies:
+- If you have FlightMechanics checked out for development and have
+  added Dierckx as a dependency but haven't updated your primary
+  environment's manifest file, try `Pkg.resolve()`.
+- Otherwise you may need to report an issue with FlightMechanics
+Stacktrace:
+ [1] require(::Module, ::Symbol) at ./loading.jl:906
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include at ./Base.jl:368 [inlined]
+ [4] include(::String) at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/aircrafts/Aircrafts.jl:1
+ [5] top-level scope at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/aircrafts/Aircrafts.jl:2
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include at ./Base.jl:368 [inlined]
+ [8] include(::String) at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/Simulator.jl:1
+ [9] top-level scope at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/Simulator.jl:3
+ [10] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [11] include at ./Base.jl:368 [inlined]
+ [12] include(::String) at /root/.julia/packages/FlightMechanics/xJOq1/src/FlightMechanics.jl:1
+ [13] top-level scope at /root/.julia/packages/FlightMechanics/xJOq1/src/FlightMechanics.jl:16
+ [14] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [15] include(::Module, ::String) at ./Base.jl:368
+ [16] top-level scope at none:2
+ [17] eval at ./boot.jl:331 [inlined]
+ [18] eval(::Expr) at ./client.jl:467
+ [19] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/aircrafts/C310/aerodynamics.jl:1
+in expression starting at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/aircrafts/Aircrafts.jl:2
+in expression starting at /root/.julia/packages/FlightMechanics/xJOq1/src/simulator/Simulator.jl:3
+in expression starting at /root/.julia/packages/FlightMechanics/xJOq1/src/FlightMechanics.jl:16
+[ Info: Could not load package, exiting.

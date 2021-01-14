@@ -1,0 +1,12 @@
+[ Info: Indexing package PrintTypesTersely 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed PrintTypesTersely ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [41b232b1] + PrintTypesTersely v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [41b232b1] + PrintTypesTersely v0.1.0
+WARNING: Method definition show(IO, Type) in module Base at show.jl:495 overwritten in module PrintTypesTersely at /root/.julia/packages/PrintTypesTersely/HI5CI/src/PrintTypesTersely.jl:85.
+  ** incremental compilation may be fatally broken for this module **
+
+[ Info: Finished indexing.

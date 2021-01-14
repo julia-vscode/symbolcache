@@ -1,0 +1,9 @@
+[ Info: Indexing package RTLSDR 0.0.1...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed RTLSDR ─ v0.0.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [71cfaeeb] + RTLSDR v0.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [71cfaeeb] + RTLSDR v0.0.1
+[ Info: Finished indexing.

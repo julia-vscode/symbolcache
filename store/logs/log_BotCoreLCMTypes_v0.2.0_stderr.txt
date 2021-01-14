@@ -1,8 +1,8 @@
 [ Info: Indexing package BotCoreLCMTypes 0.2.0...
    Updating registry at `~/.julia/registries/General`
   Resolving package versions...
-  Installed BotCoreLCMTypes ─ v0.2.0
   Installed FastIOBuffers ─── v0.3.1
+  Installed BotCoreLCMTypes ─ v0.2.0
   Installed UnsafeArrays ──── v1.0.1
   Installed LCMCore ───────── v0.6.1
   Installed StaticArrays ──── v0.12.5
@@ -37,10 +37,10 @@ Updating `~/.julia/environments/v1.5/Manifest.toml`
 │   Installed URIParser ────────── v0.4.0
 │   Installed CMakeWrapper ─────── v0.2.3
 │   Installed Compat ───────────── v2.1.0
-│   Installed CMake ────────────── v1.1.1
 │   Installed OrderedCollections ─ v1.1.0
 │   Installed Parameters ───────── v0.10.3
 │   Installed JSON ─────────────── v0.20.0
+│   Installed CMake ────────────── v1.1.1
 │    Building CMake → `~/.julia/packages/CMake/ZGawK/deps/build.log`
 │ ERROR: LoadError: None of the selected providers can install dependency glib.
 │ Use BinDeps.debug(package_name) to see available providers

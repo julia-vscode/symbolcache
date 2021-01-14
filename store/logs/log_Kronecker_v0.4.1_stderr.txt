@@ -10,8 +10,8 @@
   Installed DataStructures ───── v0.18.8
   Installed StatsBase ────────── v0.33.2
   Installed FillArrays ───────── v0.9.7
-  Installed NamedDims ────────── v0.2.29
   Installed Missings ─────────── v0.4.4
+  Installed NamedDims ────────── v0.2.29
 Updating `~/.julia/environments/v1.5/Project.toml`
   [2c470bb0] + Kronecker v0.4.1
 Updating `~/.julia/environments/v1.5/Manifest.toml`

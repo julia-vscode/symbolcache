@@ -1,0 +1,92 @@
+[ Info: Indexing package BaslerCamera 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed BaslerCamera ─── v0.1.0
+  Installed FreeType2_jll ── v2.10.1+5
+  Installed x265_jll ─────── v3.0.0+3
+  Installed Zlib_jll ─────── v1.2.11+18
+  Installed LibVPX_jll ───── v1.9.0+1
+  Installed libass_jll ───── v0.14.0+4
+  Installed OpenSSL_jll ──── v1.1.1+6
+  Installed FFMPEG ───────── v0.4.0
+  Installed libfdk_aac_jll ─ v0.1.6+4
+  Installed Opus_jll ─────── v1.3.1+3
+  Installed Ogg_jll ──────── v1.3.4+2
+  Installed LAME_jll ─────── v3.100.0+3
+  Installed FFMPEG_jll ───── v4.3.1+4
+  Installed Artifacts ────── v1.3.0
+  Installed Bzip2_jll ────── v1.0.6+5
+  Installed JLLWrappers ──── v1.2.0
+  Installed libvorbis_jll ── v1.3.6+6
+  Installed FriBidi_jll ──── v1.0.5+6
+  Installed x264_jll ─────── v2020.7.14+2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [e40af120] + BaslerCamera v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [e40af120] + BaslerCamera v0.1.0
+  [6e34b625] + Bzip2_jll v1.0.6+5
+  [c87230d0] + FFMPEG v0.4.0
+  [b22a6f82] + FFMPEG_jll v4.3.1+4
+  [d7e528f0] + FreeType2_jll v2.10.1+5
+  [559328eb] + FriBidi_jll v1.0.5+6
+  [692b3bcd] + JLLWrappers v1.2.0
+  [c1c5ebd0] + LAME_jll v3.100.0+3
+  [dd192d2f] + LibVPX_jll v1.9.0+1
+  [e7412a2a] + Ogg_jll v1.3.4+2
+  [458c3c95] + OpenSSL_jll v1.1.1+6
+  [91d4177d] + Opus_jll v1.3.1+3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [0ac62f75] + libass_jll v0.14.0+4
+  [f638f0a6] + libfdk_aac_jll v0.1.6+4
+  [f27f6e37] + libvorbis_jll v1.3.6+6
+  [1270edf5] + x264_jll v2020.7.14+2
+  [dfaa095f] + x265_jll v3.0.0+3
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building BaslerCamera → `~/.julia/packages/BaslerCamera/UY2k9/deps/build.log`
+┌ Error: Error building `BaslerCamera`: 
+│ ERROR: LoadError: IOError: could not spawn `wget https://www.dropbox.com/s/1m0gfqxt7944kay/BaslerCamera.so`: no such file or directory (ENOENT)
+│ Stacktrace:
+│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
+│  [2] #585 at ./process.jl:112 [inlined]
+│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
+│  [4] _spawn at ./process.jl:111 [inlined]
+│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
+│  [6] run(::Cmd) at ./process.jl:438
+│  [7] top-level scope at /root/.julia/packages/BaslerCamera/UY2k9/deps/build.jl:32
+│  [8] include(::String) at ./client.jl:457
+│  [9] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/BaslerCamera/UY2k9/deps/build.jl:30
+│ Try version 5
+│ Try version 6
+│ Pylon 5 or 6 not found :(. Setting version as 5 by default.
+│ 5
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+┌ Warning: Package BaslerCamera does not have Libdl in its dependencies:
+│ - If you have BaslerCamera checked out for development and have
+│   added Libdl as a dependency but haven't updated your primary
+│   environment's manifest file, try `Pkg.resolve()`.
+│ - Otherwise you may need to report an issue with BaslerCamera
+└ Loading Libdl into BaslerCamera from project dependency, future warnings for BaslerCamera are suppressed.
+WARNING: Method definition start_acquisition(Any) in module BaslerCamera at /root/.julia/packages/BaslerCamera/UY2k9/src/BaslerCamera.jl:49 overwritten at /root/.julia/packages/BaslerCamera/UY2k9/src/BaslerCamera.jl:71.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition stop_acquisition(Any) in module BaslerCamera at /root/.julia/packages/BaslerCamera/UY2k9/src/BaslerCamera.jl:53 overwritten at /root/.julia/packages/BaslerCamera/UY2k9/src/BaslerCamera.jl:76.
+  ** incremental compilation may be fatally broken for this module **
+
+[ Info: Finished indexing.

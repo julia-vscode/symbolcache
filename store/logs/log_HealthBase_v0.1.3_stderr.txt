@@ -1,0 +1,9 @@
+[ Info: Indexing package HealthBase 0.1.3...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed HealthBase ─ v0.1.3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [94e1309d] + HealthBase v0.1.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [94e1309d] + HealthBase v0.1.3
+[ Info: Finished indexing.

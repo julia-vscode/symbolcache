@@ -1,0 +1,9 @@
+[ Info: Indexing package MIDI 1.8.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed MIDI ─ v1.8.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [f57c4921] + MIDI v1.8.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [f57c4921] + MIDI v1.8.0
+[ Info: Finished indexing.

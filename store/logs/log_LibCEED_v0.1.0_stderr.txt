@@ -1,0 +1,45 @@
+[ Info: Indexing package LibCEED 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed Artifacts ──── v1.3.0
+  Installed libCEED_jll ── v0.7.0+1
+  Installed CEnum ──────── v0.4.1
+  Installed UnsafeArrays ─ v1.0.1
+  Installed Requires ───── v1.1.2
+  Installed Cassette ───── v0.3.4
+  Installed LibCEED ────── v0.1.0
+  Installed JLLWrappers ── v1.2.0
+  Installed StaticArrays ─ v0.12.5
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [2cd74e05] + LibCEED v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [fa961155] + CEnum v0.4.1
+  [7057c7e9] + Cassette v0.3.4
+  [692b3bcd] + JLLWrappers v1.2.0
+  [2cd74e05] + LibCEED v0.1.0
+  [ae029012] + Requires v1.1.2
+  [90137ffa] + StaticArrays v0.12.5
+  [c4a57d5a] + UnsafeArrays v1.0.1
+  [762fde13] + libCEED_jll v0.7.0+1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building LibCEED → `~/.julia/packages/LibCEED/5EEZG/deps/build.log`
+[ Info: Finished indexing.

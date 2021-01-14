@@ -1,0 +1,74 @@
+[ Info: Indexing package UpROOT 0.3.0...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed SplitApplyCombine ─────────── v1.1.3
+  Installed IteratorInterfaceExtensions ─ v1.0.0
+  Installed DataAPI ───────────────────── v1.4.0
+  Installed Parsers ───────────────────── v1.0.15
+  Installed ArraysOfArrays ────────────── v0.4.5
+  Installed UpROOT ────────────────────── v0.3.0
+  Installed Requires ──────────────────── v1.1.2
+  Installed PyCall ────────────────────── v1.92.2
+  Installed TableTraits ───────────────── v1.0.0
+  Installed VersionParsing ────────────── v1.2.0
+  Installed DataValueInterfaces ───────── v1.0.0
+  Installed Indexing ──────────────────── v1.1.0
+  Installed UnsafeArrays ──────────────── v1.0.1
+  Installed Conda ─────────────────────── v1.5.0
+  Installed Tables ────────────────────── v1.2.2
+  Installed Dictionaries ──────────────── v0.3.6
+  Installed JSON ──────────────────────── v0.21.1
+  Installed MacroTools ────────────────── v0.5.6
+  Installed TypedTables ───────────────── v1.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [69ce31c6] + UpROOT v0.3.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [65a8f2f4] + ArraysOfArrays v0.4.5
+  [8f4d0f93] + Conda v1.5.0
+  [9a962f9c] + DataAPI v1.4.0
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [85a47980] + Dictionaries v0.3.6
+  [313cdc1a] + Indexing v1.1.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [69de0a69] + Parsers v1.0.15
+  [438e738f] + PyCall v1.92.2
+  [ae029012] + Requires v1.1.2
+  [03a91e81] + SplitApplyCombine v1.1.3
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v1.2.2
+  [9d95f2ec] + TypedTables v1.2.0
+  [c4a57d5a] + UnsafeArrays v1.0.1
+  [69ce31c6] + UpROOT v0.3.0
+  [81def892] + VersionParsing v1.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building UpROOT → `~/.julia/packages/UpROOT/22qPq/deps/build.log`
+[ Info: Installing awkward via the Conda awkward package...
+[ Info: Running `conda config --add channels conda-forge --file /root/.julia/conda/3/condarc-julia.yml --force` in root environment
+[ Info: Running `conda install -y awkward` in root environment
+[ Info: Installing uproot via the Conda uproot package...
+[ Info: Running `conda config --add channels conda-forge --file /root/.julia/conda/3/condarc-julia.yml --force` in root environment
+Warning: 'conda-forge' already in 'channels' list, moving to the top
+[ Info: Running `conda install -y uproot` in root environment
+[ Info: Finished indexing.

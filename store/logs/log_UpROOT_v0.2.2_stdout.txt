@@ -1,0 +1,156 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /root/.julia/conda/3
+
+  added / updated specs:
+    - awkward
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    awkward-0.15.0             |     pyhd3deb0d_0          62 KB  conda-forge
+    ca-certificates-2020.12.5  |       ha878542_0         137 KB  conda-forge
+    certifi-2020.12.5          |   py38h578d9bd_1         143 KB  conda-forge
+    conda-4.9.2                |   py38h578d9bd_0         3.0 MB  conda-forge
+    python_abi-3.8             |           1_cp38           4 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:         3.4 MB
+
+The following NEW packages will be INSTALLED:
+
+  awkward            conda-forge/noarch::awkward-0.15.0-pyhd3deb0d_0
+  python_abi         conda-forge/linux-64::python_abi-3.8-1_cp38
+
+The following packages will be UPDATED:
+
+  certifi            pkgs/main::certifi-2020.12.5-py38h06a~ --> conda-forge::certifi-2020.12.5-py38h578d9bd_1
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  ca-certificates    pkgs/main::ca-certificates-2020.12.8-~ --> conda-forge::ca-certificates-2020.12.5-ha878542_0
+  conda               pkgs/main::conda-4.9.2-py38h06a4308_0 --> conda-forge::conda-4.9.2-py38h578d9bd_0
+
+
+
+Downloading and Extracting Packages
+conda-4.9.2          | 3.0 MB    |            |   0% conda-4.9.2          | 3.0 MB    |            |   1% conda-4.9.2          | 3.0 MB    | ##6        |  26% conda-4.9.2          | 3.0 MB    | #######2   |  73% conda-4.9.2          | 3.0 MB    | ########## | 100% conda-4.9.2          | 3.0 MB    | ########## | 100% 
+python_abi-3.8       | 4 KB      |            |   0% python_abi-3.8       | 4 KB      | ########## | 100% 
+certifi-2020.12.5    | 143 KB    |            |   0% certifi-2020.12.5    | 143 KB    | ########## | 100% certifi-2020.12.5    | 143 KB    | ########## | 100% 
+awkward-0.15.0       | 62 KB     |            |   0% awkward-0.15.0       | 62 KB     | ########## | 100% awkward-0.15.0       | 62 KB     | ########## | 100% 
+ca-certificates-2020 | 137 KB    |            |   0% ca-certificates-2020 | 137 KB    | ########## | 100% ca-certificates-2020 | 137 KB    | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /root/.julia/conda/3
+
+  added / updated specs:
+    - uproot
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    _libgcc_mutex-0.1          |      conda_forge           3 KB  conda-forge
+    _openmp_mutex-4.5          |            1_gnu          22 KB  conda-forge
+    awkward-1.0.2              |   py38h709712a_1         5.7 MB  conda-forge
+    c-ares-1.17.1              |       h36c2ea0_0         111 KB  conda-forge
+    icu-68.1                   |       h58526e2_0        13.0 MB  conda-forge
+    krb5-1.17.2                |       h926e7f8_0         1.4 MB  conda-forge
+    libcurl-7.71.1             |       hcdd3856_8         312 KB  conda-forge
+    libev-4.33                 |       h516909a_1         104 KB  conda-forge
+    libgcc-ng-9.3.0            |      h5dbcf3e_17         7.8 MB  conda-forge
+    libgomp-9.3.0              |      h5dbcf3e_17         378 KB  conda-forge
+    libiconv-1.16              |       h516909a_0         1.4 MB  conda-forge
+    libnghttp2-1.41.0          |       h8cfc5f6_2         774 KB  conda-forge
+    libssh2-1.9.0              |       hab1572f_5         225 KB  conda-forge
+    libstdcxx-ng-9.3.0         |      h2ae2ef3_17         4.0 MB  conda-forge
+    libuuid-2.32.1             |    h7f98852_1000          28 KB  conda-forge
+    libxml2-2.9.10             |       h72842e0_3         1.3 MB  conda-forge
+    lz4-3.1.1                  |   py38hebdc3cf_1          45 KB  conda-forge
+    lz4-c-1.9.3                |       h9c3ff4c_0         179 KB  conda-forge
+    openssl-1.1.1i             |       h7f98852_0         2.1 MB  conda-forge
+    python-xxhash-2.0.0        |   py38h497a2fe_1          21 KB  conda-forge
+    uproot-4.0.0               |   py38h578d9bd_1           7 KB  conda-forge
+    uproot-base-4.0.0          |     pyh8a188c0_1         128 KB  conda-forge
+    xrootd-5.0.3               |   py38h5962cf3_1         4.4 MB  conda-forge
+    xxhash-0.8.0               |       h7f98852_3          86 KB  conda-forge
+    zstandard-0.14.1           |   py38h709712a_0         583 KB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        44.0 MB
+
+The following NEW packages will be INSTALLED:
+
+  _openmp_mutex      conda-forge/linux-64::_openmp_mutex-4.5-1_gnu
+  c-ares             conda-forge/linux-64::c-ares-1.17.1-h36c2ea0_0
+  icu                conda-forge/linux-64::icu-68.1-h58526e2_0
+  krb5               conda-forge/linux-64::krb5-1.17.2-h926e7f8_0
+  libcurl            conda-forge/linux-64::libcurl-7.71.1-hcdd3856_8
+  libev              conda-forge/linux-64::libev-4.33-h516909a_1
+  libgomp            conda-forge/linux-64::libgomp-9.3.0-h5dbcf3e_17
+  libiconv           conda-forge/linux-64::libiconv-1.16-h516909a_0
+  libnghttp2         conda-forge/linux-64::libnghttp2-1.41.0-h8cfc5f6_2
+  libssh2            conda-forge/linux-64::libssh2-1.9.0-hab1572f_5
+  libuuid            conda-forge/linux-64::libuuid-2.32.1-h7f98852_1000
+  libxml2            conda-forge/linux-64::libxml2-2.9.10-h72842e0_3
+  lz4                conda-forge/linux-64::lz4-3.1.1-py38hebdc3cf_1
+  lz4-c              conda-forge/linux-64::lz4-c-1.9.3-h9c3ff4c_0
+  python-xxhash      conda-forge/linux-64::python-xxhash-2.0.0-py38h497a2fe_1
+  uproot             conda-forge/linux-64::uproot-4.0.0-py38h578d9bd_1
+  uproot-base        conda-forge/noarch::uproot-base-4.0.0-pyh8a188c0_1
+  xrootd             conda-forge/linux-64::xrootd-5.0.3-py38h5962cf3_1
+  xxhash             conda-forge/linux-64::xxhash-0.8.0-h7f98852_3
+  zstandard          conda-forge/linux-64::zstandard-0.14.1-py38h709712a_0
+
+The following packages will be UPDATED:
+
+  awkward            conda-forge/noarch::awkward-0.15.0-py~ --> conda-forge/linux-64::awkward-1.0.2-py38h709712a_1
+  libgcc-ng           pkgs/main::libgcc-ng-9.1.0-hdf63c60_0 --> conda-forge::libgcc-ng-9.3.0-h5dbcf3e_17
+  libstdcxx-ng       pkgs/main::libstdcxx-ng-9.1.0-hdf63c6~ --> conda-forge::libstdcxx-ng-9.3.0-h2ae2ef3_17
+
+The following packages will be SUPERSEDED by a higher-priority channel:
+
+  _libgcc_mutex           pkgs/main::_libgcc_mutex-0.1-main --> conda-forge::_libgcc_mutex-0.1-conda_forge
+  openssl              pkgs/main::openssl-1.1.1i-h27cfd23_0 --> conda-forge::openssl-1.1.1i-h7f98852_0
+
+
+
+Downloading and Extracting Packages
+libgomp-9.3.0        | 378 KB    |            |   0% libgomp-9.3.0        | 378 KB    | 4          |   4% libgomp-9.3.0        | 378 KB    | ########## | 100% libgomp-9.3.0        | 378 KB    | ########## | 100% 
+libssh2-1.9.0        | 225 KB    |            |   0% libssh2-1.9.0        | 225 KB    | ########## | 100% libssh2-1.9.0        | 225 KB    | ########## | 100% 
+_openmp_mutex-4.5    | 22 KB     |            |   0% _openmp_mutex-4.5    | 22 KB     | ########## | 100% 
+libuuid-2.32.1       | 28 KB     |            |   0% libuuid-2.32.1       | 28 KB     | ########## | 100% 
+krb5-1.17.2          | 1.4 MB    |            |   0% krb5-1.17.2          | 1.4 MB    | ####3      |  43% krb5-1.17.2          | 1.4 MB    | #########3 |  94% krb5-1.17.2          | 1.4 MB    | ########## | 100% 
+uproot-4.0.0         | 7 KB      |            |   0% uproot-4.0.0         | 7 KB      | ########## | 100% 
+libnghttp2-1.41.0    | 774 KB    |            |   0% libnghttp2-1.41.0    | 774 KB    | ########## | 100% libnghttp2-1.41.0    | 774 KB    | ########## | 100% 
+libstdcxx-ng-9.3.0   | 4.0 MB    |            |   0% libstdcxx-ng-9.3.0   | 4.0 MB    | #8         |  18% libstdcxx-ng-9.3.0   | 4.0 MB    | ######     |  61% libstdcxx-ng-9.3.0   | 4.0 MB    | ########4  |  84% libstdcxx-ng-9.3.0   | 4.0 MB    | ########## | 100% 
+xrootd-5.0.3         | 4.4 MB    |            |   0% xrootd-5.0.3         | 4.4 MB    | #4         |  14% xrootd-5.0.3         | 4.4 MB    | ##         |  20% xrootd-5.0.3         | 4.4 MB    | ##8        |  28% xrootd-5.0.3         | 4.4 MB    | ######3    |  64% xrootd-5.0.3         | 4.4 MB    | ########## | 100% xrootd-5.0.3         | 4.4 MB    | ########## | 100% 
+libxml2-2.9.10       | 1.3 MB    |            |   0% libxml2-2.9.10       | 1.3 MB    | ######7    |  68% libxml2-2.9.10       | 1.3 MB    | ########## | 100% libxml2-2.9.10       | 1.3 MB    | ########## | 100% 
+zstandard-0.14.1     | 583 KB    |            |   0% zstandard-0.14.1     | 583 KB    | ########## | 100% zstandard-0.14.1     | 583 KB    | ########## | 100% 
+libev-4.33           | 104 KB    |            |   0% libev-4.33           | 104 KB    | ########## | 100% 
+libiconv-1.16        | 1.4 MB    |            |   0% libiconv-1.16        | 1.4 MB    | #######5   |  75% libiconv-1.16        | 1.4 MB    | ########## | 100% libiconv-1.16        | 1.4 MB    | ########## | 100% 
+xxhash-0.8.0         | 86 KB     |            |   0% xxhash-0.8.0         | 86 KB     | ########## | 100% 
+c-ares-1.17.1        | 111 KB    |            |   0% c-ares-1.17.1        | 111 KB    | ########## | 100% 
+icu-68.1             | 13.0 MB   |            |   0% icu-68.1             | 13.0 MB   | 6          |   6% icu-68.1             | 13.0 MB   | #8         |  18% icu-68.1             | 13.0 MB   | ###2       |  33% icu-68.1             | 13.0 MB   | ####3      |  43% icu-68.1             | 13.0 MB   | #####1     |  51% icu-68.1             | 13.0 MB   | ######5    |  66% icu-68.1             | 13.0 MB   | #######8   |  79% icu-68.1             | 13.0 MB   | #########5 |  95% icu-68.1             | 13.0 MB   | ########## | 100% 
+lz4-c-1.9.3          | 179 KB    |            |   0% lz4-c-1.9.3          | 179 KB    | ########## | 100% lz4-c-1.9.3          | 179 KB    | ########## | 100% 
+_libgcc_mutex-0.1    | 3 KB      |            |   0% _libgcc_mutex-0.1    | 3 KB      | ########## | 100% 
+uproot-base-4.0.0    | 128 KB    |            |   0% uproot-base-4.0.0    | 128 KB    | ########## | 100% uproot-base-4.0.0    | 128 KB    | ########## | 100% 
+openssl-1.1.1i       | 2.1 MB    |            |   0% openssl-1.1.1i       | 2.1 MB    | ##2        |  22% openssl-1.1.1i       | 2.1 MB    | ########## | 100% openssl-1.1.1i       | 2.1 MB    | ########## | 100% 
+lz4-3.1.1            | 45 KB     |            |   0% lz4-3.1.1            | 45 KB     | ########## | 100% 
+awkward-1.0.2        | 5.7 MB    |            |   0% awkward-1.0.2        | 5.7 MB    | #9         |  20% awkward-1.0.2        | 5.7 MB    | ####8      |  49% awkward-1.0.2        | 5.7 MB    | #######4   |  75% awkward-1.0.2        | 5.7 MB    | ########## | 100% awkward-1.0.2        | 5.7 MB    | ########## | 100% 
+python-xxhash-2.0.0  | 21 KB     |            |   0% python-xxhash-2.0.0  | 21 KB     | ########## | 100% 
+libgcc-ng-9.3.0      | 7.8 MB    |            |   0% libgcc-ng-9.3.0      | 7.8 MB    | 6          |   6% libgcc-ng-9.3.0      | 7.8 MB    | ##1        |  22% libgcc-ng-9.3.0      | 7.8 MB    | ###9       |  40% libgcc-ng-9.3.0      | 7.8 MB    | #####6     |  57% libgcc-ng-9.3.0      | 7.8 MB    | #######    |  70% libgcc-ng-9.3.0      | 7.8 MB    | ########9  |  90% libgcc-ng-9.3.0      | 7.8 MB    | ########## | 100% 
+libcurl-7.71.1       | 312 KB    |            |   0% libcurl-7.71.1       | 312 KB    | #####1     |  51% libcurl-7.71.1       | 312 KB    | ########## | 100% libcurl-7.71.1       | 312 KB    | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done

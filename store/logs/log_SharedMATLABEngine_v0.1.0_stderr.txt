@@ -1,0 +1,39 @@
+[ Info: Indexing package SharedMATLABEngine 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#########                                                                 13.8%####################                                                      28.9%############################                                              38.9%######################################                                    54.0%################################################                          67.1%#########################################################                 79.7%###############################################################           88.5%######################################################################    97.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed VersionParsing ───── v1.2.0
+  Installed ReplMaker ────────── v0.2.4
+  Installed MacroTools ───────── v0.5.6
+  Installed JSON ─────────────── v0.21.1
+  Installed Parsers ──────────── v1.0.15
+  Installed Conda ────────────── v1.5.0
+  Installed PyCall ───────────── v1.92.2
+  Installed SharedMATLABEngine ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [0164281e] + SharedMATLABEngine v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [8f4d0f93] + Conda v1.5.0
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [69de0a69] + Parsers v1.0.15
+  [438e738f] + PyCall v1.92.2
+  [b873ce64] + ReplMaker v0.2.4
+  [0164281e] + SharedMATLABEngine v0.1.0
+  [81def892] + VersionParsing v1.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [4ec0a83e] + Unicode
+   Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
+[ Info: Could not load package, exiting.

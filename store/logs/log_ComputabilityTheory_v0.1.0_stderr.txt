@@ -1,0 +1,63 @@
+[ Info: Indexing package ComputabilityTheory 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%#########                                                                 12.5%#######################                                                   32.6%#########################################                                 57.7%###########################################################               82.8%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ComputabilityTheory ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [1aac4ff9] + ComputabilityTheory v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [1aac4ff9] + ComputabilityTheory v0.1.0
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+WARNING: Method definition ∸(Number, Number) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:15 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:15.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition pair_tuple(Integer, Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:24 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:24.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition pair_tuple(Integer, Integer, Integer...) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:25 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:25.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{ComputabilityTheory.Algebra})() in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:31 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:31.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Base.Val{n}, Integer) where {n} in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:39 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:39.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer, Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:58 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:58.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:60 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:60.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer, Integer, Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:66 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:66.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer, ComputabilityTheory.Algebra) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:70 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:70.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer, Integer, ComputabilityTheory.Algebra) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:85 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:85.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Base.Irrational{:π})(Integer, Integer, Integer, ComputabilityTheory.Algebra) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:100 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:100.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ(Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:107 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:107.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ(Integer, Integer...) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:110 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:110.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ(AbstractArray{var"#s14", N} where N where var"#s14"<:Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:111 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:111.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ(Tuple{Integer, Integer}) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:114 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:114.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ⁻¹(Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:121 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:121.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition cℤ⁻¹(AbstractArray{var"#s14", N} where N where var"#s14"<:Integer) in module ComputabilityTheory at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:122 overwritten at /root/.julia/packages/ComputabilityTheory/fCMwW/src/coding.jl:122.
+  ** incremental compilation may be fatally broken for this module **
+
+[ Info: Finished indexing.

@@ -1,0 +1,15 @@
+[ Info: Indexing package Jets 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%###                                                                        4.4%######                                                                     9.4%########                                                                  11.9%##########                                                                15.1%##############                                                            20.7%###################                                                       27.6%###########################                                               37.6%####################################                                      50.2%############################################                              61.5%###################################################                       71.5%############################################################              83.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Jets ─ v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [2a57b368] + Jets v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [2a57b368] + Jets v1.0.0
+  [8bf52ea8] + CRC32c
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

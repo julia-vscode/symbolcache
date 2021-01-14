@@ -1,0 +1,10 @@
+[ Info: Indexing package Multibreak 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##########                                                                14.4%######################                                                    31.4%######################################################                    75.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Multibreak ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [2db7fbaf] + Multibreak v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [2db7fbaf] + Multibreak v0.1.0
+[ Info: Finished indexing.

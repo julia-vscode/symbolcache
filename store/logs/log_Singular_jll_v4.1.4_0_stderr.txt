@@ -1,0 +1,30 @@
+[ Info: Indexing package Singular_jll 4.1.4+0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     9.4%#############                                                             18.8%######################                                                    30.7%################################                                          45.8%###########################################                               60.2%###################################################                       72.1%##############################################################            86.6%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+ERROR: LoadError: Unsatisfiable requirements detected for package Singular_jll [43d676ae]:
+ Singular_jll [43d676ae] log:
+ ├─possible versions are: [4.1.3, 401.390.0, 401.990.0, 402.0.0-402.0.1] or uninstalled
+ └─restricted to versions 4.1.4 by an explicit requirement — no versions left
+Stacktrace:
+ [1] check_constraints(::Pkg.Resolve.Graph) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/graphtype.jl:935
+ [2] Pkg.Resolve.Graph(::Dict{Base.UUID,Set{VersionNumber}}, ::Dict{Base.UUID,Dict{VersionNumber,Dict{String,Base.UUID}}}, ::Dict{Base.UUID,Dict{VersionNumber,Dict{String,Pkg.Types.VersionSpec}}}, ::Dict{Base.UUID,String}, ::Dict{Base.UUID,Pkg.Types.VersionSpec}, ::Dict{Base.UUID,Pkg.Resolve.Fixed}, ::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Resolve/graphtype.jl:362
+ [3] deps_graph(::Pkg.Types.Context, ::Dict{Base.UUID,String}, ::Dict{Base.UUID,Pkg.Types.VersionSpec}, ::Dict{Base.UUID,Pkg.Resolve.Fixed}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:502
+ [4] resolve_versions!(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:374
+ [5] targeted_resolve at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1114 [inlined]
+ [6] tiered_resolve(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1100
+ [7] _resolve at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1120 [inlined]
+ [8] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Array{Base.UUID,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1135
+ [9] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:188
+ [10] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:139
+ [11] #add#21 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [12] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
+ [13] #add#19 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [14] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
+ [15] add(; name::String, uuid::Nothing, version::VersionNumber, url::Nothing, rev::Nothing, path::Nothing, mode::Pkg.Types.PackageMode, subdir::Nothing, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:82
+ [16] top-level scope at /SymbolServer/src/indexpackage.jl:26
+ [17] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [18] include(::Module, ::String) at ./Base.jl:368
+ [19] exec_options(::Base.JLOptions) at ./client.jl:296
+ [20] _start() at ./client.jl:506
+in expression starting at /SymbolServer/src/indexpackage.jl:26

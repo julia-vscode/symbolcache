@@ -1,0 +1,26 @@
+[ Info: Indexing package Xorg_xineramaproto_jll 1.2.1+0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #####                                                                      7.5%###############                                                           22.0%#############################                                             41.4%############################################                              61.5%############################################################              83.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Xorg_xineramaproto_jll ─ v1.2.1+0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [6a3da44c] + Xorg_xineramaproto_jll v1.2.1+0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [6a3da44c] + Xorg_xineramaproto_jll v1.2.1+0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

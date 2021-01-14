@@ -1,0 +1,80 @@
+[ Info: Indexing package AprilTags 0.8.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ########                                                                  11.3%########################                                                  33.9%########################################                                  56.5%#######################################################                   77.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MosaicViews ───────── v0.2.4
+  Installed NaNMath ───────────── v0.3.5
+  Installed MappedArrays ──────── v0.3.0
+  Installed Graphics ──────────── v1.0.2
+  Installed Requires ──────────── v1.1.2
+  Installed OffsetArrays ──────── v1.5.0
+  Installed ImageCore ─────────── v0.8.20
+  Installed Adapt ─────────────── v2.4.0
+  Installed Reexport ──────────── v1.0.0
+  Installed FixedPointNumbers ─── v0.8.4
+  Installed ColorTypes ────────── v0.10.9
+  Installed Distances ─────────── v0.10.0
+  Installed AbstractFFTs ──────── v1.0.0
+  Installed ImageDraw ─────────── v0.2.4
+  Installed Colors ────────────── v0.12.6
+  Installed DocStringExtensions ─ v0.8.3
+  Installed AprilTags ─────────── v0.8.0
+  Installed PaddedViews ───────── v0.5.7
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [f0fec3d5] + AprilTags v0.8.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [621f4979] + AbstractFFTs v1.0.0
+  [79e6a3ab] + Adapt v2.4.0
+  [f0fec3d5] + AprilTags v0.8.0
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [b4f34e82] + Distances v0.10.0
+  [ffbed154] + DocStringExtensions v0.8.3
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [a2bd30eb] + Graphics v1.0.2
+  [a09fc81d] + ImageCore v0.8.20
+  [4381153b] + ImageDraw v0.2.4
+  [dbb5928d] + MappedArrays v0.3.0
+  [e94cdb99] + MosaicViews v0.2.4
+  [77ba4419] + NaNMath v0.3.5
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [5432bcbf] + PaddedViews v0.5.7
+  [189a3867] + Reexport v1.0.0
+  [ae029012] + Requires v1.1.2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building AprilTags → `~/.julia/packages/AprilTags/KXWdB/deps/build.log`
+┌ Error: Error building `AprilTags`: 
+│ ERROR: LoadError: IOError: could not spawn `make clean -C apriltag-0.10.0/`: no such file or directory (ENOENT)
+│ Stacktrace:
+│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
+│  [2] #585 at ./process.jl:112 [inlined]
+│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
+│  [4] _spawn at ./process.jl:111 [inlined]
+│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
+│  [6] run(::Cmd) at ./process.jl:438
+│  [7] top-level scope at /root/.julia/packages/AprilTags/KXWdB/deps/build.jl:4
+│  [8] include(::String) at ./client.jl:457
+│  [9] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/AprilTags/KXWdB/deps/build.jl:4
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+[ Info: Could not load package, exiting.

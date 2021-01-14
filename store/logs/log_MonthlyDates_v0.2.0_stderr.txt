@@ -1,0 +1,15 @@
+[ Info: Indexing package MonthlyDates 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ##                                                                         3.8%##############################                                            42.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RecipesBase ── v1.1.1
+  Installed MonthlyDates ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [5be0b35e] + MonthlyDates v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [5be0b35e] + MonthlyDates v0.2.0
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [ade2ca70] + Dates
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

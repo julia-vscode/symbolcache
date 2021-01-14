@@ -1,0 +1,16 @@
+[ Info: Indexing package Xsum 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#########                                                                 13.8%##################                                                        25.7%############################                                              38.9%######################################                                    54.0%#################################################                         68.4%##############################################################            87.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed BinaryProvider ─ v0.5.10
+  Installed Xsum ─────────── v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [1fd64df0] + Xsum v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b99e7846] + BinaryProvider v0.5.10
+  [1fd64df0] + Xsum v0.1.0
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [ea8e919c] + SHA
+   Building Xsum → `~/.julia/packages/Xsum/RltN1/deps/build.log`
+[ Info: Finished indexing.

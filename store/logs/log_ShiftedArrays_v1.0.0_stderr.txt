@@ -1,0 +1,10 @@
+[ Info: Indexing package ShiftedArrays 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              17.6%######################################                                    54.0%#####################################################################     96.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ShiftedArrays ─ v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [1277b4bf] + ShiftedArrays v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [1277b4bf] + ShiftedArrays v1.0.0
+[ Info: Finished indexing.

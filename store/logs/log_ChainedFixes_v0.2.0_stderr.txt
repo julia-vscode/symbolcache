@@ -1,0 +1,10 @@
+[ Info: Indexing package ChainedFixes 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%###########                                                               16.3%###################################                                       49.6%######################################################                    75.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ChainedFixes ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [9706b775] + ChainedFixes v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [9706b775] + ChainedFixes v0.2.0
+[ Info: Finished indexing.

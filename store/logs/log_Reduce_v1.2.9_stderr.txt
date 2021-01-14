@@ -1,0 +1,35 @@
+[ Info: Indexing package Reduce 1.2.9...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%####                                                                       6.9%################                                                          22.6%#########################                                                 35.1%#################################                                         47.1%###########################################                               60.9%######################################################                    75.3%##############################################################            87.2%######################################################################    97.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed AbstractTensors ── v0.6.5
+  Installed AbstractLattices ─ v0.2.1
+  Installed ReplMaker ──────── v0.2.4
+  Installed SyntaxTree ─────── v1.0.1
+  Installed ForceImport ────── v0.0.3
+  Installed Reduce ─────────── v1.2.9
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [93e0c654] + Reduce v1.2.9
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [398f06c4] + AbstractLattices v0.2.1
+  [a8e43f4a] + AbstractTensors v0.6.5
+  [9dda63f9] + ForceImport v0.0.3
+  [93e0c654] + Reduce v1.2.9
+  [b873ce64] + ReplMaker v0.2.4
+  [a4af3ec5] + SyntaxTree v1.0.1
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [4ec0a83e] + Unicode
+   Building Reduce → `~/.julia/packages/Reduce/1n3pM/deps/build.log`
+/root/.julia/packages/Reduce/1n3pM/deps/usr/lib/reduce/cslbuild/csl/reduce: error while loading shared libraries: libXrandr.so.2: cannot open shared object file: No such file or directory
+[ Info: Could not load package, exiting.

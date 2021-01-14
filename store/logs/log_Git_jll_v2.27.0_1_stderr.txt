@@ -1,0 +1,52 @@
+[ Info: Indexing package Git_jll 2.27.0+1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     8.8%#################                                                         24.5%#############################                                             40.8%#########################################                                 57.7%####################################################                      72.8%#############################################################             85.3%######################################################################    97.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed LibSSH2_jll ── v1.9.0+3
+  Installed Libiconv_jll ─ v1.16.0+7
+  Installed PCRE2_jll ──── v10.34.0+2
+  Installed LibCURL_jll ── v7.70.0+2
+  Installed nghttp2_jll ── v1.40.0+2
+  Installed Zlib_jll ───── v1.2.11+18
+  Installed OpenSSL_jll ── v1.1.1+6
+  Installed Artifacts ──── v1.3.0
+  Installed Expat_jll ──── v2.2.7+6
+  Installed Git_jll ────── v2.27.0+1
+  Installed Gettext_jll ── v0.20.1+7
+  Installed XML2_jll ───── v2.9.10+3
+  Installed MbedTLS_jll ── v2.16.8+1
+  Installed JLLWrappers ── v1.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [f8c6e375] + Git_jll v2.27.0+1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [2e619515] + Expat_jll v2.2.7+6
+  [78b55507] + Gettext_jll v0.20.1+7
+  [f8c6e375] + Git_jll v2.27.0+1
+  [692b3bcd] + JLLWrappers v1.2.0
+  [deac9b47] + LibCURL_jll v7.70.0+2
+  [29816b5a] + LibSSH2_jll v1.9.0+3
+  [94ce4f54] + Libiconv_jll v1.16.0+7
+  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
+  [458c3c95] + OpenSSL_jll v1.1.1+6
+  [efcefdf7] + PCRE2_jll v10.34.0+2
+  [02c8fc9c] + XML2_jll v2.9.10+3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [8e850ede] + nghttp2_jll v1.40.0+2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

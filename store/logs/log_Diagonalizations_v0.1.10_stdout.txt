@@ -1,0 +1,18 @@
+
+⭐  Welcome to the[91m PosDefManifold.jl [0mpackage ⭐
+
+ Your Machine `f5615d528865` (x86_64-pc-linux-gnu)
+ runs on kernel Linux with word size 64.
+ CPU  Threads: 36
+ Base.Threads: 1
+ BLAS Threads: 36
+
+
+⭐  Welcome to the[35m Diagonalizations.jl [0mpackage ⭐
+
+ Your Machine `f5615d528865` (x86_64-pc-linux-gnu)
+ runs on kernel Linux with word size 64.
+ CPU  Threads: 36
+ Base.Threads: 1
+ BLAS Threads: 36
+

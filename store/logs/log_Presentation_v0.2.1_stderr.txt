@@ -1,0 +1,60 @@
+[ Info: Indexing package Presentation 0.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%####                                                                       6.3%############                                                              16.9%################                                                          23.2%######################                                                    30.7%###########################                                               37.6%################################                                          45.8%######################################                                    53.3%############################################                              61.5%##################################################                        69.6%#######################################################                   77.2%############################################################              84.7%##################################################################        92.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed TerminalExtensions ── v0.4.0
+  Installed Crayons ───────────── v4.0.4
+  Installed Parsers ───────────── v1.0.15
+  Installed Pandoc ────────────── v0.2.5
+  Installed DocStringExtensions ─ v0.8.3
+  Installed JSON ──────────────── v0.21.1
+  Installed Highlights ────────── v0.4.5
+  Installed Presentation ──────── v0.2.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [8bd9f6a2] + Presentation v0.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a8cc5b0e] + Crayons v4.0.4
+  [ffbed154] + DocStringExtensions v0.8.3
+  [eafb193a] + Highlights v0.4.5
+  [682c06a0] + JSON v0.21.1
+  [f853b5e0] + Pandoc v0.2.5
+  [69de0a69] + Parsers v1.0.15
+  [8bd9f6a2] + Presentation v0.2.1
+  [d3a6a179] + TerminalExtensions v0.4.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+ERROR: LoadError: LoadError: Evaluation into the closed module `Lexers` breaks incremental compilation because the side effects will not be permanent. This is likely due to some other module mutating `Lexers` with `eval` during precompilation - don't do this.
+Stacktrace:
+ [1] eval at ./boot.jl:331 [inlined]
+ [2] compile_lexer(::Module, ::Type{T} where T) at /root/.julia/packages/Highlights/Xipti/src/Compiler.jl:119
+ [3] top-level scope at /root/.julia/packages/Highlights/Xipti/src/Lexers.jl:51
+ [4] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [5] include at ./Base.jl:368 [inlined]
+ [6] include(::String) at /root/.julia/packages/Presentation/fizvw/src/Presentation.jl:1
+ [7] top-level scope at /root/.julia/packages/Presentation/fizvw/src/Presentation.jl:20
+ [8] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [9] include(::Module, ::String) at ./Base.jl:368
+ [10] top-level scope at none:2
+ [11] eval at ./boot.jl:331 [inlined]
+ [12] eval(::Expr) at ./client.jl:467
+ [13] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/Presentation/fizvw/src/lexers.jl:4
+in expression starting at /root/.julia/packages/Presentation/fizvw/src/Presentation.jl:20
+[ Info: Could not load package, exiting.

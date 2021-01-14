@@ -1,0 +1,12 @@
+[ Info: Indexing package Qutilities 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%#####                                                                      7.5%############                                                              16.9%#######################                                                   33.3%#####################################                                     52.7%###############################################                           65.9%###########################################################               82.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Qutilities ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [144146ce] + Qutilities v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [144146ce] + Qutilities v0.2.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

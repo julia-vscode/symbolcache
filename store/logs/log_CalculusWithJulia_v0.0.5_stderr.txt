@@ -1,0 +1,360 @@
+[ Info: Indexing package CalculusWithJulia 0.0.5...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ####                                                                       6.9%################                                                          23.2%################################                                          44.5%################################################                          67.1%###################################################################       93.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed GLFW_jll ───────────────────── v3.3.2+1
+  Installed SortingAlgorithms ──────────── v0.3.1
+  Installed Qt_jll ─────────────────────── v5.15.2+1
+  Installed Requires ───────────────────── v1.1.2
+  Installed RecipesPipeline ────────────── v0.2.1
+  Installed IteratorInterfaceExtensions ── v1.0.0
+  Installed CommonSubexpressions ───────── v0.3.0
+  Installed Xorg_libX11_jll ────────────── v1.6.9+4
+  Installed GeometryBasics ─────────────── v0.3.5
+  Installed Wayland_jll ────────────────── v1.17.0+4
+  Installed Libiconv_jll ───────────────── v1.16.0+7
+  Installed Libffi_jll ─────────────────── v3.2.1+4
+  Installed ErrorfreeArithmetic ────────── v0.5.2
+  Installed Compat ─────────────────────── v3.25.0
+  Installed DataStructures ─────────────── v0.18.8
+  Installed Reexport ───────────────────── v0.2.0
+  Installed DataFrames ─────────────────── v0.21.8
+  Installed Conda ──────────────────────── v1.5.0
+  Installed Wayland_protocols_jll ──────── v1.18.0+4
+  Installed JSON ───────────────────────── v0.21.1
+  Installed LZO_jll ────────────────────── v2.10.0+3
+  Installed FixedPointNumbers ──────────── v0.8.4
+  Installed FFMPEG_jll ─────────────────── v4.3.1+4
+  Installed Tectonic ───────────────────── v0.2.0
+  Installed DocStringExtensions ────────── v0.8.3
+  Installed Colors ─────────────────────── v0.12.6
+  Installed ColorTypes ─────────────────── v0.10.9
+  Installed Xorg_libXi_jll ─────────────── v1.7.10+4
+  Installed xkbcommon_jll ──────────────── v0.9.1+5
+  Installed Xorg_libXfixes_jll ─────────── v5.0.3+4
+  Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed Xorg_libXcursor_jll ────────── v1.2.0+4
+  Installed Xorg_xcb_util_renderutil_jll ─ v0.3.9+1
+  Installed StaticArrays ───────────────── v1.0.1
+  Installed StatsBase ──────────────────── v0.33.2
+  Installed PyCall ─────────────────────── v1.92.2
+  Installed RoundingEmulator ───────────── v0.2.1
+  Installed PooledArrays ───────────────── v0.5.3
+  Installed HCubature ──────────────────── v1.5.0
+  Installed Xorg_xcb_util_keysyms_jll ──── v0.4.0+1
+  Installed Parsers ────────────────────── v1.0.15
+  Installed Xorg_libXdmcp_jll ──────────── v1.1.3+4
+  Installed ForwardDiff ────────────────── v0.10.14
+  Installed Libglvnd_jll ───────────────── v1.3.0+3
+  Installed Xorg_libXrender_jll ────────── v0.9.10+4
+  Installed Xorg_libpthread_stubs_jll ──── v0.1.0+3
+  Installed IntervalArithmetic ─────────── v0.17.7
+  Installed Grisu ──────────────────────── v1.0.0
+  Installed LibVPX_jll ─────────────────── v1.9.0+1
+  Installed Tables ─────────────────────── v1.2.2
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed InvertedIndices ────────────── v1.0.0
+  Installed PCRE_jll ───────────────────── v8.42.0+4
+  Installed OpenSSL_jll ────────────────── v1.1.1+6
+  Installed VersionParsing ─────────────── v1.2.0
+  Installed Fontconfig_jll ─────────────── v2.13.1+14
+  Installed Ogg_jll ────────────────────── v1.3.4+2
+  Installed EarCut_jll ─────────────────── v2.1.5+1
+  Installed libpng_jll ─────────────────── v1.6.37+6
+  Installed Roots ──────────────────────── v1.0.7
+  Installed Xorg_xtrans_jll ────────────── v1.4.0+3
+  Installed QuadGK ─────────────────────── v2.4.1
+  Installed Zstd_jll ───────────────────── v1.4.5+2
+  Installed LaTeXStrings ───────────────── v1.2.0
+  Installed MbedTLS ────────────────────── v1.0.3
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed Measures ───────────────────── v0.3.1
+  Installed Glib_jll ───────────────────── v2.59.0+4
+  Installed StructTypes ────────────────── v1.2.1
+  Installed Xorg_libXau_jll ────────────── v1.0.9+4
+  Installed libvorbis_jll ──────────────── v1.3.6+6
+  Installed Libmount_jll ───────────────── v2.34.0+3
+  Installed Xorg_xcb_util_jll ──────────── v0.4.0+1
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed x264_jll ───────────────────── v2020.7.14+2
+  Installed FFMPEG ─────────────────────── v0.4.0
+  Installed Libuuid_jll ────────────────── v2.34.0+7
+  Installed Xorg_libXrandr_jll ─────────── v1.5.2+4
+  Installed Xorg_xkbcomp_jll ───────────── v1.4.2+4
+  Installed PlotUtils ──────────────────── v1.0.10
+  Installed RecipesBase ────────────────── v1.1.1
+  Installed SymPy ──────────────────────── v1.0.38
+  Installed Combinatorics ──────────────── v1.0.2
+  Installed Weave ──────────────────────── v0.10.6
+  Installed FreeType2_jll ──────────────── v2.10.1+5
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed JpegTurbo_jll ──────────────── v2.0.1+3
+  Installed FastRounding ───────────────── v0.2.0
+  Installed XSLT_jll ───────────────────── v1.1.33+4
+  Installed ImplicitEquations ──────────── v0.6.0
+  Installed Cairo_jll ──────────────────── v1.16.0+6
+  Installed DiffRules ──────────────────── v1.0.2
+  Installed YAML ───────────────────────── v0.4.5
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed Formatting ─────────────────── v0.4.2
+  Installed Adapt ──────────────────────── v2.4.0
+  Installed Mustache ───────────────────── v1.0.10
+  Installed Opus_jll ───────────────────── v1.3.1+3
+  Installed Plots ──────────────────────── v1.10.1
+  Installed Xorg_libxcb_jll ────────────── v1.13.0+3
+  Installed XML2_jll ───────────────────── v2.9.10+3
+  Installed Libgcrypt_jll ──────────────── v1.8.5+4
+  Installed Expat_jll ──────────────────── v2.2.7+6
+  Installed DataValueInterfaces ────────── v1.0.0
+  Installed Gettext_jll ────────────────── v0.20.1+7
+  Installed CRlibm ─────────────────────── v0.8.0
+  Installed FriBidi_jll ────────────────── v1.0.5+6
+  Installed CategoricalArrays ──────────── v0.8.3
+  Installed MbedTLS_jll ────────────────── v2.16.8+1
+  Installed Missings ───────────────────── v0.4.4
+  Installed DiffResults ────────────────── v1.0.3
+  Installed Libgpg_error_jll ───────────── v1.36.0+3
+  Installed Xorg_libXext_jll ───────────── v1.3.4+4
+  Installed SetRounding ────────────────── v0.2.0
+  Installed Scratch ────────────────────── v1.0.3
+  Installed StructArrays ───────────────── v0.4.4
+  Installed Contour ────────────────────── v0.5.7
+  Installed SpecialFunctions ───────────── v0.10.3
+  Installed IniFile ────────────────────── v0.5.0
+  Installed Libtiff_jll ────────────────── v4.1.0+2
+  Installed x265_jll ───────────────────── v3.0.0+3
+  Installed TableTraits ────────────────── v1.0.0
+  Installed GR_jll ─────────────────────── v0.53.0+0
+  Installed NaNMath ────────────────────── v0.3.5
+  Installed Pixman_jll ─────────────────── v0.40.0+0
+  Installed libass_jll ─────────────────── v0.14.0+4
+  Installed Highlights ─────────────────── v0.4.5
+  Installed ColorSchemes ───────────────── v3.10.2
+  Installed libfdk_aac_jll ─────────────── v0.1.6+4
+  Installed Xorg_xkeyboard_config_jll ──── v2.27.0+4
+  Installed Xorg_xcb_util_wm_jll ───────── v0.4.1+1
+  Installed IterTools ──────────────────── v1.3.0
+  Installed Latexify ───────────────────── v0.14.7
+  Installed Xorg_libXinerama_jll ───────── v1.1.4+4
+  Installed LAME_jll ───────────────────── v3.100.0+3
+  Installed Showoff ────────────────────── v0.3.2
+  Installed Bzip2_jll ──────────────────── v1.0.6+5
+  Installed Xorg_xcb_util_image_jll ────── v0.4.0+1
+  Installed Xorg_libxkbfile_jll ────────── v1.1.0+4
+  Installed PlotThemes ─────────────────── v2.0.0
+  Installed HTTP ───────────────────────── v0.8.19
+  Installed MacroTools ─────────────────── v0.5.6
+  Installed GR ─────────────────────────── v0.53.0
+  Installed CalculusWithJulia ──────────── v0.0.5
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a2e0e22d] + CalculusWithJulia v0.0.5
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [79e6a3ab] + Adapt v2.4.0
+  [56f22d72] + Artifacts v1.3.0
+  [6e34b625] + Bzip2_jll v1.0.6+5
+  [96374032] + CRlibm v0.8.0
+  [83423d85] + Cairo_jll v1.16.0+6
+  [a2e0e22d] + CalculusWithJulia v0.0.5
+  [324d7699] + CategoricalArrays v0.8.3
+  [35d6a980] + ColorSchemes v3.10.2
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [861a8166] + Combinatorics v1.0.2
+  [bbf7d656] + CommonSubexpressions v0.3.0
+  [34da2185] + Compat v3.25.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [8f4d0f93] + Conda v1.5.0
+  [d38c429a] + Contour v0.5.7
+  [9a962f9c] + DataAPI v1.4.0
+  [a93c6f00] + DataFrames v0.21.8
+  [864edb3b] + DataStructures v0.18.8
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [163ba53b] + DiffResults v1.0.3
+  [b552c78f] + DiffRules v1.0.2
+  [ffbed154] + DocStringExtensions v0.8.3
+  [5ae413db] + EarCut_jll v2.1.5+1
+  [90fa49ef] + ErrorfreeArithmetic v0.5.2
+  [2e619515] + Expat_jll v2.2.7+6
+  [c87230d0] + FFMPEG v0.4.0
+  [b22a6f82] + FFMPEG_jll v4.3.1+4
+  [fa42c844] + FastRounding v0.2.0
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [a3f928ae] + Fontconfig_jll v2.13.1+14
+  [59287772] + Formatting v0.4.2
+  [f6369f11] + ForwardDiff v0.10.14
+  [d7e528f0] + FreeType2_jll v2.10.1+5
+  [559328eb] + FriBidi_jll v1.0.5+6
+  [0656b61e] + GLFW_jll v3.3.2+1
+  [28b8d3ca] + GR v0.53.0
+  [d2c73de3] + GR_jll v0.53.0+0
+  [5c1252a2] + GeometryBasics v0.3.5
+  [78b55507] + Gettext_jll v0.20.1+7
+  [7746bdde] + Glib_jll v2.59.0+4
+  [42e2da0e] + Grisu v1.0.0
+  [19dc6840] + HCubature v1.5.0
+  [cd3eb016] + HTTP v0.8.19
+  [eafb193a] + Highlights v0.4.5
+  [95701278] + ImplicitEquations v0.6.0
+  [83e8ac13] + IniFile v0.5.0
+  [d1acc4aa] + IntervalArithmetic v0.17.7
+  [41ab1584] + InvertedIndices v1.0.0
+  [c8e1da08] + IterTools v1.3.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [aacddb02] + JpegTurbo_jll v2.0.1+3
+  [c1c5ebd0] + LAME_jll v3.100.0+3
+  [dd4b983a] + LZO_jll v2.10.0+3
+  [b964fa9f] + LaTeXStrings v1.2.0
+  [23fbe1c1] + Latexify v0.14.7
+  [dd192d2f] + LibVPX_jll v1.9.0+1
+  [e9f186c6] + Libffi_jll v3.2.1+4
+  [d4300ac3] + Libgcrypt_jll v1.8.5+4
+  [7e76a0d4] + Libglvnd_jll v1.3.0+3
+  [7add5ba3] + Libgpg_error_jll v1.36.0+3
+  [94ce4f54] + Libiconv_jll v1.16.0+7
+  [4b2f31a3] + Libmount_jll v2.34.0+3
+  [89763e89] + Libtiff_jll v4.1.0+2
+  [38a345b3] + Libuuid_jll v2.34.0+7
+  [1914dd2f] + MacroTools v0.5.6
+  [739be429] + MbedTLS v1.0.3
+  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
+  [442fdcdd] + Measures v0.3.1
+  [e1d29d7a] + Missings v0.4.4
+  [ffc61752] + Mustache v1.0.10
+  [77ba4419] + NaNMath v0.3.5
+  [e7412a2a] + Ogg_jll v1.3.4+2
+  [458c3c95] + OpenSSL_jll v1.1.1+6
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [91d4177d] + Opus_jll v1.3.1+3
+  [bac558e1] + OrderedCollections v1.3.2
+  [2f80f16e] + PCRE_jll v8.42.0+4
+  [69de0a69] + Parsers v1.0.15
+  [30392449] + Pixman_jll v0.40.0+0
+  [ccf2f8ad] + PlotThemes v2.0.0
+  [995b91a9] + PlotUtils v1.0.10
+  [91a5bcdd] + Plots v1.10.1
+  [2dfb63ee] + PooledArrays v0.5.3
+  [438e738f] + PyCall v1.92.2
+  [ede63266] + Qt_jll v5.15.2+1
+  [1fd47b50] + QuadGK v2.4.1
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [01d81517] + RecipesPipeline v0.2.1
+  [189a3867] + Reexport v0.2.0
+  [ae029012] + Requires v1.1.2
+  [f2b01f46] + Roots v1.0.7
+  [5eaf0fd0] + RoundingEmulator v0.2.1
+  [6c6a2e73] + Scratch v1.0.3
+  [3cc68bcd] + SetRounding v0.2.0
+  [992d4aef] + Showoff v0.3.2
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [276daf66] + SpecialFunctions v0.10.3
+  [90137ffa] + StaticArrays v1.0.1
+  [2913bbd2] + StatsBase v0.33.2
+  [09ab397b] + StructArrays v0.4.4
+  [856f2bd8] + StructTypes v1.2.1
+  [24249f21] + SymPy v1.0.38
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v1.2.2
+  [9ac5f52a] + Tectonic v0.2.0
+  [81def892] + VersionParsing v1.2.0
+  [a2964d1f] + Wayland_jll v1.17.0+4
+  [2381bf8a] + Wayland_protocols_jll v1.18.0+4
+  [44d3d7a6] + Weave v0.10.6
+  [02c8fc9c] + XML2_jll v2.9.10+3
+  [aed1982a] + XSLT_jll v1.1.33+4
+  [4f6342f7] + Xorg_libX11_jll v1.6.9+4
+  [0c0b7dd1] + Xorg_libXau_jll v1.0.9+4
+  [935fb764] + Xorg_libXcursor_jll v1.2.0+4
+  [a3789734] + Xorg_libXdmcp_jll v1.1.3+4
+  [1082639a] + Xorg_libXext_jll v1.3.4+4
+  [d091e8ba] + Xorg_libXfixes_jll v5.0.3+4
+  [a51aa0fd] + Xorg_libXi_jll v1.7.10+4
+  [d1454406] + Xorg_libXinerama_jll v1.1.4+4
+  [ec84b674] + Xorg_libXrandr_jll v1.5.2+4
+  [ea2f1a96] + Xorg_libXrender_jll v0.9.10+4
+  [14d82f49] + Xorg_libpthread_stubs_jll v0.1.0+3
+  [c7cfdc94] + Xorg_libxcb_jll v1.13.0+3
+  [cc61e674] + Xorg_libxkbfile_jll v1.1.0+4
+  [12413925] + Xorg_xcb_util_image_jll v0.4.0+1
+  [2def613f] + Xorg_xcb_util_jll v0.4.0+1
+  [975044d2] + Xorg_xcb_util_keysyms_jll v0.4.0+1
+  [0d47668e] + Xorg_xcb_util_renderutil_jll v0.3.9+1
+  [c22f9ab0] + Xorg_xcb_util_wm_jll v0.4.1+1
+  [35661453] + Xorg_xkbcomp_jll v1.4.2+4
+  [33bec58e] + Xorg_xkeyboard_config_jll v2.27.0+4
+  [c5fb5394] + Xorg_xtrans_jll v1.4.0+3
+  [ddb6d928] + YAML v0.4.5
+  [83775a58] + Zlib_jll v1.2.11+18
+  [3161d3a3] + Zstd_jll v1.4.5+2
+  [0ac62f75] + libass_jll v0.14.0+4
+  [f638f0a6] + libfdk_aac_jll v0.1.6+4
+  [b53b4c65] + libpng_jll v1.6.37+6
+  [f27f6e37] + libvorbis_jll v1.3.6+6
+  [1270edf5] + x264_jll v2020.7.14+2
+  [dfaa095f] + x265_jll v3.0.0+3
+  [d8fb68d0] + xkbcommon_jll v0.9.1+5
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [9fa8497b] + Future
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building CRlibm → `~/.julia/packages/CRlibm/NFCH5/deps/build.log`
+┌ Error: Error building `CRlibm`: 
+│ configure: error: in `/root/.julia/packages/CRlibm/NFCH5/deps/src/crlibm-1.0beta4':
+│ configure: error: no acceptable C compiler found in $PATH
+│ See `config.log' for more details.
+│ ERROR: LoadError: failed process: Process(`./configure --silent 'CFLAGS=-fpic -w'`, ProcessExited(1)) [1]
+│ 
+│ Stacktrace:
+│  [1] pipeline_error at ./process.jl:525 [inlined]
+│  [2] run(::Cmd; wait::Bool) at ./process.jl:440
+│  [3] run(::Cmd) at ./process.jl:438
+│  [4] top-level scope at /root/.julia/packages/CRlibm/NFCH5/deps/build.jl:23
+│  [5] include(::String) at ./client.jl:457
+│  [6] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/CRlibm/NFCH5/deps/build.jl:23
+│ Working in /root/.julia/packages/CRlibm/NFCH5/deps/src/crlibm-1.0beta4
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+   Building GR ────→ `~/.julia/packages/GR/RlE5Y/deps/build.log`
+┌ Warning: CRlibm is falling back to use MPFR; it will have
+│         the same functionality, but with slower execution.
+│         This is currently the only option on Windows.
+└ @ CRlibm ~/.julia/packages/CRlibm/NFCH5/src/CRlibm.jl:24
+[ Info: CRlibm is shadowing MPFR.
+[ Info: Installing sympy via the Conda sympy package...
+[ Info: Running `conda install -y sympy` in root environment
+WARNING: Method definition latex(IO, Markdown.LaTeX) in module Markdown at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Markdown/src/IPython/IPython.jl:28 overwritten in module WeaveMarkdown at /root/.julia/packages/Weave/BarbQ/src/WeaveMarkdown/markdown.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition latex(IO, Markdown.LaTeX) in module Markdown at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Markdown/src/IPython/IPython.jl:28 overwritten in module WeaveMarkdown at /root/.julia/packages/Weave/BarbQ/src/WeaveMarkdown/markdown.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition _show(IO, Base.Multimedia.MIME{Symbol("text/html")}, Plots.Plot{Plots.PlotlyBackend}) in module Plots at /root/.julia/packages/Plots/lmp2A/src/backends/plotly.jl:953 overwritten in module WeaveSupport at /root/.julia/packages/CalculusWithJulia/GElSC/src/WeaveSupport/WeaveSupport.jl:27.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: both SymPy and SpecialFunctions export "ellipk"; uses of it in module CalculusWithJulia must be qualified
+[ Info: Finished indexing.

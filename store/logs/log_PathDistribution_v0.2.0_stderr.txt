@@ -1,0 +1,10 @@
+[ Info: Indexing package PathDistribution 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          2.5%##########                                                                15.1%###################                                                       27.0%#############################                                             40.8%####################################                                      50.2%##########################################                                58.3%#############################################                             63.4%####################################################                      72.8%############################################################              83.4%#####################################################################     96.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed PathDistribution ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [1a7fcfa4] + PathDistribution v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [1a7fcfa4] + PathDistribution v0.2.0
+[ Info: Finished indexing.

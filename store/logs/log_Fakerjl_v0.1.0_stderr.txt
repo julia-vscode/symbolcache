@@ -1,0 +1,10 @@
+[ Info: Indexing package Fakerjl 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%############                                                              16.9%###############################                                           43.9%######################################################                    75.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Fakerjl ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [59bbcd92] + Fakerjl v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [59bbcd92] + Fakerjl v0.1.0
+[ Info: Finished indexing.

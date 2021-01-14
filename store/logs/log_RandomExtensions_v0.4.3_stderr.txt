@@ -1,0 +1,15 @@
+[ Info: Indexing package RandomExtensions 0.4.3...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          2.5%#########                                                                 12.5%###################                                                       27.0%#############################                                             40.8%#########################################                                 57.7%###################################################                       71.5%###########################################################               82.2%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RandomExtensions ─ v0.4.3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [fb686558] + RandomExtensions v0.4.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [fb686558] + RandomExtensions v0.4.3
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+[ Info: Finished indexing.

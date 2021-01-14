@@ -1,0 +1,10 @@
+[ Info: Indexing package UnalignedVectors 0.0.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              16.9%#################################                                         46.4%############################################                              61.5%########################################################                  79.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed UnalignedVectors ─ v0.0.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [f306ff79] + UnalignedVectors v0.0.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [f306ff79] + UnalignedVectors v0.0.2
+[ Info: Finished indexing.

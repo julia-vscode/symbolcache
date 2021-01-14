@@ -1,0 +1,10 @@
+[ Info: Indexing package FastIOBuffers 0.3.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%########                                                                  11.9%############################                                              38.9%################################################                          67.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed FastIOBuffers ─ v0.3.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [6ccb8d0d] + FastIOBuffers v0.3.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [6ccb8d0d] + FastIOBuffers v0.3.1
+[ Info: Finished indexing.

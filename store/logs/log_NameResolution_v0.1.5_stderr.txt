@@ -1,0 +1,12 @@
+[ Info: Indexing package NameResolution 0.1.5...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%###########                                                               16.3%######################                                                    30.7%####################################                                      50.2%#####################################################                     74.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed PrettyPrint ──── v0.2.0
+  Installed NameResolution ─ v0.1.5
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [71a1bf82] + NameResolution v0.1.5
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [71a1bf82] + NameResolution v0.1.5
+  [8162dcfd] + PrettyPrint v0.2.0
+[ Info: Finished indexing.

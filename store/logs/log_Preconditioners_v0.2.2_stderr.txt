@@ -1,0 +1,47 @@
+[ Info: Indexing package Preconditioners 0.2.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%#########                                                                 13.8%####################                                                      28.2%###############################                                           43.3%#########################################                                 57.7%#################################################                         68.4%########################################################                  79.1%################################################################          89.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RecipesBase ────────────── v1.1.1
+  Installed LimitedLDLFactorizations ─ v0.3.0
+  Installed AMD ────────────────────── v0.4.0
+  Installed Compat ─────────────────── v2.2.1
+  Installed IterativeSolvers ───────── v0.8.5
+  Installed AlgebraicMultigrid ─────── v0.2.2
+  Installed Preconditioners ────────── v0.2.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [af69fa37] + Preconditioners v0.2.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [14f7f29c] + AMD v0.4.0
+  [2169fc97] + AlgebraicMultigrid v0.2.2
+  [34da2185] + Compat v2.2.1
+  [42fd0dbc] + IterativeSolvers v0.8.5
+  [f5a24dde] + LimitedLDLFactorizations v0.3.0
+  [af69fa37] + Preconditioners v0.2.2
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Preconditioners → `~/.julia/packages/Preconditioners/vYPcC/deps/build.log`
+[ Info: Finished indexing.

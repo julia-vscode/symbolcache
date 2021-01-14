@@ -1,0 +1,10 @@
+[ Info: Indexing package Inflate 0.1.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#############                                                             18.2%##################################                                        47.7%###########################################################               82.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Inflate ─ v0.1.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d25df0c9] + Inflate v0.1.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [d25df0c9] + Inflate v0.1.2
+[ Info: Finished indexing.

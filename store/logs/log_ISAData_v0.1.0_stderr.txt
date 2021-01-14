@@ -1,0 +1,18 @@
+[ Info: Indexing package ISAData 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%###                                                                        4.4%######                                                                     9.4%#############                                                             18.2%################                                                          23.2%#######################                                                   33.3%###############################                                           43.3%######################################                                    54.0%#############################################                             62.7%####################################################                      72.8%############################################################              84.1%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ConstructionBase ─ v1.0.0
+  Installed Unitful ────────── v1.5.0
+  Installed ISAData ────────── v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d7b50b69] + ISAData v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [187b0558] + ConstructionBase v1.0.0
+  [d7b50b69] + ISAData v0.1.0
+  [1986cc42] + Unitful v1.5.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

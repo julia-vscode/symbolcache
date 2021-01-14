@@ -1,0 +1,40 @@
+[ Info: Indexing package CUDNN_CUDA90_jll 7.6.5+0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ####                                                                       5.6%########                                                                  11.3%############                                                              17.6%#################                                                         23.8%#####################                                                     29.5%###########################                                               37.6%##############################                                            42.7%####################################                                      50.2%#########################################                                 57.1%##############################################                            65.2%####################################################                      72.8%#########################################################                 80.3%#################################################################         91.0%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Artifacts ──────── v1.3.0
+  Installed JLLWrappers ────── v1.2.0
+  Installed CUDA_jll ───────── v9.0.176+3
+  Installed CUDNN_CUDA90_jll ─ v7.6.5+0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [17e71f27] + CUDNN_CUDA90_jll v7.6.5+0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [e9e359dc] + CUDA_jll v9.0.176+3
+  [17e71f27] + CUDNN_CUDA90_jll v7.6.5+0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[NVBLAS] NVBLAS_CONFIG_FILE environment variable is NOT set : relying on default config filename 'nvblas.conf'
+[NVBLAS] Cannot open default config file 'nvblas.conf'
+[NVBLAS] Config parsed
+[NVBLAS] CPU Blas library need to be provided
+[NVBLAS] NVBLAS_CONFIG_FILE environment variable is NOT set : relying on default config filename 'nvblas.conf'
+[NVBLAS] Cannot open default config file 'nvblas.conf'
+[NVBLAS] Config parsed
+[NVBLAS] CPU Blas library need to be provided
+[ Info: Finished indexing.

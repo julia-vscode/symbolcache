@@ -1,0 +1,48 @@
+[ Info: Indexing package PolynomialFactors 0.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #####                                                                      8.2%##############                                                            20.7%########################                                                  34.5%###################################                                       49.6%###################################################                       72.1%######################################################################    97.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Combinatorics ───── v0.7.0
+  Installed Primes ──────────── v0.5.0
+  Installed RecipesBase ─────── v0.8.0
+  Installed PolynomialFactors ─ v0.2.1
+  Installed Polynomials ─────── v0.6.1
+  Installed AbstractAlgebra ─── v0.10.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [ec145902] + PolynomialFactors v0.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [c3fe647b] + AbstractAlgebra v0.10.0
+  [861a8166] + Combinatorics v0.7.0
+  [ec145902] + PolynomialFactors v0.2.1
+  [f27b6e38] + Polynomials v0.6.1
+  [27ebfcd6] + Primes v0.5.0
+  [3cdcf5f2] + RecipesBase v0.8.0
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [8dfed614] + Test
+ERROR: LoadError: LoadError: UndefVarError: gfelem not defined
+Stacktrace:
+ [1] getproperty(::Module, ::Symbol) at ./Base.jl:26
+ [2] top-level scope at /root/.julia/packages/PolynomialFactors/BCqoa/src/polyutils.jl:6
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include at ./Base.jl:368 [inlined]
+ [5] include(::String) at /root/.julia/packages/PolynomialFactors/BCqoa/src/PolynomialFactors.jl:2
+ [6] top-level scope at /root/.julia/packages/PolynomialFactors/BCqoa/src/PolynomialFactors.jl:16
+ [7] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [8] include(::Module, ::String) at ./Base.jl:368
+ [9] top-level scope at none:2
+ [10] eval at ./boot.jl:331 [inlined]
+ [11] eval(::Expr) at ./client.jl:467
+ [12] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/PolynomialFactors/BCqoa/src/polyutils.jl:6
+in expression starting at /root/.julia/packages/PolynomialFactors/BCqoa/src/PolynomialFactors.jl:16
+[ Info: Could not load package, exiting.

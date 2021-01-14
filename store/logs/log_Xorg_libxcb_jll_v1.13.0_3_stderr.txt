@@ -1,0 +1,48 @@
+[ Info: Indexing package Xorg_libxcb_jll 1.13.0+3...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%####                                                                       6.3%#########                                                                 12.5%#########                                                                 13.2%##########                                                                14.4%###############                                                           21.3%#########################                                                 35.1%################################                                          45.8%###########################################                               60.2%######################################################                    75.3%################################################################          89.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Xorg_libXdmcp_jll ───────── v1.1.3+4
+  Installed Xorg_libxcb_jll ─────────── v1.13.0+3
+  Installed Xorg_libpthread_stubs_jll ─ v0.1.0+3
+  Installed Zlib_jll ────────────────── v1.2.11+18
+  Installed XSLT_jll ────────────────── v1.1.33+4
+  Installed Libiconv_jll ────────────── v1.16.0+7
+  Installed Libgcrypt_jll ───────────── v1.8.5+4
+  Installed XML2_jll ────────────────── v2.9.10+3
+  Installed JLLWrappers ─────────────── v1.2.0
+  Installed Xorg_libXau_jll ─────────── v1.0.9+4
+  Installed Artifacts ───────────────── v1.3.0
+  Installed Libgpg_error_jll ────────── v1.36.0+3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [c7cfdc94] + Xorg_libxcb_jll v1.13.0+3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [d4300ac3] + Libgcrypt_jll v1.8.5+4
+  [7add5ba3] + Libgpg_error_jll v1.36.0+3
+  [94ce4f54] + Libiconv_jll v1.16.0+7
+  [02c8fc9c] + XML2_jll v2.9.10+3
+  [aed1982a] + XSLT_jll v1.1.33+4
+  [0c0b7dd1] + Xorg_libXau_jll v1.0.9+4
+  [a3789734] + Xorg_libXdmcp_jll v1.1.3+4
+  [14d82f49] + Xorg_libpthread_stubs_jll v0.1.0+3
+  [c7cfdc94] + Xorg_libxcb_jll v1.13.0+3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

@@ -1,0 +1,30 @@
+[ Info: Indexing package DotNET 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%##                                                                         3.8%####                                                                       6.3%#######                                                                   10.0%##########                                                                14.4%#############                                                             18.8%#################                                                         24.5%######################                                                    31.4%###########################                                               37.6%#################################                                         47.1%########################################                                  55.8%################################################                          67.8%######################################################################## 100.0%
+  Resolving package versions...
+  Installed DotNET ─ v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [5091b313] + DotNET v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [5091b313] + DotNET v0.1.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+┌ Error: No .NET Core runtime found on this system.
+│ Try specifying DOTNET_ROOT environment variable or adding 'dotnet' executable to PATH, then run 'DotNET.__init__()' again.
+│ Note that .NET Framework is current not supported.
+└ @ DotNET ~/.julia/packages/DotNET/YjMqW/src/DotNET.jl:39
+[ Info: Finished indexing.

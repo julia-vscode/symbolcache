@@ -1,0 +1,106 @@
+[ Info: Indexing package Absynth 0.3.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%##########                                                                14.4%#########################                                                 35.1%########################################                                  55.8%############################################################              84.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed IteratorInterfaceExtensions ─ v1.0.0
+  Installed SortingAlgorithms ─────────── v0.3.1
+  Installed Reexport ──────────────────── v0.2.0
+  Installed Polynomials ───────────────── v0.6.1
+  Installed DataStructures ────────────── v0.17.20
+  Installed Compat ────────────────────── v2.2.1
+  Installed DataFrames ────────────────── v0.19.4
+  Installed Absynth ───────────────────── v0.3.1
+  Installed MutableArithmetics ────────── v0.2.13
+  Installed JSON ──────────────────────── v0.21.1
+  Installed Parsers ───────────────────── v1.0.15
+  Installed PooledArrays ──────────────── v0.5.3
+  Installed Tables ────────────────────── v0.2.11
+  Installed OrderedCollections ────────── v1.3.2
+  Installed InvertedIndices ───────────── v1.0.0
+  Installed Nullables ─────────────────── v1.0.0
+  Installed MultivariatePolynomials ───── v0.3.12
+  Installed RecipesBase ───────────────── v0.8.0
+  Installed DynamicPolynomials ────────── v0.3.15
+  Installed Combinatorics ─────────────── v0.7.0
+  Installed DataAPI ───────────────────── v1.4.0
+  Installed DataValueInterfaces ───────── v1.0.0
+  Installed Missings ──────────────────── v0.4.4
+  Installed TableTraits ───────────────── v1.0.0
+  Installed ProgressMeter ─────────────── v1.4.1
+  Installed CategoricalArrays ─────────── v0.7.7
+  Installed ParserCombinator ──────────── v2.0.0
+  Installed MacroTools ────────────────── v0.5.6
+  Installed AutoHashEquals ────────────── v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [198fb612] + Absynth v0.3.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [198fb612] + Absynth v0.3.1
+  [15f4f7f2] + AutoHashEquals v0.2.0
+  [324d7699] + CategoricalArrays v0.7.7
+  [861a8166] + Combinatorics v0.7.0
+  [34da2185] + Compat v2.2.1
+  [9a962f9c] + DataAPI v1.4.0
+  [a93c6f00] + DataFrames v0.19.4
+  [864edb3b] + DataStructures v0.17.20
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [7c1d4256] + DynamicPolynomials v0.3.15
+  [41ab1584] + InvertedIndices v1.0.0
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [682c06a0] + JSON v0.21.1
+  [1914dd2f] + MacroTools v0.5.6
+  [e1d29d7a] + Missings v0.4.4
+  [102ac46a] + MultivariatePolynomials v0.3.12
+  [d8a4904e] + MutableArithmetics v0.2.13
+  [4d1e1d77] + Nullables v1.0.0
+  [bac558e1] + OrderedCollections v1.3.2
+  [fae87a5f] + ParserCombinator v2.0.0
+  [69de0a69] + Parsers v1.0.15
+  [f27b6e38] + Polynomials v0.6.1
+  [2dfb63ee] + PooledArrays v0.5.3
+  [92933f4c] + ProgressMeter v1.4.1
+  [3cdcf5f2] + RecipesBase v0.8.0
+  [189a3867] + Reexport v0.2.0
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v0.2.11
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [9fa8497b] + Future
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+ERROR: LoadError: LoadError: UndefVarError: true not defined
+Stacktrace:
+ [1] top-level scope at /root/.julia/packages/Absynth/vDPX3/src/invariant.jl:68
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include at ./Base.jl:368 [inlined]
+ [4] include(::String) at /root/.julia/packages/Absynth/vDPX3/src/Absynth.jl:1
+ [5] top-level scope at /root/.julia/packages/Absynth/vDPX3/src/Absynth.jl:26
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/Absynth/vDPX3/src/invariant.jl:68
+in expression starting at /root/.julia/packages/Absynth/vDPX3/src/Absynth.jl:26
+[ Info: Could not load package, exiting.

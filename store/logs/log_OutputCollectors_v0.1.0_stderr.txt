@@ -1,0 +1,10 @@
+[ Info: Indexing package OutputCollectors 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##########                                                                15.1%############################                                              40.1%#################################################                         68.4%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed OutputCollectors ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [6c11c7d4] + OutputCollectors v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [6c11c7d4] + OutputCollectors v0.1.0
+[ Info: Finished indexing.

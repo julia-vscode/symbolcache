@@ -1,0 +1,210 @@
+[ Info: Indexing package VersatileHDPMixtureModels 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%############                                                              17.6%###########################                                               38.3%############################################                              62.1%################################################################          89.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed SortingAlgorithms ──────────── v0.3.1
+  Installed Requires ───────────────────── v1.1.2
+  Installed CodecZlib ──────────────────── v0.7.0
+  Installed Rmath_jll ──────────────────── v0.2.2+1
+  Installed Compat ─────────────────────── v3.25.0
+  Installed StatsFuns ──────────────────── v0.9.6
+  Installed DataStructures ─────────────── v0.18.8
+  Installed PDMats ─────────────────────── v0.10.1
+  Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed TranscodingStreams ─────────── v0.9.5
+  Installed NearestNeighbors ───────────── v0.4.8
+  Installed StaticArrays ───────────────── v1.0.1
+  Installed StatsBase ──────────────────── v0.33.2
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed Distributions ──────────────── v0.24.10
+  Installed QuadGK ─────────────────────── v2.4.1
+  Installed FillArrays ─────────────────── v0.10.2
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed Rmath ──────────────────────── v0.6.1
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed NPZ ────────────────────────── v0.4.1
+  Installed Missings ───────────────────── v0.4.4
+  Installed Distances ──────────────────── v0.10.0
+  Installed Clustering ─────────────────── v0.14.2
+  Installed ZipFile ────────────────────── v0.9.3
+  Installed JLD2 ───────────────────────── v0.3.1
+  Installed SpecialFunctions ───────────── v1.2.1
+  Installed ChainRulesCore ─────────────── v0.9.25
+  Installed MacroTools ─────────────────── v0.5.6
+  Installed VersatileHDPMixtureModels ──── v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [cb401d7d] + VersatileHDPMixtureModels v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [d360d2e6] + ChainRulesCore v0.9.25
+  [aaaa29a8] + Clustering v0.14.2
+  [944b1d66] + CodecZlib v0.7.0
+  [34da2185] + Compat v3.25.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [9a962f9c] + DataAPI v1.4.0
+  [864edb3b] + DataStructures v0.18.8
+  [b4f34e82] + Distances v0.10.0
+  [31c24e10] + Distributions v0.24.10
+  [1a297f60] + FillArrays v0.10.2
+  [033835bb] + JLD2 v0.3.1
+  [692b3bcd] + JLLWrappers v1.2.0
+  [1914dd2f] + MacroTools v0.5.6
+  [e1d29d7a] + Missings v0.4.4
+  [15e1cf62] + NPZ v0.4.1
+  [b8a86587] + NearestNeighbors v0.4.8
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [bac558e1] + OrderedCollections v1.3.2
+  [90014a1f] + PDMats v0.10.1
+  [1fd47b50] + QuadGK v2.4.1
+  [ae029012] + Requires v1.1.2
+  [79098fc4] + Rmath v0.6.1
+  [f50d1b31] + Rmath_jll v0.2.2+1
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [276daf66] + SpecialFunctions v1.2.1
+  [90137ffa] + StaticArrays v1.0.1
+  [2913bbd2] + StatsBase v0.33.2
+  [4c63d2b9] + StatsFuns v0.9.6
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [cb401d7d] + VersatileHDPMixtureModels v0.1.1
+  [a5390f91] + ZipFile v0.9.3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [4607b0f0] + SuiteSparse
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.model_hyper_params})(VersatileHDPMixtureModels.distribution_hyper_params, Any, Float64, Float64, Float64, Float64, Float64, Int64, Int64) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.model_hyper_params})(Any, Any, Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.cluster_parameters})(VersatileHDPMixtureModels.distribution_hyper_params, VersatileHDPMixtureModels.distibution_sample, VersatileHDPMixtureModels.sufficient_statistics, VersatileHDPMixtureModels.distribution_hyper_params) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.cluster_parameters})(Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.splittable_cluster_params})(VersatileHDPMixtureModels.cluster_parameters, VersatileHDPMixtureModels.cluster_parameters, VersatileHDPMixtureModels.cluster_parameters, AbstractArray{Float64, 1}, Bool, AbstractArray{Float64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.splittable_cluster_params})(Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.global_cluster})(VersatileHDPMixtureModels.splittable_cluster_params, Int64, Int64, Int64, Int64, AbstractArray{Int64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.global_cluster})(Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_cluster})(VersatileHDPMixtureModels.splittable_cluster_params, Int64, Int64, Int64, Float64, Float64, Int64, Int64, AbstractArray{Int64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_cluster})(Any, Any, Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group})(VersatileHDPMixtureModels.model_hyper_params, AbstractArray{Float64, 2}, AbstractArray{Int64, 2}, AbstractArray{Int64, 2}, Array{VersatileHDPMixtureModels.local_cluster, 1}, Array{Float64, 1}, Int64) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group})(Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group_stats})(AbstractArray{Int64, 2}, AbstractArray{Int64, 2}, Array{VersatileHDPMixtureModels.local_cluster, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group_stats})(Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.hdp_shared_features})(VersatileHDPMixtureModels.model_hyper_params, Base.Dict{K, V} where V where K, Array{VersatileHDPMixtureModels.global_cluster, 1}, AbstractArray{Float64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.hdp_shared_features})(Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition copy_local_cluster(VersatileHDPMixtureModels.local_cluster) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:82 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:82.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition update_group_from_stats!(VersatileHDPMixtureModels.local_group, VersatileHDPMixtureModels.local_group_stats) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:86 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:86.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.model_hyper_params})(VersatileHDPMixtureModels.distribution_hyper_params, Any, Float64, Float64, Float64, Float64, Float64, Int64, Int64) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.model_hyper_params})(Any, Any, Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:10.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.cluster_parameters})(VersatileHDPMixtureModels.distribution_hyper_params, VersatileHDPMixtureModels.distibution_sample, VersatileHDPMixtureModels.sufficient_statistics, VersatileHDPMixtureModels.distribution_hyper_params) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.cluster_parameters})(Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:22.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.splittable_cluster_params})(VersatileHDPMixtureModels.cluster_parameters, VersatileHDPMixtureModels.cluster_parameters, VersatileHDPMixtureModels.cluster_parameters, AbstractArray{Float64, 1}, Bool, AbstractArray{Float64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.splittable_cluster_params})(Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:29.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.global_cluster})(VersatileHDPMixtureModels.splittable_cluster_params, Int64, Int64, Int64, Int64, AbstractArray{Int64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.global_cluster})(Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:38.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_cluster})(VersatileHDPMixtureModels.splittable_cluster_params, Int64, Int64, Int64, Float64, Float64, Int64, Int64, AbstractArray{Int64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_cluster})(Any, Any, Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:47.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group})(VersatileHDPMixtureModels.model_hyper_params, AbstractArray{Float64, 2}, AbstractArray{Int64, 2}, AbstractArray{Int64, 2}, Array{VersatileHDPMixtureModels.local_cluster, 1}, Array{Float64, 1}, Int64) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group})(Any, Any, Any, Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:59.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group_stats})(AbstractArray{Int64, 2}, AbstractArray{Int64, 2}, Array{VersatileHDPMixtureModels.local_cluster, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.local_group_stats})(Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:69.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.hdp_shared_features})(VersatileHDPMixtureModels.model_hyper_params, Base.Dict{K, V} where V where K, Array{VersatileHDPMixtureModels.global_cluster, 1}, AbstractArray{Float64, 1}) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition (::Type{VersatileHDPMixtureModels.hdp_shared_features})(Any, Any, Any, Any) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:76.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition copy_local_cluster(VersatileHDPMixtureModels.local_cluster) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:82 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:82.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition update_group_from_stats!(VersatileHDPMixtureModels.local_group, VersatileHDPMixtureModels.local_group_stats) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:86 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/ds.jl:86.
+  ** incremental compilation may be fatally broken for this module **
+
+WARNING: Method definition log_multivariate_gamma(Number, Number) in module VersatileHDPMixtureModels at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/priors/compact_mnm_prior.jl:33 overwritten at /root/.julia/packages/VersatileHDPMixtureModels/wl9Ze/src/utils.jl:242.
+  ** incremental compilation may be fatally broken for this module **
+
+[ Info: Finished indexing.

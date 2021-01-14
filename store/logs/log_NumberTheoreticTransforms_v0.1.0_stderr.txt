@@ -1,0 +1,10 @@
+[ Info: Indexing package NumberTheoreticTransforms 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ########                                                                  11.3%##################                                                        25.7%##############################                                            42.0%##########################################                                58.3%#######################################################                   76.5%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed NumberTheoreticTransforms ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [8497c1d1] + NumberTheoreticTransforms v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [8497c1d1] + NumberTheoreticTransforms v0.1.0
+[ Info: Finished indexing.

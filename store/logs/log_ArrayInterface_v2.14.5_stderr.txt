@@ -1,0 +1,19 @@
+[ Info: Indexing package ArrayInterface 2.14.5...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     8.8%#############                                                             18.2%#####################                                                     30.1%###############################                                           43.9%#########################################                                 57.7%###################################################                       70.9%############################################################              84.7%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Requires ─────── v1.1.2
+  Installed ArrayInterface ─ v2.14.5
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [4fba245c] + ArrayInterface v2.14.5
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [4fba245c] + ArrayInterface v2.14.5
+  [ae029012] + Requires v1.1.2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+  [cf7118a7] + UUIDs
+[ Info: Finished indexing.

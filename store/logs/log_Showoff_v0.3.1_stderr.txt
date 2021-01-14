@@ -1,0 +1,13 @@
+[ Info: Indexing package Showoff 0.3.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##                                                                         3.1%####################                                                      28.9%##################################################                        70.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Showoff ─ v0.3.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [992d4aef] + Showoff v0.3.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [992d4aef] + Showoff v0.3.1
+  [ade2ca70] + Dates
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

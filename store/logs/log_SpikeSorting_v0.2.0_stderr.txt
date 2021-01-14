@@ -1,0 +1,237 @@
+[ Info: Indexing package SpikeSorting 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                                                                                                 1.3%###                                                                        4.4%#####                                                                      7.5%#######                                                                   10.0%##########                                                                14.4%##############                                                            19.4%##################                                                        25.7%#######################                                                   33.2%#############################                                             40.8%###################################                                       49.6%###########################################                               60.2%#####################################################                     74.7%##############################################################            87.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed SortingAlgorithms ──────────── v0.3.1
+  Installed nghttp2_jll ────────────────── v1.40.0+2
+  Installed Graphics ───────────────────── v0.4.0
+  Installed MozillaCACerts_jll ─────────── v2020.10.14+0
+  Installed LibExpat ───────────────────── v0.6.1
+  Installed DataStructures ─────────────── v0.17.20
+  Installed OffsetArrays ───────────────── v1.5.0
+  Installed Compat ─────────────────────── v2.2.1
+  Installed Reexport ───────────────────── v0.2.0
+  Installed FixedPointNumbers ──────────── v0.6.1
+  Installed JSON ───────────────────────── v0.21.1
+  Installed Gtk ────────────────────────── v0.18.0
+  Installed ColorTypes ─────────────────── v0.8.1
+  Installed Libz ───────────────────────── v1.0.1
+  Installed StaticArrays ───────────────── v0.12.5
+  Installed Colors ─────────────────────── v0.9.6
+  Installed OpenBLAS_jll ───────────────── v0.3.9+5
+  Installed Parsers ────────────────────── v1.0.15
+  Installed DistributedArrays ──────────── v0.6.5
+  Installed StatsBase ──────────────────── v0.33.2
+  Installed URIParser ──────────────────── v0.4.1
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed Ratios ─────────────────────── v0.4.0
+  Installed Homebrew ───────────────────── v0.7.1
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed LibCURL_jll ────────────────── v7.70.0+2
+  Installed Primes ─────────────────────── v0.4.0
+  Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed BufferedStreams ────────────── v1.0.0
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed AxisAlgorithms ─────────────── v1.0.0
+  Installed Expat_jll ──────────────────── v2.2.7+6
+  Installed Adapt ──────────────────────── v2.4.0
+  Installed Arpack ─────────────────────── v0.4.0
+  Installed BinDeps ────────────────────── v0.8.10
+  Installed LibCURL ────────────────────── v0.6.2
+  Installed SpikeSorting ───────────────── v0.2.0
+  Installed MbedTLS_jll ────────────────── v2.16.8+1
+  Installed HTTPClient ─────────────────── v0.2.1
+  Installed Missings ───────────────────── v0.4.4
+  Installed LibSSH2_jll ────────────────── v1.9.0+3
+  Installed Arpack_jll ─────────────────── v3.5.0+3
+  Installed MultivariateStats ──────────── v0.7.0
+  Installed NaNMath ────────────────────── v0.3.5
+  Installed Cairo ──────────────────────── v0.6.0
+  Installed WinRPM ─────────────────────── v0.4.2
+  Installed WoodburyMatrices ───────────── v0.5.3
+  Installed Interpolations ─────────────── v0.12.10
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [acc641c0] + SpikeSorting v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [79e6a3ab] + Adapt v2.4.0
+  [7d9fca2a] + Arpack v0.4.0
+  [68821587] + Arpack_jll v3.5.0+3
+  [56f22d72] + Artifacts v1.3.0
+  [13072b0f] + AxisAlgorithms v1.0.0
+  [9e28174c] + BinDeps v0.8.10
+  [e1450e63] + BufferedStreams v1.0.0
+  [159f3aea] + Cairo v0.6.0
+  [3da002f7] + ColorTypes v0.8.1
+  [5ae59095] + Colors v0.9.6
+  [34da2185] + Compat v2.2.1
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [9a962f9c] + DataAPI v1.4.0
+  [864edb3b] + DataStructures v0.17.20
+  [aaf54ef3] + DistributedArrays v0.6.5
+  [2e619515] + Expat_jll v2.2.7+6
+  [53c48c17] + FixedPointNumbers v0.6.1
+  [a2bd30eb] + Graphics v0.4.0
+  [4c0ca9eb] + Gtk v0.18.0
+  [0862f596] + HTTPClient v0.2.1
+  [d9be37ee] + Homebrew v0.7.1
+  [a98d9a8b] + Interpolations v0.12.10
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [b27032c2] + LibCURL v0.6.2
+  [deac9b47] + LibCURL_jll v7.70.0+2
+  [522f3ed2] + LibExpat v0.6.1
+  [29816b5a] + LibSSH2_jll v1.9.0+3
+  [2ec943e9] + Libz v1.0.1
+  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
+  [e1d29d7a] + Missings v0.4.4
+  [14a3606d] + MozillaCACerts_jll v2020.10.14+0
+  [6f286f6a] + MultivariateStats v0.7.0
+  [77ba4419] + NaNMath v0.3.5
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [4536629a] + OpenBLAS_jll v0.3.9+5
+  [bac558e1] + OrderedCollections v1.3.2
+  [69de0a69] + Parsers v1.0.15
+  [27ebfcd6] + Primes v0.4.0
+  [c84ed2f1] + Ratios v0.4.0
+  [189a3867] + Reexport v0.2.0
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [acc641c0] + SpikeSorting v0.2.0
+  [90137ffa] + StaticArrays v0.12.5
+  [2913bbd2] + StatsBase v0.33.2
+  [30578b45] + URIParser v0.4.1
+  [c17dfb99] + WinRPM v0.4.2
+  [efce3f68] + WoodburyMatrices v0.5.3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [8e850ede] + nghttp2_jll v1.40.0+2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building WinRPM ──→ `~/.julia/packages/WinRPM/Y9QdZ/deps/build.log`
+   Building Homebrew → `~/.julia/packages/Homebrew/s09IX/deps/build.log`
+   Building Cairo ───→ `~/.julia/packages/Cairo/p68X8/deps/build.log`
+┌ Error: Error building `Cairo`: 
+│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+│                                  Dload  Upload   Total   Spent    Left  Speed
+│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  3 14.9M    3  601k    0     0   675k      0  0:00:22 --:--:--  0:00:22  674k 20 14.9M   20 3101k    0     0  1630k      0  0:00:09  0:00:01  0:00:08 1629k 36 14.9M   36 5615k    0     0  1939k      0  0:00:07  0:00:02  0:00:05 1938k 54 14.9M   54 8396k    0     0  2158k      0  0:00:07  0:00:03  0:00:04 2158k 69 14.9M   69 10.4M    0     0  2189k      0  0:00:07  0:00:04  0:00:03 2189k 85 14.9M   85 12.7M    0     0  2213k      0  0:00:06  0:00:05  0:00:01 2487k100 14.9M  100 14.9M    0     0  2227k      0  0:00:06  0:00:06 --:--:-- 2456k
+│ checking for a BSD-compatible install... /usr/bin/install -c
+│ checking whether build environment is sane... yes
+│ checking for a thread-safe mkdir -p... /bin/mkdir -p
+│ checking for gawk... no
+│ checking for mawk... mawk
+│ checking whether make sets $(MAKE)... no
+│ checking whether make supports nested variables... no
+│ checking build system type... x86_64-unknown-linux-gnu
+│ checking host system type... x86_64-unknown-linux-gnu
+│ checking that generated files are newer than configure... done
+│ configure: creating ./config.status
+│ config.status: creating Makefile
+│ config.status: creating gnulib-local/Makefile
+│ === configuring in gettext-runtime (/root/.julia/packages/Cairo/p68X8/deps/builds/gettext/gettext-runtime)
+│ configure: running /bin/bash /root/.julia/packages/Cairo/p68X8/deps/src/gettext-0.18.2/gettext-runtime/configure --disable-option-checking '--prefix=/root/.julia/packages/Cairo/p68X8/deps/usr'  'LDFLAGS= -L/root/.julia/packages/Cairo/p68X8/deps/usr/lib -Wl,-rpath -Wl,/root/.julia/packages/Cairo/p68X8/deps/usr/lib' 'CPPFLAGS= -I/root/.julia/packages/Cairo/p68X8/deps/usr/include' --cache-file=/dev/null --srcdir=/root/.julia/packages/Cairo/p68X8/deps/src/gettext-0.18.2/gettext-runtime
+│ checking for a BSD-compatible install... /usr/bin/install -c
+│ checking whether build environment is sane... yes
+│ checking for a thread-safe mkdir -p... /bin/mkdir -p
+│ checking for gawk... no
+│ checking for mawk... mawk
+│ checking whether make sets $(MAKE)... no
+│ checking whether make supports nested variables... no
+│ checking for gcc... no
+│ checking for cc... no
+│ checking for cl.exe... no
+│ configure: error: in `/root/.julia/packages/Cairo/p68X8/deps/builds/gettext/gettext-runtime':
+│ configure: error: no acceptable C compiler found in $PATH
+│ See `config.log' for more details
+│ configure: error: /root/.julia/packages/Cairo/p68X8/deps/src/gettext-0.18.2/gettext-runtime/configure failed for gettext-runtime
+│ [ Info: Attempting to create directory /root/.julia/packages/Cairo/p68X8/deps/downloads
+│ [ Info: Downloading file http://ftp.gnu.org/pub/gnu/gettext/gettext-0.18.2.tar.gz
+│ [ Info: Done downloading file http://ftp.gnu.org/pub/gnu/gettext/gettext-0.18.2.tar.gz
+│ [ Info: Attempting to create directory /root/.julia/packages/Cairo/p68X8/deps/src
+│ [ Info: Attempting to create directory /root/.julia/packages/Cairo/p68X8/deps
+│ [ Info: Directory /root/.julia/packages/Cairo/p68X8/deps already exists
+│ [ Info: Attempting to create directory /root/.julia/packages/Cairo/p68X8/deps/builds/gettext
+│ [ Info: Changing directory to /root/.julia/packages/Cairo/p68X8/deps/builds/gettext
+│ ERROR: LoadError: failed process: Process(setenv(`/root/.julia/packages/Cairo/p68X8/deps/src/gettext-0.18.2/configure --prefix=/root/.julia/packages/Cairo/p68X8/deps/usr`,["PATH=/root/.julia/packages/Cairo/p68X8/deps/usr/bin:/usr/local/julia/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "JULIA_PATH=/usr/local/julia", "JULIA_GPG=3673DF529D9049477F76B37566E3C7DC03D6E495", "JULIA_VERSION=1.5.3", "OPENBLAS_NUM_THREADS=8", "CPPFLAGS= -I/root/.julia/packages/Cairo/p68X8/deps/usr/include", "LDFLAGS= -L/root/.julia/packages/Cairo/p68X8/deps/usr/lib -Wl,-rpath -Wl,/root/.julia/packages/Cairo/p68X8/deps/usr/lib", "PKG_CONFIG_PATH=/root/.julia/packages/Cairo/p68X8/deps/usr/lib/pkgconfig", "JULIA_LOAD_PATH=@:/tmp/jl_cErZOP", "HOME=/root", "OPENBLAS_MAIN_FREE=1", "HOSTNAME=1ff72072379a"]), ProcessExited(1)) [1]
+│ 
+│ Stacktrace:
+│  [1] pipeline_error at ./process.jl:525 [inlined]
+│  [2] run(::Cmd; wait::Bool) at ./process.jl:440
+│  [3] run(::Cmd) at ./process.jl:438
+│  [4] run(::BinDeps.SynchronousStepCollection) at /root/.julia/packages/BinDeps/ZEval/src/BinDeps.jl:521
+│  [5] run(::FileRule) at /root/.julia/packages/BinDeps/ZEval/src/BinDeps.jl:483
+│  [6] run(::BinDeps.SynchronousStepCollection) at /root/.julia/packages/BinDeps/ZEval/src/BinDeps.jl:521 (repeats 2 times)
+│  [7] satisfy!(::BinDeps.LibraryDependency, ::Array{DataType,1}) at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:944
+│  [8] satisfy!(::BinDeps.LibraryGroup, ::Array{DataType,1}) at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:910
+│  [9] satisfy!(::BinDeps.LibraryGroup) at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:874
+│  [10] top-level scope at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:977
+│  [11] include(::String) at ./client.jl:457
+│  [12] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/Cairo/p68X8/deps/build.jl:176
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+   Building Gtk ─────→ `~/.julia/packages/Gtk/mVhmL/deps/build.log`
+┌ Error: Error building `Gtk`: 
+│ ERROR: LoadError: None of the selected providers could satisfy library group gtk
+│ Use BinDeps.debug(package_name) to see available providers
+│ 
+│ Stacktrace:
+│  [1] error(::String) at ./error.jl:33
+│  [2] satisfy!(::BinDeps.LibraryGroup, ::Array{DataType,1}) at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:915
+│  [3] satisfy!(::BinDeps.LibraryGroup) at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:874
+│  [4] top-level scope at /root/.julia/packages/BinDeps/ZEval/src/dependencies.jl:977
+│  [5] include(::String) at ./client.jl:457
+│  [6] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/Gtk/mVhmL/deps/build.jl:63
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+ERROR: LoadError: LoadError: could not load library "libgobject-2.0"
+libgobject-2.0.so: cannot open shared object file: No such file or directory
+Stacktrace:
+ [1] top-level scope at /root/.julia/packages/Gtk/mVhmL/src/GLib/GLib.jl:47
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include at ./Base.jl:368 [inlined]
+ [4] include(::String) at /root/.julia/packages/Gtk/mVhmL/src/Gtk.jl:2
+ [5] top-level scope at /root/.julia/packages/Gtk/mVhmL/src/Gtk.jl:5
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/Gtk/mVhmL/src/GLib/GLib.jl:47
+in expression starting at /root/.julia/packages/Gtk/mVhmL/src/Gtk.jl:5
+ERROR: LoadError: Failed to precompile Gtk [4c0ca9eb-093a-5379-98c5-f87ac0bbbf44] to /root/.julia/compiled/v1.5/Gtk/Vjnq0_nrrZo.ji.
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] compilecache(::Base.PkgId, ::String) at ./loading.jl:1305
+ [3] _require(::Base.PkgId) at ./loading.jl:1030
+ [4] require(::Base.PkgId) at ./loading.jl:928
+ [5] require(::Module, ::Symbol) at ./loading.jl:923
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/SpikeSorting/D1Hzu/src/SpikeSorting.jl:4
+[ Info: Could not load package, exiting.

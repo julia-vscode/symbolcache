@@ -1,0 +1,11 @@
+[ Info: Indexing package MsgPack 1.0.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              16.9%##################################                                        48.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MsgPack ─ v1.0.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [99f44e22] + MsgPack v1.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [99f44e22] + MsgPack v1.0.1
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

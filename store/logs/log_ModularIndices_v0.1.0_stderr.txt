@@ -1,0 +1,10 @@
+[ Info: Indexing package ModularIndices 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%##################                                                        26.3%##############################################                            64.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ModularIndices ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [96e4cb12] + ModularIndices v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [96e4cb12] + ModularIndices v0.1.0
+[ Info: Finished indexing.

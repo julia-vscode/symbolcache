@@ -1,0 +1,29 @@
+[ Info: Indexing package Mjolnir 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#####                                                                      7.5%###########                                                               16.3%##################                                                        25.7%##########################                                                36.4%################################                                          44.5%#######################################                                   54.6%#############################################                             63.4%###################################################                       71.5%#########################################################                 80.3%###############################################################           88.5%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MacroTools ─ v0.5.6
+  Installed Mjolnir ──── v0.1.0
+  Installed IRTools ──── v0.3.3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [1154507a] + Mjolnir v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [7869d1d1] + IRTools v0.3.3
+  [1914dd2f] + MacroTools v0.5.6
+  [1154507a] + Mjolnir v0.1.0
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+WARNING: could not import Compiler.just_construct_ssa into Wrap
+┌ Warning: `@get!(dict, key, default)` at /root/.julia/packages/Mjolnir/JtfHk/src/cleanup.jl:47 is deprecated, use `get!(()->default, dict, key)` instead.
+└ @ Base deprecated.jl:204
+WARNING: both All and Base export "Meta"; uses of it in module Mjolnir must be qualified
+WARNING: both All and Base export "Pipe"; uses of it in module Mjolnir must be qualified
+WARNING: both All and Core export "undef"; uses of it in module Mjolnir must be qualified
+[ Info: Finished indexing.

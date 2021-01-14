@@ -1,0 +1,10 @@
+[ Info: Indexing package EntityComponentSystem 0.0.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#######                                                                   10.0%##################                                                        26.3%################################                                          45.8%###############################################                           66.5%##################################################################        92.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed EntityComponentSystem ─ v0.0.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a8343a65] + EntityComponentSystem v0.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a8343a65] + EntityComponentSystem v0.0.1
+[ Info: Finished indexing.

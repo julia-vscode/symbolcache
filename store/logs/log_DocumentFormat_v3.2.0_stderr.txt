@@ -1,0 +1,31 @@
+[ Info: Indexing package DocumentFormat 3.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ####                                                                       5.6%##################                                                        25.7%##########################################                                59.0%################################################################          89.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Tokenize ─────── v0.5.10
+  Installed FilePathsBase ── v0.9.7
+  Installed CSTParser ────── v2.5.0
+  Installed DocumentFormat ─ v3.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [ffa9a821] + DocumentFormat v3.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [00ebfdb7] + CSTParser v2.5.0
+  [ffa9a821] + DocumentFormat v3.2.0
+  [48062228] + FilePathsBase v0.9.7
+  [0796e94c] + Tokenize v0.5.10
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

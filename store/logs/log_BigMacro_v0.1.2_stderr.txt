@@ -1,0 +1,16 @@
+[ Info: Indexing package BigMacro 0.1.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#################                                                         23.8%##########################################                                59.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MacroTools ─ v0.5.6
+  Installed BigMacro ─── v0.1.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [839f1b1b] + BigMacro v0.1.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [839f1b1b] + BigMacro v0.1.2
+  [1914dd2f] + MacroTools v0.5.6
+  [2a0f44e3] + Base64
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

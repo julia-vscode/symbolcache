@@ -1,0 +1,27 @@
+[ Info: Indexing package Exercism 0.1.4...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%#################                                                         24.5%###################################                                       49.6%#######################################################                   77.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed JSON ───── v0.21.1
+  Installed Parsers ── v1.0.15
+  Installed Exercism ─ v0.1.4
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [b06d6668] + Exercism v0.1.4
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b06d6668] + Exercism v0.1.4
+  [682c06a0] + JSON v0.21.1
+  [69de0a69] + Parsers v1.0.15
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

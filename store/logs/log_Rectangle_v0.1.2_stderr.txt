@@ -1,0 +1,12 @@
+[ Info: Indexing package Rectangle 0.1.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%#########                                                                 13.8%#######################                                                   32.6%#######################################                                   55.2%#######################################################                   77.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Rectangle ─ v0.1.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [9a9db56c] + Rectangle v0.1.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [9a9db56c] + Rectangle v0.1.2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

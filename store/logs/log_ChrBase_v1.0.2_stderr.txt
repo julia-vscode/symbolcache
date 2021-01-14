@@ -1,0 +1,19 @@
+[ Info: Indexing package ChrBase 1.0.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%#                                                                          2.5%####                                                                       5.6%#####                                                                      7.5%########                                                                  11.3%##########                                                                15.1%##############                                                            19.5%##################                                                        25.7%########################                                                  33.9%#############################                                             40.8%#####################################                                     52.1%##############################################                            64.0%########################################################                  77.8%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed StrAPI ─────────────── v1.0.0
+  Installed ChrBase ────────────── v1.0.2
+  Installed ModuleInterfaceTools ─ v1.0.1
+  Installed CharSetEncodings ───── v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [c13fa7b1] + ChrBase v1.0.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [cb9422de] + CharSetEncodings v1.0.0
+  [c13fa7b1] + ChrBase v1.0.2
+  [5cb8414e] + ModuleInterfaceTools v1.0.1
+  [69e7dfc3] + StrAPI v1.0.0
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

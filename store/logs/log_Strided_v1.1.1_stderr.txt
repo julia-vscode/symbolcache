@@ -1,0 +1,14 @@
+[ Info: Indexing package Strided 1.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#####                                                                      8.2%####################                                                      28.2%#################################                                         47.0%######################################################                    75.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Strided ──── v1.1.1
+  Installed TupleTools ─ v1.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [5e0ebb24] + Strided v1.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [5e0ebb24] + Strided v1.1.1
+  [9d95972d] + TupleTools v1.2.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

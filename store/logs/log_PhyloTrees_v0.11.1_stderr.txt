@@ -1,0 +1,16 @@
+[ Info: Indexing package PhyloTrees 0.11.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#####                                                                      8.2%###################                                                       27.0%##################################                                        47.7%###################################################                       71.5%######################################################################    97.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RecipesBase ─ v1.1.1
+  Installed PhyloTrees ── v0.11.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [4c47b132] + PhyloTrees v0.11.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [4c47b132] + PhyloTrees v0.11.1
+  [3cdcf5f2] + RecipesBase v1.1.1
+┌ Warning: Type annotations on keyword arguments not currently supported in recipes. Type information has been discarded
+└ @ RecipesBase ~/.julia/packages/RecipesBase/92zOw/src/RecipesBase.jl:116
+┌ Warning: Type annotations on keyword arguments not currently supported in recipes. Type information has been discarded
+└ @ RecipesBase ~/.julia/packages/RecipesBase/92zOw/src/RecipesBase.jl:116
+[ Info: Finished indexing.

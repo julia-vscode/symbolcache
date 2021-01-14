@@ -1,0 +1,10 @@
+[ Info: Indexing package CompressHashDisplace 0.0.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 13.2%########################                                                  33.9%######################################                                    53.3%#######################################################                   77.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed CompressHashDisplace ─ v0.0.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [33dc01b2] + CompressHashDisplace v0.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [33dc01b2] + CompressHashDisplace v0.0.1
+[ Info: Finished indexing.

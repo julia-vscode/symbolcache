@@ -1,0 +1,12 @@
+[ Info: Indexing package BasicDataLoaders 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%#######                                                                   10.7%#################                                                         23.8%##########################                                                36.4%##################################                                        48.3%#########################################                                 57.7%#################################################                         69.0%###########################################################               82.2%#################################################################         91.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed BasicDataLoaders ─ v1.0.0
+  Installed BSON ───────────── v0.2.6
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [f0789d0e] + BasicDataLoaders v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [fbb218c0] + BSON v0.2.6
+  [f0789d0e] + BasicDataLoaders v1.0.0
+[ Info: Finished indexing.

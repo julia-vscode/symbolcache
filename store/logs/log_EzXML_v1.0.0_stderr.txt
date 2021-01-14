@@ -1,0 +1,18 @@
+[ Info: Indexing package EzXML 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              16.9%#################################                                         47.1%################################################################          89.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed EzXML ────────── v1.0.0
+  Installed BinaryProvider ─ v0.5.10
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [8f5d6c58] + EzXML v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b99e7846] + BinaryProvider v0.5.10
+  [8f5d6c58] + EzXML v1.0.0
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [de0858da] + Printf
+  [ea8e919c] + SHA
+  [4ec0a83e] + Unicode
+   Building EzXML → `~/.julia/packages/EzXML/BF7Lf/deps/build.log`
+[ Info: Finished indexing.

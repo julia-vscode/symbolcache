@@ -1,0 +1,10 @@
+[ Info: Indexing package AutoHashEquals 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      #                                                                          1.9%########                                                                  11.9%######################                                                    31.4%################################                                          44.5%##########################################                                58.4%###################################################                       72.2%##############################################################            87.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed AutoHashEquals ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [15f4f7f2] + AutoHashEquals v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [15f4f7f2] + AutoHashEquals v0.2.0
+[ Info: Finished indexing.

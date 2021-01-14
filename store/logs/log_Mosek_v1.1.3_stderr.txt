@@ -1,0 +1,58 @@
+[ Info: Indexing package Mosek 1.1.3...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##########                                                                15.1%#############################                                             41.4%######################################################                    75.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed WinReg ─ v0.3.1
+  Installed Mosek ── v1.1.3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [6405355b] + Mosek v1.1.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [6405355b] + Mosek v1.1.3
+  [1b915085] + WinReg v0.3.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Mosek → `~/.julia/packages/Mosek/6LuE3/deps/build.log`
+┌ Error: Error building `Mosek`: 
+│ [ Info: Download command: `curl -o /root/.julia/packages/Mosek/6LuE3/deps/downloads/downloadhostname -L https://www.mosek.com/downloads/default_dns.txt`
+│ [ Info: Get latest MOSEK version (https://d2i6rjz61faulo.cloudfront.net/stable/9.2/version)
+│ [ Info: Latest MOSEK version = 9.2.35, nothing currently installed
+│ [ Info: Download MOSEK distro (https://d2i6rjz61faulo.cloudfront.net/stable/9.2.35/mosektoolslinux64x86.tar.bz2)
+│ [ Info: Unpack MOSEK distro (/root/.julia/packages/Mosek/6LuE3/deps/downloads/mosektoolslinux64x86.tar.bz2 -> /root/.julia/packages/Mosek/6LuE3/deps/src)
+│ ERROR: LoadError: Failed to unpack MOSEK distro
+│ Stacktrace:
+│  [1] error(::String) at ./error.jl:33
+│  [2] top-level scope at /root/.julia/packages/Mosek/6LuE3/deps/build.jl:256
+│  [3] include(::String) at ./client.jl:457
+│  [4] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/Mosek/6LuE3/deps/build.jl:144
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+ERROR: LoadError: Mosek not properly installed. Please run Pkg.build("Mosek")
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] top-level scope at /root/.julia/packages/Mosek/6LuE3/src/Mosek.jl:10
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include(::Module, ::String) at ./Base.jl:368
+ [5] top-level scope at none:2
+ [6] eval at ./boot.jl:331 [inlined]
+ [7] eval(::Expr) at ./client.jl:467
+ [8] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/Mosek/6LuE3/src/Mosek.jl:7
+[ Info: Could not load package, exiting.

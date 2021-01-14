@@ -1,0 +1,15 @@
+[ Info: Indexing package Hungarian 0.6.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 13.2%#####################                                                     29.5%####################################                                      50.2%###################################################                       71.5%######################################################################    97.2%######################################################################    98.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Hungarian ─ v0.6.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [e91730f6] + Hungarian v0.6.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [e91730f6] + Hungarian v0.6.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+[ Info: Finished indexing.

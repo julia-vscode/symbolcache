@@ -1,0 +1,10 @@
+[ Info: Indexing package SpiceData 0.3.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          2.5%#################                                                         23.8%#######################################                                   54.6%#################################################################         90.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed SpiceData ─ v0.3.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [8ca2a67e] + SpiceData v0.3.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [8ca2a67e] + SpiceData v0.3.2
+[ Info: Finished indexing.

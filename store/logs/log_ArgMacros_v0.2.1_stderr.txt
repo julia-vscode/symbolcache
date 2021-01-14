@@ -1,0 +1,12 @@
+[ Info: Indexing package ArgMacros 0.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ####                                                                       6.3%##############                                                            20.1%############################                                              40.2%#############################################                             63.4%############################################################              84.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed TextWrap ── v1.0.1
+  Installed ArgMacros ─ v0.2.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [dbc42088] + ArgMacros v0.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [dbc42088] + ArgMacros v0.2.1
+  [b718987f] + TextWrap v1.0.1
+[ Info: Finished indexing.

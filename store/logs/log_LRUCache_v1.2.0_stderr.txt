@@ -1,0 +1,10 @@
+[ Info: Indexing package LRUCache 1.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#######                                                                   10.0%################                                                          22.6%###########################                                               38.3%###################################                                       49.6%###########################################                               60.9%####################################################                      73.4%##############################################################            86.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed LRUCache ─ v1.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [8ac3fa9e] + LRUCache v1.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [8ac3fa9e] + LRUCache v1.2.0
+[ Info: Finished indexing.

@@ -1,0 +1,20 @@
+[ Info: Indexing package WignerFamilies 1.0.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%##############                                                            20.7%#######################################                                   55.2%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed CustomUnitRanges ─ v1.0.0
+  Installed Adapt ──────────── v2.4.0
+  Installed HalfIntegers ───── v1.3.1
+  Installed OffsetArrays ───── v1.5.0
+  Installed WignerFamilies ─── v1.0.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a8f88a7a] + WignerFamilies v1.0.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [79e6a3ab] + Adapt v2.4.0
+  [dc8bdbbb] + CustomUnitRanges v1.0.0
+  [f0d1745a] + HalfIntegers v1.3.1
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [a8f88a7a] + WignerFamilies v1.0.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

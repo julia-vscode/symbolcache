@@ -1,0 +1,18 @@
+[ Info: Indexing package Loess 0.5.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.1%####                                                                       6.3%########                                                                  11.9%############                                                              17.6%################                                                          23.2%#######################                                                   32.6%############################                                              40.2%######################################                                    54.0%################################################                          67.8%############################################################              83.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Loess ───── v0.5.1
+  Installed Distances ─ v0.8.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [4345ca2d] + Loess v0.5.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b4f34e82] + Distances v0.8.2
+  [4345ca2d] + Loess v0.5.1
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+[ Info: Finished indexing.

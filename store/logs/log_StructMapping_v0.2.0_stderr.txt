@@ -1,0 +1,16 @@
+[ Info: Indexing package StructMapping 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     8.8%############################                                              39.5%################################################                          67.1%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MacroTools ──── v0.5.6
+  Installed StructMapping ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [7c3b921d] + StructMapping v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [1914dd2f] + MacroTools v0.5.6
+  [7c3b921d] + StructMapping v0.2.0
+  [2a0f44e3] + Base64
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

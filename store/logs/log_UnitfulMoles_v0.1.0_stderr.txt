@@ -1,0 +1,18 @@
+[ Info: Indexing package UnitfulMoles 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      #=#=-#  #                                                                                                                                                1.3%####                                                                       6.3%##################                                                        26.4%################################                                          44.5%#########################################                                 57.1%##################################################################        92.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ConstructionBase ─ v1.0.0
+  Installed Unitful ────────── v1.5.0
+  Installed UnitfulMoles ───── v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [999f2bd7] + UnitfulMoles v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [187b0558] + ConstructionBase v1.0.0
+  [1986cc42] + Unitful v1.5.0
+  [999f2bd7] + UnitfulMoles v0.1.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

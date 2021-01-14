@@ -1,0 +1,115 @@
+[ Info: Indexing package DCEMRI 0.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%######                                                                     8.8%######                                                                     9.4%#######                                                                   10.0%#########                                                                 12.5%##############                                                            19.4%##################                                                        25.7%#######################                                                   32.6%#############################                                             40.8%####################################                                      50.2%###########################################                               60.2%#################################################                         69.0%######################################################                    75.9%############################################################              84.1%#################################################################         90.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed HDF5_jll ─────────── v1.10.5+7
+  Installed Lz4_jll ──────────── v1.9.2+2
+  Installed CodecZlib ────────── v0.7.0
+  Installed Reexport ─────────── v1.0.0
+  Installed Compat ───────────── v3.25.0
+  Installed Conda ────────────── v1.5.0
+  Installed JSON ─────────────── v0.21.1
+  Installed TranscodingStreams ─ v0.9.5
+  Installed ColorTypes ───────── v0.10.9
+  Installed PyPlot ───────────── v2.9.0
+  Installed FixedPointNumbers ── v0.8.4
+  Installed Parsers ──────────── v1.0.15
+  Installed PyCall ───────────── v1.92.2
+  Installed Colors ───────────── v0.12.6
+  Installed TextWrap ─────────── v1.0.1
+  Installed VersionParsing ───── v1.2.0
+  Installed Artifacts ────────── v1.3.0
+  Installed Zstd_jll ─────────── v1.4.5+2
+  Installed LaTeXStrings ─────── v1.2.0
+  Installed BufferedStreams ──── v1.0.0
+  Installed JLLWrappers ──────── v1.2.0
+  Installed Zlib_jll ─────────── v1.2.11+18
+  Installed Calculus ─────────── v0.5.1
+  Installed Blosc_jll ────────── v1.14.3+1
+  Installed MacroTools ───────── v0.5.6
+  Installed Blosc ────────────── v0.7.0
+  Installed HDF5 ─────────────── v0.13.7
+  Installed DCEMRI ───────────── v0.2.1
+  Installed ArgParse ─────────── v1.1.1
+  Installed MAT ──────────────── v0.8.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [2b3899e7] + DCEMRI v0.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [c7e460c6] + ArgParse v1.1.1
+  [56f22d72] + Artifacts v1.3.0
+  [a74b3585] + Blosc v0.7.0
+  [0b7ba130] + Blosc_jll v1.14.3+1
+  [e1450e63] + BufferedStreams v1.0.0
+  [49dc2e85] + Calculus v0.5.1
+  [944b1d66] + CodecZlib v0.7.0
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [34da2185] + Compat v3.25.0
+  [8f4d0f93] + Conda v1.5.0
+  [2b3899e7] + DCEMRI v0.2.1
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [f67ccb44] + HDF5 v0.13.7
+  [0234f1f7] + HDF5_jll v1.10.5+7
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [b964fa9f] + LaTeXStrings v1.2.0
+  [5ced341a] + Lz4_jll v1.9.2+2
+  [23992714] + MAT v0.8.1
+  [1914dd2f] + MacroTools v0.5.6
+  [69de0a69] + Parsers v1.0.15
+  [438e738f] + PyCall v1.92.2
+  [d330b81b] + PyPlot v2.9.0
+  [189a3867] + Reexport v1.0.0
+  [b718987f] + TextWrap v1.0.1
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [81def892] + VersionParsing v1.2.0
+  [83775a58] + Zlib_jll v1.2.11+18
+  [3161d3a3] + Zstd_jll v1.4.5+2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
+   Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
+   Building HDF5 ──→ `~/.julia/packages/HDF5/YX0jU/deps/build.log`
+┌ Warning: Package DCEMRI does not have Pkg in its dependencies:
+│ - If you have DCEMRI checked out for development and have
+│   added Pkg as a dependency but haven't updated your primary
+│   environment's manifest file, try `Pkg.resolve()`.
+│ - Otherwise you may need to report an issue with DCEMRI
+└ Loading Pkg into DCEMRI from project dependency, future warnings for DCEMRI are suppressed.
+ERROR: LoadError: ArgumentError: Package DCEMRI does not have LsqFit in its dependencies:
+- If you have DCEMRI checked out for development and have
+  added LsqFit as a dependency but haven't updated your primary
+  environment's manifest file, try `Pkg.resolve()`.
+- Otherwise you may need to report an issue with DCEMRI
+Stacktrace:
+ [1] require(::Module, ::Symbol) at ./loading.jl:906
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include(::Module, ::String) at ./Base.jl:368
+ [4] top-level scope at none:2
+ [5] eval at ./boot.jl:331 [inlined]
+ [6] eval(::Expr) at ./client.jl:467
+ [7] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/DCEMRI/Cc4GA/src/DCEMRI.jl:6
+[ Info: Could not load package, exiting.

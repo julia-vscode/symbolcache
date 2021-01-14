@@ -1,0 +1,10 @@
+[ Info: Indexing package COBS 0.0.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%######                                                                     8.8%###################                                                       27.0%###############################                                           43.9%############################################                              61.5%#######################################################                   77.2%###################################################################       94.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed COBS ─ v0.0.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [51d40088] + COBS v0.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [51d40088] + COBS v0.0.1
+[ Info: Finished indexing.

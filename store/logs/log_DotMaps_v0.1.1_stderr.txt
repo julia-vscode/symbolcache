@@ -1,0 +1,10 @@
+[ Info: Indexing package DotMaps 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                                                                                                 1.3%########                                                                  11.9%###############                                                           21.3%#########################                                                 35.1%########################################                                  56.5%######################################################                    75.3%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed DotMaps ─ v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [98454f44] + DotMaps v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [98454f44] + DotMaps v0.1.1
+[ Info: Finished indexing.

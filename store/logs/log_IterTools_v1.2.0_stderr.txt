@@ -1,0 +1,10 @@
+[ Info: Indexing package IterTools 1.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 13.2%#####################                                                     29.5%####################################                                      50.8%######################################################                    75.9%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed IterTools ─ v1.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [c8e1da08] + IterTools v1.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [c8e1da08] + IterTools v1.2.0
+[ Info: Finished indexing.

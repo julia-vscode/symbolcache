@@ -1,0 +1,12 @@
+[ Info: Indexing package Parameters 0.12.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                                                                                                 0.6%####                                                                       6.3%#############                                                             18.8%##########################                                                36.4%####################################                                      50.2%##########################################                                58.3%####################################################                      73.4%##########################################################                81.6%######################################################################    98.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed OrderedCollections ─ v1.3.2
+  Installed Parameters ───────── v0.12.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d96e819e] + Parameters v0.12.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [bac558e1] + OrderedCollections v1.3.2
+  [d96e819e] + Parameters v0.12.0
+[ Info: Finished indexing.

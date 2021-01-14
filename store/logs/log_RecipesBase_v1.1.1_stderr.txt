@@ -1,0 +1,10 @@
+[ Info: Indexing package RecipesBase 1.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 12.5%###################################                                       49.6%###############################################################           87.8%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RecipesBase ─ v1.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [3cdcf5f2] + RecipesBase v1.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [3cdcf5f2] + RecipesBase v1.1.1
+[ Info: Finished indexing.

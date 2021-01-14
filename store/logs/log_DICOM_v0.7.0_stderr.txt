@@ -1,0 +1,10 @@
+[ Info: Indexing package DICOM 0.7.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ###########                                                               15.7%##################################                                        47.7%##########################################################                81.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed DICOM ─ v0.7.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a26e6606] + DICOM v0.7.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a26e6606] + DICOM v0.7.0
+[ Info: Finished indexing.

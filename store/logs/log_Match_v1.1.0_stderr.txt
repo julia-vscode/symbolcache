@@ -1,0 +1,10 @@
+[ Info: Indexing package Match 1.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #####                                                                      8.2%#################                                                         23.8%#############################                                             40.8%##########################################                                58.3%####################################################                      73.4%##############################################################            87.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Match ─ v1.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [7eb4fadd] + Match v1.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [7eb4fadd] + Match v1.1.0
+[ Info: Finished indexing.

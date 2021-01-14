@@ -1,0 +1,18 @@
+[ Info: Indexing package CUDAdrv 6.2.3...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%###############                                                           21.3%###################################################                       70.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed CEnum ─── v0.2.0
+  Installed CUDAapi ─ v4.0.0
+  Installed CUDAdrv ─ v6.2.3
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [c5f51814] + CUDAdrv v6.2.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [fa961155] + CEnum v0.2.0
+  [3895d2a7] + CUDAapi v4.0.0
+  [c5f51814] + CUDAdrv v6.2.3
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

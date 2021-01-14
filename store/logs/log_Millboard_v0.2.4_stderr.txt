@@ -1,0 +1,10 @@
+[ Info: Indexing package Millboard 0.2.4...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#######                                                                   10.0%##############################                                            42.7%##########################################################                80.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Millboard ─ v0.2.4
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [39ec1447] + Millboard v0.2.4
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [39ec1447] + Millboard v0.2.4
+[ Info: Finished indexing.

@@ -1,0 +1,224 @@
+[ Info: Indexing package NeRCA 0.5.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    1.3%########                                                                  11.3%##########################                                                37.0%###################################################                       72.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Requires ───────────────────── v1.1.2
+  Installed Lz4_jll ────────────────────── v1.9.2+2
+  Installed IteratorInterfaceExtensions ── v1.0.0
+  Installed CodecZlib ──────────────────── v0.7.0
+  Installed HDF5_jll ───────────────────── v1.10.5+7
+  Installed CommonSubexpressions ───────── v0.3.0
+  Installed ErrorfreeArithmetic ────────── v0.5.2
+  Installed DataStructures ─────────────── v0.17.20
+  Installed NeRCA ──────────────────────── v0.5.1
+  Installed Reexport ───────────────────── v1.0.0
+  Installed MUMPS_seq_jll ──────────────── v5.2.1+4
+  Installed JSON ───────────────────────── v0.21.1
+  Installed FileIO ─────────────────────── v1.4.5
+  Installed FixedPointNumbers ──────────── v0.8.4
+  Installed OpenBLAS32_jll ─────────────── v0.3.9+4
+  Installed MutableArithmetics ─────────── v0.2.13
+  Installed TranscodingStreams ─────────── v0.9.5
+  Installed DocStringExtensions ────────── v0.8.3
+  Installed ColorTypes ─────────────────── v0.10.9
+  Installed StaticArrays ───────────────── v0.12.5
+  Installed Colors ─────────────────────── v0.12.6
+  Installed Ipopt_jll ──────────────────── v3.13.2+1
+  Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed RoundingEmulator ───────────── v0.2.1
+  Installed Parsers ────────────────────── v1.0.15
+  Installed OrderedCollections ─────────── v1.3.2
+  Installed Tables ─────────────────────── v1.2.2
+  Installed ForwardDiff ────────────────── v0.10.14
+  Installed UnPack ─────────────────────── v1.0.2
+  Installed DefaultApplication ─────────── v1.0.0
+  Installed IntervalArithmetic ─────────── v0.17.7
+  Installed Zstd_jll ───────────────────── v1.4.5+2
+  Installed BenchmarkTools ─────────────── v0.5.0
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed MbedTLS ────────────────────── v1.0.3
+  Installed MathOptInterface ───────────── v0.9.19
+  Installed ASL_jll ────────────────────── v0.1.1+4
+  Installed PlotUtils ──────────────────── v1.0.10
+  Installed ArgCheck ───────────────────── v2.1.0
+  Installed FastRounding ───────────────── v0.2.0
+  Installed Zlib_jll ───────────────────── v1.2.11+18
+  Installed DataAPI ────────────────────── v1.4.0
+  Installed RecipesBase ────────────────── v1.1.1
+  Installed METIS_jll ──────────────────── v5.1.0+5
+  Installed DiffRules ──────────────────── v1.0.2
+  Installed DrWatson ───────────────────── v1.16.6
+  Installed PGFPlotsX ──────────────────── v1.2.10
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed DataValueInterfaces ────────── v1.0.0
+  Installed Ipopt ──────────────────────── v0.6.5
+  Installed MathProgBase ───────────────── v0.7.8
+  Installed BinaryProvider ─────────────── v0.5.10
+  Installed MbedTLS_jll ────────────────── v2.16.8+1
+  Installed DiffResults ────────────────── v1.0.3
+  Installed IniFile ────────────────────── v0.5.0
+  Installed SetRounding ────────────────── v0.2.0
+  Installed TableTraits ────────────────── v1.0.0
+  Installed Blosc_jll ──────────────────── v1.14.3+1
+  Installed SpecialFunctions ───────────── v1.2.1
+  Installed NaNMath ────────────────────── v0.3.5
+  Installed ZipFile ────────────────────── v0.9.3
+  Installed JSONSchema ─────────────────── v0.3.3
+  Installed Calculus ───────────────────── v0.5.1
+  Installed Parameters ─────────────────── v0.12.1
+  Installed Blosc ──────────────────────── v0.7.0
+  Installed ChainRulesCore ─────────────── v0.9.25
+  Installed Bzip2_jll ──────────────────── v1.0.6+5
+  Installed HDF5 ───────────────────────── v0.13.7
+  Installed MacroTools ─────────────────── v0.5.6
+  Installed PlotThemes ─────────────────── v2.0.0
+  Installed URIs ───────────────────────── v1.2.0
+  Installed HTTP ───────────────────────── v0.9.2
+  Installed CodecBzip2 ─────────────────── v0.7.2
+  Installed JuMP ───────────────────────── v0.21.4
+  Installed CRlibm ─────────────────────── v0.8.0
+  Installed ColorSchemes ───────────────── v3.10.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [89b7c20c] + NeRCA v0.5.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [ae81ac8f] + ASL_jll v0.1.1+4
+  [dce04be8] + ArgCheck v2.1.0
+  [56f22d72] + Artifacts v1.3.0
+  [6e4b80f9] + BenchmarkTools v0.5.0
+  [b99e7846] + BinaryProvider v0.5.10
+  [a74b3585] + Blosc v0.7.0
+  [0b7ba130] + Blosc_jll v1.14.3+1
+  [6e34b625] + Bzip2_jll v1.0.6+5
+  [96374032] + CRlibm v0.8.0
+  [49dc2e85] + Calculus v0.5.1
+  [d360d2e6] + ChainRulesCore v0.9.25
+  [523fee87] + CodecBzip2 v0.7.2
+  [944b1d66] + CodecZlib v0.7.0
+  [35d6a980] + ColorSchemes v3.10.2
+  [3da002f7] + ColorTypes v0.10.9
+  [5ae59095] + Colors v0.12.6
+  [bbf7d656] + CommonSubexpressions v0.3.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [9a962f9c] + DataAPI v1.4.0
+  [864edb3b] + DataStructures v0.17.20
+  [e2d170a0] + DataValueInterfaces v1.0.0
+  [3f0dd361] + DefaultApplication v1.0.0
+  [163ba53b] + DiffResults v1.0.3
+  [b552c78f] + DiffRules v1.0.2
+  [ffbed154] + DocStringExtensions v0.8.3
+  [634d3b9d] + DrWatson v1.16.6
+  [90fa49ef] + ErrorfreeArithmetic v0.5.2
+  [fa42c844] + FastRounding v0.2.0
+  [5789e2e9] + FileIO v1.4.5
+  [53c48c17] + FixedPointNumbers v0.8.4
+  [f6369f11] + ForwardDiff v0.10.14
+  [f67ccb44] + HDF5 v0.13.7
+  [0234f1f7] + HDF5_jll v1.10.5+7
+  [cd3eb016] + HTTP v0.9.2
+  [83e8ac13] + IniFile v0.5.0
+  [d1acc4aa] + IntervalArithmetic v0.17.7
+  [b6b21f68] + Ipopt v0.6.5
+  [9cc047cb] + Ipopt_jll v3.13.2+1
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [682c06a0] + JSON v0.21.1
+  [7d188eb4] + JSONSchema v0.3.3
+  [4076af6c] + JuMP v0.21.4
+  [5ced341a] + Lz4_jll v1.9.2+2
+  [d00139f3] + METIS_jll v5.1.0+5
+  [d7ed1dd3] + MUMPS_seq_jll v5.2.1+4
+  [1914dd2f] + MacroTools v0.5.6
+  [b8f27783] + MathOptInterface v0.9.19
+  [fdba3010] + MathProgBase v0.7.8
+  [739be429] + MbedTLS v1.0.3
+  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
+  [d8a4904e] + MutableArithmetics v0.2.13
+  [77ba4419] + NaNMath v0.3.5
+  [89b7c20c] + NeRCA v0.5.1
+  [656ef2d0] + OpenBLAS32_jll v0.3.9+4
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [bac558e1] + OrderedCollections v1.3.2
+  [8314cec4] + PGFPlotsX v1.2.10
+  [d96e819e] + Parameters v0.12.1
+  [69de0a69] + Parsers v1.0.15
+  [ccf2f8ad] + PlotThemes v2.0.0
+  [995b91a9] + PlotUtils v1.0.10
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [189a3867] + Reexport v1.0.0
+  [ae029012] + Requires v1.1.2
+  [5eaf0fd0] + RoundingEmulator v0.2.1
+  [3cc68bcd] + SetRounding v0.2.0
+  [276daf66] + SpecialFunctions v1.2.1
+  [90137ffa] + StaticArrays v0.12.5
+  [3783bdb8] + TableTraits v1.0.0
+  [bd369af6] + Tables v1.2.2
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [5c2747f8] + URIs v1.2.0
+  [3a884ed6] + UnPack v1.0.2
+  [a5390f91] + ZipFile v0.9.3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [3161d3a3] + Zstd_jll v1.4.5+2
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building CRlibm → `~/.julia/packages/CRlibm/NFCH5/deps/build.log`
+┌ Error: Error building `CRlibm`: 
+│ configure: error: in `/root/.julia/packages/CRlibm/NFCH5/deps/src/crlibm-1.0beta4':
+│ configure: error: no acceptable C compiler found in $PATH
+│ See `config.log' for more details.
+│ ERROR: LoadError: failed process: Process(`./configure --silent 'CFLAGS=-fpic -w'`, ProcessExited(1)) [1]
+│ 
+│ Stacktrace:
+│  [1] pipeline_error at ./process.jl:525 [inlined]
+│  [2] run(::Cmd; wait::Bool) at ./process.jl:440
+│  [3] run(::Cmd) at ./process.jl:438
+│  [4] top-level scope at /root/.julia/packages/CRlibm/NFCH5/deps/build.jl:23
+│  [5] include(::String) at ./client.jl:457
+│  [6] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/CRlibm/NFCH5/deps/build.jl:23
+│ Working in /root/.julia/packages/CRlibm/NFCH5/deps/src/crlibm-1.0beta4
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+   Building Ipopt ─→ `~/.julia/packages/Ipopt/P1XLY/deps/build.log`
+   Building HDF5 ──→ `~/.julia/packages/HDF5/YX0jU/deps/build.log`
+┌ Warning: CRlibm is falling back to use MPFR; it will have
+│         the same functionality, but with slower execution.
+│         This is currently the only option on Windows.
+└ @ CRlibm ~/.julia/packages/CRlibm/NFCH5/src/CRlibm.jl:24
+[ Info: CRlibm is shadowing MPFR.
+ERROR: LoadError: LoadError: UndefVarError: HDF5Compound not defined
+Stacktrace:
+ [1] getproperty(::Module, ::Symbol) at ./Base.jl:26
+ [2] top-level scope at /root/.julia/packages/NeRCA/iYVxJ/src/types.jl:273
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include at ./Base.jl:368 [inlined]
+ [5] include(::String) at /root/.julia/packages/NeRCA/iYVxJ/src/NeRCA.jl:1
+ [6] top-level scope at /root/.julia/packages/NeRCA/iYVxJ/src/NeRCA.jl:41
+ [7] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [8] include(::Module, ::String) at ./Base.jl:368
+ [9] top-level scope at none:2
+ [10] eval at ./boot.jl:331 [inlined]
+ [11] eval(::Expr) at ./client.jl:467
+ [12] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/NeRCA/iYVxJ/src/types.jl:273
+in expression starting at /root/.julia/packages/NeRCA/iYVxJ/src/NeRCA.jl:41
+[ Info: Could not load package, exiting.

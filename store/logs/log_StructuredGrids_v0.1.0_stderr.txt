@@ -1,0 +1,10 @@
+[ Info: Indexing package StructuredGrids 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     9.4%##############                                                            20.7%#########################                                                 35.1%#####################################                                     52.7%###################################################                       72.1%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed StructuredGrids ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [3d2d666f] + StructuredGrids v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [3d2d666f] + StructuredGrids v0.1.0
+[ Info: Finished indexing.

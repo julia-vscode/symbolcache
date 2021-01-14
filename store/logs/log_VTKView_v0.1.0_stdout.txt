@@ -1,0 +1,11 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+
+Package VTKView: Unable to open libvtkfig.so.
+
+Please ensure  to have  compiled the  vtkfig package  and to  have the
+directory containing libvtkfig.so on your LD_LIBRARY_PATH.
+
+For detailed instructions, see  https://github.com/j-fu/vtkfig .
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+

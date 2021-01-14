@@ -1,0 +1,73 @@
+[ Info: Indexing package LevelDB 2.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                                                                                                 0.6%#########                                                                 12.5%#######################                                                   32.6%#######################################                                   54.6%####################################################                      72.8%######################################################################## 100.0%
+  Resolving package versions...
+  Installed URIParser ─ v0.4.1
+  Installed BinDeps ─── v1.0.2
+  Installed LevelDB ─── v2.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [6248df61] + LevelDB v2.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [9e28174c] + BinDeps v1.0.2
+  [6248df61] + LevelDB v2.1.0
+  [30578b45] + URIParser v0.4.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building LevelDB → `~/.julia/packages/LevelDB/LN2B8/deps/build.log`
+┌ Error: Error building `LevelDB`: 
+│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+│                                  Dload  Upload   Total   Spent    Left  Speed
+│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   121  100   121    0     0    407      0 --:--:-- --:--:-- --:--:--   408
+│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  217k    0  217k    0     0   276k      0 --:--:-- --:--:-- --:--:--  550k
+│ [ Info: Attempting to create directory /root/.julia/packages/LevelDB/LN2B8/deps/downloads
+│ [ Info: Downloading file https://github.com/google/leveldb/archive/v1.20.tar.gz
+│ [ Info: Done downloading file https://github.com/google/leveldb/archive/v1.20.tar.gz
+│ [ Info: Attempting to create directory /root/.julia/packages/LevelDB/LN2B8/deps/src
+│ [ Info: Attempting to create directory /root/.julia/packages/LevelDB/LN2B8/deps
+│ [ Info: Directory /root/.julia/packages/LevelDB/LN2B8/deps already exists
+│ [ Info: Attempting to create directory /root/.julia/packages/LevelDB/LN2B8/deps/usr/lib
+│ [ Info: Changing directory to /root/.julia/packages/LevelDB/LN2B8/deps/src/leveldb-1.20
+│ ERROR: LoadError: IOError: could not spawn `make`: no such file or directory (ENOENT)
+│ Stacktrace:
+│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
+│  [2] #585 at ./process.jl:112 [inlined]
+│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
+│  [4] _spawn at ./process.jl:111 [inlined]
+│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
+│  [6] run(::Cmd) at ./process.jl:438
+│  [7] run(::BinDeps.SynchronousStepCollection) at /root/.julia/packages/BinDeps/5xsHU/src/BinDeps.jl:524
+│  [8] run(::FileRule) at /root/.julia/packages/BinDeps/5xsHU/src/BinDeps.jl:486
+│  [9] run(::BinDeps.SynchronousStepCollection) at /root/.julia/packages/BinDeps/5xsHU/src/BinDeps.jl:524 (repeats 2 times)
+│  [10] satisfy!(::BinDeps.LibraryDependency, ::Array{DataType,1}) at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:951
+│  [11] satisfy!(::BinDeps.LibraryDependency) at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:929
+│  [12] top-level scope at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:984
+│  [13] include(::String) at ./client.jl:457
+│  [14] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/LevelDB/LN2B8/deps/build.jl:31
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+ERROR: LoadError: LevelDB not properly installed. Please run Pkg.build("LevelDB")
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] top-level scope at /root/.julia/packages/LevelDB/LN2B8/src/LevelDB.jl:9
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include(::Module, ::String) at ./Base.jl:368
+ [5] top-level scope at none:2
+ [6] eval at ./boot.jl:331 [inlined]
+ [7] eval(::Expr) at ./client.jl:467
+ [8] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/LevelDB/LN2B8/src/LevelDB.jl:6
+[ Info: Could not load package, exiting.

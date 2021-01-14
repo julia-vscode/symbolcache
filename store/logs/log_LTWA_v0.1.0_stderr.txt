@@ -1,0 +1,21 @@
+[ Info: Indexing package LTWA 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 12.5%####################                                                      28.9%#####################################                                     52.7%#########################################################                 79.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed BinaryProvider ── v0.5.10
+  Installed StringEncodings ─ v0.3.3
+  Installed LTWA ──────────── v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a3b798af] + LTWA v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b99e7846] + BinaryProvider v0.5.10
+  [a3b798af] + LTWA v0.1.0
+  [69024149] + StringEncodings v0.3.3
+  [8bb1440f] + DelimitedFiles
+  [8f399da3] + Libdl
+  [56ddb016] + Logging
+  [a63ad114] + Mmap
+  [ea8e919c] + SHA
+   Building StringEncodings → `~/.julia/packages/StringEncodings/B9gIH/deps/build.log`
+   Building LTWA ───────────→ `~/.julia/packages/LTWA/N8jwe/deps/build.log`
+[ Info: Finished indexing.

@@ -1,0 +1,198 @@
+[ Info: Indexing package PiecewiseDeterministicMarkovProcesses 0.0.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          2.5%##########                                                                15.1%##################                                                        26.4%###############################                                           43.9%########################################                                  55.8%#################################################                         68.4%###########################################################               82.8%#######################################################################   99.1%######################################################################## 100.0%
+  Resolving package versions...
+  Installed IteratorInterfaceExtensions ─────────── v1.0.0
+  Installed SortingAlgorithms ───────────────────── v0.3.1
+  Installed Rmath_jll ───────────────────────────── v0.2.2+1
+  Installed Requires ────────────────────────────── v1.1.2
+  Installed StatsFuns ───────────────────────────── v0.9.6
+  Installed TerminalLoggers ─────────────────────── v0.1.3
+  Installed DataStructures ──────────────────────── v0.17.20
+  Installed Compat ──────────────────────────────── v3.25.0
+  Installed Reexport ────────────────────────────── v0.2.0
+  Installed OpenSpecFun_jll ─────────────────────── v0.5.3+4
+  Installed RecursiveArrayTools ─────────────────── v2.10.0
+  Installed PDMats ──────────────────────────────── v0.10.1
+  Installed DocStringExtensions ─────────────────── v0.8.3
+  Installed StaticArrays ────────────────────────── v0.12.5
+  Installed StatsBase ───────────────────────────── v0.33.2
+  Installed Distributions ───────────────────────── v0.23.12
+  Installed ZygoteRules ─────────────────────────── v0.2.1
+  Installed URIParser ───────────────────────────── v0.4.1
+  Installed ArrayInterface ──────────────────────── v2.14.13
+  Installed OrderedCollections ──────────────────── v1.3.2
+  Installed Roots ───────────────────────────────── v1.0.7
+  Installed PiecewiseDeterministicMarkovProcesses ─ v0.0.1
+  Installed LeftChildRightSiblingTrees ──────────── v0.1.2
+  Installed UnPack ──────────────────────────────── v1.0.2
+  Installed MuladdMacro ─────────────────────────── v0.2.2
+  Installed FillArrays ──────────────────────────── v0.9.7
+  Installed Artifacts ───────────────────────────── v1.3.0
+  Installed RecursiveFactorization ──────────────── v0.1.0
+  Installed Rmath ───────────────────────────────── v0.6.1
+  Installed QuadGK ──────────────────────────────── v2.4.1
+  Installed DataAPI ─────────────────────────────── v1.4.0
+  Installed RecipesBase ─────────────────────────── v1.1.1
+  Installed JLLWrappers ─────────────────────────── v1.2.0
+  Installed LabelledArrays ──────────────────────── v1.4.0
+  Installed CompilerSupportLibraries_jll ────────── v0.3.4+0
+  Installed ConsoleProgressMonitor ──────────────── v0.1.2
+  Installed ProgressMeter ───────────────────────── v1.4.1
+  Installed Missings ────────────────────────────── v0.4.4
+  Installed BinDeps ─────────────────────────────── v1.0.2
+  Installed BinaryProvider ──────────────────────── v0.5.10
+  Installed AbstractTrees ───────────────────────── v0.3.3
+  Installed LSODA ───────────────────────────────── v0.6.2
+  Installed TreeViews ───────────────────────────── v0.3.0
+  Installed TableTraits ─────────────────────────── v1.0.0
+  Installed SpecialFunctions ────────────────────── v0.10.3
+  Installed LoggingExtras ───────────────────────── v0.4.2
+  Installed FunctionWrappers ────────────────────── v1.1.1
+  Installed DiffEqBase ──────────────────────────── v6.44.3
+  Installed ChainRulesCore ──────────────────────── v0.9.25
+  Installed IterativeSolvers ────────────────────── v0.8.5
+  Installed MacroTools ──────────────────────────── v0.5.6
+  Installed ProgressLogging ─────────────────────── v0.1.3
+  Installed Parameters ──────────────────────────── v0.12.1
+  Installed Sundials ────────────────────────────── v3.9.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [86206cdf] + PiecewiseDeterministicMarkovProcesses v0.0.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [1520ce14] + AbstractTrees v0.3.3
+  [4fba245c] + ArrayInterface v2.14.13
+  [56f22d72] + Artifacts v1.3.0
+  [9e28174c] + BinDeps v1.0.2
+  [b99e7846] + BinaryProvider v0.5.10
+  [d360d2e6] + ChainRulesCore v0.9.25
+  [34da2185] + Compat v3.25.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [88cd18e8] + ConsoleProgressMonitor v0.1.2
+  [9a962f9c] + DataAPI v1.4.0
+  [864edb3b] + DataStructures v0.17.20
+  [2b5f629d] + DiffEqBase v6.44.3
+  [31c24e10] + Distributions v0.23.12
+  [ffbed154] + DocStringExtensions v0.8.3
+  [1a297f60] + FillArrays v0.9.7
+  [069b7b12] + FunctionWrappers v1.1.1
+  [42fd0dbc] + IterativeSolvers v0.8.5
+  [82899510] + IteratorInterfaceExtensions v1.0.0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [7f56f5a3] + LSODA v0.6.2
+  [2ee39098] + LabelledArrays v1.4.0
+  [1d6d02ad] + LeftChildRightSiblingTrees v0.1.2
+  [e6f89c97] + LoggingExtras v0.4.2
+  [1914dd2f] + MacroTools v0.5.6
+  [e1d29d7a] + Missings v0.4.4
+  [46d2c3a1] + MuladdMacro v0.2.2
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [bac558e1] + OrderedCollections v1.3.2
+  [90014a1f] + PDMats v0.10.1
+  [d96e819e] + Parameters v0.12.1
+  [86206cdf] + PiecewiseDeterministicMarkovProcesses v0.0.1
+  [33c8b6b6] + ProgressLogging v0.1.3
+  [92933f4c] + ProgressMeter v1.4.1
+  [1fd47b50] + QuadGK v2.4.1
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [731186ca] + RecursiveArrayTools v2.10.0
+  [f2c3362d] + RecursiveFactorization v0.1.0
+  [189a3867] + Reexport v0.2.0
+  [ae029012] + Requires v1.1.2
+  [79098fc4] + Rmath v0.6.1
+  [f50d1b31] + Rmath_jll v0.2.2+1
+  [f2b01f46] + Roots v1.0.7
+  [a2af1166] + SortingAlgorithms v0.3.1
+  [276daf66] + SpecialFunctions v0.10.3
+  [90137ffa] + StaticArrays v0.12.5
+  [2913bbd2] + StatsBase v0.33.2
+  [4c63d2b9] + StatsFuns v0.9.6
+  [c3572dad] + Sundials v3.9.0
+  [3783bdb8] + TableTraits v1.0.0
+  [5d786b92] + TerminalLoggers v0.1.3
+  [a2a6695c] + TreeViews v0.3.0
+  [30578b45] + URIParser v0.4.1
+  [3a884ed6] + UnPack v1.0.2
+  [700de1a5] + ZygoteRules v0.2.1
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [9abbd945] + Profile
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [4607b0f0] + SuiteSparse
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+   Building LSODA ───→ `~/.julia/packages/LSODA/mCFEf/deps/build.log`
+┌ Error: Error building `LSODA`: 
+│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+│                                  Dload  Upload   Total   Spent    Left  Speed
+│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   125    0   125    0     0    320      0 --:--:-- --:--:-- --:--:--   334
+│ 100  110k    0  110k    0     0   140k      0 --:--:-- --:--:-- --:--:--  140k
+│ [ Info: Attempting to create directory /root/.julia/packages/LSODA/mCFEf/deps/downloads
+│ [ Info: Downloading file https://github.com/sdwfrost/liblsoda/archive/v0.1.1.tar.gz
+│ [ Info: Done downloading file https://github.com/sdwfrost/liblsoda/archive/v0.1.1.tar.gz
+│ [ Info: Attempting to create directory /root/.julia/packages/LSODA/mCFEf/deps/src
+│ [ Info: Attempting to create directory /root/.julia/packages/LSODA/mCFEf/deps
+│ [ Info: Directory /root/.julia/packages/LSODA/mCFEf/deps already exists
+│ [ Info: Attempting to create directory /root/.julia/packages/LSODA/mCFEf/deps/usr/lib
+│ [ Info: Changing directory to /root/.julia/packages/LSODA/mCFEf/deps/src/liblsoda-0.1.1
+│ ERROR: LoadError: IOError: could not spawn setenv(`make -j8`,["PATH=/usr/local/julia/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin", "JULIA_VERSION=1.5.3", "OPENBLAS_NUM_THREADS=8", "JULIA_PATH=/usr/local/julia", "HOME=/root", "JULIA_GPG=3673DF529D9049477F76B37566E3C7DC03D6E495", "OPENBLAS_MAIN_FREE=1", "HOSTNAME=70de91b3f5fb", "JULIA_LOAD_PATH=@:/tmp/jl_yFHiEY"]): no such file or directory (ENOENT)
+│ Stacktrace:
+│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
+│  [2] #585 at ./process.jl:112 [inlined]
+│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
+│  [4] _spawn at ./process.jl:111 [inlined]
+│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
+│  [6] run(::Cmd) at ./process.jl:438
+│  [7] run(::BinDeps.SynchronousStepCollection) at /root/.julia/packages/BinDeps/5xsHU/src/BinDeps.jl:524 (repeats 2 times)
+│  [8] satisfy!(::BinDeps.LibraryDependency, ::Array{DataType,1}) at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:951
+│  [9] satisfy!(::BinDeps.LibraryDependency) at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:929
+│  [10] top-level scope at /root/.julia/packages/BinDeps/5xsHU/src/dependencies.jl:984
+│  [11] include(::String) at ./client.jl:457
+│  [12] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/LSODA/mCFEf/deps/build.jl:39
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+   Building Sundials → `~/.julia/packages/Sundials/S5Ws7/deps/build.log`
+ERROR: LoadError: LSODA is not properly installed. Please run Pkg.build("LSODA")
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] top-level scope at /root/.julia/packages/LSODA/mCFEf/src/LSODA.jl:28
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include(::Module, ::String) at ./Base.jl:368
+ [5] top-level scope at none:2
+ [6] eval at ./boot.jl:331 [inlined]
+ [7] eval(::Expr) at ./client.jl:467
+ [8] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/LSODA/mCFEf/src/LSODA.jl:25
+ERROR: LoadError: Failed to precompile LSODA [7f56f5a3-f504-529b-bc02-0b1fe5e64312] to /root/.julia/compiled/v1.5/LSODA/HNvAI_nrrZo.ji.
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] compilecache(::Base.PkgId, ::String) at ./loading.jl:1305
+ [3] _require(::Base.PkgId) at ./loading.jl:1030
+ [4] require(::Base.PkgId) at ./loading.jl:928
+ [5] require(::Module, ::Symbol) at ./loading.jl:923
+ [6] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [7] include(::Module, ::String) at ./Base.jl:368
+ [8] top-level scope at none:2
+ [9] eval at ./boot.jl:331 [inlined]
+ [10] eval(::Expr) at ./client.jl:467
+ [11] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/PiecewiseDeterministicMarkovProcesses/XHd2v/src/PiecewiseDeterministicMarkovProcesses.jl:3
+[ Info: Could not load package, exiting.

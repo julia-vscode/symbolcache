@@ -1,0 +1,53 @@
+[ Info: Indexing package UnstructuredGrids 0.2.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%############                                                              16.9%################################                                          44.5%#################################################################         91.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed CodecZlib ────────── v0.7.0
+  Installed Zlib_jll ─────────── v1.2.11+18
+  Installed XML2_jll ─────────── v2.9.10+3
+  Installed Libiconv_jll ─────── v1.16.0+7
+  Installed LightXML ─────────── v0.9.0
+  Installed FillArrays ───────── v0.11.0
+  Installed WriteVTK ─────────── v1.8.1
+  Installed TranscodingStreams ─ v0.9.5
+  Installed Artifacts ────────── v1.3.0
+  Installed JLLWrappers ──────── v1.2.0
+  Installed UnstructuredGrids ── v0.2.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [9cd2e232] + UnstructuredGrids v0.2.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [56f22d72] + Artifacts v1.3.0
+  [944b1d66] + CodecZlib v0.7.0
+  [1a297f60] + FillArrays v0.11.0
+  [692b3bcd] + JLLWrappers v1.2.0
+  [94ce4f54] + Libiconv_jll v1.16.0+7
+  [9c8b4983] + LightXML v0.9.0
+  [3bb67fe8] + TranscodingStreams v0.9.5
+  [9cd2e232] + UnstructuredGrids v0.2.2
+  [64499a7a] + WriteVTK v1.8.1
+  [02c8fc9c] + XML2_jll v2.9.10+3
+  [83775a58] + Zlib_jll v1.2.11+18
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+WARNING: both Core and Core export "Core"; uses of it in module RefCellGallery must be qualified
+WARNING: both Core and Core export "Core"; uses of it in module VTK must be qualified
+WARNING: both Core and Core export "Core"; uses of it in module Factories must be qualified
+[ Info: Finished indexing.

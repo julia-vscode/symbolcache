@@ -1,0 +1,10 @@
+[ Info: Indexing package TrackingHeaps 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#######                                                                   10.7%####################                                                      28.9%################################                                          44.5%#############################################                             62.7%##############################################################            87.2%######################################################################## 100.0%
+  Resolving package versions...
+  Installed TrackingHeaps ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d94bfb22] + TrackingHeaps v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [d94bfb22] + TrackingHeaps v0.1.0
+[ Info: Finished indexing.

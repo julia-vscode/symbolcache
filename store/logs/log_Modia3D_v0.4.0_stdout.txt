@@ -1,0 +1,7 @@
+
+Importing Modia3D Version 0.4.0 (2019-09-27)
+ 
+Importing ModiaMath Version 0.5.2 (2019-07-10)
+    PyPlot not available (plot commands will be ignored).
+    Try to install PyPlot. See hints here:
+    https://github.com/ModiaSim/ModiaMath.jl/wiki/Installing-PyPlot-in-a-robust-way.

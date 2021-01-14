@@ -1,0 +1,19 @@
+[ Info: Indexing package StableRNGs 0.1.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%##                                                                         3.1%####                                                                       6.3%######                                                                     9.4%#########                                                                 13.8%############                                                              17.6%################                                                          23.2%####################                                                      28.9%##########################                                                36.4%#################################                                         46.4%##########################################                                58.3%##################################################                        70.3%###########################################################               82.2%####################################################################      95.4%######################################################################## 100.0%
+  Resolving package versions...
+  Installed StableRNGs ─ v0.1.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [860ef19b] + StableRNGs v0.1.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [860ef19b] + StableRNGs v0.1.2
+  [2a0f44e3] + Base64
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+[ Info: Finished indexing.

@@ -1,0 +1,10 @@
+[ Info: Indexing package IsURL 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##########                                                                14.4%###############################                                           43.9%#####################################################                     74.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed IsURL ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [ceb4388c] + IsURL v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [ceb4388c] + IsURL v0.2.0
+[ Info: Finished indexing.

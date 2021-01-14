@@ -1,0 +1,24 @@
+[ Info: Indexing package MemoryMutate 0.0.4...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%######                                                                     9.4%##############                                                            20.7%####################                                                      28.9%###############################                                           43.3%######################################                                    53.3%###########################################                               60.2%#################################################                         69.0%#########################################################                 80.3%#################################################################         91.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed MemoryMutate ─ v0.0.4
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a5f39ad1] + MemoryMutate v0.0.4
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a5f39ad1] + MemoryMutate v0.0.4
+ERROR: LoadError: ArgumentError: Package MemoryMutate does not have StaticArrays in its dependencies:
+- If you have MemoryMutate checked out for development and have
+  added StaticArrays as a dependency but haven't updated your primary
+  environment's manifest file, try `Pkg.resolve()`.
+- Otherwise you may need to report an issue with MemoryMutate
+Stacktrace:
+ [1] require(::Module, ::Symbol) at ./loading.jl:906
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include(::Module, ::String) at ./Base.jl:368
+ [4] top-level scope at none:2
+ [5] eval at ./boot.jl:331 [inlined]
+ [6] eval(::Expr) at ./client.jl:467
+ [7] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/MemoryMutate/n4Nd7/src/MemoryMutate.jl:2
+[ Info: Could not load package, exiting.

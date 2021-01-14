@@ -1,0 +1,40 @@
+[ Info: Indexing package BandedMatrices 0.15.24...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%##########                                                                14.4%#######################                                                   32.0%#######################################                                   54.6%########################################################                  79.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ArrayLayouts ─── v0.4.11
+  Installed Compat ───────── v3.25.0
+  Installed FillArrays ───── v0.9.7
+  Installed BandedMatrices ─ v0.15.24
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [aae01518] + BandedMatrices v0.15.24
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [4c555306] + ArrayLayouts v0.4.11
+  [aae01518] + BandedMatrices v0.15.24
+  [34da2185] + Compat v3.25.0
+  [1a297f60] + FillArrays v0.9.7
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8bb1440f] + DelimitedFiles
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [a63ad114] + Mmap
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [1a1011a3] + SharedArrays
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

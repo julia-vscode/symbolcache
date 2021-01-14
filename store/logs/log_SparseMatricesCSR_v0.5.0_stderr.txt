@@ -1,0 +1,15 @@
+[ Info: Indexing package SparseMatricesCSR 0.5.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#                                                                          2.5%####                                                                       5.6%######                                                                     8.8%########                                                                  11.3%###########                                                               15.7%###############                                                           21.3%####################                                                      28.9%##########################                                                36.4%#################################                                         47.1%##########################################                                59.6%####################################################                      73.4%###############################################################           88.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed SparseMatricesCSR ─ v0.5.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [a0a7dd2c] + SparseMatricesCSR v0.5.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [a0a7dd2c] + SparseMatricesCSR v0.5.0
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+[ Info: Finished indexing.

@@ -1,0 +1,12 @@
+[ Info: Indexing package ModifiedLatinHypercubeSampling 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#####                                                                      8.2%#################                                                         23.8%###############################                                           43.9%###############################################                           66.5%################################################################          89.7%######################################################################## 100.0%
+  Resolving package versions...
+  Installed ModifiedLatinHypercubeSampling ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [7da3f81e] + ModifiedLatinHypercubeSampling v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [7da3f81e] + ModifiedLatinHypercubeSampling v0.1.0
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+[ Info: Finished indexing.

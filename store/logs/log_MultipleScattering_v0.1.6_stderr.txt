@@ -1,0 +1,63 @@
+[ Info: Indexing package MultipleScattering 0.1.6...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%############                                                              16.9%#######################                                                   32.0%####################################                                      50.2%####################################################                      73.4%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed OpenSpecFun_jll ────────────── v0.5.3+4
+  Installed RecipesBase ────────────────── v1.1.1
+  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
+  Installed RationalRoots ──────────────── v0.1.0
+  Installed WignerSymbols ──────────────── v1.1.0
+  Installed SpecialFunctions ───────────── v0.10.3
+  Installed Adapt ──────────────────────── v2.4.0
+  Installed OffsetArrays ───────────────── v1.5.0
+  Installed GSL ────────────────────────── v1.0.0
+  Installed HalfIntegers ───────────────── v1.3.1
+  Installed JLLWrappers ────────────────── v1.2.0
+  Installed ProgressMeter ──────────────── v1.4.1
+  Installed Artifacts ──────────────────── v1.3.0
+  Installed GSL_jll ────────────────────── v2.6.0+3
+  Installed StaticArrays ───────────────── v0.12.5
+  Installed Primes ─────────────────────── v0.4.0
+  Installed MultipleScattering ─────────── v0.1.6
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [80a8ab25] + MultipleScattering v0.1.6
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [79e6a3ab] + Adapt v2.4.0
+  [56f22d72] + Artifacts v1.3.0
+  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
+  [92c85e6c] + GSL v1.0.0
+  [1b77fbbe] + GSL_jll v2.6.0+3
+  [f0d1745a] + HalfIntegers v1.3.1
+  [692b3bcd] + JLLWrappers v1.2.0
+  [80a8ab25] + MultipleScattering v0.1.6
+  [6fe1bfb0] + OffsetArrays v1.5.0
+  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
+  [27ebfcd6] + Primes v0.4.0
+  [92933f4c] + ProgressMeter v1.4.1
+  [308eb6b3] + RationalRoots v0.1.0
+  [3cdcf5f2] + RecipesBase v1.1.1
+  [276daf66] + SpecialFunctions v0.10.3
+  [90137ffa] + StaticArrays v0.12.5
+  [9f57e263] + WignerSymbols v1.1.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [76f85450] + LibGit2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [44cfe95a] + Pkg
+  [de0858da] + Printf
+  [3fa0cd96] + REPL
+  [9a3f8284] + Random
+  [ea8e919c] + SHA
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [2f01184e] + SparseArrays
+  [10745b16] + Statistics
+  [8dfed614] + Test
+  [cf7118a7] + UUIDs
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

@@ -1,0 +1,18 @@
+[ Info: Indexing package StaticModules 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #########                                                                 13.2%#######################                                                   32.6%######################################                                    54.0%########################################################                  79.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed PrettyPrint ──── v0.2.0
+  Installed NameResolution ─ v0.1.5
+  Installed JuliaVariables ─ v0.2.3
+  Installed MLStyle ──────── v0.4.6
+  Installed StaticModules ── v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [0e73dd9d] + StaticModules v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b14d175d] + JuliaVariables v0.2.3
+  [d8e11817] + MLStyle v0.4.6
+  [71a1bf82] + NameResolution v0.1.5
+  [8162dcfd] + PrettyPrint v0.2.0
+  [0e73dd9d] + StaticModules v0.1.0
+[ Info: Finished indexing.

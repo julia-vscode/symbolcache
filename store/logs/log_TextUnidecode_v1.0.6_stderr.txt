@@ -1,0 +1,10 @@
+[ Info: Indexing package TextUnidecode 1.0.6...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                                                                                                 0.6%##########                                                                14.4%############################                                              38.9%##################################################                        69.6%######################################################################    98.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed TextUnidecode ─ v1.0.6
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [67e1f08c] + TextUnidecode v1.0.6
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [67e1f08c] + TextUnidecode v1.0.6
+[ Info: Finished indexing.

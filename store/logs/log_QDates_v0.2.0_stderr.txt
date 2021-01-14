@@ -1,0 +1,48 @@
+[ Info: Indexing package QDates 0.2.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%####                                                                       6.3%#########                                                                 13.8%##############                                                            20.7%#####################                                                     29.5%##########################                                                37.0%################################                                          45.8%#########################################                                 57.1%################################################                          67.1%########################################################                  77.8%#####################################################################     96.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed QDates ─ v0.2.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [25f12f5a] + QDates v0.2.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [25f12f5a] + QDates v0.2.0
+  [2a0f44e3] + Base64
+  [ade2ca70] + Dates
+  [8ba89e20] + Distributed
+  [b77e0a4c] + InteractiveUtils
+  [56ddb016] + Logging
+  [d6f4376e] + Markdown
+  [de0858da] + Printf
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [6462fe0b] + Sockets
+  [8dfed614] + Test
+  [4ec0a83e] + Unicode
+   Building QDates → `~/.julia/packages/QDates/GYddC/deps/build.log`
+┌ Error: Error building `QDates`: 
+│ ERROR: LoadError: IOError: could not spawn `gcc -shared -o ../libqref.so -fPIC qref.c`: no such file or directory (ENOENT)
+│ Stacktrace:
+│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
+│  [2] #585 at ./process.jl:112 [inlined]
+│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
+│  [4] _spawn at ./process.jl:111 [inlined]
+│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
+│  [6] run(::Cmd) at ./process.jl:438
+│  [7] top-level scope at /root/.julia/packages/QDates/GYddC/deps/build.jl:15
+│  [8] include(::String) at ./client.jl:457
+│  [9] top-level scope at none:5
+│ in expression starting at /root/.julia/packages/QDates/GYddC/deps/build.jl:6
+└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
+ERROR: LoadError: QDates not properly installed. Please run Pkg.build("QDates")
+Stacktrace:
+ [1] error(::String) at ./error.jl:33
+ [2] top-level scope at /root/.julia/packages/QDates/GYddC/src/QDates.jl:8
+ [3] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [4] include(::Module, ::String) at ./Base.jl:368
+ [5] top-level scope at none:2
+ [6] eval at ./boot.jl:331 [inlined]
+ [7] eval(::Expr) at ./client.jl:467
+ [8] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/QDates/GYddC/src/QDates.jl:5
+[ Info: Could not load package, exiting.

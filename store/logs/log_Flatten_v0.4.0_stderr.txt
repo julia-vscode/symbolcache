@@ -1,0 +1,14 @@
+[ Info: Indexing package Flatten 0.4.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%#######                                                                   10.7%##############                                                            20.1%#########################                                                 35.1%#####################################                                     52.1%#####################################################                     74.0%######################################################################## 100.0%
+  Resolving package versions...
+  Installed FieldMetadata ──── v0.3.1
+  Installed ConstructionBase ─ v1.0.0
+  Installed Flatten ────────── v0.4.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [4c728ea3] + Flatten v0.4.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [187b0558] + ConstructionBase v1.0.0
+  [bf96fef3] + FieldMetadata v0.3.1
+  [4c728ea3] + Flatten v0.4.0
+[ Info: Finished indexing.

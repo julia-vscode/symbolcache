@@ -1,0 +1,12 @@
+[ Info: Indexing package LinuxPerf 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%#########                                                                 13.8%##########################                                                36.4%###########################################                               60.2%#############################################################             85.3%######################################################################## 100.0%
+  Resolving package versions...
+  Installed LinuxPerf ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [b4c46c6c] + LinuxPerf v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [b4c46c6c] + LinuxPerf v0.1.0
+  [de0858da] + Printf
+  [4ec0a83e] + Unicode
+[ Info: Finished indexing.

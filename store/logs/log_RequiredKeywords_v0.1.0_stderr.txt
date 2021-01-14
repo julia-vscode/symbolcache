@@ -1,0 +1,20 @@
+[ Info: Indexing package RequiredKeywords 0.1.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ####                                                                       6.3%############                                                              16.9%###################                                                       27.0%############################                                              38.9%################################                                          45.8%#######################################                                   54.6%#############################################                             63.4%####################################################                      73.4%###########################################################               82.8%##################################################################        92.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed RequiredKeywords ─ v0.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [fa45d1ab] + RequiredKeywords v0.1.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [fa45d1ab] + RequiredKeywords v0.1.0
+ERROR: LoadError: syntax: extra token "UnassignedKeyword" after end of expression
+Stacktrace:
+ [1] top-level scope at /root/.julia/packages/RequiredKeywords/cRGcy/src/RequiredKeywords.jl:13
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include(::Module, ::String) at ./Base.jl:368
+ [4] top-level scope at none:2
+ [5] eval at ./boot.jl:331 [inlined]
+ [6] eval(::Expr) at ./client.jl:467
+ [7] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/RequiredKeywords/cRGcy/src/RequiredKeywords.jl:13
+[ Info: Could not load package, exiting.

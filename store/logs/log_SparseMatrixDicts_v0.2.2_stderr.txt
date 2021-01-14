@@ -1,0 +1,15 @@
+[ Info: Indexing package SparseMatrixDicts 0.2.2...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%###########                                                               15.7%################################                                          45.2%#######################################################                   76.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed SparseMatrixDicts ─ v0.2.2
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [5cb6c4b0] + SparseMatrixDicts v0.2.2
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [5cb6c4b0] + SparseMatrixDicts v0.2.2
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+  [9a3f8284] + Random
+  [9e88b42a] + Serialization
+  [2f01184e] + SparseArrays
+[ Info: Finished indexing.

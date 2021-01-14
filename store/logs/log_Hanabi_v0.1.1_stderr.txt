@@ -1,0 +1,26 @@
+[ Info: Indexing package Hanabi 0.1.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%################                                                          22.6%###############################################                           65.9%######################################################################## 100.0%
+  Resolving package versions...
+  Installed Hanabi ─ v0.1.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [705708ad] + Hanabi v0.1.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [705708ad] + Hanabi v0.1.1
+  [8f399da3] + Libdl
+   Building Hanabi → `~/.julia/packages/Hanabi/Nc0RH/deps/build.log`
+ERROR: LoadError: ArgumentError: Package Hanabi does not have Reexport in its dependencies:
+- If you have Hanabi checked out for development and have
+  added Reexport as a dependency but haven't updated your primary
+  environment's manifest file, try `Pkg.resolve()`.
+- Otherwise you may need to report an issue with Hanabi
+Stacktrace:
+ [1] require(::Module, ::Symbol) at ./loading.jl:906
+ [2] include(::Function, ::Module, ::String) at ./Base.jl:380
+ [3] include(::Module, ::String) at ./Base.jl:368
+ [4] top-level scope at none:2
+ [5] eval at ./boot.jl:331 [inlined]
+ [6] eval(::Expr) at ./client.jl:467
+ [7] top-level scope at ./none:3
+in expression starting at /root/.julia/packages/Hanabi/Nc0RH/src/Hanabi.jl:3
+[ Info: Could not load package, exiting.

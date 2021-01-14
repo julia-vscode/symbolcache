@@ -1,0 +1,12 @@
+[ Info: Indexing package ClosedIntervals 0.3.0...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                                                                                                    0.6%########                                                                  11.3%###################                                                       27.6%################################                                          45.8%##########################################                                58.3%##################################################                        70.3%############################################################              83.4%#####################################################################     96.6%######################################################################## 100.0%
+  Resolving package versions...
+  Installed AbstractLattices ─ v0.2.1
+  Installed ClosedIntervals ── v0.3.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [059b0e18] + ClosedIntervals v0.3.0
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [398f06c4] + AbstractLattices v0.2.1
+  [059b0e18] + ClosedIntervals v0.3.0
+[ Info: Finished indexing.

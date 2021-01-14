@@ -1,0 +1,10 @@
+[ Info: Indexing package OptimizingIR 0.2.1...
+   Updating registry at `~/.julia/registries/General`
+#=#=#                                                                         #                                                                          1.9%###################                                                       27.0%###################################################                       71.5%######################################################################## 100.0%
+  Resolving package versions...
+  Installed OptimizingIR ─ v0.2.1
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [cc8fcbce] + OptimizingIR v0.2.1
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [cc8fcbce] + OptimizingIR v0.2.1
+[ Info: Finished indexing.

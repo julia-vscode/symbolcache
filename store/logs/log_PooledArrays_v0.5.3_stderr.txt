@@ -1,0 +1,11 @@
+[ Info: Indexing package PooledArrays 0.5.3...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed PooledArrays ─ v0.5.3
+  Installed DataAPI ────── v1.4.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [2dfb63ee] + PooledArrays v0.5.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [9a962f9c] + DataAPI v1.4.0
+  [2dfb63ee] + PooledArrays v0.5.3
+[ Info: Finished indexing.

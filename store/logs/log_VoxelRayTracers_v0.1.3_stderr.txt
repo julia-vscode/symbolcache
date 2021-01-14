@@ -1,0 +1,15 @@
+[ Info: Indexing package VoxelRayTracers 0.1.3...
+   Updating registry at `~/.julia/registries/General`
+  Resolving package versions...
+  Installed RecipesBase ───── v0.8.0
+  Installed VoxelRayTracers ─ v0.1.3
+  Installed ArgCheck ──────── v2.1.0
+Updating `~/.julia/environments/v1.5/Project.toml`
+  [d9e3e1c4] + VoxelRayTracers v0.1.3
+Updating `~/.julia/environments/v1.5/Manifest.toml`
+  [dce04be8] + ArgCheck v2.1.0
+  [3cdcf5f2] + RecipesBase v0.8.0
+  [d9e3e1c4] + VoxelRayTracers v0.1.3
+  [8f399da3] + Libdl
+  [37e2e46d] + LinearAlgebra
+[ Info: Finished indexing.

@@ -1,29 +1,0 @@
-[ Info: Indexing package HeaderREPLs 0.2.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    1.3%###########                                                               15.7%#########################                                                 35.1%#######################################                                   55.2%########################################################                  79.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed HeaderREPLs ─ v0.2.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [54d51984] + HeaderREPLs v0.2.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [54d51984] + HeaderREPLs v0.2.2
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-WARNING: Method definition transition(Function, REPL.LineEdit.PrefixSearchState, Any) in module LineEdit at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/REPL/src/LineEdit.jl:1726 overwritten in module HeaderREPLs at /root/.julia/packages/HeaderREPLs/FnXbH/src/HeaderREPLs.jl:315.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition activate(REPL.LineEdit.TextInterface, REPL.LineEdit.ModeState, Any, REPL.Terminals.TextTerminal) in module LineEdit at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/REPL/src/LineEdit.jl:2257 overwritten in module HeaderREPLs at /root/.julia/packages/HeaderREPLs/FnXbH/src/HeaderREPLs.jl:370.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition deactivate(REPL.LineEdit.TextInterface, REPL.LineEdit.ModeState, Any, REPL.Terminals.TextTerminal) in module LineEdit at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/REPL/src/LineEdit.jl:2252 overwritten in module HeaderREPLs at /root/.julia/packages/HeaderREPLs/FnXbH/src/HeaderREPLs.jl:384.
-  ** incremental compilation may be fatally broken for this module **
-
-[ Info: Finished indexing.

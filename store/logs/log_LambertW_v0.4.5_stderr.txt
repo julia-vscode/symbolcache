@@ -1,9 +1,0 @@
-[ Info: Indexing package LambertW 0.4.5...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed LambertW ─ v0.4.5
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [984bce1d] + LambertW v0.4.5
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [984bce1d] + LambertW v0.4.5
-[ Info: Finished indexing.

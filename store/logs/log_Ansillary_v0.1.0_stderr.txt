@@ -1,18 +1,0 @@
-[ Info: Indexing package Ansillary 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ####                                                                       6.9%#############                                                             18.8%####################                                                      28.9%############################                                              40.2%#####################################                                     52.1%##########################################                                59.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Ansillary ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [e36756a0] + Ansillary v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [e36756a0] + Ansillary v0.1.0
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [6462fe0b] + Sockets
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

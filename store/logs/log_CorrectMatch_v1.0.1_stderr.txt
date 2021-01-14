@@ -1,148 +1,0 @@
-[ Info: Indexing package CorrectMatch 1.0.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    1.3%######                                                                     8.8%############                                                              17.6%###################                                                       27.0%##########################                                                36.4%##############################                                            42.0%##################################                                        48.3%#######################################                                   54.6%###########################################                               60.9%###############################################                           66.5%#####################################################                     74.0%##########################################################                80.9%#################################################################         90.3%######################################################################    98.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Requires ───────────────────── v1.1.2
-  Installed SortingAlgorithms ──────────── v0.3.1
-  Installed CommonSubexpressions ───────── v0.3.0
-  Installed StatsFuns ──────────────────── v0.8.0
-  Installed NLSolversBase ──────────────── v7.5.0
-  Installed PDMats ─────────────────────── v0.9.12
-  Installed OpenBLAS_jll ───────────────── v0.3.9+5
-  Installed Compat ─────────────────────── v2.2.1
-  Installed DataStructures ─────────────── v0.17.20
-  Installed CorrectMatch ───────────────── v1.0.1
-  Installed StaticArrays ───────────────── v0.12.5
-  Installed StatsBase ──────────────────── v0.32.2
-  Installed Distributions ──────────────── v0.21.12
-  Installed URIParser ──────────────────── v0.4.1
-  Installed ArrayInterface ─────────────── v2.14.13
-  Installed DiffEqDiffTools ────────────── v1.7.0
-  Installed OrderedCollections ─────────── v1.3.2
-  Installed PositiveFactorizations ─────── v0.2.4
-  Installed ForwardDiff ────────────────── v0.10.14
-  Installed LineSearches ───────────────── v7.1.1
-  Installed Roots ──────────────────────── v0.8.4
-  Installed UnPack ─────────────────────── v1.0.2
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed FillArrays ─────────────────── v0.8.14
-  Installed Rmath ──────────────────────── v0.5.1
-  Installed QuadGK ─────────────────────── v2.4.1
-  Installed DataAPI ────────────────────── v1.4.0
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed DiffRules ──────────────────── v1.0.2
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed Arpack ─────────────────────── v0.4.0
-  Installed Missings ───────────────────── v0.4.4
-  Installed Discreet ───────────────────── v0.3.1
-  Installed NaNMath ────────────────────── v0.3.5
-  Installed BinDeps ────────────────────── v0.8.10
-  Installed DiffResults ────────────────── v1.0.3
-  Installed Calculus ───────────────────── v0.5.1
-  Installed SpecialFunctions ───────────── v0.8.0
-  Installed BinaryProvider ─────────────── v0.5.10
-  Installed Arpack_jll ─────────────────── v3.5.0+3
-  Installed Parameters ─────────────────── v0.12.1
-  Installed MacroTools ─────────────────── v0.5.6
-  Installed Optim ──────────────────────── v0.19.7
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [26fcc630] + CorrectMatch v1.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7d9fca2a] + Arpack v0.4.0
-  [68821587] + Arpack_jll v3.5.0+3
-  [4fba245c] + ArrayInterface v2.14.13
-  [56f22d72] + Artifacts v1.3.0
-  [9e28174c] + BinDeps v0.8.10
-  [b99e7846] + BinaryProvider v0.5.10
-  [49dc2e85] + Calculus v0.5.1
-  [bbf7d656] + CommonSubexpressions v0.3.0
-  [34da2185] + Compat v2.2.1
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [26fcc630] + CorrectMatch v1.0.1
-  [9a962f9c] + DataAPI v1.4.0
-  [864edb3b] + DataStructures v0.17.20
-  [01453d9d] + DiffEqDiffTools v1.7.0
-  [163ba53b] + DiffResults v1.0.3
-  [b552c78f] + DiffRules v1.0.2
-  [c2843242] + Discreet v0.3.1
-  [31c24e10] + Distributions v0.21.12
-  [1a297f60] + FillArrays v0.8.14
-  [f6369f11] + ForwardDiff v0.10.14
-  [692b3bcd] + JLLWrappers v1.2.0
-  [d3d80556] + LineSearches v7.1.1
-  [1914dd2f] + MacroTools v0.5.6
-  [e1d29d7a] + Missings v0.4.4
-  [d41bc354] + NLSolversBase v7.5.0
-  [77ba4419] + NaNMath v0.3.5
-  [4536629a] + OpenBLAS_jll v0.3.9+5
-  [429524aa] + Optim v0.19.7
-  [bac558e1] + OrderedCollections v1.3.2
-  [90014a1f] + PDMats v0.9.12
-  [d96e819e] + Parameters v0.12.1
-  [85a6dd25] + PositiveFactorizations v0.2.4
-  [1fd47b50] + QuadGK v2.4.1
-  [ae029012] + Requires v1.1.2
-  [79098fc4] + Rmath v0.5.1
-  [f2b01f46] + Roots v0.8.4
-  [a2af1166] + SortingAlgorithms v0.3.1
-  [276daf66] + SpecialFunctions v0.8.0
-  [90137ffa] + StaticArrays v0.12.5
-  [2913bbd2] + StatsBase v0.32.2
-  [4c63d2b9] + StatsFuns v0.8.0
-  [30578b45] + URIParser v0.4.1
-  [3a884ed6] + UnPack v1.0.2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [4607b0f0] + SuiteSparse
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building SpecialFunctions → `~/.julia/packages/SpecialFunctions/ne2iw/deps/build.log`
-   Building Rmath ───────────→ `~/.julia/packages/Rmath/4wt82/deps/build.log`
-   Building CorrectMatch ────→ `~/.julia/packages/CorrectMatch/Hf9Rq/deps/build.log`
-┌ Error: Error building `CorrectMatch`: 
-│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-│                                  Dload  Upload   Total   Spent    Left  Speed
-│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 46387  100 46387    0     0   112k      0 --:--:-- --:--:-- --:--:--  112k
-│ ERROR: LoadError: IOError: could not spawn `gfortran --version`: no such file or directory (ENOENT)
-│ Stacktrace:
-│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
-│  [2] #585 at ./process.jl:112 [inlined]
-│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
-│  [4] _spawn at ./process.jl:111 [inlined]
-│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
-│  [6] run(::Cmd) at ./process.jl:438
-│  [7] top-level scope at /root/.julia/packages/CorrectMatch/Hf9Rq/deps/build.jl:61
-│  [8] top-level scope at /root/.julia/packages/BinDeps/ZEval/src/BinDeps.jl:272
-│  [9] top-level scope at /root/.julia/packages/CorrectMatch/Hf9Rq/deps/build.jl:54
-│  [10] include(::String) at ./client.jl:457
-│  [11] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/CorrectMatch/Hf9Rq/deps/build.jl:53
-│ === Building MVNDST ===
-│ depsdir  = /root/.julia/packages/CorrectMatch/Hf9Rq/deps
-│ builddir = /root/.julia/packages/CorrectMatch/Hf9Rq/deps/builds
-│ srcdir   = /root/.julia/packages/CorrectMatch/Hf9Rq/deps/src
-│ useIntel = false
-│ creating build directory
-│ fortran version
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-[ Info: Finished indexing.

@@ -1,19 +1,0 @@
-[ Info: Indexing package ChrBase 1.0.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #########                                                                 13.8%#########################                                                 35.1%######################################                                    54.0%############################################################              84.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed CharSetEncodings ───── v1.0.0
-  Installed StrAPI ─────────────── v1.0.0
-  Installed ModuleInterfaceTools ─ v1.0.1
-  Installed ChrBase ────────────── v1.0.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [c13fa7b1] + ChrBase v1.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [cb9422de] + CharSetEncodings v1.0.0
-  [c13fa7b1] + ChrBase v1.0.1
-  [5cb8414e] + ModuleInterfaceTools v1.0.1
-  [69e7dfc3] + StrAPI v1.0.0
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

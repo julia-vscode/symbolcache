@@ -1,22 +1,0 @@
-[ Info: Indexing package HTMLSanitizer 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%##################                                                        26.4%##########################################                                59.6%######################################################################    97.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Gumbo ────────── v0.7.0
-  Installed AbstractTrees ── v0.3.3
-  Installed BinaryProvider ─ v0.5.10
-  Installed HTMLSanitizer ── v0.1.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [9a15a9f4] + HTMLSanitizer v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [1520ce14] + AbstractTrees v0.3.3
-  [b99e7846] + BinaryProvider v0.5.10
-  [708ec375] + Gumbo v0.7.0
-  [9a15a9f4] + HTMLSanitizer v0.1.2
-  [2a0f44e3] + Base64
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [ea8e919c] + SHA
-   Building Gumbo → `~/.julia/packages/Gumbo/OhZJu/deps/build.log`
-[ Info: Finished indexing.

@@ -1,9 +1,0 @@
-[ Info: Indexing package Hashids 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed Hashids ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [e87aa5a2] + Hashids v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [e87aa5a2] + Hashids v0.1.1
-[ Info: Finished indexing.

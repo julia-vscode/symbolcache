@@ -1,40 +1,0 @@
-[ Info: Indexing package Birch_Standard_jll 1.104.0+0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                14.4%#########################                                                 35.8%#################################                                         47.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed LibYAML_jll ────────────────── v0.2.5+0
-  Installed Eigen_jll ──────────────────── v3.3.7+1
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed boost_jll ──────────────────── v1.71.0+3
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed Birch_Standard_jll ─────────── v1.104.0+0
-  Installed LibBirch_jll ───────────────── v1.104.0+0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [acd4faa2] + Birch_Standard_jll v1.104.0+0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [acd4faa2] + Birch_Standard_jll v1.104.0+0
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [bc6bbf8a] + Eigen_jll v3.3.7+1
-  [692b3bcd] + JLLWrappers v1.2.0
-  [9af553da] + LibBirch_jll v1.104.0+0
-  [f531010a] + LibYAML_jll v0.2.5+0
-  [28df3c45] + boost_jll v1.71.0+3
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

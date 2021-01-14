@@ -1,139 +1,0 @@
-[ Info: Indexing package PlotlyJS 0.13.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%###                                                                        4.4%####                                                                       6.9%#######                                                                   10.0%#########                                                                 13.8%#############                                                             18.8%##################                                                        25.1%######################                                                    31.4%############################                                              38.9%#################################                                         46.4%#########################################                                 57.7%#################################################                         69.0%#########################################################                 80.3%####################################################################      95.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Reexport ──────────────────── v0.2.0
-  Installed IteratorInterfaceExtensions ─ v1.0.0
-  Installed Requires ──────────────────── v1.1.2
-  Installed Compat ────────────────────── v3.25.0
-  Installed JSON ──────────────────────── v0.21.1
-  Installed WebIO ─────────────────────── v0.8.15
-  Installed URIParser ─────────────────── v0.4.1
-  Installed FixedPointNumbers ─────────── v0.8.4
-  Installed Parsers ───────────────────── v1.0.15
-  Installed ColorTypes ────────────────── v0.10.9
-  Installed Colors ────────────────────── v0.12.6
-  Installed WebSockets ────────────────── v1.5.7
-  Installed DocStringExtensions ───────── v0.8.3
-  Installed PlotlyJS ──────────────────── v0.13.1
-  Installed Hiccup ────────────────────── v0.2.2
-  Installed Tables ────────────────────── v1.2.2
-  Installed OrderedCollections ────────── v1.3.2
-  Installed Artifacts ─────────────────── v1.3.0
-  Installed LaTeXStrings ──────────────── v1.2.0
-  Installed PlotlyBase ────────────────── v0.4.3
-  Installed JLLWrappers ───────────────── v1.2.0
-  Installed Lazy ──────────────────────── v0.15.1
-  Installed DataAPI ───────────────────── v1.4.0
-  Installed MbedTLS ───────────────────── v1.0.3
-  Installed DataValueInterfaces ───────── v1.0.0
-  Installed Mustache ──────────────────── v1.0.10
-  Installed BinDeps ───────────────────── v1.0.2
-  Installed Mux ───────────────────────── v0.7.5
-  Installed MbedTLS_jll ───────────────── v2.16.8+1
-  Installed Pidfile ───────────────────── v1.2.0
-  Installed JSExpr ────────────────────── v0.5.2
-  Installed AssetRegistry ─────────────── v0.1.0
-  Installed IniFile ───────────────────── v0.5.0
-  Installed Observables ───────────────── v0.3.3
-  Installed Widgets ───────────────────── v0.6.2
-  Installed TableTraits ───────────────── v1.0.0
-  Installed FunctionalCollections ─────── v0.5.0
-  Installed MacroTools ────────────────── v0.5.6
-  Installed URIs ──────────────────────── v1.2.0
-  Installed HTTP ──────────────────────── v0.9.2
-  Installed Blink ─────────────────────── v0.12.4
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [f0f68f2c] + PlotlyJS v0.13.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [bf4720bc] + AssetRegistry v0.1.0
-  [9e28174c] + BinDeps v1.0.2
-  [ad839575] + Blink v0.12.4
-  [3da002f7] + ColorTypes v0.10.9
-  [5ae59095] + Colors v0.12.6
-  [34da2185] + Compat v3.25.0
-  [9a962f9c] + DataAPI v1.4.0
-  [e2d170a0] + DataValueInterfaces v1.0.0
-  [ffbed154] + DocStringExtensions v0.8.3
-  [53c48c17] + FixedPointNumbers v0.8.4
-  [de31a74c] + FunctionalCollections v0.5.0
-  [cd3eb016] + HTTP v0.9.2
-  [9fb69e20] + Hiccup v0.2.2
-  [83e8ac13] + IniFile v0.5.0
-  [82899510] + IteratorInterfaceExtensions v1.0.0
-  [692b3bcd] + JLLWrappers v1.2.0
-  [97c1335a] + JSExpr v0.5.2
-  [682c06a0] + JSON v0.21.1
-  [b964fa9f] + LaTeXStrings v1.2.0
-  [50d2b5c4] + Lazy v0.15.1
-  [1914dd2f] + MacroTools v0.5.6
-  [739be429] + MbedTLS v1.0.3
-  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
-  [ffc61752] + Mustache v1.0.10
-  [a975b10e] + Mux v0.7.5
-  [510215fc] + Observables v0.3.3
-  [bac558e1] + OrderedCollections v1.3.2
-  [69de0a69] + Parsers v1.0.15
-  [fa939f87] + Pidfile v1.2.0
-  [a03496cd] + PlotlyBase v0.4.3
-  [f0f68f2c] + PlotlyJS v0.13.1
-  [189a3867] + Reexport v0.2.0
-  [ae029012] + Requires v1.1.2
-  [3783bdb8] + TableTraits v1.0.0
-  [bd369af6] + Tables v1.2.2
-  [30578b45] + URIParser v0.4.1
-  [5c2747f8] + URIs v1.2.0
-  [0f1e0344] + WebIO v0.8.15
-  [104b5d7c] + WebSockets v1.5.7
-  [cc8bc4a8] + Widgets v0.6.2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [7b1f6079] + FileWatching
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building WebIO ───→ `~/.julia/packages/WebIO/Fy9h1/deps/build.log`
-   Building Blink ───→ `~/.julia/packages/Blink/pb6s6/deps/build.log`
-┌ Error: Error building `Blink`: 
-│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-│                                  Dload  Upload   Total   Spent    Left  Speed
-│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   651  100   651    0     0   4650      0 --:--:-- --:--:-- --:--:--  4617
-│   1 71.6M    1  865k    0     0   818k      0  0:01:29  0:00:01  0:01:28  818k  7 71.6M    7 5730k    0     0  2780k      0  0:00:26  0:00:02  0:00:24 4850k 11 71.6M   11 8450k    0     0  2765k      0  0:00:26  0:00:03  0:00:23 3792k 15 71.6M   15 11.2M    0     0  2848k      0  0:00:25  0:00:04  0:00:21 3563k 20 71.6M   20 14.5M    0     0  2948k      0  0:00:24  0:00:05  0:00:19 3510k 24 71.6M   24 17.7M    0     0  2989k      0  0:00:24  0:00:06  0:00:18 3447k 29 71.6M   29 20.9M    0     0  3027k      0  0:00:24  0:00:07  0:00:17 3128k 33 71.6M   33 24.2M    0     0  3077k      0  0:00:23  0:00:08  0:00:15 3269k 38 71.6M   38 27.5M    0     0  3113k      0  0:00:23  0:00:09  0:00:14 3328k 43 71.6M   43 30.9M    0     0  3145k      0  0:00:23  0:00:10  0:00:13 3346k 45 71.6M   45 32.5M    0     0  3008k      0  0:00:24  0:00:11  0:00:13 3032k 46 71.6M   46 33.1M    0     0  2809k      0  0:00:26  0:00:12  0:00:14 2502k 46 71.6M   46 33.5M    0     0  2618k      0  0:00:28  0:00:13  0:00:15 1885k 47 71.6M   47 33.9M    0     0  2472k      0  0:00:29  0:00:14  0:00:15 1309k 48 71.6M   48 34.4M    0     0  2340k      0  0:00:31  0:00:15  0:00:16  722k 48 71.6M   48 35.0M    0     0  2233k      0  0:00:32  0:00:16  0:00:16  512k 49 71.6M   49 35.6M    0     0  2139k      0  0:00:34  0:00:17  0:00:17  511k 50 71.6M   50 36.2M    0     0  2051k      0  0:00:35  0:00:18  0:00:17  559k 51 71.6M   51 36.9M    0     0  1983k      0  0:00:36  0:00:19  0:00:17  608k 52 71.6M   52 37.6M    0     0  1923k      0  0:00:38  0:00:20  0:00:18  663k 53 71.6M   53 38.5M    0     0  1870k      0  0:00:39  0:00:21  0:00:18  708k 54 71.6M   54 39.4M    0     0  1829k      0  0:00:40  0:00:22  0:00:18  771k 55 71.6M   55 40.0M    0     0  1780k      0  0:00:41  0:00:23  0:00:18  793k 57 71.6M   57 40.9M    0     0  1742k      0  0:00:42  0:00:24  0:00:18  824k 58 71.6M   58 41.8M    0     0  1708k      0  0:00:42  0:00:25  0:00:17  854k 59 71.6M   59 42.8M    0     0  1685k      0  0:00:43  0:00:26  0:00:17  902k 61 71.6M   61 43.8M    0     0  1661k      0  0:00:44  0:00:27  0:00:17  918k 62 71.6M   62 44.9M    0     0  1641k      0  0:00:44  0:00:28  0:00:16  999k 64 71.6M   64 46.2M    0     0  1629k      0  0:00:45  0:00:29  0:00:16 1085k 66 71.6M   66 47.6M    0     0  1621k      0  0:00:45  0:00:30  0:00:15 1179k 68 71.6M   68 49.2M    0     0  1623k      0  0:00:45  0:00:31  0:00:14 1298k 71 71.6M   71 51.3M    0     0  1639k      0  0:00:44  0:00:32  0:00:12 1520k 75 71.6M   75 54.1M    0     0  1677k      0  0:00:43  0:00:33  0:00:10 1881k 80 71.6M   80 57.8M    0     0  1738k      0  0:00:42  0:00:34  0:00:08 2371k 87 71.6M   87 63.0M    0     0  1840k      0  0:00:39  0:00:35  0:00:04 3160k 97 71.6M   97 69.6M    0     0  1976k      0  0:00:37  0:00:36  0:00:01 4170k100 71.6M  100 71.6M    0     0  2020k      0  0:00:36  0:00:36 --:--:-- 4889k
-│ ERROR: LoadError: IOError: could not spawn `unzip -q electron-v4.0.4-linux-x64.zip -d atom`: no such file or directory (ENOENT)
-│ Stacktrace:
-│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
-│  [2] #585 at ./process.jl:112 [inlined]
-│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
-│  [4] _spawn at ./process.jl:111 [inlined]
-│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
-│  [6] run at ./process.jl:438 [inlined]
-│  [7] (::Main.BuildBlink.var"#1#2")() at /root/.julia/packages/Blink/pb6s6/src/AtomShell/install.jl:66
-│  [8] cd(::Main.BuildBlink.var"#1#2", ::String) at ./file.jl:104
-│  [9] install() at /root/.julia/packages/Blink/pb6s6/src/AtomShell/install.jl:27
-│  [10] top-level scope at /root/.julia/packages/Blink/pb6s6/deps/build.jl:14
-│  [11] include(::String) at ./client.jl:457
-│  [12] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/Blink/pb6s6/deps/build.jl:13
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-   Building PlotlyJS → `~/.julia/packages/PlotlyJS/AhkM5/deps/build.log`
-[ Info: Finished indexing.

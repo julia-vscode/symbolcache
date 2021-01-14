@@ -1,14 +1,0 @@
-[ Info: Indexing package ParallelMapReduce 0.0.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%##########                                                                14.4%#####################                                                     29.5%###################################                                       48.9%#################################################                         69.0%#####################################################################     96.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ParallelMapReduce ─ v0.0.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [35c9ef8c] + ParallelMapReduce v0.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [35c9ef8c] + ParallelMapReduce v0.0.1
-  [8ba89e20] + Distributed
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-[ Info: Finished indexing.

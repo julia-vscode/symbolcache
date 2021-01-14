@@ -1,9 +1,0 @@
-[ Info: Indexing package Repos 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed Repos ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [952dd333] + Repos v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [952dd333] + Repos v0.1.1
-[ Info: Finished indexing.

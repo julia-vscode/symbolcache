@@ -1,19 +1,0 @@
-[ Info: Indexing package ZChop 0.3.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%#############                                                             18.2%###########################                                               37.6%###########################################                               60.9%#############################################################             86.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ZChop ─ v0.3.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [8603256b] + ZChop v0.3.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [8603256b] + ZChop v0.3.3
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-[ Info: Finished indexing.

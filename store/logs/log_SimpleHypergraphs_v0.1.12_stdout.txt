@@ -1,117 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - matplotlib
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    cycler-0.10.0              |           py38_0          14 KB
-    dbus-1.13.18               |       hb2f20db_0         504 KB
-    expat-2.2.10               |       he6710b0_2         153 KB
-    fontconfig-2.13.0          |       h9420a91_0         227 KB
-    freetype-2.10.4            |       h5ab3b9f_0         596 KB
-    glib-2.66.1                |       h92f7085_0         2.9 MB
-    gst-plugins-base-1.14.0    |       h8213a91_2         4.9 MB
-    gstreamer-1.14.0           |       h28cd5cc_2         3.2 MB
-    icu-58.2                   |       he6710b0_3        10.5 MB
-    jpeg-9b                    |       h024ee3a_2         214 KB
-    kiwisolver-1.3.0           |   py38h2531618_0          80 KB
-    lcms2-2.11                 |       h396b838_0         307 KB
-    libpng-1.6.37              |       hbc83047_0         278 KB
-    libtiff-4.1.0              |       h2733197_1         449 KB
-    libuuid-1.0.3              |       h1bed415_2          15 KB
-    libxcb-1.14                |       h7b6447c_0         505 KB
-    libxml2-2.9.10             |       hb55368b_3         1.2 MB
-    lz4-c-1.9.2                |       heb0550a_3         175 KB
-    matplotlib-3.3.2           |       h06a4308_0          24 KB
-    matplotlib-base-3.3.2      |   py38h817c723_0         5.1 MB
-    olefile-0.46               |             py_0          33 KB
-    pcre-8.44                  |       he6710b0_0         212 KB
-    pillow-8.1.0               |   py38he98fc37_0         626 KB
-    pyparsing-2.4.7            |             py_0          65 KB
-    pyqt-5.9.2                 |   py38h05f1152_4         4.5 MB
-    python-dateutil-2.8.1      |             py_0         215 KB
-    qt-5.9.7                   |       h5867ecd_1        68.5 MB
-    sip-4.19.13                |   py38he6710b0_0         277 KB
-    tornado-6.1                |   py38h27cfd23_0         588 KB
-    zstd-1.4.5                 |       h9ceee32_0         619 KB
-    ------------------------------------------------------------
-                                           Total:       106.9 MB
-
-The following NEW packages will be INSTALLED:
-
-  cycler             pkgs/main/linux-64::cycler-0.10.0-py38_0
-  dbus               pkgs/main/linux-64::dbus-1.13.18-hb2f20db_0
-  expat              pkgs/main/linux-64::expat-2.2.10-he6710b0_2
-  fontconfig         pkgs/main/linux-64::fontconfig-2.13.0-h9420a91_0
-  freetype           pkgs/main/linux-64::freetype-2.10.4-h5ab3b9f_0
-  glib               pkgs/main/linux-64::glib-2.66.1-h92f7085_0
-  gst-plugins-base   pkgs/main/linux-64::gst-plugins-base-1.14.0-h8213a91_2
-  gstreamer          pkgs/main/linux-64::gstreamer-1.14.0-h28cd5cc_2
-  icu                pkgs/main/linux-64::icu-58.2-he6710b0_3
-  jpeg               pkgs/main/linux-64::jpeg-9b-h024ee3a_2
-  kiwisolver         pkgs/main/linux-64::kiwisolver-1.3.0-py38h2531618_0
-  lcms2              pkgs/main/linux-64::lcms2-2.11-h396b838_0
-  libpng             pkgs/main/linux-64::libpng-1.6.37-hbc83047_0
-  libtiff            pkgs/main/linux-64::libtiff-4.1.0-h2733197_1
-  libuuid            pkgs/main/linux-64::libuuid-1.0.3-h1bed415_2
-  libxcb             pkgs/main/linux-64::libxcb-1.14-h7b6447c_0
-  libxml2            pkgs/main/linux-64::libxml2-2.9.10-hb55368b_3
-  lz4-c              pkgs/main/linux-64::lz4-c-1.9.2-heb0550a_3
-  matplotlib         pkgs/main/linux-64::matplotlib-3.3.2-h06a4308_0
-  matplotlib-base    pkgs/main/linux-64::matplotlib-base-3.3.2-py38h817c723_0
-  olefile            pkgs/main/noarch::olefile-0.46-py_0
-  pcre               pkgs/main/linux-64::pcre-8.44-he6710b0_0
-  pillow             pkgs/main/linux-64::pillow-8.1.0-py38he98fc37_0
-  pyparsing          pkgs/main/noarch::pyparsing-2.4.7-py_0
-  pyqt               pkgs/main/linux-64::pyqt-5.9.2-py38h05f1152_4
-  python-dateutil    pkgs/main/noarch::python-dateutil-2.8.1-py_0
-  qt                 pkgs/main/linux-64::qt-5.9.7-h5867ecd_1
-  sip                pkgs/main/linux-64::sip-4.19.13-py38he6710b0_0
-  tornado            pkgs/main/linux-64::tornado-6.1-py38h27cfd23_0
-  zstd               pkgs/main/linux-64::zstd-1.4.5-h9ceee32_0
-
-
-
-Downloading and Extracting Packages
-gst-plugins-base-1.1 | 4.9 MB    |            |   0% gst-plugins-base-1.1 | 4.9 MB    |            |   0% gst-plugins-base-1.1 | 4.9 MB    | 5          |   6% gst-plugins-base-1.1 | 4.9 MB    | #1         |  11% gst-plugins-base-1.1 | 4.9 MB    | #6         |  16% gst-plugins-base-1.1 | 4.9 MB    | ##2        |  22% gst-plugins-base-1.1 | 4.9 MB    | ##7        |  27% gst-plugins-base-1.1 | 4.9 MB    | ###2       |  33% gst-plugins-base-1.1 | 4.9 MB    | ###9       |  39% gst-plugins-base-1.1 | 4.9 MB    | ####4      |  45% gst-plugins-base-1.1 | 4.9 MB    | #####      |  50% gst-plugins-base-1.1 | 4.9 MB    | #####6     |  57% gst-plugins-base-1.1 | 4.9 MB    | ######2    |  63% gst-plugins-base-1.1 | 4.9 MB    | ######8    |  68% gst-plugins-base-1.1 | 4.9 MB    | #######3   |  74% gst-plugins-base-1.1 | 4.9 MB    | #######9   |  80% gst-plugins-base-1.1 | 4.9 MB    | ########4  |  85% gst-plugins-base-1.1 | 4.9 MB    | #########  |  90% gst-plugins-base-1.1 | 4.9 MB    | #########6 |  96% gst-plugins-base-1.1 | 4.9 MB    | ########## | 100% 
-olefile-0.46         | 33 KB     |            |   0% olefile-0.46         | 33 KB     | ########## | 100% 
-tornado-6.1          | 588 KB    |            |   0% tornado-6.1          | 588 KB    | ##4        |  25% tornado-6.1          | 588 KB    | #######3   |  74% tornado-6.1          | 588 KB    | ########## | 100% tornado-6.1          | 588 KB    | ########## | 100% 
-libxml2-2.9.10       | 1.2 MB    |            |   0% libxml2-2.9.10       | 1.2 MB    | #4         |  15% libxml2-2.9.10       | 1.2 MB    | ####2      |  42% libxml2-2.9.10       | 1.2 MB    | ######2    |  62% libxml2-2.9.10       | 1.2 MB    | #######6   |  77% libxml2-2.9.10       | 1.2 MB    | ########## | 100% libxml2-2.9.10       | 1.2 MB    | ########## | 100% 
-freetype-2.10.4      | 596 KB    |            |   0% freetype-2.10.4      | 596 KB    | #8         |  19% freetype-2.10.4      | 596 KB    | #####3     |  54% freetype-2.10.4      | 596 KB    | #########3 |  94% freetype-2.10.4      | 596 KB    | ########## | 100% 
-libpng-1.6.37        | 278 KB    |            |   0% libpng-1.6.37        | 278 KB    | #####7     |  58% libpng-1.6.37        | 278 KB    | ########## | 100% 
-libuuid-1.0.3        | 15 KB     |            |   0% libuuid-1.0.3        | 15 KB     | ########## | 100% 
-matplotlib-base-3.3. | 5.1 MB    |            |   0% matplotlib-base-3.3. | 5.1 MB    | 3          |   3% matplotlib-base-3.3. | 5.1 MB    | 7          |   8% matplotlib-base-3.3. | 5.1 MB    | #3         |  13% matplotlib-base-3.3. | 5.1 MB    | #8         |  18% matplotlib-base-3.3. | 5.1 MB    | ##3        |  24% matplotlib-base-3.3. | 5.1 MB    | ##8        |  29% matplotlib-base-3.3. | 5.1 MB    | ###3       |  33% matplotlib-base-3.3. | 5.1 MB    | ###8       |  39% matplotlib-base-3.3. | 5.1 MB    | ####3      |  44% matplotlib-base-3.3. | 5.1 MB    | ####8      |  48% matplotlib-base-3.3. | 5.1 MB    | #####3     |  53% matplotlib-base-3.3. | 5.1 MB    | #####8     |  58% matplotlib-base-3.3. | 5.1 MB    | ######3    |  63% matplotlib-base-3.3. | 5.1 MB    | ######8    |  69% matplotlib-base-3.3. | 5.1 MB    | #######3   |  73% matplotlib-base-3.3. | 5.1 MB    | ########## | 100% matplotlib-base-3.3. | 5.1 MB    | ########## | 100% 
-pcre-8.44            | 212 KB    |            |   0% pcre-8.44            | 212 KB    | ####5      |  45% pcre-8.44            | 212 KB    | ########## | 100% 
-icu-58.2             | 10.5 MB   |            |   0% icu-58.2             | 10.5 MB   |            |   1% icu-58.2             | 10.5 MB   | 2          |   2% icu-58.2             | 10.5 MB   | 4          |   4% icu-58.2             | 10.5 MB   | 5          |   6% icu-58.2             | 10.5 MB   | #1         |  11% icu-58.2             | 10.5 MB   | #3         |  14% icu-58.2             | 10.5 MB   | #6         |  16% icu-58.2             | 10.5 MB   | #8         |  18% icu-58.2             | 10.5 MB   | ##         |  21% icu-58.2             | 10.5 MB   | ##2        |  23% icu-58.2             | 10.5 MB   | ##4        |  25% icu-58.2             | 10.5 MB   | ##7        |  27% icu-58.2             | 10.5 MB   | ##9        |  29% icu-58.2             | 10.5 MB   | ###1       |  31% icu-58.2             | 10.5 MB   | ###3       |  33% icu-58.2             | 10.5 MB   | ###5       |  35% icu-58.2             | 10.5 MB   | ###7       |  37% icu-58.2             | 10.5 MB   | ###8       |  39% icu-58.2             | 10.5 MB   | ####       |  41% icu-58.2             | 10.5 MB   | ####2      |  43% icu-58.2             | 10.5 MB   | ####4      |  45% icu-58.2             | 10.5 MB   | ####7      |  47% icu-58.2             | 10.5 MB   | ####8      |  49% icu-58.2             | 10.5 MB   | #####      |  51% icu-58.2             | 10.5 MB   | #####2     |  53% icu-58.2             | 10.5 MB   | #####4     |  55% icu-58.2             | 10.5 MB   | #####6     |  56% icu-58.2             | 10.5 MB   | #####8     |  58% icu-58.2             | 10.5 MB   | #####9     |  60% icu-58.2             | 10.5 MB   | ######1    |  62% icu-58.2             | 10.5 MB   | ######3    |  63% icu-58.2             | 10.5 MB   | ######5    |  65% icu-58.2             | 10.5 MB   | ######6    |  67% icu-58.2             | 10.5 MB   | ######9    |  69% icu-58.2             | 10.5 MB   | #######1   |  72% icu-58.2             | 10.5 MB   | #######4   |  74% icu-58.2             | 10.5 MB   | #######6   |  76% icu-58.2             | 10.5 MB   | #######8   |  78% icu-58.2             | 10.5 MB   | #######9   |  80% icu-58.2             | 10.5 MB   | ########1  |  82% icu-58.2             | 10.5 MB   | ########3  |  83% icu-58.2             | 10.5 MB   | ########4  |  85% icu-58.2             | 10.5 MB   | ########5  |  86% icu-58.2             | 10.5 MB   | ########7  |  87% icu-58.2             | 10.5 MB   | ########8  |  88% icu-58.2             | 10.5 MB   | ########9  |  89% icu-58.2             | 10.5 MB   | #########  |  90% icu-58.2             | 10.5 MB   | #########1 |  91% icu-58.2             | 10.5 MB   | #########1 |  92% icu-58.2             | 10.5 MB   | #########2 |  93% icu-58.2             | 10.5 MB   | #########3 |  93% icu-58.2             | 10.5 MB   | #########4 |  94% icu-58.2             | 10.5 MB   | #########4 |  95% icu-58.2             | 10.5 MB   | #########5 |  96% icu-58.2             | 10.5 MB   | #########6 |  96% icu-58.2             | 10.5 MB   | #########7 |  97% icu-58.2             | 10.5 MB   | #########8 |  98% icu-58.2             | 10.5 MB   | #########9 |  99% icu-58.2             | 10.5 MB   | #########9 | 100% icu-58.2             | 10.5 MB   | ########## | 100% 
-lz4-c-1.9.2          | 175 KB    |            |   0% lz4-c-1.9.2          | 175 KB    | ##7        |  27% lz4-c-1.9.2          | 175 KB    | #######3   |  73% lz4-c-1.9.2          | 175 KB    | ########## | 100% 
-pyparsing-2.4.7      | 65 KB     |            |   0% pyparsing-2.4.7      | 65 KB     | #######3   |  74% pyparsing-2.4.7      | 65 KB     | ########## | 100% 
-gstreamer-1.14.0     | 3.2 MB    |            |   0% gstreamer-1.14.0     | 3.2 MB    | 1          |   1% gstreamer-1.14.0     | 3.2 MB    | 3          |   4% gstreamer-1.14.0     | 3.2 MB    | 7          |   7% gstreamer-1.14.0     | 3.2 MB    | #          |  11% gstreamer-1.14.0     | 3.2 MB    | #2         |  13% gstreamer-1.14.0     | 3.2 MB    | #5         |  16% gstreamer-1.14.0     | 3.2 MB    | #8         |  19% gstreamer-1.14.0     | 3.2 MB    | ##         |  21% gstreamer-1.14.0     | 3.2 MB    | ##3        |  24% gstreamer-1.14.0     | 3.2 MB    | ##6        |  27% gstreamer-1.14.0     | 3.2 MB    | ##9        |  29% gstreamer-1.14.0     | 3.2 MB    | ###1       |  32% gstreamer-1.14.0     | 3.2 MB    | ###4       |  34% gstreamer-1.14.0     | 3.2 MB    | ###6       |  37% gstreamer-1.14.0     | 3.2 MB    | ###9       |  39% gstreamer-1.14.0     | 3.2 MB    | ####1      |  42% gstreamer-1.14.0     | 3.2 MB    | ####4      |  44% gstreamer-1.14.0     | 3.2 MB    | ####6      |  47% gstreamer-1.14.0     | 3.2 MB    | ####9      |  49% gstreamer-1.14.0     | 3.2 MB    | #####1     |  52% gstreamer-1.14.0     | 3.2 MB    | #####4     |  54% gstreamer-1.14.0     | 3.2 MB    | #####6     |  56% gstreamer-1.14.0     | 3.2 MB    | #####8     |  59% gstreamer-1.14.0     | 3.2 MB    | ######1    |  62% gstreamer-1.14.0     | 3.2 MB    | ######4    |  65% gstreamer-1.14.0     | 3.2 MB    | ######7    |  68% gstreamer-1.14.0     | 3.2 MB    | #######    |  71% gstreamer-1.14.0     | 3.2 MB    | #######4   |  74% gstreamer-1.14.0     | 3.2 MB    | #######7   |  77% gstreamer-1.14.0     | 3.2 MB    | ########   |  81% gstreamer-1.14.0     | 3.2 MB    | ########4  |  84% gstreamer-1.14.0     | 3.2 MB    | ########7  |  88% gstreamer-1.14.0     | 3.2 MB    | #########1 |  92% gstreamer-1.14.0     | 3.2 MB    | #########4 |  95% gstreamer-1.14.0     | 3.2 MB    | #########8 |  98% gstreamer-1.14.0     | 3.2 MB    | ########## | 100% 
-lcms2-2.11           | 307 KB    |            |   0% lcms2-2.11           | 307 KB    | 5          |   5% lcms2-2.11           | 307 KB    | ####6      |  47% lcms2-2.11           | 307 KB    | ########3  |  83% lcms2-2.11           | 307 KB    | ########## | 100% 
-zstd-1.4.5           | 619 KB    |            |   0% zstd-1.4.5           | 619 KB    | #2         |  13% zstd-1.4.5           | 619 KB    | ###1       |  31% zstd-1.4.5           | 619 KB    | #####1     |  52% zstd-1.4.5           | 619 KB    | ######9    |  70% zstd-1.4.5           | 619 KB    | ########7  |  88% zstd-1.4.5           | 619 KB    | ########## | 100% 
-pillow-8.1.0         | 626 KB    |            |   0% pillow-8.1.0         | 626 KB    | 5          |   5% pillow-8.1.0         | 626 KB    | ##2        |  23% pillow-8.1.0         | 626 KB    | ####       |  41% pillow-8.1.0         | 626 KB    | #####8     |  59% pillow-8.1.0         | 626 KB    | #######9   |  79% pillow-8.1.0         | 626 KB    | #########7 |  97% pillow-8.1.0         | 626 KB    | ########## | 100% 
-fontconfig-2.13.0    | 227 KB    |            |   0% fontconfig-2.13.0    | 227 KB    | ##1        |  21% fontconfig-2.13.0    | 227 KB    | #########1 |  92% fontconfig-2.13.0    | 227 KB    | ########## | 100% 
-jpeg-9b              | 214 KB    |            |   0% jpeg-9b              | 214 KB    | #####2     |  52% jpeg-9b              | 214 KB    | ########## | 100% 
-libtiff-4.1.0        | 449 KB    |            |   0% libtiff-4.1.0        | 449 KB    | 3          |   4% libtiff-4.1.0        | 449 KB    | ###5       |  36% libtiff-4.1.0        | 449 KB    | #######1   |  71% libtiff-4.1.0        | 449 KB    | ########## | 100% libtiff-4.1.0        | 449 KB    | ########## | 100% 
-sip-4.19.13          | 277 KB    |            |   0% sip-4.19.13          | 277 KB    | ###4       |  35% sip-4.19.13          | 277 KB    | #########2 |  92% sip-4.19.13          | 277 KB    | ########## | 100% 
-glib-2.66.1          | 2.9 MB    |            |   0% glib-2.66.1          | 2.9 MB    | 1          |   2% glib-2.66.1          | 2.9 MB    | 6          |   6% glib-2.66.1          | 2.9 MB    | #2         |  12% glib-2.66.1          | 2.9 MB    | #7         |  17% glib-2.66.1          | 2.9 MB    | ##1        |  22% glib-2.66.1          | 2.9 MB    | ##6        |  26% glib-2.66.1          | 2.9 MB    | ###        |  30% glib-2.66.1          | 2.9 MB    | ###5       |  35% glib-2.66.1          | 2.9 MB    | ###9       |  39% glib-2.66.1          | 2.9 MB    | ####4      |  44% glib-2.66.1          | 2.9 MB    | ####8      |  49% glib-2.66.1          | 2.9 MB    | #####2     |  53% glib-2.66.1          | 2.9 MB    | #####7     |  57% glib-2.66.1          | 2.9 MB    | ######1    |  61% glib-2.66.1          | 2.9 MB    | ######5    |  66% glib-2.66.1          | 2.9 MB    | #######    |  70% glib-2.66.1          | 2.9 MB    | #######5   |  75% glib-2.66.1          | 2.9 MB    | ########1  |  81% glib-2.66.1          | 2.9 MB    | ########7  |  88% glib-2.66.1          | 2.9 MB    | #########4 |  94% glib-2.66.1          | 2.9 MB    | ########## | 100% glib-2.66.1          | 2.9 MB    | ########## | 100% 
-matplotlib-3.3.2     | 24 KB     |            |   0% matplotlib-3.3.2     | 24 KB     | ########## | 100% 
-pyqt-5.9.2           | 4.5 MB    |            |   0% pyqt-5.9.2           | 4.5 MB    | 3          |   3% pyqt-5.9.2           | 4.5 MB    | 8          |   8% pyqt-5.9.2           | 4.5 MB    | #4         |  14% pyqt-5.9.2           | 4.5 MB    | #9         |  19% pyqt-5.9.2           | 4.5 MB    | ##3        |  23% pyqt-5.9.2           | 4.5 MB    | ##8        |  28% pyqt-5.9.2           | 4.5 MB    | ###2       |  32% pyqt-5.9.2           | 4.5 MB    | ###6       |  37% pyqt-5.9.2           | 4.5 MB    | ####1      |  41% pyqt-5.9.2           | 4.5 MB    | ####6      |  47% pyqt-5.9.2           | 4.5 MB    | #####1     |  51% pyqt-5.9.2           | 4.5 MB    | #####6     |  56% pyqt-5.9.2           | 4.5 MB    | ######     |  61% pyqt-5.9.2           | 4.5 MB    | ######5    |  65% pyqt-5.9.2           | 4.5 MB    | ######9    |  69% pyqt-5.9.2           | 4.5 MB    | #######3   |  73% pyqt-5.9.2           | 4.5 MB    | #######7   |  78% pyqt-5.9.2           | 4.5 MB    | ########1  |  82% pyqt-5.9.2           | 4.5 MB    | ########5  |  85% pyqt-5.9.2           | 4.5 MB    | ########9  |  89% pyqt-5.9.2           | 4.5 MB    | #########3 |  93% pyqt-5.9.2           | 4.5 MB    | #########8 |  99% pyqt-5.9.2           | 4.5 MB    | ########## | 100% 
-libxcb-1.14          | 505 KB    |            |   0% libxcb-1.14          | 505 KB    | ###1       |  32% libxcb-1.14          | 505 KB    | #######9   |  79% libxcb-1.14          | 505 KB    | ########## | 100% libxcb-1.14          | 505 KB    | ########## | 100% 
-expat-2.2.10         | 153 KB    |            |   0% expat-2.2.10         | 153 KB    | ########## | 100% expat-2.2.10         | 153 KB    | ########## | 100% 
-dbus-1.13.18         | 504 KB    |            |   0% dbus-1.13.18         | 504 KB    | ####7      |  48% dbus-1.13.18         | 504 KB    | ########## | 100% dbus-1.13.18         | 504 KB    | ########## | 100% 
-kiwisolver-1.3.0     | 80 KB     |            |   0% kiwisolver-1.3.0     | 80 KB     | ########## | 100% 
-cycler-0.10.0        | 14 KB     |            |   0% cycler-0.10.0        | 14 KB     | ########## | 100% 
-qt-5.9.7             | 68.5 MB   |            |   0% qt-5.9.7             | 68.5 MB   |            |   0% qt-5.9.7             | 68.5 MB   | 1          |   1% qt-5.9.7             | 68.5 MB   | 2          |   2% qt-5.9.7             | 68.5 MB   | 2          |   3% qt-5.9.7             | 68.5 MB   | 3          |   4% qt-5.9.7             | 68.5 MB   | 4          |   4% qt-5.9.7             | 68.5 MB   | 5          |   6% qt-5.9.7             | 68.5 MB   | 7          |   7% qt-5.9.7             | 68.5 MB   | 8          |   9% qt-5.9.7             | 68.5 MB   | 9          |  10% qt-5.9.7             | 68.5 MB   | #1         |  11% qt-5.9.7             | 68.5 MB   | #2         |  12% qt-5.9.7             | 68.5 MB   | #3         |  14% qt-5.9.7             | 68.5 MB   | #4         |  15% qt-5.9.7             | 68.5 MB   | #6         |  16% qt-5.9.7             | 68.5 MB   | #7         |  17% qt-5.9.7             | 68.5 MB   | #8         |  19% qt-5.9.7             | 68.5 MB   | #9         |  20% qt-5.9.7             | 68.5 MB   | ##         |  21% qt-5.9.7             | 68.5 MB   | ##1        |  22% qt-5.9.7             | 68.5 MB   | ##3        |  24% qt-5.9.7             | 68.5 MB   | ##6        |  26% qt-5.9.7             | 68.5 MB   | ##8        |  29% qt-5.9.7             | 68.5 MB   | ###        |  31% qt-5.9.7             | 68.5 MB   | ###2       |  33% qt-5.9.7             | 68.5 MB   | ###4       |  34% qt-5.9.7             | 68.5 MB   | ###6       |  37% qt-5.9.7             | 68.5 MB   | ###8       |  38% qt-5.9.7             | 68.5 MB   | ####       |  40% qt-5.9.7             | 68.5 MB   | ####2      |  43% qt-5.9.7             | 68.5 MB   | ####4      |  45% qt-5.9.7             | 68.5 MB   | ####6      |  46% qt-5.9.7             | 68.5 MB   | ####8      |  49% qt-5.9.7             | 68.5 MB   | #####1     |  51% qt-5.9.7             | 68.5 MB   | #####3     |  53% qt-5.9.7             | 68.5 MB   | #####5     |  56% qt-5.9.7             | 68.5 MB   | #####8     |  58% qt-5.9.7             | 68.5 MB   | ######     |  61% qt-5.9.7             | 68.5 MB   | ######3    |  64% qt-5.9.7             | 68.5 MB   | ######6    |  67% qt-5.9.7             | 68.5 MB   | ######9    |  69% qt-5.9.7             | 68.5 MB   | #######1   |  72% qt-5.9.7             | 68.5 MB   | #######4   |  74% qt-5.9.7             | 68.5 MB   | #######6   |  77% qt-5.9.7             | 68.5 MB   | #######9   |  79% qt-5.9.7             | 68.5 MB   | ########1  |  82% qt-5.9.7             | 68.5 MB   | ########4  |  84% qt-5.9.7             | 68.5 MB   | ########7  |  87% qt-5.9.7             | 68.5 MB   | ########9  |  90% qt-5.9.7             | 68.5 MB   | #########2 |  93% qt-5.9.7             | 68.5 MB   | #########4 |  95% qt-5.9.7             | 68.5 MB   | #########7 |  97% qt-5.9.7             | 68.5 MB   | #########9 | 100% qt-5.9.7             | 68.5 MB   | ########## | 100% 
-python-dateutil-2.8. | 215 KB    |            |   0% python-dateutil-2.8. | 215 KB    | ########## | 100% python-dateutil-2.8. | 215 KB    | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done

@@ -1,10 +1,0 @@
-[ Info: Indexing package Remez 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%################                                                          23.2%###############################################                           66.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Remez ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [2e7db186] + Remez v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [2e7db186] + Remez v0.1.1
-[ Info: Finished indexing.

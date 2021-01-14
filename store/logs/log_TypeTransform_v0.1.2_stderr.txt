@@ -1,13 +1,0 @@
-[ Info: Indexing package TypeTransform 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%###########                                                               16.3%###################################                                       48.9%###################################################                       71.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed TypeTransform ─ v0.1.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [0fb2cfb0] + TypeTransform v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [0fb2cfb0] + TypeTransform v0.1.2
-  [2a0f44e3] + Base64
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-[ Info: Finished indexing.

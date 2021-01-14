@@ -1,12 +1,0 @@
-[ Info: Indexing package Roots 1.0.6...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%#########                                                                 13.2%#####################                                                     29.5%####################################                                      50.2%#################################################                         69.0%#################################################################         91.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Roots ─ v1.0.6
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [f2b01f46] + Roots v1.0.6
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [f2b01f46] + Roots v1.0.6
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

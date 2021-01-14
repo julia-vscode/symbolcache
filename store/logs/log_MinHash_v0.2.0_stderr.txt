@@ -1,17 +1,0 @@
-[ Info: Indexing package MinHash 0.2.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%######                                                                     9.4%###############                                                           22.0%########################                                                  33.9%#####################################                                     52.1%##################################################                        69.6%##############################################################            87.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed OrderedCollections ─ v1.3.2
-  Installed DataStructures ───── v0.17.20
-  Installed MinHash ──────────── v0.2.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [4b3c9753] + MinHash v0.2.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [864edb3b] + DataStructures v0.17.20
-  [4b3c9753] + MinHash v0.2.0
-  [bac558e1] + OrderedCollections v1.3.2
-  [2a0f44e3] + Base64
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-[ Info: Finished indexing.

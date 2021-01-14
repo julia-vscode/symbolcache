@@ -1,23 +1,0 @@
-[ Info: Indexing package HAML 0.3.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ####                                                                       6.3%#############                                                             18.8%########################                                                  33.9%##################################                                        48.3%###############################################                           65.9%##########################################################                80.9%##################################################################        92.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Requires ─────────── v1.1.2
-  Installed OrderedCollections ─ v1.3.2
-  Installed HAML ─────────────── v0.3.3
-  Installed DataStructures ───── v0.17.20
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [0bc81568] + HAML v0.3.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [864edb3b] + DataStructures v0.17.20
-  [0bc81568] + HAML v0.3.3
-  [bac558e1] + OrderedCollections v1.3.2
-  [ae029012] + Requires v1.1.2
-  [2a0f44e3] + Base64
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [cf7118a7] + UUIDs
-[ Info: Finished indexing.

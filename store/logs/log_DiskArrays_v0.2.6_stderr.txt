@@ -1,10 +1,0 @@
-[ Info: Indexing package DiskArrays 0.2.6...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#####                                                                      7.5%##############                                                            20.7%########################                                                  33.9%###################################                                       48.9%###############################################                           66.5%#################################################################         91.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed DiskArrays ─ v0.2.6
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [3c3547ce] + DiskArrays v0.2.6
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [3c3547ce] + DiskArrays v0.2.6
-[ Info: Finished indexing.

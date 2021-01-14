@@ -1,10 +1,0 @@
-[ Info: Indexing package Multisets 0.3.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#######                                                                   10.7%################                                                          23.2%############################                                              39.5%##########################################                                59.0%############################################################              83.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Multisets ─ v0.3.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [3b2b4ff1] + Multisets v0.3.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [3b2b4ff1] + Multisets v0.3.2
-[ Info: Finished indexing.

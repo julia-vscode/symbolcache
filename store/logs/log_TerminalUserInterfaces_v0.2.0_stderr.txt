@@ -1,21 +1,0 @@
-[ Info: Indexing package TerminalUserInterfaces 0.2.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#########                                                                 13.8%##################                                                        26.3%#############################                                             41.4%##########################################                                59.6%########################################################                  77.8%######################################################################## 100.0%
-  Resolving package versions...
-  Installed TextWrap ─────────────── v1.0.1
-  Installed Crayons ──────────────── v4.0.4
-  Installed TERMIOS ──────────────── v0.2.1
-  Installed TerminalUserInterfaces ─ v0.2.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [408767e4] + TerminalUserInterfaces v0.2.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [a8cc5b0e] + Crayons v4.0.4
-  [10233e3b] + TERMIOS v0.2.1
-  [408767e4] + TerminalUserInterfaces v0.2.0
-  [b718987f] + TextWrap v1.0.1
-  [2a0f44e3] + Base64
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-  [3fa0cd96] + REPL
-  [6462fe0b] + Sockets
-[ Info: Finished indexing.

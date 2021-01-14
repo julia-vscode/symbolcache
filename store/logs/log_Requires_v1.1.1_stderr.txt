@@ -1,14 +1,0 @@
-[ Info: Indexing package Requires 1.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#########                                                                 12.5%#######################                                                   32.6%#######################################                                   54.6%#########################################################                 79.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Requires ─ v1.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [ae029012] + Requires v1.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [ae029012] + Requires v1.1.1
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [cf7118a7] + UUIDs
-[ Info: Finished indexing.

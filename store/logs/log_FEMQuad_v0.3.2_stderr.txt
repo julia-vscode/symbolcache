@@ -1,10 +1,0 @@
-[ Info: Indexing package FEMQuad 0.3.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%#############                                                             18.2%#######################################                                   55.2%##############################################################            87.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed FEMQuad ─ v0.3.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [be8e8821] + FEMQuad v0.3.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [be8e8821] + FEMQuad v0.3.2
-[ Info: Finished indexing.

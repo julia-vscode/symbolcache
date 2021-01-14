@@ -1,53 +1,0 @@
-[ Info: Indexing package Hanabi 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ####                                                                       5.6%################                                                          23.2%#########################################                                 57.1%#####################################################################     96.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Clang_jll ────────── v9.0.1+4
-  Installed libLLVM_jll ──────── v9.0.1+5
-  Installed CEnum ────────────── v0.4.1
-  Installed Compat ───────────── v3.25.0
-  Installed OrderedCollections ─ v1.3.2
-  Installed Clang ────────────── v0.12.1
-  Installed Reexport ─────────── v0.2.0
-  Installed DataStructures ───── v0.18.8
-  Installed Hanabi ───────────── v0.1.2
-  Installed BinaryProvider ───── v0.5.10
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [705708ad] + Hanabi v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b99e7846] + BinaryProvider v0.5.10
-  [fa961155] + CEnum v0.4.1
-  [40e3b903] + Clang v0.12.1
-  [0ee61d77] + Clang_jll v9.0.1+4
-  [34da2185] + Compat v3.25.0
-  [864edb3b] + DataStructures v0.18.8
-  [705708ad] + Hanabi v0.1.2
-  [bac558e1] + OrderedCollections v1.3.2
-  [189a3867] + Reexport v0.2.0
-  [8f36deef] + libLLVM_jll v9.0.1+5
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building Hanabi → `~/.julia/packages/Hanabi/AzFaJ/deps/build.log`
-[ Info: Finished indexing.

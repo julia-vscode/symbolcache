@@ -1,59 +1,0 @@
-[ Info: Indexing package ArbNumerics 1.2.4...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%#########                                                                 13.2%##################                                                        25.1%#########################                                                 35.8%##################################                                        48.3%##########################################                                58.4%###################################################                       71.5%###########################################################               82.2%#################################################################         91.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed OpenSpecFun_jll ────────────── v0.5.3+4
-  Installed Arb_jll ────────────────────── v200.1900.0+0
-  Installed MPFR_jll ───────────────────── v4.1.0+1
-  Installed Readables ──────────────────── v0.3.3
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed SpecialFunctions ───────────── v1.2.1
-  Installed FLINT_jll ──────────────────── v200.700.0+0
-  Installed GMP_jll ────────────────────── v6.1.2+6
-  Installed ChainRulesCore ─────────────── v0.9.25
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed ArbNumerics ────────────────── v1.2.4
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed GenericSchur ───────────────── v0.4.0
-  Installed BinaryProvider ─────────────── v0.5.10
-  Installed GenericSVD ─────────────────── v0.3.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7e558dbc] + ArbNumerics v1.2.4
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7e558dbc] + ArbNumerics v1.2.4
-  [d9960996] + Arb_jll v200.1900.0+0
-  [56f22d72] + Artifacts v1.3.0
-  [b99e7846] + BinaryProvider v0.5.10
-  [d360d2e6] + ChainRulesCore v0.9.25
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [e134572f] + FLINT_jll v200.700.0+0
-  [781609d7] + GMP_jll v6.1.2+6
-  [01680d73] + GenericSVD v0.3.0
-  [c145ed77] + GenericSchur v0.4.0
-  [692b3bcd] + JLLWrappers v1.2.0
-  [3a97d323] + MPFR_jll v4.1.0+1
-  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
-  [0d4725de] + Readables v0.3.3
-  [276daf66] + SpecialFunctions v1.2.1
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building ArbNumerics → `~/.julia/packages/ArbNumerics/AxsiP/deps/build.log`
-[ Info: Finished indexing.

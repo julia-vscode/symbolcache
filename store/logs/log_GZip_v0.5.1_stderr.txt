@@ -1,11 +1,0 @@
-[ Info: Indexing package GZip 0.5.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ######                                                                     8.8%#####################                                                     29.5%###################################                                       48.9%####################################################                      73.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed GZip ─ v0.5.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [92fee26a] + GZip v0.5.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [92fee26a] + GZip v0.5.1
-  [8f399da3] + Libdl
-[ Info: Finished indexing.

@@ -1,10 +1,0 @@
-[ Info: Indexing package PredictMDAPI 0.3.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    1.3%###############                                                           21.3%####################################                                      50.8%############################################################              83.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed PredictMDAPI ─ v0.3.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [df4d2c64] + PredictMDAPI v0.3.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [df4d2c64] + PredictMDAPI v0.3.1
-[ Info: Finished indexing.

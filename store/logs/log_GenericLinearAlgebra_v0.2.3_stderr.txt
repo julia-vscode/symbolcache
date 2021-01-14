@@ -1,16 +1,0 @@
-[ Info: Indexing package GenericLinearAlgebra 0.2.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%###################                                                       27.0%################################################                          67.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed GenericLinearAlgebra ─ v0.2.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [14197337] + GenericLinearAlgebra v0.2.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [14197337] + GenericLinearAlgebra v0.2.3
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [de0858da] + Printf
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

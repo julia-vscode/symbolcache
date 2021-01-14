@@ -1,62 +1,0 @@
-[ Info: Indexing package NCDatasets 0.11.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #####                                                                      7.5%###############                                                           22.0%#########################                                                 35.1%######################################                                    53.3%####################################################                      72.8%#################################################################         90.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed nghttp2_jll ──────── v1.40.0+2
-  Installed Zlib_jll ─────────── v1.2.11+18
-  Installed LibSSH2_jll ──────── v1.9.0+3
-  Installed HDF5_jll ─────────── v1.12.0+1
-  Installed LibCURL_jll ──────── v7.70.0+2
-  Installed NetCDF_jll ───────── v4.7.4+1
-  Installed OpenSSL_jll ──────── v1.1.1+6
-  Installed Compat ───────────── v3.25.0
-  Installed NCDatasets ───────── v0.11.1
-  Installed OrderedCollections ─ v1.3.2
-  Installed DataStructures ───── v0.18.8
-  Installed JLLWrappers ──────── v1.2.0
-  Installed Artifacts ────────── v1.3.0
-  Installed CFTime ───────────── v0.1.1
-  Installed MbedTLS_jll ──────── v2.16.8+1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [85f8d34a] + NCDatasets v0.11.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [179af706] + CFTime v0.1.1
-  [34da2185] + Compat v3.25.0
-  [864edb3b] + DataStructures v0.18.8
-  [0234f1f7] + HDF5_jll v1.12.0+1
-  [692b3bcd] + JLLWrappers v1.2.0
-  [deac9b47] + LibCURL_jll v7.70.0+2
-  [29816b5a] + LibSSH2_jll v1.9.0+3
-  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
-  [85f8d34a] + NCDatasets v0.11.1
-  [7243133f] + NetCDF_jll v4.7.4+1
-  [458c3c95] + OpenSSL_jll v1.1.1+6
-  [bac558e1] + OrderedCollections v1.3.2
-  [83775a58] + Zlib_jll v1.2.11+18
-  [8e850ede] + nghttp2_jll v1.40.0+2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

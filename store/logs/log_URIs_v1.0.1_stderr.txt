@@ -1,10 +1,0 @@
-[ Info: Indexing package URIs 1.0.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%############                                                              16.9%###############################                                           43.9%######################################################                    75.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed URIs ─ v1.0.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [5c2747f8] + URIs v1.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [5c2747f8] + URIs v1.0.1
-[ Info: Finished indexing.

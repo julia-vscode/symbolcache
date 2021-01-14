@@ -1,10 +1,0 @@
-[ Info: Indexing package PiecewiseLinearApprox 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%####                                                                       6.3%##################                                                        25.1%############################                                              39.5%#####################################                                     52.7%##########################################                                59.0%##################################################                        69.6%###########################################################               82.2%###################################################################       94.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed PiecewiseLinearApprox ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [fcfa6960] + PiecewiseLinearApprox v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [fcfa6960] + PiecewiseLinearApprox v0.1.1
-[ Info: Finished indexing.

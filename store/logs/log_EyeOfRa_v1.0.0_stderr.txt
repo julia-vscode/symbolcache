@@ -1,44 +1,0 @@
-[ Info: Indexing package EyeOfRa 1.0.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##                                                                         3.1%####                                                                       5.6%######                                                                     9.4%#########                                                                 13.2%#############                                                             18.8%#################                                                         23.8%######################                                                    31.4%############################                                              40.2%##################################                                        48.3%###########################################                               60.9%######################################################                    75.3%##############################################################            87.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Requires ─────────── v1.1.2
-  Installed CodeTracking ─────── v0.5.12
-  Installed LoweredCodeUtils ─── v0.4.9
-  Installed OrderedCollections ─ v1.3.2
-  Installed Crayons ──────────── v4.0.4
-  Installed JuliaInterpreter ─── v0.7.26
-  Installed Revise ───────────── v2.7.6
-  Installed MacroTools ───────── v0.5.6
-  Installed EyeOfRa ──────────── v1.0.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [80847211] + EyeOfRa v1.0.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [da1fd8a2] + CodeTracking v0.5.12
-  [a8cc5b0e] + Crayons v4.0.4
-  [80847211] + EyeOfRa v1.0.0
-  [aa1ae85d] + JuliaInterpreter v0.7.26
-  [6f1432cf] + LoweredCodeUtils v0.4.9
-  [1914dd2f] + MacroTools v0.5.6
-  [bac558e1] + OrderedCollections v1.3.2
-  [ae029012] + Requires v1.1.2
-  [295af30f] + Revise v2.7.6
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8ba89e20] + Distributed
-  [7b1f6079] + FileWatching
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

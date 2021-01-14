@@ -1,21 +1,0 @@
-[ Info: Indexing package TextUserInterfaces 0.0.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%####                                                                       6.3%##########                                                                15.1%###################                                                       27.6%############################                                              38.9%######################################                                    53.3%#################################################                         68.4%###########################################################               82.8%######################################################################    97.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed UnPack ───────────── v1.0.2
-  Installed OrderedCollections ─ v1.3.2
-  Installed Parameters ───────── v0.12.1
-  Installed TextUserInterfaces ─ v0.0.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [2a09ff82] + TextUserInterfaces v0.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [bac558e1] + OrderedCollections v1.3.2
-  [d96e819e] + Parameters v0.12.1
-  [2a09ff82] + TextUserInterfaces v0.0.1
-  [3a884ed6] + UnPack v1.0.2
-  [ade2ca70] + Dates
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

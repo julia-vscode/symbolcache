@@ -1,12 +1,0 @@
-[ Info: Indexing package MathieuFunctions 1.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#########                                                                 12.5%################################                                          44.5%############################################################              84.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MathieuFunctions ─ v1.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [9663349c] + MathieuFunctions v1.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [9663349c] + MathieuFunctions v1.1.0
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-[ Info: Finished indexing.

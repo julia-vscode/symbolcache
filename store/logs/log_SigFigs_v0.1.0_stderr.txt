@@ -1,10 +1,0 @@
-[ Info: Indexing package SigFigs 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                15.1%####################################                                      50.8%#################################################################         91.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed SigFigs ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [98c7d76d] + SigFigs v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [98c7d76d] + SigFigs v0.1.0
-[ Info: Finished indexing.

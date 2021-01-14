@@ -1,10 +1,0 @@
-[ Info: Indexing package RequiredKeywords 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#########                                                                 12.5%##################                                                        25.7%###########################                                               37.6%###################################                                       48.9%#############################################                             62.7%#####################################################                     74.0%##############################################################            87.2%#######################################################################   99.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed RequiredKeywords ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [fa45d1ab] + RequiredKeywords v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [fa45d1ab] + RequiredKeywords v0.1.1
-[ Info: Finished indexing.

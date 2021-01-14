@@ -1,12 +1,0 @@
-[ Info: Indexing package Adapt 2.3.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%########                                                                  11.3%###################                                                       27.6%##################################                                        47.7%###################################################                       70.9%####################################################################      94.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Adapt ─ v2.3.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [79e6a3ab] + Adapt v2.3.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [79e6a3ab] + Adapt v2.3.0
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-[ Info: Finished indexing.

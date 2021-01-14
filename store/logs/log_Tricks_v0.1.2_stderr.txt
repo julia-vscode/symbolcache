@@ -1,10 +1,0 @@
-[ Info: Indexing package Tricks 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%###########                                                               16.3%######################################                                    54.0%#####################################################################     96.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Tricks ─ v0.1.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [410a4b4d] + Tricks v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [410a4b4d] + Tricks v0.1.2
-[ Info: Finished indexing.

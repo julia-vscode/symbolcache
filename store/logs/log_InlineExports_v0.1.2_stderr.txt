@@ -1,10 +1,0 @@
-[ Info: Indexing package InlineExports 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%#################                                                         24.5%#################################                                         47.1%####################################################                      72.8%######################################################################## 100.0%
-  Resolving package versions...
-  Installed InlineExports ─ v0.1.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [809d7502] + InlineExports v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [809d7502] + InlineExports v0.1.2
-[ Info: Finished indexing.

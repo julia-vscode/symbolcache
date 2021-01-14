@@ -1,10 +1,0 @@
-[ Info: Indexing package StructMapping 0.2.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%######################                                                    30.7%##################################################################        92.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed StructMapping ─ v0.2.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7c3b921d] + StructMapping v0.2.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7c3b921d] + StructMapping v0.2.1
-[ Info: Finished indexing.

@@ -1,21 +1,0 @@
-[ Info: Indexing package Rmath 0.6.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    1.3%##                                                                         3.8%####                                                                       6.9%#######                                                                   10.0%##########                                                                14.4%###############                                                           22.0%###################                                                       27.0%#########################                                                 35.8%#################################                                         47.1%########################################                                  56.5%###################################################                       71.5%################################################################          89.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Rmath ────────── v0.6.0
-  Installed BinaryProvider ─ v0.5.10
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [79098fc4] + Rmath v0.6.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b99e7846] + BinaryProvider v0.5.10
-  [79098fc4] + Rmath v0.6.0
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-   Building Rmath → `~/.julia/packages/Rmath/BoBag/deps/build.log`
-[ Info: Finished indexing.

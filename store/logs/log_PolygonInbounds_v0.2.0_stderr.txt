@@ -1,10 +1,0 @@
-[ Info: Indexing package PolygonInbounds 0.2.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#####                                                                      7.5%##############                                                            19.4%#######################                                                   32.6%#############################                                             40.8%#######################################                                   55.2%###############################################                           66.5%#########################################################                 79.7%###################################################################       94.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed PolygonInbounds ─ v0.2.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [e4521ec6] + PolygonInbounds v0.2.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [e4521ec6] + PolygonInbounds v0.2.0
-[ Info: Finished indexing.

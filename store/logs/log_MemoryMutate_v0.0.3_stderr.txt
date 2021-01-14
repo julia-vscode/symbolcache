@@ -1,10 +1,0 @@
-[ Info: Indexing package MemoryMutate 0.0.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #                                                                          2.5%#######                                                                   10.0%##########                                                                14.4%#############                                                             18.2%#################                                                         23.8%#######################                                                   33.2%###############################                                           43.3%#######################################                                   54.6%################################################                          67.1%########################################################                  79.0%################################################################          89.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MemoryMutate ─ v0.0.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [a5f39ad1] + MemoryMutate v0.0.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [a5f39ad1] + MemoryMutate v0.0.3
-[ Info: Finished indexing.

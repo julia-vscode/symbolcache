@@ -1,9 +1,0 @@
-[ Info: Indexing package ExtensibleUnions 0.5.1...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed ExtensibleUnions ─ v0.5.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [d387736e] + ExtensibleUnions v0.5.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [d387736e] + ExtensibleUnions v0.5.1
-[ Info: Finished indexing.

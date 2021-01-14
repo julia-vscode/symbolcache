@@ -1,22 +1,0 @@
-[ Info: Indexing package JSON3 1.5.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#######                                                                   10.0%#################                                                         23.8%###########################                                               37.6%########################################                                  56.5%######################################################                    75.9%##################################################################        92.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed StructTypes ─ v1.2.1
-  Installed JSON3 ─────── v1.5.1
-  Installed Parsers ───── v1.0.15
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [0f8b85d8] + JSON3 v1.5.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [0f8b85d8] + JSON3 v1.5.1
-  [69de0a69] + Parsers v1.0.15
-  [856f2bd8] + StructTypes v1.2.1
-  [ade2ca70] + Dates
-  [a63ad114] + Mmap
-  [de0858da] + Printf
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

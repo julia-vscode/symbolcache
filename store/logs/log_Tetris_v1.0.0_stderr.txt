@@ -1,8 +1,0 @@
-[ Info: Indexing package Tetris 1.0.0...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed Tetris ─ v1.0.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [d02b474b] + Tetris v1.0.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [d02b474b] + Tetris v1.0.0

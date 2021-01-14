@@ -1,24 +1,0 @@
-[ Info: Indexing package SparseTimeSeries 0.1.9...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%######                                                                     9.4%##################                                                        25.7%###############################                                           43.3%##############################################                            64.6%################################################################          89.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed JSON3 ──────────── v1.5.1
-  Installed Parsers ────────── v1.0.15
-  Installed StructTypes ────── v1.2.1
-  Installed SparseTimeSeries ─ v0.1.9
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [e40787dc] + SparseTimeSeries v0.1.9
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [0f8b85d8] + JSON3 v1.5.1
-  [69de0a69] + Parsers v1.0.15
-  [e40787dc] + SparseTimeSeries v0.1.9
-  [856f2bd8] + StructTypes v1.2.1
-  [ade2ca70] + Dates
-  [a63ad114] + Mmap
-  [de0858da] + Printf
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

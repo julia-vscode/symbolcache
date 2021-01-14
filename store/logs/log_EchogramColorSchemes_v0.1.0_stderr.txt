@@ -1,24 +1,0 @@
-[ Info: Indexing package EchogramColorSchemes 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%########                                                                  11.3%###################                                                       27.0%#############################                                             40.8%#########################################                                 57.1%#########################################################                 80.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed EchogramColorSchemes ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [4c5cd976] + EchogramColorSchemes v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [4c5cd976] + EchogramColorSchemes v0.1.0
-ERROR: LoadError: ArgumentError: Package EchogramColorSchemes does not have ColorTypes in its dependencies:
-- If you have EchogramColorSchemes checked out for development and have
-  added ColorTypes as a dependency but haven't updated your primary
-  environment's manifest file, try `Pkg.resolve()`.
-- Otherwise you may need to report an issue with EchogramColorSchemes
-Stacktrace:
- [1] require(::Module, ::Symbol) at ./loading.jl:906
- [2] include(::Function, ::Module, ::String) at ./Base.jl:380
- [3] include(::Module, ::String) at ./Base.jl:368
- [4] top-level scope at none:2
- [5] eval at ./boot.jl:331 [inlined]
- [6] eval(::Expr) at ./client.jl:467
- [7] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/EchogramColorSchemes/FCsCK/src/EchogramColorSchemes.jl:3
-[ Info: Could not load package, exiting.

@@ -1,351 +1,0 @@
-[ Info: Indexing package Skyler 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#####                                                                      7.5%#################                                                         23.8%##############################                                            42.0%###########################################                               60.2%##########################################################                80.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed IteratorInterfaceExtensions ── v1.0.0
-  Installed SortingAlgorithms ──────────── v0.3.1
-  Installed Lz4_jll ────────────────────── v1.9.2+2
-  Installed Requires ───────────────────── v1.1.2
-  Installed CommonSubexpressions ───────── v0.3.0
-  Installed Libiconv_jll ───────────────── v1.16.0+7
-  Installed HDF5_jll ───────────────────── v1.10.5+7
-  Installed NLSolversBase ──────────────── v7.5.0
-  Installed Skyler ─────────────────────── v0.1.1
-  Installed JLD ────────────────────────── v0.10.0
-  Installed DataStructures ─────────────── v0.17.20
-  Installed Polynomials ────────────────── v0.8.0
-  Installed WebIO ──────────────────────── v0.8.15
-  Installed Rmath_jll ──────────────────── v0.2.2+1
-  Installed StatsFuns ──────────────────── v0.9.6
-  Installed Compat ─────────────────────── v3.25.0
-  Installed Reexport ───────────────────── v0.2.0
-  Installed NearestNeighbors ───────────── v0.4.4
-  Installed FileIO ─────────────────────── v1.4.5
-  Installed JSON ───────────────────────── v0.21.1
-  Installed DataFrames ─────────────────── v0.20.2
-  Installed FilePathsBase ──────────────── v0.7.0
-  Installed FixedPointNumbers ──────────── v0.8.4
-  Installed ColorTypes ─────────────────── v0.10.9
-  Installed Colors ─────────────────────── v0.12.6
-  Installed FFMPEG_jll ─────────────────── v4.3.1+4
-  Installed ExprTools ──────────────────── v0.1.3
-  Installed PDMats ─────────────────────── v0.9.12
-  Installed DocStringExtensions ────────── v0.8.3
-  Installed OpenSpecFun_jll ────────────── v0.5.3+4
-  Installed OpenBLAS_jll ───────────────── v0.3.9+5
-  Installed Permutations ───────────────── v0.4.0
-  Installed Parsers ────────────────────── v0.3.12
-  Installed StaticArrays ───────────────── v0.12.5
-  Installed StatsBase ──────────────────── v0.32.2
-  Installed WebSockets ─────────────────── v1.5.7
-  Installed PooledArrays ───────────────── v0.5.3
-  Installed Distributions ──────────────── v0.22.6
-  Installed ForwardDiff ────────────────── v0.10.14
-  Installed URIParser ──────────────────── v0.4.1
-  Installed Grisu ──────────────────────── v1.0.0
-  Installed LibVPX_jll ─────────────────── v1.9.0+1
-  Installed ArrayInterface ─────────────── v2.14.13
-  Installed DiffEqDiffTools ────────────── v1.7.0
-  Installed OrderedCollections ─────────── v1.3.2
-  Installed Tables ─────────────────────── v1.2.2
-  Installed LineSearches ───────────────── v7.1.1
-  Installed Hungarian ──────────────────── v0.6.0
-  Installed InvertedIndices ────────────── v1.0.0
-  Installed Ogg_jll ────────────────────── v1.3.4+2
-  Installed OpenSSL_jll ────────────────── v1.1.1+6
-  Installed Hiccup ─────────────────────── v0.2.2
-  Installed UnPack ─────────────────────── v1.0.2
-  Installed PositiveFactorizations ─────── v0.2.4
-  Installed SimplePartitions ───────────── v0.3.0
-  Installed Intervals ──────────────────── v1.5.0
-  Installed Zstd_jll ───────────────────── v1.4.5+2
-  Installed FillArrays ─────────────────── v0.8.14
-  Installed QuadGK ─────────────────────── v2.4.1
-  Installed LaTeXStrings ───────────────── v1.2.0
-  Installed MbedTLS ────────────────────── v1.0.3
-  Installed PlotlyBase ─────────────────── v0.4.3
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed Measures ───────────────────── v0.3.1
-  Installed Primes ─────────────────────── v0.5.0
-  Installed libvorbis_jll ──────────────── v1.3.6+6
-  Installed Rmath ──────────────────────── v0.6.1
-  Installed FFMPEG ─────────────────────── v0.3.0
-  Installed x264_jll ───────────────────── v2020.7.14+2
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed Lazy ───────────────────────── v0.15.1
-  Installed PlotUtils ──────────────────── v0.6.5
-  Installed RecipesBase ────────────────── v0.8.0
-  Installed Combinatorics ──────────────── v1.0.2
-  Installed FreeType2_jll ──────────────── v2.10.1+5
-  Installed DataAPI ────────────────────── v1.4.0
-  Installed Zlib_jll ───────────────────── v1.2.11+18
-  Installed SimpleGraphs ───────────────── v0.3.0
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed Mustache ───────────────────── v1.0.10
-  Installed DiffRules ──────────────────── v1.0.2
-  Installed Opus_jll ───────────────────── v1.3.1+3
-  Installed BinDeps ────────────────────── v1.0.2
-  Installed Plots ──────────────────────── v0.29.9
-  Installed XML2_jll ───────────────────── v2.9.10+3
-  Installed DataValueInterfaces ────────── v1.0.0
-  Installed Distances ──────────────────── v0.8.2
-  Installed Arpack ─────────────────────── v0.4.0
-  Installed Mux ────────────────────────── v0.7.5
-  Installed CategoricalArrays ──────────── v0.7.7
-  Installed AbstractLattices ───────────── v0.2.1
-  Installed FriBidi_jll ────────────────── v1.0.5+6
-  Installed Pidfile ────────────────────── v1.2.0
-  Installed MbedTLS_jll ────────────────── v2.16.8+1
-  Installed SimpleRandom ───────────────── v0.2.1
-  Installed Missings ───────────────────── v0.4.4
-  Installed JSExpr ─────────────────────── v0.5.2
-  Installed DiffResults ────────────────── v1.0.3
-  Installed Contour ────────────────────── v0.5.7
-  Installed AssetRegistry ──────────────── v0.1.0
-  Installed Blink ──────────────────────── v0.12.4
-  Installed MultivariateStats ──────────── v0.7.0
-  Installed Observables ────────────────── v0.3.3
-  Installed SpecialFunctions ───────────── v0.10.3
-  Installed WeakRefStrings ─────────────── v0.6.2
-  Installed Mocking ────────────────────── v0.7.1
-  Installed Widgets ────────────────────── v0.6.2
-  Installed x265_jll ───────────────────── v3.0.0+3
-  Installed TableTraits ────────────────── v1.0.0
-  Installed IniFile ────────────────────── v0.5.0
-  Installed Blosc_jll ──────────────────── v1.14.3+1
-  Installed libass_jll ─────────────────── v0.14.0+4
-  Installed NaNMath ────────────────────── v0.3.5
-  Installed LightXML ───────────────────── v0.9.0
-  Installed Calculus ───────────────────── v0.5.1
-  Installed libfdk_aac_jll ─────────────── v0.1.6+4
-  Installed Arpack_jll ─────────────────── v3.5.0+3
-  Installed IterTools ──────────────────── v1.3.0
-  Installed GeometryTypes ──────────────── v0.8.4
-  Installed PlotlyJS ───────────────────── v0.13.1
-  Installed LAME_jll ───────────────────── v3.100.0+3
-  Installed Bzip2_jll ──────────────────── v1.0.6+5
-  Installed Showoff ────────────────────── v0.3.2
-  Installed Blosc ──────────────────────── v0.7.0
-  Installed FunctionalCollections ──────── v0.5.0
-  Installed Parameters ─────────────────── v0.12.1
-  Installed Eirene ─────────────────────── v1.3.5
-  Installed TimeZones ──────────────────── v1.5.3
-  Installed URIs ───────────────────────── v1.2.0
-  Installed HDF5 ───────────────────────── v0.13.7
-  Installed MacroTools ─────────────────── v0.5.6
-  Installed HTTP ───────────────────────── v0.9.2
-  Installed PlotThemes ─────────────────── v1.0.3
-  Installed EzXML ──────────────────────── v1.1.0
-  Installed Optim ──────────────────────── v0.20.6
-  Installed GR ─────────────────────────── v0.48.0
-  Installed CSV ────────────────────────── v0.5.26
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [804faec8] + Skyler v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [398f06c4] + AbstractLattices v0.2.1
-  [7d9fca2a] + Arpack v0.4.0
-  [68821587] + Arpack_jll v3.5.0+3
-  [4fba245c] + ArrayInterface v2.14.13
-  [56f22d72] + Artifacts v1.3.0
-  [bf4720bc] + AssetRegistry v0.1.0
-  [9e28174c] + BinDeps v1.0.2
-  [ad839575] + Blink v0.12.4
-  [a74b3585] + Blosc v0.7.0
-  [0b7ba130] + Blosc_jll v1.14.3+1
-  [6e34b625] + Bzip2_jll v1.0.6+5
-  [336ed68f] + CSV v0.5.26
-  [49dc2e85] + Calculus v0.5.1
-  [324d7699] + CategoricalArrays v0.7.7
-  [3da002f7] + ColorTypes v0.10.9
-  [5ae59095] + Colors v0.12.6
-  [861a8166] + Combinatorics v1.0.2
-  [bbf7d656] + CommonSubexpressions v0.3.0
-  [34da2185] + Compat v3.25.0
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [d38c429a] + Contour v0.5.7
-  [9a962f9c] + DataAPI v1.4.0
-  [a93c6f00] + DataFrames v0.20.2
-  [864edb3b] + DataStructures v0.17.20
-  [e2d170a0] + DataValueInterfaces v1.0.0
-  [01453d9d] + DiffEqDiffTools v1.7.0
-  [163ba53b] + DiffResults v1.0.3
-  [b552c78f] + DiffRules v1.0.2
-  [b4f34e82] + Distances v0.8.2
-  [31c24e10] + Distributions v0.22.6
-  [ffbed154] + DocStringExtensions v0.8.3
-  [9c0f25c4] + Eirene v1.3.5
-  [e2ba6199] + ExprTools v0.1.3
-  [8f5d6c58] + EzXML v1.1.0
-  [c87230d0] + FFMPEG v0.3.0
-  [b22a6f82] + FFMPEG_jll v4.3.1+4
-  [5789e2e9] + FileIO v1.4.5
-  [48062228] + FilePathsBase v0.7.0
-  [1a297f60] + FillArrays v0.8.14
-  [53c48c17] + FixedPointNumbers v0.8.4
-  [f6369f11] + ForwardDiff v0.10.14
-  [d7e528f0] + FreeType2_jll v2.10.1+5
-  [559328eb] + FriBidi_jll v1.0.5+6
-  [de31a74c] + FunctionalCollections v0.5.0
-  [28b8d3ca] + GR v0.48.0
-  [4d00f742] + GeometryTypes v0.8.4
-  [42e2da0e] + Grisu v1.0.0
-  [f67ccb44] + HDF5 v0.13.7
-  [0234f1f7] + HDF5_jll v1.10.5+7
-  [cd3eb016] + HTTP v0.9.2
-  [9fb69e20] + Hiccup v0.2.2
-  [e91730f6] + Hungarian v0.6.0
-  [83e8ac13] + IniFile v0.5.0
-  [d8418881] + Intervals v1.5.0
-  [41ab1584] + InvertedIndices v1.0.0
-  [c8e1da08] + IterTools v1.3.0
-  [82899510] + IteratorInterfaceExtensions v1.0.0
-  [4138dd39] + JLD v0.10.0
-  [692b3bcd] + JLLWrappers v1.2.0
-  [97c1335a] + JSExpr v0.5.2
-  [682c06a0] + JSON v0.21.1
-  [c1c5ebd0] + LAME_jll v3.100.0+3
-  [b964fa9f] + LaTeXStrings v1.2.0
-  [50d2b5c4] + Lazy v0.15.1
-  [dd192d2f] + LibVPX_jll v1.9.0+1
-  [94ce4f54] + Libiconv_jll v1.16.0+7
-  [9c8b4983] + LightXML v0.9.0
-  [d3d80556] + LineSearches v7.1.1
-  [5ced341a] + Lz4_jll v1.9.2+2
-  [1914dd2f] + MacroTools v0.5.6
-  [739be429] + MbedTLS v1.0.3
-  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
-  [442fdcdd] + Measures v0.3.1
-  [e1d29d7a] + Missings v0.4.4
-  [78c3b35d] + Mocking v0.7.1
-  [6f286f6a] + MultivariateStats v0.7.0
-  [ffc61752] + Mustache v1.0.10
-  [a975b10e] + Mux v0.7.5
-  [d41bc354] + NLSolversBase v7.5.0
-  [77ba4419] + NaNMath v0.3.5
-  [b8a86587] + NearestNeighbors v0.4.4
-  [510215fc] + Observables v0.3.3
-  [e7412a2a] + Ogg_jll v1.3.4+2
-  [4536629a] + OpenBLAS_jll v0.3.9+5
-  [458c3c95] + OpenSSL_jll v1.1.1+6
-  [efe28fd5] + OpenSpecFun_jll v0.5.3+4
-  [429524aa] + Optim v0.20.6
-  [91d4177d] + Opus_jll v1.3.1+3
-  [bac558e1] + OrderedCollections v1.3.2
-  [90014a1f] + PDMats v0.9.12
-  [d96e819e] + Parameters v0.12.1
-  [69de0a69] + Parsers v0.3.12
-  [2ae35dd2] + Permutations v0.4.0
-  [fa939f87] + Pidfile v1.2.0
-  [ccf2f8ad] + PlotThemes v1.0.3
-  [995b91a9] + PlotUtils v0.6.5
-  [a03496cd] + PlotlyBase v0.4.3
-  [f0f68f2c] + PlotlyJS v0.13.1
-  [91a5bcdd] + Plots v0.29.9
-  [f27b6e38] + Polynomials v0.8.0
-  [2dfb63ee] + PooledArrays v0.5.3
-  [85a6dd25] + PositiveFactorizations v0.2.4
-  [27ebfcd6] + Primes v0.5.0
-  [1fd47b50] + QuadGK v2.4.1
-  [3cdcf5f2] + RecipesBase v0.8.0
-  [189a3867] + Reexport v0.2.0
-  [ae029012] + Requires v1.1.2
-  [79098fc4] + Rmath v0.6.1
-  [f50d1b31] + Rmath_jll v0.2.2+1
-  [992d4aef] + Showoff v0.3.2
-  [55797a34] + SimpleGraphs v0.3.0
-  [ec83eff0] + SimplePartitions v0.3.0
-  [a6525b86] + SimpleRandom v0.2.1
-  [804faec8] + Skyler v0.1.1
-  [a2af1166] + SortingAlgorithms v0.3.1
-  [276daf66] + SpecialFunctions v0.10.3
-  [90137ffa] + StaticArrays v0.12.5
-  [2913bbd2] + StatsBase v0.32.2
-  [4c63d2b9] + StatsFuns v0.9.6
-  [3783bdb8] + TableTraits v1.0.0
-  [bd369af6] + Tables v1.2.2
-  [f269a46b] + TimeZones v1.5.3
-  [30578b45] + URIParser v0.4.1
-  [5c2747f8] + URIs v1.2.0
-  [3a884ed6] + UnPack v1.0.2
-  [ea10d353] + WeakRefStrings v0.6.2
-  [0f1e0344] + WebIO v0.8.15
-  [104b5d7c] + WebSockets v1.5.7
-  [cc8bc4a8] + Widgets v0.6.2
-  [02c8fc9c] + XML2_jll v2.9.10+3
-  [83775a58] + Zlib_jll v1.2.11+18
-  [3161d3a3] + Zstd_jll v1.4.5+2
-  [0ac62f75] + libass_jll v0.14.0+4
-  [f638f0a6] + libfdk_aac_jll v0.1.6+4
-  [f27f6e37] + libvorbis_jll v1.3.6+6
-  [1270edf5] + x264_jll v2020.7.14+2
-  [dfaa095f] + x265_jll v3.0.0+3
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [7b1f6079] + FileWatching
-  [9fa8497b] + Future
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [4607b0f0] + SuiteSparse
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building WebIO ────→ `~/.julia/packages/WebIO/Fy9h1/deps/build.log`
-   Building GR ───────→ `~/.julia/packages/GR/yMV3y/deps/build.log`
-   Building Plots ────→ `~/.julia/packages/Plots/cc8wh/deps/build.log`
-   Building Blink ────→ `~/.julia/packages/Blink/pb6s6/deps/build.log`
-┌ Error: Error building `Blink`: 
-│   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-│                                  Dload  Upload   Total   Spent    Left  Speed
-│   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   651  100   651    0     0   3898      0 --:--:-- --:--:-- --:--:--  3875
-│   0 71.6M    0  543k    0     0   477k      0  0:02:33  0:00:01  0:02:32  477k  5 71.6M    5 4292k    0     0  2021k      0  0:00:36  0:00:02  0:00:34 3806k 10 71.6M   10 7652k    0     0  2449k      0  0:00:29  0:00:03  0:00:26 3579k 12 71.6M   12 8980k    0     0  2155k      0  0:00:34  0:00:04  0:00:30 2786k 12 71.6M   12 9460k    0     0  1830k      0  0:00:40  0:00:05  0:00:35 2213k 13 71.6M   13 9924k    0     0  1614k      0  0:00:45  0:00:06  0:00:39 1872k 14 71.6M   14 10.1M    0     0  1456k      0  0:00:50  0:00:07  0:00:43 1218k 14 71.6M   14 10.6M    0     0  1343k      0  0:00:54  0:00:08  0:00:46  652k 15 71.6M   15 11.0M    0     0  1230k      0  0:00:59  0:00:09  0:00:50  460k 15 71.6M   15 11.3M    0     0  1137k      0  0:01:04  0:00:10  0:00:54  421k 16 71.6M   16 11.5M    0     0  1060k      0  0:01:09  0:00:11  0:00:58  378k 16 71.6M   16 11.7M    0     0   989k      0  0:01:14  0:00:12  0:01:02  324k 16 71.6M   16 12.0M    0     0   940k      0  0:01:18  0:00:13  0:01:05  284k 17 71.6M   17 12.4M    0     0   898k      0  0:01:21  0:00:14  0:01:07  286k 17 71.6M   17 12.8M    0     0   867k      0  0:01:24  0:00:15  0:01:09  317k 18 71.6M   18 13.2M    0     0   839k      0  0:01:27  0:00:16  0:01:11  352k 19 71.6M   19 13.6M    0     0   815k      0  0:01:29  0:00:17  0:01:12  389k 19 71.6M   19 13.9M    0     0   787k      0  0:01:33  0:00:18  0:01:15  387k 19 71.6M   19 14.1M    0     0   755k      0  0:01:37  0:00:19  0:01:18  354k 19 71.6M   19 14.2M    0     0   717k      0  0:01:42  0:00:20  0:01:22  280k 20 71.6M   20 14.5M    0     0   707k      0  0:01:43  0:00:21  0:01:22  274k 20 71.6M   20 14.9M    0     0   692k      0  0:01:46  0:00:22  0:01:24  268k 21 71.6M   21 15.4M    0     0   684k      0  0:01:47  0:00:23  0:01:24  308k 22 71.6M   22 16.0M    0     0   679k      0  0:01:48  0:00:24  0:01:24  383k 22 71.6M   22 16.4M    0     0   665k      0  0:01:50  0:00:25  0:01:25  451k 24 71.6M   24 17.4M    0     0   684k      0  0:01:47  0:00:26  0:01:21  589k 25 71.6M   25 18.4M    0     0   696k      0  0:01:45  0:00:27  0:01:18  713k 27 71.6M   27 19.7M    0     0   719k      0  0:01:41  0:00:28  0:01:13  882k 28 71.6M   28 20.7M    0     0   728k      0  0:01:40  0:00:29  0:01:11  966k 30 71.6M   30 21.7M    0     0   739k      0  0:01:39  0:00:30  0:01:09 1126k 31 71.6M   31 22.6M    0     0   746k      0  0:01:38  0:00:31  0:01:07 1067k 32 71.6M   32 23.6M    0     0   752k      0  0:01:37  0:00:32  0:01:05 1053k 34 71.6M   34 24.6M    0     0   761k      0  0:01:36  0:00:33  0:01:03  995k 35 71.6M   35 25.6M    0     0   769k      0  0:01:35  0:00:34  0:01:01 1011k 36 71.6M   36 26.4M    0     0   772k      0  0:01:35  0:00:35  0:01:00  971k 37 71.6M   37 27.2M    0     0   771k      0  0:01:35  0:00:36  0:00:59  926k 38 71.6M   38 27.9M    0     0   769k      0  0:01:35  0:00:37  0:00:58  883k 40 71.6M   40 28.7M    0     0   772k      0  0:01:34  0:00:38  0:00:56  847k 41 71.6M   41 29.6M    0     0   777k      0  0:01:34  0:00:39  0:00:55  825k 42 71.6M   42 30.7M    0     0   783k      0  0:01:33  0:00:40  0:00:53  864k 44 71.6M   44 31.8M    0     0   792k      0  0:01:32  0:00:41  0:00:51  943k 46 71.6M   46 33.0M    0     0   802k      0  0:01:31  0:00:42  0:00:49 1045k 47 71.6M   47 34.3M    0     0   814k      0  0:01:30  0:00:43  0:00:47 1137k 49 71.6M   49 35.2M    0     0   816k      0  0:01:29  0:00:44  0:00:45 1125k 50 71.6M   50 35.8M    0     0   814k      0  0:01:30  0:00:45  0:00:45 1063k 51 71.6M   51 36.7M    0     0   816k      0  0:01:29  0:00:46  0:00:43 1013k 52 71.6M   52 37.7M    0     0   820k      0  0:01:29  0:00:47  0:00:42  969k 54 71.6M   54 38.7M    0     0   824k      0  0:01:28  0:00:48  0:00:40  915k 55 71.6M   55 39.8M    0     0   831k      0  0:01:28  0:00:49  0:00:39  957k 56 71.6M   56 40.8M    0     0   834k      0  0:01:27  0:00:50  0:00:37 1014k 58 71.6M   58 41.9M    0     0   839k      0  0:01:27  0:00:51  0:00:36 1056k 60 71.6M   60 43.0M    0     0   846k      0  0:01:26  0:00:52  0:00:34 1097k 61 71.6M   61 44.3M    0     0   854k      0  0:01:25  0:00:53  0:00:32 1139k 63 71.6M   63 45.5M    0     0   860k      0  0:01:25  0:00:54  0:00:31 1150k 65 71.6M   65 46.8M    0     0   870k      0  0:01:24  0:00:55  0:00:29 1232k 67 71.6M   67 48.2M    0     0   879k      0  0:01:23  0:00:56  0:00:27 1287k 68 71.6M   68 49.1M    0     0   880k      0  0:01:23  0:00:57  0:00:26 1226k 69 71.6M   69 49.7M    0     0   875k      0  0:01:23  0:00:58  0:00:25 1096k 70 71.6M   70 50.3M    0     0   872k      0  0:01:24  0:00:59  0:00:25  998k 71 71.6M   71 51.1M    0     0   871k      0  0:01:24  0:01:00  0:00:24  876k 72 71.6M   72 51.9M    0     0   870k      0  0:01:24  0:01:01  0:00:23  774k 73 71.6M   73 52.9M    0     0   872k      0  0:01:24  0:01:02  0:00:22  779k 75 71.6M   75 53.9M    0     0   874k      0  0:01:23  0:01:03  0:00:20  860k 76 71.6M   76 55.0M    0     0   878k      0  0:01:23  0:01:04  0:00:19  953k 78 71.6M   78 56.2M    0     0   884k      0  0:01:22  0:01:05  0:00:17 1050k 80 71.6M   80 57.9M    0     0   898k      0  0:01:21  0:01:06  0:00:15 1228k 83 71.6M   83 60.0M    0     0   915k      0  0:01:20  0:01:07  0:00:13 1459k 87 71.6M   87 62.8M    0     0   944k      0  0:01:17  0:01:08  0:00:09 1845k 91 71.6M   91 65.7M    0     0   973k      0  0:01:15  0:01:09  0:00:06 2192k 94 71.6M   94 67.9M    0     0   992k      0  0:01:13  0:01:10  0:00:03 2393k 97 71.6M   97 69.8M    0     0  1004k      0  0:01:13  0:01:11  0:00:02 2418k100 71.6M  100 71.6M    0     0  1019k      0  0:01:11  0:01:11 --:--:-- 2459k
-│ ERROR: LoadError: IOError: could not spawn `unzip -q electron-v4.0.4-linux-x64.zip -d atom`: no such file or directory (ENOENT)
-│ Stacktrace:
-│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
-│  [2] #585 at ./process.jl:112 [inlined]
-│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
-│  [4] _spawn at ./process.jl:111 [inlined]
-│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
-│  [6] run at ./process.jl:438 [inlined]
-│  [7] (::Main.BuildBlink.var"#1#2")() at /root/.julia/packages/Blink/pb6s6/src/AtomShell/install.jl:66
-│  [8] cd(::Main.BuildBlink.var"#1#2", ::String) at ./file.jl:104
-│  [9] install() at /root/.julia/packages/Blink/pb6s6/src/AtomShell/install.jl:27
-│  [10] top-level scope at /root/.julia/packages/Blink/pb6s6/deps/build.jl:14
-│  [11] include(::String) at ./client.jl:457
-│  [12] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/Blink/pb6s6/deps/build.jl:13
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-   Building PlotlyJS ─→ `~/.julia/packages/PlotlyJS/AhkM5/deps/build.log`
-   Building TimeZones → `~/.julia/packages/TimeZones/K98G0/deps/build.log`
-   Building HDF5 ─────→ `~/.julia/packages/HDF5/YX0jU/deps/build.log`
-┌ Warning: Package Skyler does not have Random in its dependencies:
-│ - If you have Skyler checked out for development and have
-│   added Random as a dependency but haven't updated your primary
-│   environment's manifest file, try `Pkg.resolve()`.
-│ - Otherwise you may need to report an issue with Skyler
-└ Loading Random into Skyler from project dependency, future warnings for Skyler are suppressed.
-WARNING: both Distributions and SimpleGraphs export "components"; uses of it in module Skyler must be qualified
-WARNING: both Plots and PlotlyJS export "pie"; uses of it in module Skyler must be qualified
-WARNING: both Plots and PlotlyJS export "AbstractLayout"; uses of it in module Skyler must be qualified
-WARNING: both LinearAlgebra and DataFrames export "normalize"; uses of it in module Skyler must be qualified
-WARNING: both Plots and SimpleGraphs export "translate"; uses of it in module Skyler must be qualified
-WARNING: both Distances and DataFrames export "colwise"; uses of it in module Skyler must be qualified
-WARNING: both Plots and PlotlyJS export "vline"; uses of it in module Skyler must be qualified
-WARNING: both Plots and LinearAlgebra export "rotate!"; uses of it in module Skyler must be qualified
-[ Info: Finished indexing.

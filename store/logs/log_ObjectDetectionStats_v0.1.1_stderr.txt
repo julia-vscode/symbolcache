@@ -1,10 +1,0 @@
-[ Info: Indexing package ObjectDetectionStats 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#####                                                                      8.2%###################                                                       27.6%##################################                                        47.7%##################################################                        70.3%#####################################################################     96.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ObjectDetectionStats ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [06718956] + ObjectDetectionStats v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [06718956] + ObjectDetectionStats v0.1.1
-[ Info: Finished indexing.

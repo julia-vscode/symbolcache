@@ -1,21 +1,0 @@
-[ Info: Indexing package AppleAccelerate 0.3.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%###                                                                        5.0%######                                                                     8.8%#########                                                                 12.5%###########                                                               15.7%##############                                                            19.4%################                                                          23.2%###################                                                       27.0%######################                                                    30.7%#########################                                                 35.1%############################                                              40.2%################################                                          45.2%###################################                                       49.6%######################################                                    53.3%##########################################                                58.4%#############################################                             62.7%################################################                          67.1%###################################################                       70.9%######################################################                    75.3%###########################################################               82.2%###############################################################           87.8%###################################################################       93.5%######################################################################    98.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed AppleAccelerate ─ v0.3.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [13e28ba4] + AppleAccelerate v0.3.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [13e28ba4] + AppleAccelerate v0.3.0
-ERROR: LoadError: Accelerate framework not found at /System/Library/Frameworks/Accelerate.framework/Accelerate
-Stacktrace:
- [1] error(::String) at ./error.jl:33
- [2] top-level scope at /root/.julia/packages/AppleAccelerate/lc8gu/src/AppleAccelerate.jl:7
- [3] include(::Function, ::Module, ::String) at ./Base.jl:380
- [4] include(::Module, ::String) at ./Base.jl:368
- [5] top-level scope at none:2
- [6] eval at ./boot.jl:331 [inlined]
- [7] eval(::Expr) at ./client.jl:467
- [8] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/AppleAccelerate/lc8gu/src/AppleAccelerate.jl:6
-[ Info: Could not load package, exiting.

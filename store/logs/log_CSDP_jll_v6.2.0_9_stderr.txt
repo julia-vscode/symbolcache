@@ -1,34 +1,0 @@
-[ Info: Indexing package CSDP_jll 6.2.0+9...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%###                                                                        5.0%############                                                              16.9%###################                                                       27.0%#########################                                                 35.1%###############################                                           43.9%#####################################                                     52.1%##########################################                                59.0%###############################################                           66.5%#####################################################                     74.7%##########################################################                80.9%###############################################################           88.5%####################################################################      95.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed OpenBLAS32_jll ─────────────── v0.3.9+4
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed CSDP_jll ───────────────────── v6.2.0+10
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [9ce75daa] + CSDP_jll v6.2.0+10
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [9ce75daa] + CSDP_jll v6.2.0+10
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [692b3bcd] + JLLWrappers v1.2.0
-  [656ef2d0] + OpenBLAS32_jll v0.3.9+4
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

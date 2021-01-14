@@ -1,75 +1,0 @@
-[ Info: Indexing package NOMAD 1.0.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%##########                                                                14.4%###################                                                       27.6%###########################                                               38.3%#####################################                                     51.5%#########################################                                 57.1%################################################                          67.1%#################################################                         68.4%###################################################                       71.5%#######################################################                   77.2%############################################################              84.7%##################################################################        92.2%#######################################################################   99.8%######################################################################## 100.0%
-  Resolving package versions...
-  Installed BinaryProvider ─ v0.5.10
-  Installed Cxx ──────────── v0.4.0
-  Installed NOMAD ────────── v1.0.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [02130f1c] + NOMAD v1.0.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b99e7846] + BinaryProvider v0.5.10
-  [a0b5b9ef] + Cxx v0.4.0
-  [02130f1c] + NOMAD v1.0.3
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-   Building Cxx ──→ `~/.julia/packages/Cxx/1RaOv/deps/build.log`
-┌ Error: Error building `Cxx`: 
-│ ERROR: LoadError: could not load library "libLLVM-9.0.1"
-│ libLLVM-9.0.1.so: cannot open shared object file: No such file or directory
-│ Stacktrace:
-│  [1] dlopen(::String, ::UInt32; throw_error::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Libdl/src/Libdl.jl:109
-│  [2] dlopen at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Libdl/src/Libdl.jl:109 [inlined] (repeats 2 times)
-│  [3] dlpath(::String) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Libdl/src/Libdl.jl:232
-│  [4] top-level scope at /root/.julia/packages/Cxx/1RaOv/deps/build.jl:23
-│  [5] include(::String) at ./client.jl:457
-│  [6] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/Cxx/1RaOv/deps/build.jl:23
-│ writing path.jl file
-│ Tuning for julia installation at /usr/local/julia/bin with sources possibly at /usr/local/
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-   Building NOMAD → `~/.julia/packages/NOMAD/mDFmC/deps/build.log`
-┌ Error: Error building `NOMAD`: 
-│ ┌ Warning: NOMAD could not be compiled automatically, try ./configure and make extracted files from NOMAD.jl/deps/downloads/NOMAD.zip
-│ └ @ Main ~/.julia/packages/NOMAD/mDFmC/deps/build.jl:21
-│ ERROR: LoadError: IOError: could not spawn `unzip /root/.julia/packages/NOMAD/mDFmC/deps/downloads/NOMAD.zip -d /root/.julia/packages/NOMAD/mDFmC/deps`: no such file or directory (ENOENT)
-│ Stacktrace:
-│  [1] top-level scope at /root/.julia/packages/NOMAD/mDFmC/deps/build.jl:22
-│  [2] include(::String) at ./client.jl:457
-│  [3] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/NOMAD/mDFmC/deps/build.jl:8
-│ caused by [exception 1]
-│ IOError: could not spawn `unzip /root/.julia/packages/NOMAD/mDFmC/deps/downloads/NOMAD.zip -d /root/.julia/packages/NOMAD/mDFmC/deps`: no such file or directory (ENOENT)
-│ Stacktrace:
-│  [1] _spawn_primitive(::String, ::Cmd, ::Array{Any,1}) at ./process.jl:99
-│  [2] #585 at ./process.jl:112 [inlined]
-│  [3] setup_stdios(::Base.var"#585#586"{Cmd}, ::Array{Any,1}) at ./process.jl:196
-│  [4] _spawn at ./process.jl:111 [inlined]
-│  [5] run(::Cmd; wait::Bool) at ./process.jl:439
-│  [6] run(::Cmd) at ./process.jl:438
-│  [7] top-level scope at /root/.julia/packages/NOMAD/mDFmC/deps/build.jl:14
-│  [8] include(::String) at ./client.jl:457
-│  [9] top-level scope at none:5
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-ERROR: LoadError: path.jl not generated. Try running Pkg.build("Cxx")
-Stacktrace:
- [1] error(::String) at ./error.jl:33
- [2] top-level scope at /root/.julia/packages/Cxx/1RaOv/src/Cxx.jl:146
- [3] include(::Function, ::Module, ::String) at ./Base.jl:380
- [4] include(::Module, ::String) at ./Base.jl:368
- [5] top-level scope at none:2
- [6] eval at ./boot.jl:331 [inlined]
- [7] eval(::Expr) at ./client.jl:467
- [8] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/Cxx/1RaOv/src/Cxx.jl:146
-[ Info: Could not load package, exiting.

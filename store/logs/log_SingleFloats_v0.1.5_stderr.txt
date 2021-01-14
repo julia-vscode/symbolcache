@@ -1,14 +1,0 @@
-[ Info: Indexing package SingleFloats 0.1.5...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%############                                                              16.9%##########################################                                58.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed SingleFloats ─ v0.1.5
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [2b6d1eac] + SingleFloats v0.1.5
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [2b6d1eac] + SingleFloats v0.1.5
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-[ Info: Finished indexing.

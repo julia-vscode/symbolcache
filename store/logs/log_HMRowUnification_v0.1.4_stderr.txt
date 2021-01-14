@@ -1,12 +1,0 @@
-[ Info: Indexing package HMRowUnification 0.1.4...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#########                                                                 13.8%####################################                                      50.2%###########################################################               82.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MLStyle ────────── v0.4.6
-  Installed HMRowUnification ─ v0.1.4
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [1f764b34] + HMRowUnification v0.1.4
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [1f764b34] + HMRowUnification v0.1.4
-  [d8e11817] + MLStyle v0.4.6
-[ Info: Finished indexing.

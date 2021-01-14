@@ -1,9 +1,0 @@
-[ Info: Indexing package ConfParser 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed ConfParser ─ v0.1.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [88353bc9] + ConfParser v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [88353bc9] + ConfParser v0.1.2
-[ Info: Finished indexing.

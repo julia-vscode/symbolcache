@@ -1,14 +1,0 @@
-[ Info: Indexing package NiLangCore 0.7.9...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%###########                                                               15.7%#####################                                                     29.5%#################################                                         46.4%################################################                          67.8%####################################################################      94.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed NiLangCore ─ v0.7.9
-  Installed TupleTools ─ v1.2.0
-  Installed MatchCore ── v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [575d3204] + NiLangCore v0.7.9
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [5dd3f0b1] + MatchCore v0.1.0
-  [575d3204] + NiLangCore v0.7.9
-  [9d95972d] + TupleTools v1.2.0
-[ Info: Finished indexing.

@@ -1,18 +1,0 @@
-[ Info: Indexing package ProjectiveVectors 1.1.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                15.1%###########################                                               38.3%#######################################################                   77.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ProjectiveVectors ─ v1.1.2
-  Installed StaticArrays ────── v0.12.5
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [01f381cc] + ProjectiveVectors v1.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [01f381cc] + ProjectiveVectors v1.1.2
-  [90137ffa] + StaticArrays v0.12.5
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-[ Info: Finished indexing.

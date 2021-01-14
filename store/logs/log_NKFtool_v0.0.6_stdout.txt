@@ -1,1 +1,0 @@
-NKFtool cannot be loaded: nkf is not available on this system.

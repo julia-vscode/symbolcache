@@ -1,28 +1,0 @@
-[ Info: Indexing package FEMBasis 0.3.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%####                                                                       6.9%############                                                              17.6%####################                                                      28.2%#############################                                             40.8%########################################                                  55.8%#################################################                         68.4%###########################################################               82.8%#####################################################################     96.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Calculus ─ v0.5.1
-  Installed FEMBasis ─ v0.3.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [353fb843] + FEMBasis v0.3.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [49dc2e85] + Calculus v0.5.1
-  [353fb843] + FEMBasis v0.3.0
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-ERROR: LoadError: ArgumentError: Package FEMBasis does not have Tensors in its dependencies:
-- If you have FEMBasis checked out for development and have
-  added Tensors as a dependency but haven't updated your primary
-  environment's manifest file, try `Pkg.resolve()`.
-- Otherwise you may need to report an issue with FEMBasis
-Stacktrace:
- [1] require(::Module, ::Symbol) at ./loading.jl:906
- [2] include(::Function, ::Module, ::String) at ./Base.jl:380
- [3] include(::Module, ::String) at ./Base.jl:368
- [4] top-level scope at none:2
- [5] eval at ./boot.jl:331 [inlined]
- [6] eval(::Expr) at ./client.jl:467
- [7] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/FEMBasis/lAIM2/src/FEMBasis.jl:8
-[ Info: Could not load package, exiting.

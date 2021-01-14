@@ -1,19 +1,0 @@
-[ Info: Indexing package BlockDiagonals 0.1.7...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #####                                                                      7.5%##############                                                            20.7%#######################                                                   33.2%################################                                          45.8%###########################################                               60.2%#####################################################                     74.0%#############################################################             85.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed FillArrays ───── v0.10.2
-  Installed ChainRulesCore ─ v0.9.25
-  Installed BlockDiagonals ─ v0.1.7
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [0a1fb500] + BlockDiagonals v0.1.7
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [0a1fb500] + BlockDiagonals v0.1.7
-  [d360d2e6] + ChainRulesCore v0.9.25
-  [1a297f60] + FillArrays v0.10.2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [2f01184e] + SparseArrays
-[ Info: Finished indexing.

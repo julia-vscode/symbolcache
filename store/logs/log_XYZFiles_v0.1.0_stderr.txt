@@ -1,12 +1,0 @@
-[ Info: Indexing package XYZFiles 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                15.1%############################                                              38.9%####################################################                      73.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed XYZFiles ─ v0.1.0
-  Installed AtomBase ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [a225628a] + XYZFiles v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [ccf6c0ac] + AtomBase v0.1.0
-  [a225628a] + XYZFiles v0.1.0
-[ Info: Finished indexing.

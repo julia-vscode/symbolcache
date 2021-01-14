@@ -1,9 +1,0 @@
-[ Info: Indexing package Cassette 0.3.3...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed Cassette ─ v0.3.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7057c7e9] + Cassette v0.3.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7057c7e9] + Cassette v0.3.3
-[ Info: Finished indexing.

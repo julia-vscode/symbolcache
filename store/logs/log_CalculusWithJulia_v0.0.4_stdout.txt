@@ -1,45 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - sympy
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    gmp-6.1.2                  |       h6c8ec71_1         514 KB
-    gmpy2-2.0.8                |   py38hd5f6e3b_3         162 KB
-    mpc-1.1.0                  |       h10f8cd9_1          90 KB
-    mpfr-4.0.2                 |       hb69a4c5_1         487 KB
-    mpmath-1.1.0               |           py38_0         776 KB
-    sympy-1.7.1                |   py38h06a4308_0         8.8 MB
-    ------------------------------------------------------------
-                                           Total:        10.8 MB
-
-The following NEW packages will be INSTALLED:
-
-  gmp                pkgs/main/linux-64::gmp-6.1.2-h6c8ec71_1
-  gmpy2              pkgs/main/linux-64::gmpy2-2.0.8-py38hd5f6e3b_3
-  mpc                pkgs/main/linux-64::mpc-1.1.0-h10f8cd9_1
-  mpfr               pkgs/main/linux-64::mpfr-4.0.2-hb69a4c5_1
-  mpmath             pkgs/main/linux-64::mpmath-1.1.0-py38_0
-  sympy              pkgs/main/linux-64::sympy-1.7.1-py38h06a4308_0
-
-
-
-Downloading and Extracting Packages
-mpc-1.1.0            | 90 KB     |            |   0% mpc-1.1.0            | 90 KB     | #7         |  18% mpc-1.1.0            | 90 KB     | ########## | 100% 
-gmp-6.1.2            | 514 KB    |            |   0% gmp-6.1.2            | 514 KB    | ##1        |  22% gmp-6.1.2            | 514 KB    | #####6     |  56% gmp-6.1.2            | 514 KB    | ########## | 100% gmp-6.1.2            | 514 KB    | ########## | 100% 
-gmpy2-2.0.8          | 162 KB    |            |   0% gmpy2-2.0.8          | 162 KB    | ######9    |  69% gmpy2-2.0.8          | 162 KB    | ########## | 100% 
-mpfr-4.0.2           | 487 KB    |            |   0% mpfr-4.0.2           | 487 KB    | ##3        |  23% mpfr-4.0.2           | 487 KB    | ######5    |  66% mpfr-4.0.2           | 487 KB    | ########## | 100% mpfr-4.0.2           | 487 KB    | ########## | 100% 
-mpmath-1.1.0         | 776 KB    |            |   0% mpmath-1.1.0         | 776 KB    | #8         |  19% mpmath-1.1.0         | 776 KB    | #####1     |  52% mpmath-1.1.0         | 776 KB    | ########2  |  82% mpmath-1.1.0         | 776 KB    | ########## | 100% 
-sympy-1.7.1          | 8.8 MB    |            |   0% sympy-1.7.1          | 8.8 MB    | 2          |   3% sympy-1.7.1          | 8.8 MB    | 5          |   6% sympy-1.7.1          | 8.8 MB    | #          |  10% sympy-1.7.1          | 8.8 MB    | #4         |  15% sympy-1.7.1          | 8.8 MB    | #9         |  19% sympy-1.7.1          | 8.8 MB    | ##2        |  22% sympy-1.7.1          | 8.8 MB    | ##5        |  26% sympy-1.7.1          | 8.8 MB    | ###1       |  32% sympy-1.7.1          | 8.8 MB    | ###6       |  37% sympy-1.7.1          | 8.8 MB    | ####1      |  41% sympy-1.7.1          | 8.8 MB    | #####1     |  52% sympy-1.7.1          | 8.8 MB    | ######     |  61% sympy-1.7.1          | 8.8 MB    | ######7    |  68% sympy-1.7.1          | 8.8 MB    | #######4   |  75% sympy-1.7.1          | 8.8 MB    | ########2  |  83% sympy-1.7.1          | 8.8 MB    | ########9  |  89% sympy-1.7.1          | 8.8 MB    | #########7 |  97% sympy-1.7.1          | 8.8 MB    | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done

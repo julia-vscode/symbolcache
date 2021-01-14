@@ -1,10 +1,0 @@
-[ Info: Indexing package SwapLiterals 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#########                                                                 13.8%######################                                                    30.7%#######################################                                   55.2%##########################################################                80.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed SwapLiterals ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [b9c42661] + SwapLiterals v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b9c42661] + SwapLiterals v0.1.1
-[ Info: Finished indexing.

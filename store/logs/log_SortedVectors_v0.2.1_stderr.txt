@@ -1,42 +1,0 @@
-[ Info: Indexing package SortedVectors 0.2.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.1%#########                                                                 13.8%#################                                                         23.8%######################                                                    30.7%###############################                                           43.9%#######################################                                   54.6%###############################################                           66.5%#####################################################                     74.0%#############################################################             85.3%####################################################################      95.4%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ArgCheck ──────────── v1.1.0
-  Installed Lazy ──────────────── v0.15.1
-  Installed UnPack ────────────── v1.0.2
-  Installed OrderedCollections ── v1.3.2
-  Installed MacroTools ────────── v0.5.6
-  Installed DocStringExtensions ─ v0.8.3
-  Installed Parameters ────────── v0.12.1
-  Installed SortedVectors ─────── v0.2.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [9404b2b5] + SortedVectors v0.2.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [dce04be8] + ArgCheck v1.1.0
-  [ffbed154] + DocStringExtensions v0.8.3
-  [50d2b5c4] + Lazy v0.15.1
-  [1914dd2f] + MacroTools v0.5.6
-  [bac558e1] + OrderedCollections v1.3.2
-  [d96e819e] + Parameters v0.12.1
-  [9404b2b5] + SortedVectors v0.2.1
-  [3a884ed6] + UnPack v1.0.2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

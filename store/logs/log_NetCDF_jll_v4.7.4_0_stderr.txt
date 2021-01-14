@@ -1,44 +1,0 @@
-[ Info: Indexing package NetCDF_jll 4.7.4+0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#                                                                          2.5%####                                                                       5.6%#######                                                                   10.0%#########                                                                 13.2%############                                                              17.6%##############                                                            20.7%##################                                                        26.3%#######################                                                   32.6%############################                                              38.9%#################################                                         46.4%########################################                                  56.5%###############################################                           65.9%####################################################                      73.4%###########################################################               82.2%################################################################          89.1%######################################################################    98.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed LibSSH2_jll ─ v1.9.0+3
-  Installed LibCURL_jll ─ v7.70.0+2
-  Installed HDF5_jll ──── v1.12.0+1
-  Installed Zlib_jll ──── v1.2.11+18
-  Installed OpenSSL_jll ─ v1.1.1+6
-  Installed NetCDF_jll ── v4.7.4+1
-  Installed nghttp2_jll ─ v1.40.0+2
-  Installed JLLWrappers ─ v1.2.0
-  Installed Artifacts ─── v1.3.0
-  Installed MbedTLS_jll ─ v2.16.8+1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7243133f] + NetCDF_jll v4.7.4+1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [0234f1f7] + HDF5_jll v1.12.0+1
-  [692b3bcd] + JLLWrappers v1.2.0
-  [deac9b47] + LibCURL_jll v7.70.0+2
-  [29816b5a] + LibSSH2_jll v1.9.0+3
-  [c8ffd9c3] + MbedTLS_jll v2.16.8+1
-  [7243133f] + NetCDF_jll v4.7.4+1
-  [458c3c95] + OpenSSL_jll v1.1.1+6
-  [83775a58] + Zlib_jll v1.2.11+18
-  [8e850ede] + nghttp2_jll v1.40.0+2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

@@ -1,78 +1,0 @@
-[ Info: Indexing package OpenEphysLoader 0.2.4...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%##############                                                            20.7%##############################                                            42.0%##############################################                            65.2%################################################################          89.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Zlib_jll ──────── v1.2.11+18
-  Installed Artifacts ─────── v1.3.0
-  Installed XML2_jll ──────── v2.9.10+3
-  Installed Libiconv_jll ──── v1.16.0+7
-  Installed LightXML ──────── v0.9.0
-  Installed JLLWrappers ───── v1.2.0
-  Installed Compat ────────── v1.5.1
-  Installed OpenEphysLoader ─ v0.2.4
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [98c9b6dd] + OpenEphysLoader v0.2.4
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [34da2185] + Compat v1.5.1
-  [692b3bcd] + JLLWrappers v1.2.0
-  [94ce4f54] + Libiconv_jll v1.16.0+7
-  [9c8b4983] + LightXML v0.9.0
-  [98c9b6dd] + OpenEphysLoader v0.2.4
-  [02c8fc9c] + XML2_jll v2.9.10+3
-  [83775a58] + Zlib_jll v1.2.11+18
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-ERROR: LoadError: LoadError: UndefVarError: promote_eltype_op not defined
-Stacktrace:
- [1] getproperty(::Module, ::Symbol) at ./Base.jl:26
- [2] top-level scope at /root/.julia/packages/Compat/rVDy7/src/deprecated.jl:29 (repeats 2 times)
- [3] include(::Function, ::Module, ::String) at ./Base.jl:380
- [4] include at ./Base.jl:368 [inlined]
- [5] include(::String) at /root/.julia/packages/Compat/rVDy7/src/Compat.jl:3
- [6] top-level scope at /root/.julia/packages/Compat/rVDy7/src/Compat.jl:1894
- [7] include(::Function, ::Module, ::String) at ./Base.jl:380
- [8] include(::Module, ::String) at ./Base.jl:368
- [9] top-level scope at none:2
- [10] eval at ./boot.jl:331 [inlined]
- [11] eval(::Expr) at ./client.jl:467
- [12] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/Compat/rVDy7/src/deprecated.jl:29
-in expression starting at /root/.julia/packages/Compat/rVDy7/src/Compat.jl:1894
-ERROR: LoadError: Failed to precompile Compat [34da2185-b29b-5c13-b0c7-acf172513d20] to /root/.julia/compiled/v1.5/Compat/GSFWK_nrrZo.ji.
-Stacktrace:
- [1] error(::String) at ./error.jl:33
- [2] compilecache(::Base.PkgId, ::String) at ./loading.jl:1305
- [3] _require(::Base.PkgId) at ./loading.jl:1030
- [4] require(::Base.PkgId) at ./loading.jl:928
- [5] require(::Module, ::Symbol) at ./loading.jl:923
- [6] include(::Function, ::Module, ::String) at ./Base.jl:380
- [7] include(::Module, ::String) at ./Base.jl:368
- [8] top-level scope at none:2
- [9] eval at ./boot.jl:331 [inlined]
- [10] eval(::Expr) at ./client.jl:467
- [11] top-level scope at ./none:3
-in expression starting at /root/.julia/packages/OpenEphysLoader/Gy5ZH/src/OpenEphysLoader.jl:10
-[ Info: Could not load package, exiting.

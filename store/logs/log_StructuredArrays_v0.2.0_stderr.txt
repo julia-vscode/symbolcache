@@ -1,9 +1,0 @@
-[ Info: Indexing package StructuredArrays 0.2.0...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed StructuredArrays ─ v0.2.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [2e8cd123] + StructuredArrays v0.2.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [2e8cd123] + StructuredArrays v0.2.0
-[ Info: Finished indexing.

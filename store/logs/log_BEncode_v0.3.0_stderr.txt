@@ -1,10 +1,0 @@
-[ Info: Indexing package BEncode 0.3.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    1.3%#####                                                                      7.5%##########                                                                14.4%#################                                                         23.8%#######################                                                   32.6%###############################                                           43.9%#######################################                                   55.2%###################################################                       71.5%############################################################              84.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed BEncode ─ v0.3.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [65043f5e] + BEncode v0.3.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [65043f5e] + BEncode v0.3.0
-[ Info: Finished indexing.

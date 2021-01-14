@@ -1,10 +1,0 @@
-[ Info: Indexing package SIMD 3.2.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%######                                                                     8.8%################                                                          23.2%##########################                                                36.4%#####################################                                     51.4%###############################################                           65.9%##############################################################            87.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed SIMD ─ v3.2.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [fdea26ae] + SIMD v3.2.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [fdea26ae] + SIMD v3.2.1
-[ Info: Finished indexing.

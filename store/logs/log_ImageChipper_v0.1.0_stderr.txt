@@ -1,13 +1,0 @@
-[ Info: Indexing package ImageChipper 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ####                                                                       6.9%#########                                                                 12.5%#############                                                             18.2%##################                                                        26.3%##########################                                                37.0%###############################                                           43.9%#####################################                                     52.1%############################################                              61.5%#################################################                         69.0%#########################################################                 80.3%###############################################################           87.8%######################################################################    97.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ObjectDetectionStats ─ v0.1.2
-  Installed ImageChipper ───────── v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7f671e5d] + ImageChipper v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7f671e5d] + ImageChipper v0.1.0
-  [06718956] + ObjectDetectionStats v0.1.2
-WARNING: both ObjectDetectionStats and Base export "clamp"; uses of it in module ImageChipper must be qualified
-[ Info: Finished indexing.

@@ -1,13 +1,0 @@
-[ Info: Indexing package Octo 0.2.7...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #####                                                                      7.5%##############                                                            20.1%##########################                                                36.4%#######################################                                   55.2%######################################################                    75.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Octo ─ v0.2.7
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [16905944] + Octo v0.2.7
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [16905944] + Octo v0.2.7
-  [ade2ca70] + Dates
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

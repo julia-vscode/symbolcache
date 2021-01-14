@@ -1,16 +1,0 @@
-[ Info: Indexing package StringEncodings 0.3.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%###########                                                               16.3%###########################                                               38.3%#########################################                                 57.1%###############################################################           88.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed StringEncodings ─ v0.3.3
-  Installed BinaryProvider ── v0.5.10
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [69024149] + StringEncodings v0.3.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b99e7846] + BinaryProvider v0.5.10
-  [69024149] + StringEncodings v0.3.3
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [ea8e919c] + SHA
-   Building StringEncodings → `~/.julia/packages/StringEncodings/B9gIH/deps/build.log`
-[ Info: Finished indexing.

@@ -1,15 +1,0 @@
-[ Info: Indexing package Showoff 0.3.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                15.1%##########################################                                59.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Showoff ─ v0.3.2
-  Installed Grisu ─── v1.0.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [992d4aef] + Showoff v0.3.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [42e2da0e] + Grisu v1.0.0
-  [992d4aef] + Showoff v0.3.2
-  [ade2ca70] + Dates
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

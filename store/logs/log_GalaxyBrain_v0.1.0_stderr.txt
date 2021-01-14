@@ -1,10 +1,0 @@
-[ Info: Indexing package GalaxyBrain 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #######                                                                   10.7%###################                                                       27.0%###################################                                       48.9%#######################################################                   76.5%###################################################################       93.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed GalaxyBrain ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [25ddbe4d] + GalaxyBrain v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [25ddbe4d] + GalaxyBrain v0.1.0
-[ Info: Finished indexing.

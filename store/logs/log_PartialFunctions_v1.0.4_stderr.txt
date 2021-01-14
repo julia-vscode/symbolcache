@@ -1,10 +1,0 @@
-[ Info: Indexing package PartialFunctions 1.0.4...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%################                                                          22.6%###################################################                       72.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed PartialFunctions ─ v1.0.4
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [570af359] + PartialFunctions v1.0.4
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [570af359] + PartialFunctions v1.0.4
-[ Info: Finished indexing.

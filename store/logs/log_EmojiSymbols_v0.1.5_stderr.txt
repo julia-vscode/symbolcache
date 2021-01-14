@@ -1,9 +1,0 @@
-[ Info: Indexing package EmojiSymbols 0.1.5...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed EmojiSymbols ─ v0.1.5
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [c599478c] + EmojiSymbols v0.1.5
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [c599478c] + EmojiSymbols v0.1.5
-[ Info: Finished indexing.

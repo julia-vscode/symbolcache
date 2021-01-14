@@ -1,1095 +1,0 @@
-[ Info: Indexing package MLInterpret 0.1.2...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed SortingAlgorithms ─────────── v0.3.1
-  Installed Compat ────────────────────── v2.2.1
-  Installed MLInterpret ───────────────── v0.1.2
-  Installed IteratorInterfaceExtensions ─ v1.0.0
-  Installed Conda ─────────────────────── v1.5.0
-  Installed Requires ──────────────────── v1.1.2
-  Installed Polynomials ───────────────── v0.6.1
-  Installed DataStructures ────────────── v0.17.20
-  Installed TableTraitsUtils ──────────── v1.0.1
-  Installed URIParser ─────────────────── v0.4.1
-  Installed JSON ──────────────────────── v0.21.1
-  Installed OrderedCollections ────────── v1.3.2
-  Installed PyCallUtils ───────────────── v0.2.2
-  Installed Parsers ───────────────────── v1.0.15
-  Installed PyCall ────────────────────── v1.92.2
-  Installed StatsBase ─────────────────── v0.32.2
-  Installed PandasLite ────────────────── v0.1.7
-  Installed VersionParsing ────────────── v1.2.0
-  Installed RecipesBase ───────────────── v0.8.0
-  Installed DataAPI ───────────────────── v1.4.0
-  Installed Combinatorics ─────────────── v0.7.0
-  Installed DataValueInterfaces ───────── v1.0.0
-  Installed BinDeps ───────────────────── v0.8.10
-  Installed DataValues ────────────────── v0.4.13
-  Installed ProgressMeter ─────────────── v1.4.1
-  Installed TableTraits ───────────────── v1.0.0
-  Installed Missings ──────────────────── v0.4.4
-  Installed MacroTools ────────────────── v0.5.6
-  Installed BSON ──────────────────────── v0.2.6
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [8be67bde] + MLInterpret v0.1.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [fbb218c0] + BSON v0.2.6
-  [9e28174c] + BinDeps v0.8.10
-  [861a8166] + Combinatorics v0.7.0
-  [34da2185] + Compat v2.2.1
-  [8f4d0f93] + Conda v1.5.0
-  [9a962f9c] + DataAPI v1.4.0
-  [864edb3b] + DataStructures v0.17.20
-  [e2d170a0] + DataValueInterfaces v1.0.0
-  [e7dc6d0d] + DataValues v0.4.13
-  [82899510] + IteratorInterfaceExtensions v1.0.0
-  [682c06a0] + JSON v0.21.1
-  [8be67bde] + MLInterpret v0.1.2
-  [1914dd2f] + MacroTools v0.5.6
-  [e1d29d7a] + Missings v0.4.4
-  [bac558e1] + OrderedCollections v1.3.2
-  [f5117550] + PandasLite v0.1.7
-  [69de0a69] + Parsers v1.0.15
-  [f27b6e38] + Polynomials v0.6.1
-  [92933f4c] + ProgressMeter v1.4.1
-  [438e738f] + PyCall v1.92.2
-  [02651160] + PyCallUtils v0.2.2
-  [3cdcf5f2] + RecipesBase v0.8.0
-  [ae029012] + Requires v1.1.2
-  [a2af1166] + SortingAlgorithms v0.3.1
-  [2913bbd2] + StatsBase v0.32.2
-  [3783bdb8] + TableTraits v1.0.0
-  [382cd787] + TableTraitsUtils v1.0.1
-  [30578b45] + URIParser v0.4.1
-  [81def892] + VersionParsing v1.2.0
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-   Building Conda ──────→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
-   Building PyCall ─────→ `~/.julia/packages/PyCall/tqyST/deps/build.log`
-   Building PandasLite ─→ `~/.julia/packages/PandasLite/7e29y/deps/build.log`
-   Building MLInterpret → `~/.julia/packages/MLInterpret/dR26R/deps/build.log`
-┌ Error: Error building `MLInterpret`: 
-│ Collecting package metadata (current_repodata.json): ...working... done
-│ Solving environment: ...working... done
-│ 
-│ ## Package Plan ##
-│ 
-│   environment location: /root/.julia/conda/3
-│ 
-│   added / updated specs:
-│     - python=3.6
-│ 
-│ 
-│ The following packages will be downloaded:
-│ 
-│     package                    |            build
-│     ---------------------------|-----------------
-│     brotlipy-0.7.0             |py36h27cfd23_1003         320 KB
-│     certifi-2020.12.5          |   py36h06a4308_0         140 KB
-│     cffi-1.14.4                |   py36h261ae71_0         223 KB
-│     chardet-4.0.0              |py36h06a4308_1003         199 KB
-│     conda-4.9.2                |   py36h06a4308_0         2.9 MB
-│     conda-package-handling-1.7.2|   py36h03888b9_0         886 KB
-│     cryptography-3.3.1         |   py36h3c74f83_0         557 KB
-│     mkl-service-2.3.0          |   py36he8ac12f_0          52 KB
-│     mkl_fft-1.2.0              |   py36h23d657b_0         149 KB
-│     mkl_random-1.1.1           |   py36h0573a6f_0         327 KB
-│     numpy-1.19.2               |   py36h54aff64_0          22 KB
-│     numpy-base-1.19.2          |   py36hfa32c7d_0         4.1 MB
-│     pip-20.3.3                 |   py36h06a4308_0         1.8 MB
-│     pycosat-0.6.3              |   py36h27cfd23_0          82 KB
-│     pysocks-1.7.1              |   py36h06a4308_0          31 KB
-│     python-3.6.12              |       hcff3b4d_2        29.7 MB
-│     ruamel_yaml-0.15.87        |   py36h7b6447c_1         244 KB
-│     setuptools-51.1.2          |   py36h06a4308_4         730 KB
-│     six-1.15.0                 |   py36h06a4308_0          27 KB
-│     ------------------------------------------------------------
-│                                            Total:        42.4 MB
-│ 
-│ The following packages will be DOWNGRADED:
-│ 
-│   brotlipy                          0.7.0-py38h27cfd23_1003 --> 0.7.0-py36h27cfd23_1003
-│   certifi                          2020.12.5-py38h06a4308_0 --> 2020.12.5-py36h06a4308_0
-│   cffi                                1.14.4-py38h261ae71_0 --> 1.14.4-py36h261ae71_0
-│   chardet                           4.0.0-py38h06a4308_1003 --> 4.0.0-py36h06a4308_1003
-│   conda                                4.9.2-py38h06a4308_0 --> 4.9.2-py36h06a4308_0
-│   conda-package-han~                   1.7.2-py38h03888b9_0 --> 1.7.2-py36h03888b9_0
-│   cryptography                         3.3.1-py38h3c74f83_0 --> 3.3.1-py36h3c74f83_0
-│   mkl-service                          2.3.0-py38he904b0f_0 --> 2.3.0-py36he8ac12f_0
-│   mkl_fft                              1.2.0-py38h23d657b_0 --> 1.2.0-py36h23d657b_0
-│   mkl_random                           1.1.1-py38h0573a6f_0 --> 1.1.1-py36h0573a6f_0
-│   numpy                               1.19.2-py38h54aff64_0 --> 1.19.2-py36h54aff64_0
-│   numpy-base                          1.19.2-py38hfa32c7d_0 --> 1.19.2-py36hfa32c7d_0
-│   pip                                 20.3.3-py38h06a4308_0 --> 20.3.3-py36h06a4308_0
-│   pycosat                              0.6.3-py38h7b6447c_1 --> 0.6.3-py36h27cfd23_0
-│   pysocks                              1.7.1-py38h06a4308_0 --> 1.7.1-py36h06a4308_0
-│   python                                   3.8.5-h7579374_1 --> 3.6.12-hcff3b4d_2
-│   ruamel_yaml                        0.15.87-py38h7b6447c_1 --> 0.15.87-py36h7b6447c_1
-│   setuptools                          51.1.2-py38h06a4308_4 --> 51.1.2-py36h06a4308_4
-│   six                                 1.15.0-py38h06a4308_0 --> 1.15.0-py36h06a4308_0
-│ 
-│ 
-│ 
-│ Downloading and Extracting Packages
-│ six-1.15.0           | 27 KB     |            |   0% six-1.15.0           | 27 KB     | ########## | 100% six-1.15.0           | 27 KB     | ########## | 100% 
-│ cffi-1.14.4          | 223 KB    |            |   0% cffi-1.14.4          | 223 KB    | ########## | 100% 
-│ pycosat-0.6.3        | 82 KB     |            |   0% pycosat-0.6.3        | 82 KB     | ########## | 100% 
-│ mkl-service-2.3.0    | 52 KB     |            |   0% mkl-service-2.3.0    | 52 KB     | ########## | 100% 
-│ numpy-1.19.2         | 22 KB     |            |   0% numpy-1.19.2         | 22 KB     | ########## | 100% 
-│ python-3.6.12        | 29.7 MB   |            |   0% python-3.6.12        | 29.7 MB   | 3          |   4% python-3.6.12        | 29.7 MB   | 9          |   9% python-3.6.12        | 29.7 MB   | #4         |  14% python-3.6.12        | 29.7 MB   | #9         |  20% python-3.6.12        | 29.7 MB   | ##4        |  24% python-3.6.12        | 29.7 MB   | ###        |  30% python-3.6.12        | 29.7 MB   | ###4       |  35% python-3.6.12        | 29.7 MB   | ###9       |  40% python-3.6.12        | 29.7 MB   | ####6      |  46% python-3.6.12        | 29.7 MB   | #####1     |  52% python-3.6.12        | 29.7 MB   | #####6     |  57% python-3.6.12        | 29.7 MB   | ######3    |  64% python-3.6.12        | 29.7 MB   | ######9    |  69% python-3.6.12        | 29.7 MB   | #######5   |  75% python-3.6.12        | 29.7 MB   | ########   |  81% python-3.6.12        | 29.7 MB   | ########6  |  87% python-3.6.12        | 29.7 MB   | #########2 |  92% python-3.6.12        | 29.7 MB   | #########7 |  98% python-3.6.12        | 29.7 MB   | ########## | 100% 
-│ conda-4.9.2          | 2.9 MB    |            |   0% conda-4.9.2          | 2.9 MB    | #9         |  20% conda-4.9.2          | 2.9 MB    | ########## | 100% conda-4.9.2          | 2.9 MB    | ########## | 100% 
-│ numpy-base-1.19.2    | 4.1 MB    |            |   0% numpy-base-1.19.2    | 4.1 MB    | ##5        |  25% numpy-base-1.19.2    | 4.1 MB    | ######9    |  69% numpy-base-1.19.2    | 4.1 MB    | ########## | 100% numpy-base-1.19.2    | 4.1 MB    | ########## | 100% 
-│ pip-20.3.3           | 1.8 MB    |            |   0% pip-20.3.3           | 1.8 MB    | ####3      |  44% pip-20.3.3           | 1.8 MB    | ########## | 100% pip-20.3.3           | 1.8 MB    | ########## | 100% 
-│ conda-package-handli | 886 KB    |            |   0% conda-package-handli | 886 KB    | ########## | 100% conda-package-handli | 886 KB    | ########## | 100% 
-│ ruamel_yaml-0.15.87  | 244 KB    |            |   0% ruamel_yaml-0.15.87  | 244 KB    | ########## | 100% 
-│ mkl_fft-1.2.0        | 149 KB    |            |   0% mkl_fft-1.2.0        | 149 KB    | ########## | 100% 
-│ setuptools-51.1.2    | 730 KB    |            |   0% setuptools-51.1.2    | 730 KB    | ########## | 100% setuptools-51.1.2    | 730 KB    | ########## | 100% 
-│ chardet-4.0.0        | 199 KB    |            |   0% chardet-4.0.0        | 199 KB    | ########## | 100% 
-│ mkl_random-1.1.1     | 327 KB    |            |   0% mkl_random-1.1.1     | 327 KB    | ########## | 100% 
-│ cryptography-3.3.1   | 557 KB    |            |   0% cryptography-3.3.1   | 557 KB    | ########## | 100% cryptography-3.3.1   | 557 KB    | ########## | 100% 
-│ brotlipy-0.7.0       | 320 KB    |            |   0% brotlipy-0.7.0       | 320 KB    | ########## | 100% 
-│ pysocks-1.7.1        | 31 KB     |            |   0% pysocks-1.7.1        | 31 KB     | ########## | 100% 
-│ certifi-2020.12.5    | 140 KB    |            |   0% certifi-2020.12.5    | 140 KB    | ########## | 100% 
-│ Preparing transaction: ...working... done
-│ Verifying transaction: ...working... done
-│ Executing transaction: ...working... done
-│ 
-│ WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
-│ 
-│ Get:1 http://security.debian.org/debian-security buster/updates InRelease [65.4 kB]
-│ Get:2 http://deb.debian.org/debian buster InRelease [121 kB]
-│ Get:3 http://deb.debian.org/debian buster-updates InRelease [51.9 kB]
-│ Get:4 http://security.debian.org/debian-security buster/updates/main amd64 Packages [260 kB]
-│ Get:5 http://deb.debian.org/debian buster/main amd64 Packages [7907 kB]
-│ Get:6 http://deb.debian.org/debian buster-updates/main amd64 Packages [7860 B]
-│ Fetched 8414 kB in 3s (2712 kB/s)
-│ Reading package lists...
-│ Building dependency tree...
-│ Reading state information...
-│ All packages are up to date.
-│ Reading package lists...
-│ Building dependency tree...
-│ Reading state information...
-│ The following package was automatically installed and is no longer required:
-│   lsb-base
-│ Use 'apt autoremove' to remove it.
-│ The following additional packages will be installed:
-│   binutils binutils-common binutils-x86-64-linux-gnu cpp cpp-8 g++-8 gcc gcc-8
-│   libasan5 libatomic1 libbinutils libc-dev-bin libc6-dev libcc1-0 libgcc-8-dev
-│   libgomp1 libisl19 libitm1 liblsan0 libmpc3 libmpfr6 libmpx2 libquadmath0
-│   libstdc++-8-dev libtsan0 libubsan1 linux-libc-dev manpages manpages-dev
-│ Suggested packages:
-│   binutils-doc cpp-doc gcc-8-locales g++-multilib g++-8-multilib gcc-8-doc
-│   libstdc++6-8-dbg gcc-multilib make autoconf automake libtool flex bison gdb
-│   gcc-doc gcc-8-multilib libgcc1-dbg libgomp1-dbg libitm1-dbg libatomic1-dbg
-│   libasan5-dbg liblsan0-dbg libtsan0-dbg libubsan1-dbg libmpx2-dbg
-│   libquadmath0-dbg glibc-doc libstdc++-8-doc man-browser
-│ The following NEW packages will be installed:
-│   binutils binutils-common binutils-x86-64-linux-gnu cpp cpp-8 g++ g++-8 gcc
-│   gcc-8 libasan5 libatomic1 libbinutils libc-dev-bin libc6-dev libcc1-0
-│   libgcc-8-dev libgomp1 libisl19 libitm1 liblsan0 libmpc3 libmpfr6 libmpx2
-│   libquadmath0 libstdc++-8-dev libtsan0 libubsan1 linux-libc-dev manpages
-│   manpages-dev
-│ 0 upgraded, 30 newly installed, 0 to remove and 0 not upgraded.
-│ Need to get 46.9 MB of archives.
-│ After this operation, 180 MB of additional disk space will be used.
-│ Get:1 http://deb.debian.org/debian buster/main amd64 manpages all 4.16-2 [1295 kB]
-│ Get:2 http://deb.debian.org/debian buster/main amd64 binutils-common amd64 2.31.1-16 [2073 kB]
-│ Get:3 http://deb.debian.org/debian buster/main amd64 libbinutils amd64 2.31.1-16 [478 kB]
-│ Get:4 http://deb.debian.org/debian buster/main amd64 binutils-x86-64-linux-gnu amd64 2.31.1-16 [1823 kB]
-│ Get:5 http://deb.debian.org/debian buster/main amd64 binutils amd64 2.31.1-16 [56.8 kB]
-│ Get:6 http://deb.debian.org/debian buster/main amd64 libisl19 amd64 0.20-2 [587 kB]
-│ Get:7 http://deb.debian.org/debian buster/main amd64 libmpfr6 amd64 4.0.2-1 [775 kB]
-│ Get:8 http://deb.debian.org/debian buster/main amd64 libmpc3 amd64 1.1.0-1 [41.3 kB]
-│ Get:9 http://deb.debian.org/debian buster/main amd64 cpp-8 amd64 8.3.0-6 [8914 kB]
-│ Get:10 http://deb.debian.org/debian buster/main amd64 cpp amd64 4:8.3.0-1 [19.4 kB]
-│ Get:11 http://deb.debian.org/debian buster/main amd64 libcc1-0 amd64 8.3.0-6 [46.6 kB]
-│ Get:12 http://deb.debian.org/debian buster/main amd64 libgomp1 amd64 8.3.0-6 [75.8 kB]
-│ Get:13 http://deb.debian.org/debian buster/main amd64 libitm1 amd64 8.3.0-6 [27.7 kB]
-│ Get:14 http://deb.debian.org/debian buster/main amd64 libatomic1 amd64 8.3.0-6 [9032 B]
-│ Get:15 http://deb.debian.org/debian buster/main amd64 libasan5 amd64 8.3.0-6 [362 kB]
-│ Get:16 http://deb.debian.org/debian buster/main amd64 liblsan0 amd64 8.3.0-6 [131 kB]
-│ Get:17 http://deb.debian.org/debian buster/main amd64 libtsan0 amd64 8.3.0-6 [283 kB]
-│ Get:18 http://deb.debian.org/debian buster/main amd64 libubsan1 amd64 8.3.0-6 [120 kB]
-│ Get:19 http://deb.debian.org/debian buster/main amd64 libmpx2 amd64 8.3.0-6 [11.4 kB]
-│ Get:20 http://deb.debian.org/debian buster/main amd64 libquadmath0 amd64 8.3.0-6 [133 kB]
-│ Get:21 http://deb.debian.org/debian buster/main amd64 libgcc-8-dev amd64 8.3.0-6 [2298 kB]
-│ Get:22 http://deb.debian.org/debian buster/main amd64 gcc-8 amd64 8.3.0-6 [9452 kB]
-│ Get:23 http://deb.debian.org/debian buster/main amd64 gcc amd64 4:8.3.0-1 [5196 B]
-│ Get:24 http://deb.debian.org/debian buster/main amd64 libc-dev-bin amd64 2.28-10 [275 kB]
-│ Get:25 http://deb.debian.org/debian buster/main amd64 linux-libc-dev amd64 4.19.160-2 [1416 kB]
-│ Get:26 http://deb.debian.org/debian buster/main amd64 libc6-dev amd64 2.28-10 [2691 kB]
-│ Get:27 http://deb.debian.org/debian buster/main amd64 libstdc++-8-dev amd64 8.3.0-6 [1532 kB]
-│ Get:28 http://deb.debian.org/debian buster/main amd64 g++-8 amd64 8.3.0-6 [9752 kB]
-│ Get:29 http://deb.debian.org/debian buster/main amd64 g++ amd64 4:8.3.0-1 [1644 B]
-│ Get:30 http://deb.debian.org/debian buster/main amd64 manpages-dev all 4.16-2 [2232 kB]
-│ debconf: delaying package configuration, since apt-utils is not installed
-│ Fetched 46.9 MB in 3s (14.9 MB/s)
-│ Selecting previously unselected package manpages.
-│ (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 6906 files and directories currently installed.)
-│ Preparing to unpack .../00-manpages_4.16-2_all.deb ...
-│ Unpacking manpages (4.16-2) ...
-│ Selecting previously unselected package binutils-common:amd64.
-│ Preparing to unpack .../01-binutils-common_2.31.1-16_amd64.deb ...
-│ Unpacking binutils-common:amd64 (2.31.1-16) ...
-│ Selecting previously unselected package libbinutils:amd64.
-│ Preparing to unpack .../02-libbinutils_2.31.1-16_amd64.deb ...
-│ Unpacking libbinutils:amd64 (2.31.1-16) ...
-│ Selecting previously unselected package binutils-x86-64-linux-gnu.
-│ Preparing to unpack .../03-binutils-x86-64-linux-gnu_2.31.1-16_amd64.deb ...
-│ Unpacking binutils-x86-64-linux-gnu (2.31.1-16) ...
-│ Selecting previously unselected package binutils.
-│ Preparing to unpack .../04-binutils_2.31.1-16_amd64.deb ...
-│ Unpacking binutils (2.31.1-16) ...
-│ Selecting previously unselected package libisl19:amd64.
-│ Preparing to unpack .../05-libisl19_0.20-2_amd64.deb ...
-│ Unpacking libisl19:amd64 (0.20-2) ...
-│ Selecting previously unselected package libmpfr6:amd64.
-│ Preparing to unpack .../06-libmpfr6_4.0.2-1_amd64.deb ...
-│ Unpacking libmpfr6:amd64 (4.0.2-1) ...
-│ Selecting previously unselected package libmpc3:amd64.
-│ Preparing to unpack .../07-libmpc3_1.1.0-1_amd64.deb ...
-│ Unpacking libmpc3:amd64 (1.1.0-1) ...
-│ Selecting previously unselected package cpp-8.
-│ Preparing to unpack .../08-cpp-8_8.3.0-6_amd64.deb ...
-│ Unpacking cpp-8 (8.3.0-6) ...
-│ Selecting previously unselected package cpp.
-│ Preparing to unpack .../09-cpp_4%3a8.3.0-1_amd64.deb ...
-│ Unpacking cpp (4:8.3.0-1) ...
-│ Selecting previously unselected package libcc1-0:amd64.
-│ Preparing to unpack .../10-libcc1-0_8.3.0-6_amd64.deb ...
-│ Unpacking libcc1-0:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libgomp1:amd64.
-│ Preparing to unpack .../11-libgomp1_8.3.0-6_amd64.deb ...
-│ Unpacking libgomp1:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libitm1:amd64.
-│ Preparing to unpack .../12-libitm1_8.3.0-6_amd64.deb ...
-│ Unpacking libitm1:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libatomic1:amd64.
-│ Preparing to unpack .../13-libatomic1_8.3.0-6_amd64.deb ...
-│ Unpacking libatomic1:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libasan5:amd64.
-│ Preparing to unpack .../14-libasan5_8.3.0-6_amd64.deb ...
-│ Unpacking libasan5:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package liblsan0:amd64.
-│ Preparing to unpack .../15-liblsan0_8.3.0-6_amd64.deb ...
-│ Unpacking liblsan0:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libtsan0:amd64.
-│ Preparing to unpack .../16-libtsan0_8.3.0-6_amd64.deb ...
-│ Unpacking libtsan0:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libubsan1:amd64.
-│ Preparing to unpack .../17-libubsan1_8.3.0-6_amd64.deb ...
-│ Unpacking libubsan1:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libmpx2:amd64.
-│ Preparing to unpack .../18-libmpx2_8.3.0-6_amd64.deb ...
-│ Unpacking libmpx2:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libquadmath0:amd64.
-│ Preparing to unpack .../19-libquadmath0_8.3.0-6_amd64.deb ...
-│ Unpacking libquadmath0:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package libgcc-8-dev:amd64.
-│ Preparing to unpack .../20-libgcc-8-dev_8.3.0-6_amd64.deb ...
-│ Unpacking libgcc-8-dev:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package gcc-8.
-│ Preparing to unpack .../21-gcc-8_8.3.0-6_amd64.deb ...
-│ Unpacking gcc-8 (8.3.0-6) ...
-│ Selecting previously unselected package gcc.
-│ Preparing to unpack .../22-gcc_4%3a8.3.0-1_amd64.deb ...
-│ Unpacking gcc (4:8.3.0-1) ...
-│ Selecting previously unselected package libc-dev-bin.
-│ Preparing to unpack .../23-libc-dev-bin_2.28-10_amd64.deb ...
-│ Unpacking libc-dev-bin (2.28-10) ...
-│ Selecting previously unselected package linux-libc-dev:amd64.
-│ Preparing to unpack .../24-linux-libc-dev_4.19.160-2_amd64.deb ...
-│ Unpacking linux-libc-dev:amd64 (4.19.160-2) ...
-│ Selecting previously unselected package libc6-dev:amd64.
-│ Preparing to unpack .../25-libc6-dev_2.28-10_amd64.deb ...
-│ Unpacking libc6-dev:amd64 (2.28-10) ...
-│ Selecting previously unselected package libstdc++-8-dev:amd64.
-│ Preparing to unpack .../26-libstdc++-8-dev_8.3.0-6_amd64.deb ...
-│ Unpacking libstdc++-8-dev:amd64 (8.3.0-6) ...
-│ Selecting previously unselected package g++-8.
-│ Preparing to unpack .../27-g++-8_8.3.0-6_amd64.deb ...
-│ Unpacking g++-8 (8.3.0-6) ...
-│ Selecting previously unselected package g++.
-│ Preparing to unpack .../28-g++_4%3a8.3.0-1_amd64.deb ...
-│ Unpacking g++ (4:8.3.0-1) ...
-│ Selecting previously unselected package manpages-dev.
-│ Preparing to unpack .../29-manpages-dev_4.16-2_all.deb ...
-│ Unpacking manpages-dev (4.16-2) ...
-│ Setting up manpages (4.16-2) ...
-│ Setting up binutils-common:amd64 (2.31.1-16) ...
-│ Setting up linux-libc-dev:amd64 (4.19.160-2) ...
-│ Setting up libgomp1:amd64 (8.3.0-6) ...
-│ Setting up libasan5:amd64 (8.3.0-6) ...
-│ Setting up libmpfr6:amd64 (4.0.2-1) ...
-│ Setting up libquadmath0:amd64 (8.3.0-6) ...
-│ Setting up libmpc3:amd64 (1.1.0-1) ...
-│ Setting up libatomic1:amd64 (8.3.0-6) ...
-│ Setting up libmpx2:amd64 (8.3.0-6) ...
-│ Setting up libubsan1:amd64 (8.3.0-6) ...
-│ Setting up libisl19:amd64 (0.20-2) ...
-│ Setting up libbinutils:amd64 (2.31.1-16) ...
-│ Setting up cpp-8 (8.3.0-6) ...
-│ Setting up libc-dev-bin (2.28-10) ...
-│ Setting up libcc1-0:amd64 (8.3.0-6) ...
-│ Setting up liblsan0:amd64 (8.3.0-6) ...
-│ Setting up libitm1:amd64 (8.3.0-6) ...
-│ Setting up binutils-x86-64-linux-gnu (2.31.1-16) ...
-│ Setting up libtsan0:amd64 (8.3.0-6) ...
-│ Setting up manpages-dev (4.16-2) ...
-│ Setting up binutils (2.31.1-16) ...
-│ Setting up libgcc-8-dev:amd64 (8.3.0-6) ...
-│ Setting up cpp (4:8.3.0-1) ...
-│ Setting up libc6-dev:amd64 (2.28-10) ...
-│ Setting up libstdc++-8-dev:amd64 (8.3.0-6) ...
-│ Setting up gcc-8 (8.3.0-6) ...
-│ Setting up gcc (4:8.3.0-1) ...
-│ Setting up g++-8 (8.3.0-6) ...
-│ Setting up g++ (4:8.3.0-1) ...
-│ update-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode
-│ Processing triggers for libc-bin (2.28-10) ...
-│ Reading package lists...
-│ Building dependency tree...
-│ Reading state information...
-│ The following additional packages will be installed:
-│   fontconfig fontconfig-config fonts-dejavu-core fonts-liberation libbsd0
-│   libcairo2 libcdt5 libcgraph6 libdatrie1 libexpat1 libfontconfig1
-│   libfreetype6 libfribidi0 libgd3 libglib2.0-0 libglib2.0-data libgraphite2-3
-│   libgts-0.7-5 libgts-bin libgvc6 libgvpr2 libharfbuzz0b libice6 libicu63
-│   libjbig0 libjpeg62-turbo liblab-gamut1 libltdl7 libpango-1.0-0
-│   libpangocairo-1.0-0 libpangoft2-1.0-0 libpathplan4 libpixman-1-0 libpng16-16
-│   libsm6 libthai-data libthai0 libtiff5 libwebp6 libx11-6 libx11-data libxau6
-│   libxaw7 libxcb-render0 libxcb-shm0 libxcb1 libxdmcp6 libxdot4 libxext6
-│   libxml2 libxmu6 libxpm4 libxrender1 libxt6 sensible-utils shared-mime-info
-│   ucf x11-common xdg-user-dirs
-│ Suggested packages:
-│   gsfonts graphviz-doc libgd-tools
-│ The following NEW packages will be installed:
-│   fontconfig fontconfig-config fonts-dejavu-core fonts-liberation graphviz
-│   libbsd0 libcairo2 libcdt5 libcgraph6 libdatrie1 libexpat1 libfontconfig1
-│   libfreetype6 libfribidi0 libgd3 libglib2.0-0 libglib2.0-data libgraphite2-3
-│   libgts-0.7-5 libgts-bin libgvc6 libgvpr2 libharfbuzz0b libice6 libicu63
-│   libjbig0 libjpeg62-turbo liblab-gamut1 libltdl7 libpango-1.0-0
-│   libpangocairo-1.0-0 libpangoft2-1.0-0 libpathplan4 libpixman-1-0 libpng16-16
-│   libsm6 libthai-data libthai0 libtiff5 libwebp6 libx11-6 libx11-data libxau6
-│   libxaw7 libxcb-render0 libxcb-shm0 libxcb1 libxdmcp6 libxdot4 libxext6
-│   libxml2 libxmu6 libxpm4 libxrender1 libxt6 sensible-utils shared-mime-info
-│   ucf x11-common xdg-user-dirs
-│ 0 upgraded, 60 newly installed, 0 to remove and 0 not upgraded.
-│ Need to get 24.9 MB of archives.
-│ After this operation, 84.8 MB of additional disk space will be used.
-│ Get:1 http://deb.debian.org/debian buster/main amd64 sensible-utils all 0.0.12 [15.8 kB]
-│ Get:2 http://deb.debian.org/debian buster/main amd64 ucf all 3.0038+nmu1 [69.0 kB]
-│ Get:3 http://deb.debian.org/debian buster/main amd64 libexpat1 amd64 2.2.6-2+deb10u1 [106 kB]
-│ Get:4 http://deb.debian.org/debian buster/main amd64 libpng16-16 amd64 1.6.36-6 [292 kB]
-│ Get:5 http://deb.debian.org/debian buster/main amd64 libfreetype6 amd64 2.9.1-3+deb10u2 [380 kB]
-│ Get:6 http://deb.debian.org/debian buster/main amd64 fonts-dejavu-core all 2.37-1 [1068 kB]
-│ Get:7 http://deb.debian.org/debian buster/main amd64 fonts-liberation all 1:1.07.4-9 [827 kB]
-│ Get:8 http://deb.debian.org/debian buster/main amd64 fontconfig-config all 2.13.1-2 [280 kB]
-│ Get:9 http://deb.debian.org/debian buster/main amd64 libfontconfig1 amd64 2.13.1-2 [346 kB]
-│ Get:10 http://deb.debian.org/debian buster/main amd64 fontconfig amd64 2.13.1-2 [405 kB]
-│ Get:11 http://deb.debian.org/debian buster/main amd64 libpixman-1-0 amd64 0.36.0-1 [537 kB]
-│ Get:12 http://deb.debian.org/debian buster/main amd64 libxau6 amd64 1:1.0.8-1+b2 [19.9 kB]
-│ Get:13 http://deb.debian.org/debian buster/main amd64 libbsd0 amd64 0.9.1-2 [99.5 kB]
-│ Get:14 http://deb.debian.org/debian buster/main amd64 libxdmcp6 amd64 1:1.1.2-3 [26.3 kB]
-│ Get:15 http://deb.debian.org/debian buster/main amd64 libxcb1 amd64 1.13.1-2 [137 kB]
-│ Get:16 http://deb.debian.org/debian buster/main amd64 libx11-data all 2:1.6.7-1+deb10u1 [294 kB]
-│ Get:17 http://deb.debian.org/debian buster/main amd64 libx11-6 amd64 2:1.6.7-1+deb10u1 [757 kB]
-│ Get:18 http://deb.debian.org/debian buster/main amd64 libxcb-render0 amd64 1.13.1-2 [109 kB]
-│ Get:19 http://deb.debian.org/debian buster/main amd64 libxcb-shm0 amd64 1.13.1-2 [99.2 kB]
-│ Get:20 http://deb.debian.org/debian buster/main amd64 libxext6 amd64 2:1.3.3-1+b2 [52.5 kB]
-│ Get:21 http://deb.debian.org/debian buster/main amd64 libxrender1 amd64 1:0.9.10-1 [33.0 kB]
-│ Get:22 http://deb.debian.org/debian buster/main amd64 libcairo2 amd64 1.16.0-4 [689 kB]
-│ Get:23 http://deb.debian.org/debian buster/main amd64 libcdt5 amd64 2.40.1-6 [60.6 kB]
-│ Get:24 http://deb.debian.org/debian buster/main amd64 libcgraph6 amd64 2.40.1-6 [84.1 kB]
-│ Get:25 http://deb.debian.org/debian buster/main amd64 libjpeg62-turbo amd64 1:1.5.2-2+deb10u1 [133 kB]
-│ Get:26 http://deb.debian.org/debian buster/main amd64 libjbig0 amd64 2.1-3.1+b2 [31.0 kB]
-│ Get:27 http://deb.debian.org/debian buster/main amd64 libwebp6 amd64 0.6.1-2 [263 kB]
-│ Get:28 http://deb.debian.org/debian buster/main amd64 libtiff5 amd64 4.1.0+git191117-2~deb10u1 [271 kB]
-│ Get:29 http://deb.debian.org/debian buster/main amd64 libxpm4 amd64 1:3.5.12-1 [49.1 kB]
-│ Get:30 http://deb.debian.org/debian buster/main amd64 libgd3 amd64 2.2.5-5.2 [136 kB]
-│ Get:31 http://deb.debian.org/debian buster/main amd64 libglib2.0-0 amd64 2.58.3-2+deb10u2 [1258 kB]
-│ Get:32 http://deb.debian.org/debian buster/main amd64 libgts-0.7-5 amd64 0.7.6+darcs121130-4 [158 kB]
-│ Get:33 http://deb.debian.org/debian buster/main amd64 libltdl7 amd64 2.4.6-9 [390 kB]
-│ Get:34 http://deb.debian.org/debian buster/main amd64 libfribidi0 amd64 1.0.5-3.1+deb10u1 [63.7 kB]
-│ Get:35 http://deb.debian.org/debian buster/main amd64 libthai-data all 0.1.28-2 [170 kB]
-│ Get:36 http://deb.debian.org/debian buster/main amd64 libdatrie1 amd64 0.2.12-2 [39.3 kB]
-│ Get:37 http://deb.debian.org/debian buster/main amd64 libthai0 amd64 0.1.28-2 [54.1 kB]
-│ Get:38 http://deb.debian.org/debian buster/main amd64 libpango-1.0-0 amd64 1.42.4-8~deb10u1 [186 kB]
-│ Get:39 http://deb.debian.org/debian buster/main amd64 libgraphite2-3 amd64 1.3.13-7 [80.7 kB]
-│ Get:40 http://deb.debian.org/debian buster/main amd64 libharfbuzz0b amd64 2.3.1-1 [1187 kB]
-│ Get:41 http://deb.debian.org/debian buster/main amd64 libpangoft2-1.0-0 amd64 1.42.4-8~deb10u1 [68.3 kB]
-│ Get:42 http://deb.debian.org/debian buster/main amd64 libpangocairo-1.0-0 amd64 1.42.4-8~deb10u1 [55.7 kB]
-│ Get:43 http://deb.debian.org/debian buster/main amd64 libpathplan4 amd64 2.40.1-6 [63.5 kB]
-│ Get:44 http://deb.debian.org/debian buster/main amd64 libxdot4 amd64 2.40.1-6 [56.9 kB]
-│ Get:45 http://deb.debian.org/debian buster/main amd64 libgvc6 amd64 2.40.1-6 [646 kB]
-│ Get:46 http://deb.debian.org/debian buster/main amd64 libgvpr2 amd64 2.40.1-6 [213 kB]
-│ Get:47 http://deb.debian.org/debian buster/main amd64 x11-common all 1:7.7+19 [251 kB]
-│ Get:48 http://deb.debian.org/debian buster/main amd64 libice6 amd64 2:1.0.9-2 [58.7 kB]
-│ Get:49 http://deb.debian.org/debian buster/main amd64 liblab-gamut1 amd64 2.40.1-6 [220 kB]
-│ Get:50 http://deb.debian.org/debian buster/main amd64 libsm6 amd64 2:1.2.3-1 [35.1 kB]
-│ Get:51 http://deb.debian.org/debian buster/main amd64 libxt6 amd64 1:1.1.5-1+b3 [190 kB]
-│ Get:52 http://deb.debian.org/debian buster/main amd64 libxmu6 amd64 2:1.1.2-2+b3 [60.8 kB]
-│ Get:53 http://deb.debian.org/debian buster/main amd64 libxaw7 amd64 2:1.0.13-1+b2 [201 kB]
-│ Get:54 http://deb.debian.org/debian buster/main amd64 graphviz amd64 2.40.1-6 [594 kB]
-│ Get:55 http://deb.debian.org/debian buster/main amd64 libglib2.0-data all 2.58.3-2+deb10u2 [1110 kB]
-│ Get:56 http://deb.debian.org/debian buster/main amd64 libgts-bin amd64 0.7.6+darcs121130-4 [50.8 kB]
-│ Get:57 http://deb.debian.org/debian buster/main amd64 libicu63 amd64 63.1-6+deb10u1 [8300 kB]
-│ Get:58 http://deb.debian.org/debian buster/main amd64 libxml2 amd64 2.9.4+dfsg1-7+deb10u1 [689 kB]
-│ Get:59 http://deb.debian.org/debian buster/main amd64 shared-mime-info amd64 1.10-1 [766 kB]
-│ Get:60 http://deb.debian.org/debian buster/main amd64 xdg-user-dirs amd64 0.17-2 [53.8 kB]
-│ debconf: delaying package configuration, since apt-utils is not installed
-│ Fetched 24.9 MB in 2s (15.1 MB/s)
-│ Selecting previously unselected package sensible-utils.
-│ (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 12259 files and directories currently installed.)
-│ Preparing to unpack .../00-sensible-utils_0.0.12_all.deb ...
-│ Unpacking sensible-utils (0.0.12) ...
-│ Selecting previously unselected package ucf.
-│ Preparing to unpack .../01-ucf_3.0038+nmu1_all.deb ...
-│ Moving old data out of the way
-│ Unpacking ucf (3.0038+nmu1) ...
-│ Selecting previously unselected package libexpat1:amd64.
-│ Preparing to unpack .../02-libexpat1_2.2.6-2+deb10u1_amd64.deb ...
-│ Unpacking libexpat1:amd64 (2.2.6-2+deb10u1) ...
-│ Selecting previously unselected package libpng16-16:amd64.
-│ Preparing to unpack .../03-libpng16-16_1.6.36-6_amd64.deb ...
-│ Unpacking libpng16-16:amd64 (1.6.36-6) ...
-│ Selecting previously unselected package libfreetype6:amd64.
-│ Preparing to unpack .../04-libfreetype6_2.9.1-3+deb10u2_amd64.deb ...
-│ Unpacking libfreetype6:amd64 (2.9.1-3+deb10u2) ...
-│ Selecting previously unselected package fonts-dejavu-core.
-│ Preparing to unpack .../05-fonts-dejavu-core_2.37-1_all.deb ...
-│ Unpacking fonts-dejavu-core (2.37-1) ...
-│ Selecting previously unselected package fonts-liberation.
-│ Preparing to unpack .../06-fonts-liberation_1%3a1.07.4-9_all.deb ...
-│ Unpacking fonts-liberation (1:1.07.4-9) ...
-│ Selecting previously unselected package fontconfig-config.
-│ Preparing to unpack .../07-fontconfig-config_2.13.1-2_all.deb ...
-│ Unpacking fontconfig-config (2.13.1-2) ...
-│ Selecting previously unselected package libfontconfig1:amd64.
-│ Preparing to unpack .../08-libfontconfig1_2.13.1-2_amd64.deb ...
-│ Unpacking libfontconfig1:amd64 (2.13.1-2) ...
-│ Selecting previously unselected package fontconfig.
-│ Preparing to unpack .../09-fontconfig_2.13.1-2_amd64.deb ...
-│ Unpacking fontconfig (2.13.1-2) ...
-│ Selecting previously unselected package libpixman-1-0:amd64.
-│ Preparing to unpack .../10-libpixman-1-0_0.36.0-1_amd64.deb ...
-│ Unpacking libpixman-1-0:amd64 (0.36.0-1) ...
-│ Selecting previously unselected package libxau6:amd64.
-│ Preparing to unpack .../11-libxau6_1%3a1.0.8-1+b2_amd64.deb ...
-│ Unpacking libxau6:amd64 (1:1.0.8-1+b2) ...
-│ Selecting previously unselected package libbsd0:amd64.
-│ Preparing to unpack .../12-libbsd0_0.9.1-2_amd64.deb ...
-│ Unpacking libbsd0:amd64 (0.9.1-2) ...
-│ Selecting previously unselected package libxdmcp6:amd64.
-│ Preparing to unpack .../13-libxdmcp6_1%3a1.1.2-3_amd64.deb ...
-│ Unpacking libxdmcp6:amd64 (1:1.1.2-3) ...
-│ Selecting previously unselected package libxcb1:amd64.
-│ Preparing to unpack .../14-libxcb1_1.13.1-2_amd64.deb ...
-│ Unpacking libxcb1:amd64 (1.13.1-2) ...
-│ Selecting previously unselected package libx11-data.
-│ Preparing to unpack .../15-libx11-data_2%3a1.6.7-1+deb10u1_all.deb ...
-│ Unpacking libx11-data (2:1.6.7-1+deb10u1) ...
-│ Selecting previously unselected package libx11-6:amd64.
-│ Preparing to unpack .../16-libx11-6_2%3a1.6.7-1+deb10u1_amd64.deb ...
-│ Unpacking libx11-6:amd64 (2:1.6.7-1+deb10u1) ...
-│ Selecting previously unselected package libxcb-render0:amd64.
-│ Preparing to unpack .../17-libxcb-render0_1.13.1-2_amd64.deb ...
-│ Unpacking libxcb-render0:amd64 (1.13.1-2) ...
-│ Selecting previously unselected package libxcb-shm0:amd64.
-│ Preparing to unpack .../18-libxcb-shm0_1.13.1-2_amd64.deb ...
-│ Unpacking libxcb-shm0:amd64 (1.13.1-2) ...
-│ Selecting previously unselected package libxext6:amd64.
-│ Preparing to unpack .../19-libxext6_2%3a1.3.3-1+b2_amd64.deb ...
-│ Unpacking libxext6:amd64 (2:1.3.3-1+b2) ...
-│ Selecting previously unselected package libxrender1:amd64.
-│ Preparing to unpack .../20-libxrender1_1%3a0.9.10-1_amd64.deb ...
-│ Unpacking libxrender1:amd64 (1:0.9.10-1) ...
-│ Selecting previously unselected package libcairo2:amd64.
-│ Preparing to unpack .../21-libcairo2_1.16.0-4_amd64.deb ...
-│ Unpacking libcairo2:amd64 (1.16.0-4) ...
-│ Selecting previously unselected package libcdt5.
-│ Preparing to unpack .../22-libcdt5_2.40.1-6_amd64.deb ...
-│ Unpacking libcdt5 (2.40.1-6) ...
-│ Selecting previously unselected package libcgraph6.
-│ Preparing to unpack .../23-libcgraph6_2.40.1-6_amd64.deb ...
-│ Unpacking libcgraph6 (2.40.1-6) ...
-│ Selecting previously unselected package libjpeg62-turbo:amd64.
-│ Preparing to unpack .../24-libjpeg62-turbo_1%3a1.5.2-2+deb10u1_amd64.deb ...
-│ Unpacking libjpeg62-turbo:amd64 (1:1.5.2-2+deb10u1) ...
-│ Selecting previously unselected package libjbig0:amd64.
-│ Preparing to unpack .../25-libjbig0_2.1-3.1+b2_amd64.deb ...
-│ Unpacking libjbig0:amd64 (2.1-3.1+b2) ...
-│ Selecting previously unselected package libwebp6:amd64.
-│ Preparing to unpack .../26-libwebp6_0.6.1-2_amd64.deb ...
-│ Unpacking libwebp6:amd64 (0.6.1-2) ...
-│ Selecting previously unselected package libtiff5:amd64.
-│ Preparing to unpack .../27-libtiff5_4.1.0+git191117-2~deb10u1_amd64.deb ...
-│ Unpacking libtiff5:amd64 (4.1.0+git191117-2~deb10u1) ...
-│ Selecting previously unselected package libxpm4:amd64.
-│ Preparing to unpack .../28-libxpm4_1%3a3.5.12-1_amd64.deb ...
-│ Unpacking libxpm4:amd64 (1:3.5.12-1) ...
-│ Selecting previously unselected package libgd3:amd64.
-│ Preparing to unpack .../29-libgd3_2.2.5-5.2_amd64.deb ...
-│ Unpacking libgd3:amd64 (2.2.5-5.2) ...
-│ Selecting previously unselected package libglib2.0-0:amd64.
-│ Preparing to unpack .../30-libglib2.0-0_2.58.3-2+deb10u2_amd64.deb ...
-│ Unpacking libglib2.0-0:amd64 (2.58.3-2+deb10u2) ...
-│ Selecting previously unselected package libgts-0.7-5:amd64.
-│ Preparing to unpack .../31-libgts-0.7-5_0.7.6+darcs121130-4_amd64.deb ...
-│ Unpacking libgts-0.7-5:amd64 (0.7.6+darcs121130-4) ...
-│ Selecting previously unselected package libltdl7:amd64.
-│ Preparing to unpack .../32-libltdl7_2.4.6-9_amd64.deb ...
-│ Unpacking libltdl7:amd64 (2.4.6-9) ...
-│ Selecting previously unselected package libfribidi0:amd64.
-│ Preparing to unpack .../33-libfribidi0_1.0.5-3.1+deb10u1_amd64.deb ...
-│ Unpacking libfribidi0:amd64 (1.0.5-3.1+deb10u1) ...
-│ Selecting previously unselected package libthai-data.
-│ Preparing to unpack .../34-libthai-data_0.1.28-2_all.deb ...
-│ Unpacking libthai-data (0.1.28-2) ...
-│ Selecting previously unselected package libdatrie1:amd64.
-│ Preparing to unpack .../35-libdatrie1_0.2.12-2_amd64.deb ...
-│ Unpacking libdatrie1:amd64 (0.2.12-2) ...
-│ Selecting previously unselected package libthai0:amd64.
-│ Preparing to unpack .../36-libthai0_0.1.28-2_amd64.deb ...
-│ Unpacking libthai0:amd64 (0.1.28-2) ...
-│ Selecting previously unselected package libpango-1.0-0:amd64.
-│ Preparing to unpack .../37-libpango-1.0-0_1.42.4-8~deb10u1_amd64.deb ...
-│ Unpacking libpango-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Selecting previously unselected package libgraphite2-3:amd64.
-│ Preparing to unpack .../38-libgraphite2-3_1.3.13-7_amd64.deb ...
-│ Unpacking libgraphite2-3:amd64 (1.3.13-7) ...
-│ Selecting previously unselected package libharfbuzz0b:amd64.
-│ Preparing to unpack .../39-libharfbuzz0b_2.3.1-1_amd64.deb ...
-│ Unpacking libharfbuzz0b:amd64 (2.3.1-1) ...
-│ Selecting previously unselected package libpangoft2-1.0-0:amd64.
-│ Preparing to unpack .../40-libpangoft2-1.0-0_1.42.4-8~deb10u1_amd64.deb ...
-│ Unpacking libpangoft2-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Selecting previously unselected package libpangocairo-1.0-0:amd64.
-│ Preparing to unpack .../41-libpangocairo-1.0-0_1.42.4-8~deb10u1_amd64.deb ...
-│ Unpacking libpangocairo-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Selecting previously unselected package libpathplan4.
-│ Preparing to unpack .../42-libpathplan4_2.40.1-6_amd64.deb ...
-│ Unpacking libpathplan4 (2.40.1-6) ...
-│ Selecting previously unselected package libxdot4.
-│ Preparing to unpack .../43-libxdot4_2.40.1-6_amd64.deb ...
-│ Unpacking libxdot4 (2.40.1-6) ...
-│ Selecting previously unselected package libgvc6.
-│ Preparing to unpack .../44-libgvc6_2.40.1-6_amd64.deb ...
-│ Unpacking libgvc6 (2.40.1-6) ...
-│ Selecting previously unselected package libgvpr2.
-│ Preparing to unpack .../45-libgvpr2_2.40.1-6_amd64.deb ...
-│ Unpacking libgvpr2 (2.40.1-6) ...
-│ Selecting previously unselected package x11-common.
-│ Preparing to unpack .../46-x11-common_1%3a7.7+19_all.deb ...
-│ Unpacking x11-common (1:7.7+19) ...
-│ Selecting previously unselected package libice6:amd64.
-│ Preparing to unpack .../47-libice6_2%3a1.0.9-2_amd64.deb ...
-│ Unpacking libice6:amd64 (2:1.0.9-2) ...
-│ Selecting previously unselected package liblab-gamut1.
-│ Preparing to unpack .../48-liblab-gamut1_2.40.1-6_amd64.deb ...
-│ Unpacking liblab-gamut1 (2.40.1-6) ...
-│ Selecting previously unselected package libsm6:amd64.
-│ Preparing to unpack .../49-libsm6_2%3a1.2.3-1_amd64.deb ...
-│ Unpacking libsm6:amd64 (2:1.2.3-1) ...
-│ Selecting previously unselected package libxt6:amd64.
-│ Preparing to unpack .../50-libxt6_1%3a1.1.5-1+b3_amd64.deb ...
-│ Unpacking libxt6:amd64 (1:1.1.5-1+b3) ...
-│ Selecting previously unselected package libxmu6:amd64.
-│ Preparing to unpack .../51-libxmu6_2%3a1.1.2-2+b3_amd64.deb ...
-│ Unpacking libxmu6:amd64 (2:1.1.2-2+b3) ...
-│ Selecting previously unselected package libxaw7:amd64.
-│ Preparing to unpack .../52-libxaw7_2%3a1.0.13-1+b2_amd64.deb ...
-│ Unpacking libxaw7:amd64 (2:1.0.13-1+b2) ...
-│ Selecting previously unselected package graphviz.
-│ Preparing to unpack .../53-graphviz_2.40.1-6_amd64.deb ...
-│ Unpacking graphviz (2.40.1-6) ...
-│ Selecting previously unselected package libglib2.0-data.
-│ Preparing to unpack .../54-libglib2.0-data_2.58.3-2+deb10u2_all.deb ...
-│ Unpacking libglib2.0-data (2.58.3-2+deb10u2) ...
-│ Selecting previously unselected package libgts-bin.
-│ Preparing to unpack .../55-libgts-bin_0.7.6+darcs121130-4_amd64.deb ...
-│ Unpacking libgts-bin (0.7.6+darcs121130-4) ...
-│ Selecting previously unselected package libicu63:amd64.
-│ Preparing to unpack .../56-libicu63_63.1-6+deb10u1_amd64.deb ...
-│ Unpacking libicu63:amd64 (63.1-6+deb10u1) ...
-│ Selecting previously unselected package libxml2:amd64.
-│ Preparing to unpack .../57-libxml2_2.9.4+dfsg1-7+deb10u1_amd64.deb ...
-│ Unpacking libxml2:amd64 (2.9.4+dfsg1-7+deb10u1) ...
-│ Selecting previously unselected package shared-mime-info.
-│ Preparing to unpack .../58-shared-mime-info_1.10-1_amd64.deb ...
-│ Unpacking shared-mime-info (1.10-1) ...
-│ Selecting previously unselected package xdg-user-dirs.
-│ Preparing to unpack .../59-xdg-user-dirs_0.17-2_amd64.deb ...
-│ Unpacking xdg-user-dirs (0.17-2) ...
-│ Setting up libexpat1:amd64 (2.2.6-2+deb10u1) ...
-│ Setting up libxdot4 (2.40.1-6) ...
-│ Setting up libgraphite2-3:amd64 (1.3.13-7) ...
-│ Setting up libpixman-1-0:amd64 (0.36.0-1) ...
-│ Setting up libxau6:amd64 (1:1.0.8-1+b2) ...
-│ Setting up libdatrie1:amd64 (0.2.12-2) ...
-│ Setting up xdg-user-dirs (0.17-2) ...
-│ Setting up libglib2.0-0:amd64 (2.58.3-2+deb10u2) ...
-│ No schema files found: doing nothing.
-│ Setting up liblab-gamut1 (2.40.1-6) ...
-│ Setting up x11-common (1:7.7+19) ...
-│ debconf: unable to initialize frontend: Dialog
-│ debconf: (TERM is not set, so the dialog frontend is not usable.)
-│ debconf: falling back to frontend: Readline
-│ debconf: unable to initialize frontend: Readline
-│ debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.28.1 /usr/local/share/perl/5.28.1 /usr/lib/x86_64-linux-gnu/perl5/5.28 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl/5.28 /usr/share/perl/5.28 /usr/local/lib/site_perl /usr/lib/x86_64-linux-gnu/perl-base) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7.)
-│ debconf: falling back to frontend: Teletype
-│ update-rc.d: warning: start and stop actions are no longer supported; falling back to defaults
-│ invoke-rc.d: could not determine current runlevel
-│ invoke-rc.d: policy-rc.d denied execution of start.
-│ Setting up libjbig0:amd64 (2.1-3.1+b2) ...
-│ Setting up libicu63:amd64 (63.1-6+deb10u1) ...
-│ Setting up libgts-0.7-5:amd64 (0.7.6+darcs121130-4) ...
-│ Setting up libglib2.0-data (2.58.3-2+deb10u2) ...
-│ Setting up libjpeg62-turbo:amd64 (1:1.5.2-2+deb10u1) ...
-│ Setting up libx11-data (2:1.6.7-1+deb10u1) ...
-│ Setting up libpathplan4 (2.40.1-6) ...
-│ Setting up libfribidi0:amd64 (1.0.5-3.1+deb10u1) ...
-│ Setting up libpng16-16:amd64 (1.6.36-6) ...
-│ Setting up libwebp6:amd64 (0.6.1-2) ...
-│ Setting up fonts-dejavu-core (2.37-1) ...
-│ Setting up libltdl7:amd64 (2.4.6-9) ...
-│ Setting up sensible-utils (0.0.12) ...
-│ Setting up fonts-liberation (1:1.07.4-9) ...
-│ Setting up libthai-data (0.1.28-2) ...
-│ Setting up libcdt5 (2.40.1-6) ...
-│ Setting up libcgraph6 (2.40.1-6) ...
-│ Setting up libtiff5:amd64 (4.1.0+git191117-2~deb10u1) ...
-│ Setting up libbsd0:amd64 (0.9.1-2) ...
-│ Setting up libxml2:amd64 (2.9.4+dfsg1-7+deb10u1) ...
-│ Setting up libgts-bin (0.7.6+darcs121130-4) ...
-│ Setting up libice6:amd64 (2:1.0.9-2) ...
-│ Setting up libxdmcp6:amd64 (1:1.1.2-3) ...
-│ Setting up libxcb1:amd64 (1.13.1-2) ...
-│ Setting up libxcb-render0:amd64 (1.13.1-2) ...
-│ Setting up libxcb-shm0:amd64 (1.13.1-2) ...
-│ Setting up libthai0:amd64 (0.1.28-2) ...
-│ Setting up libfreetype6:amd64 (2.9.1-3+deb10u2) ...
-│ Setting up shared-mime-info (1.10-1) ...
-│ Setting up ucf (3.0038+nmu1) ...
-│ debconf: unable to initialize frontend: Dialog
-│ debconf: (TERM is not set, so the dialog frontend is not usable.)
-│ debconf: falling back to frontend: Readline
-│ debconf: unable to initialize frontend: Readline
-│ debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.28.1 /usr/local/share/perl/5.28.1 /usr/lib/x86_64-linux-gnu/perl5/5.28 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl/5.28 /usr/share/perl/5.28 /usr/local/lib/site_perl /usr/lib/x86_64-linux-gnu/perl-base) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7.)
-│ debconf: falling back to frontend: Teletype
-│ Setting up libgvpr2 (2.40.1-6) ...
-│ Setting up libx11-6:amd64 (2:1.6.7-1+deb10u1) ...
-│ Setting up libharfbuzz0b:amd64 (2.3.1-1) ...
-│ Setting up libsm6:amd64 (2:1.2.3-1) ...
-│ Setting up libxpm4:amd64 (1:3.5.12-1) ...
-│ Setting up libxrender1:amd64 (1:0.9.10-1) ...
-│ Setting up fontconfig-config (2.13.1-2) ...
-│ debconf: unable to initialize frontend: Dialog
-│ debconf: (TERM is not set, so the dialog frontend is not usable.)
-│ debconf: falling back to frontend: Readline
-│ debconf: unable to initialize frontend: Readline
-│ debconf: (Can't locate Term/ReadLine.pm in @INC (you may need to install the Term::ReadLine module) (@INC contains: /etc/perl /usr/local/lib/x86_64-linux-gnu/perl/5.28.1 /usr/local/share/perl/5.28.1 /usr/lib/x86_64-linux-gnu/perl5/5.28 /usr/share/perl5 /usr/lib/x86_64-linux-gnu/perl/5.28 /usr/share/perl/5.28 /usr/local/lib/site_perl /usr/lib/x86_64-linux-gnu/perl-base) at /usr/share/perl5/Debconf/FrontEnd/Readline.pm line 7.)
-│ debconf: falling back to frontend: Teletype
-│ Setting up libxext6:amd64 (2:1.3.3-1+b2) ...
-│ Setting up libxt6:amd64 (1:1.1.5-1+b3) ...
-│ Setting up libfontconfig1:amd64 (2.13.1-2) ...
-│ Setting up fontconfig (2.13.1-2) ...
-│ Regenerating fonts cache... done.
-│ Setting up libxmu6:amd64 (2:1.1.2-2+b3) ...
-│ Setting up libpango-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Setting up libxaw7:amd64 (2:1.0.13-1+b2) ...
-│ Setting up libcairo2:amd64 (1.16.0-4) ...
-│ Setting up libgd3:amd64 (2.2.5-5.2) ...
-│ Setting up libpangoft2-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Setting up libpangocairo-1.0-0:amd64 (1.42.4-8~deb10u1) ...
-│ Setting up libgvc6 (2.40.1-6) ...
-│ Setting up graphviz (2.40.1-6) ...
-│ Processing triggers for libc-bin (2.28-10) ...
-│ Reading package lists...
-│ Building dependency tree...
-│ Reading state information...
-│ The following additional packages will be installed:
-│   bzip2 dh-python file libexpat1-dev libmagic-mgc libmagic1 libmpdec2
-│   libpython3-dev libpython3-stdlib libpython3.7 libpython3.7-dev
-│   libpython3.7-minimal libpython3.7-stdlib libreadline7 libsqlite3-0
-│   mime-support python3 python3-distutils python3-lib2to3 python3-minimal
-│   python3.7 python3.7-dev python3.7-minimal readline-common xz-utils
-│ Suggested packages:
-│   bzip2-doc libdpkg-perl dpkg-dev python3-doc python3-tk python3-venv
-│   python3.7-venv python3.7-doc binfmt-support readline-doc
-│ The following NEW packages will be installed:
-│   bzip2 dh-python file libexpat1-dev libmagic-mgc libmagic1 libmpdec2
-│   libpython3-dev libpython3-stdlib libpython3.7 libpython3.7-dev
-│   libpython3.7-minimal libpython3.7-stdlib libreadline7 libsqlite3-0
-│   mime-support python3 python3-dev python3-distutils python3-lib2to3
-│   python3-minimal python3.7 python3.7-dev python3.7-minimal readline-common
-│   xz-utils
-│ 0 upgraded, 26 newly installed, 0 to remove and 0 not upgraded.
-│ Need to get 57.0 MB of archives.
-│ After this operation, 124 MB of additional disk space will be used.
-│ Get:1 http://deb.debian.org/debian buster/main amd64 libpython3.7-minimal amd64 3.7.3-2+deb10u2 [589 kB]
-│ Get:2 http://deb.debian.org/debian buster/main amd64 python3.7-minimal amd64 3.7.3-2+deb10u2 [1731 kB]
-│ Get:3 http://deb.debian.org/debian buster/main amd64 python3-minimal amd64 3.7.3-1 [36.6 kB]
-│ Get:4 http://deb.debian.org/debian buster/main amd64 mime-support all 3.62 [37.2 kB]
-│ Get:5 http://deb.debian.org/debian buster/main amd64 libmpdec2 amd64 2.4.2-2 [87.2 kB]
-│ Get:6 http://deb.debian.org/debian buster/main amd64 readline-common all 7.0-5 [70.6 kB]
-│ Get:7 http://deb.debian.org/debian buster/main amd64 libreadline7 amd64 7.0-5 [151 kB]
-│ Get:8 http://deb.debian.org/debian buster/main amd64 libsqlite3-0 amd64 3.27.2-3+deb10u1 [641 kB]
-│ Get:9 http://deb.debian.org/debian buster/main amd64 libpython3.7-stdlib amd64 3.7.3-2+deb10u2 [1732 kB]
-│ Get:10 http://deb.debian.org/debian buster/main amd64 python3.7 amd64 3.7.3-2+deb10u2 [330 kB]
-│ Get:11 http://deb.debian.org/debian buster/main amd64 libpython3-stdlib amd64 3.7.3-1 [20.0 kB]
-│ Get:12 http://deb.debian.org/debian buster/main amd64 python3 amd64 3.7.3-1 [61.5 kB]
-│ Get:13 http://deb.debian.org/debian buster/main amd64 bzip2 amd64 1.0.6-9.2~deb10u1 [48.4 kB]
-│ Get:14 http://deb.debian.org/debian buster/main amd64 libmagic-mgc amd64 1:5.35-4+deb10u1 [242 kB]
-│ Get:15 http://deb.debian.org/debian buster/main amd64 libmagic1 amd64 1:5.35-4+deb10u1 [117 kB]
-│ Get:16 http://deb.debian.org/debian buster/main amd64 file amd64 1:5.35-4+deb10u1 [66.4 kB]
-│ Get:17 http://deb.debian.org/debian buster/main amd64 xz-utils amd64 5.2.4-1 [183 kB]
-│ Get:18 http://deb.debian.org/debian buster/main amd64 python3-lib2to3 all 3.7.3-1 [76.7 kB]
-│ Get:19 http://deb.debian.org/debian buster/main amd64 python3-distutils all 3.7.3-1 [142 kB]
-│ Get:20 http://deb.debian.org/debian buster/main amd64 dh-python all 3.20190308 [99.3 kB]
-│ Get:21 http://deb.debian.org/debian buster/main amd64 libexpat1-dev amd64 2.2.6-2+deb10u1 [153 kB]
-│ Get:22 http://deb.debian.org/debian buster/main amd64 libpython3.7 amd64 3.7.3-2+deb10u2 [1498 kB]
-│ Get:23 http://deb.debian.org/debian buster/main amd64 libpython3.7-dev amd64 3.7.3-2+deb10u2 [48.4 MB]
-│ Get:24 http://deb.debian.org/debian buster/main amd64 libpython3-dev amd64 3.7.3-1 [20.1 kB]
-│ Get:25 http://deb.debian.org/debian buster/main amd64 python3.7-dev amd64 3.7.3-2+deb10u2 [510 kB]
-│ Get:26 http://deb.debian.org/debian buster/main amd64 python3-dev amd64 3.7.3-1 [1264 B]
-│ debconf: delaying package configuration, since apt-utils is not installed
-│ Fetched 57.0 MB in 6s (9045 kB/s)
-│ Selecting previously unselected package libpython3.7-minimal:amd64.
-│ (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 13581 files and directories currently installed.)
-│ Preparing to unpack .../libpython3.7-minimal_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking libpython3.7-minimal:amd64 (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package python3.7-minimal.
-│ Preparing to unpack .../python3.7-minimal_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking python3.7-minimal (3.7.3-2+deb10u2) ...
-│ Setting up libpython3.7-minimal:amd64 (3.7.3-2+deb10u2) ...
-│ Setting up python3.7-minimal (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package python3-minimal.
-│ (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 13822 files and directories currently installed.)
-│ Preparing to unpack .../0-python3-minimal_3.7.3-1_amd64.deb ...
-│ Unpacking python3-minimal (3.7.3-1) ...
-│ Selecting previously unselected package mime-support.
-│ Preparing to unpack .../1-mime-support_3.62_all.deb ...
-│ Unpacking mime-support (3.62) ...
-│ Selecting previously unselected package libmpdec2:amd64.
-│ Preparing to unpack .../2-libmpdec2_2.4.2-2_amd64.deb ...
-│ Unpacking libmpdec2:amd64 (2.4.2-2) ...
-│ Selecting previously unselected package readline-common.
-│ Preparing to unpack .../3-readline-common_7.0-5_all.deb ...
-│ Unpacking readline-common (7.0-5) ...
-│ Selecting previously unselected package libreadline7:amd64.
-│ Preparing to unpack .../4-libreadline7_7.0-5_amd64.deb ...
-│ Unpacking libreadline7:amd64 (7.0-5) ...
-│ Selecting previously unselected package libsqlite3-0:amd64.
-│ Preparing to unpack .../5-libsqlite3-0_3.27.2-3+deb10u1_amd64.deb ...
-│ Unpacking libsqlite3-0:amd64 (3.27.2-3+deb10u1) ...
-│ Selecting previously unselected package libpython3.7-stdlib:amd64.
-│ Preparing to unpack .../6-libpython3.7-stdlib_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking libpython3.7-stdlib:amd64 (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package python3.7.
-│ Preparing to unpack .../7-python3.7_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking python3.7 (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package libpython3-stdlib:amd64.
-│ Preparing to unpack .../8-libpython3-stdlib_3.7.3-1_amd64.deb ...
-│ Unpacking libpython3-stdlib:amd64 (3.7.3-1) ...
-│ Setting up python3-minimal (3.7.3-1) ...
-│ Selecting previously unselected package python3.
-│ (Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 14291 files and directories currently installed.)
-│ Preparing to unpack .../00-python3_3.7.3-1_amd64.deb ...
-│ Unpacking python3 (3.7.3-1) ...
-│ Selecting previously unselected package bzip2.
-│ Preparing to unpack .../01-bzip2_1.0.6-9.2~deb10u1_amd64.deb ...
-│ Unpacking bzip2 (1.0.6-9.2~deb10u1) ...
-│ Selecting previously unselected package libmagic-mgc.
-│ Preparing to unpack .../02-libmagic-mgc_1%3a5.35-4+deb10u1_amd64.deb ...
-│ Unpacking libmagic-mgc (1:5.35-4+deb10u1) ...
-│ Selecting previously unselected package libmagic1:amd64.
-│ Preparing to unpack .../03-libmagic1_1%3a5.35-4+deb10u1_amd64.deb ...
-│ Unpacking libmagic1:amd64 (1:5.35-4+deb10u1) ...
-│ Selecting previously unselected package file.
-│ Preparing to unpack .../04-file_1%3a5.35-4+deb10u1_amd64.deb ...
-│ Unpacking file (1:5.35-4+deb10u1) ...
-│ Selecting previously unselected package xz-utils.
-│ Preparing to unpack .../05-xz-utils_5.2.4-1_amd64.deb ...
-│ Unpacking xz-utils (5.2.4-1) ...
-│ Selecting previously unselected package python3-lib2to3.
-│ Preparing to unpack .../06-python3-lib2to3_3.7.3-1_all.deb ...
-│ Unpacking python3-lib2to3 (3.7.3-1) ...
-│ Selecting previously unselected package python3-distutils.
-│ Preparing to unpack .../07-python3-distutils_3.7.3-1_all.deb ...
-│ Unpacking python3-distutils (3.7.3-1) ...
-│ Selecting previously unselected package dh-python.
-│ Preparing to unpack .../08-dh-python_3.20190308_all.deb ...
-│ Unpacking dh-python (3.20190308) ...
-│ Selecting previously unselected package libexpat1-dev:amd64.
-│ Preparing to unpack .../09-libexpat1-dev_2.2.6-2+deb10u1_amd64.deb ...
-│ Unpacking libexpat1-dev:amd64 (2.2.6-2+deb10u1) ...
-│ Selecting previously unselected package libpython3.7:amd64.
-│ Preparing to unpack .../10-libpython3.7_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking libpython3.7:amd64 (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package libpython3.7-dev:amd64.
-│ Preparing to unpack .../11-libpython3.7-dev_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking libpython3.7-dev:amd64 (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package libpython3-dev:amd64.
-│ Preparing to unpack .../12-libpython3-dev_3.7.3-1_amd64.deb ...
-│ Unpacking libpython3-dev:amd64 (3.7.3-1) ...
-│ Selecting previously unselected package python3.7-dev.
-│ Preparing to unpack .../13-python3.7-dev_3.7.3-2+deb10u2_amd64.deb ...
-│ Unpacking python3.7-dev (3.7.3-2+deb10u2) ...
-│ Selecting previously unselected package python3-dev.
-│ Preparing to unpack .../14-python3-dev_3.7.3-1_amd64.deb ...
-│ Unpacking python3-dev (3.7.3-1) ...
-│ Setting up mime-support (3.62) ...
-│ Setting up libmagic-mgc (1:5.35-4+deb10u1) ...
-│ Setting up libsqlite3-0:amd64 (3.27.2-3+deb10u1) ...
-│ Setting up libmagic1:amd64 (1:5.35-4+deb10u1) ...
-│ Setting up file (1:5.35-4+deb10u1) ...
-│ Setting up bzip2 (1.0.6-9.2~deb10u1) ...
-│ Setting up libexpat1-dev:amd64 (2.2.6-2+deb10u1) ...
-│ Setting up xz-utils (5.2.4-1) ...
-│ update-alternatives: using /usr/bin/xz to provide /usr/bin/lzma (lzma) in auto mode
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzma.1.gz because associated file /usr/share/man/man1/xz.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/unlzma.1.gz because associated file /usr/share/man/man1/unxz.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzcat.1.gz because associated file /usr/share/man/man1/xzcat.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzmore.1.gz because associated file /usr/share/man/man1/xzmore.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzless.1.gz because associated file /usr/share/man/man1/xzless.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzdiff.1.gz because associated file /usr/share/man/man1/xzdiff.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzcmp.1.gz because associated file /usr/share/man/man1/xzcmp.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzgrep.1.gz because associated file /usr/share/man/man1/xzgrep.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzegrep.1.gz because associated file /usr/share/man/man1/xzegrep.1.gz (of link group lzma) doesn't exist
-│ update-alternatives: warning: skip creation of /usr/share/man/man1/lzfgrep.1.gz because associated file /usr/share/man/man1/xzfgrep.1.gz (of link group lzma) doesn't exist
-│ Setting up libmpdec2:amd64 (2.4.2-2) ...
-│ Setting up readline-common (7.0-5) ...
-│ Setting up libreadline7:amd64 (7.0-5) ...
-│ Setting up libpython3.7-stdlib:amd64 (3.7.3-2+deb10u2) ...
-│ Setting up libpython3.7:amd64 (3.7.3-2+deb10u2) ...
-│ Setting up libpython3.7-dev:amd64 (3.7.3-2+deb10u2) ...
-│ Setting up libpython3-stdlib:amd64 (3.7.3-1) ...
-│ Setting up python3.7 (3.7.3-2+deb10u2) ...
-│ Setting up libpython3-dev:amd64 (3.7.3-1) ...
-│ Setting up python3 (3.7.3-1) ...
-│ running python rtupdate hooks for python3.7...
-│ running python post-rtupdate hooks for python3.7...
-│ Setting up python3.7-dev (3.7.3-2+deb10u2) ...
-│ Setting up python3-lib2to3 (3.7.3-1) ...
-│ Setting up python3-distutils (3.7.3-1) ...
-│ Setting up dh-python (3.20190308) ...
-│ Setting up python3-dev (3.7.3-1) ...
-│ Processing triggers for libc-bin (2.28-10) ...
-│ Collecting ipython
-│   Downloading ipython-7.16.1-py3-none-any.whl (785 kB)
-│ Requirement already satisfied: setuptools>=18.5 in /root/.julia/conda/3/lib/python3.6/site-packages (from ipython) (51.1.2.post20210112)
-│ Collecting jedi>=0.10
-│   Downloading jedi-0.18.0-py2.py3-none-any.whl (1.4 MB)
-│ Collecting parso<0.9.0,>=0.8.0
-│   Downloading parso-0.8.1-py2.py3-none-any.whl (93 kB)
-│ Collecting prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0
-│   Downloading prompt_toolkit-3.0.10-py3-none-any.whl (355 kB)
-│ Collecting traitlets>=4.2
-│   Downloading traitlets-4.3.3-py2.py3-none-any.whl (75 kB)
-│ Requirement already satisfied: six in /root/.julia/conda/3/lib/python3.6/site-packages (from traitlets>=4.2->ipython) (1.15.0)
-│ Collecting keras
-│   Downloading Keras-2.4.3-py2.py3-none-any.whl (36 kB)
-│ Requirement already satisfied: numpy>=1.9.1 in /root/.julia/conda/3/lib/python3.6/site-packages (from keras) (1.19.2)
-│ Collecting scipy>=0.14
-│   Downloading scipy-1.5.4-cp36-cp36m-manylinux1_x86_64.whl (25.9 MB)
-│ Collecting lightgbm
-│   Downloading lightgbm-3.1.1-py2.py3-none-manylinux1_x86_64.whl (1.8 MB)
-│ Requirement already satisfied: wheel in /root/.julia/conda/3/lib/python3.6/site-packages (from lightgbm) (0.36.2)
-│ Collecting scikit-learn!=0.22.0
-│   Downloading scikit_learn-0.24.0-cp36-cp36m-manylinux2010_x86_64.whl (22.2 MB)
-│ Collecting joblib>=0.11
-│   Downloading joblib-1.0.0-py3-none-any.whl (302 kB)
-│ Collecting threadpoolctl>=2.0.0
-│   Downloading threadpoolctl-2.1.0-py3-none-any.whl (12 kB)
-│ Collecting matplotlib
-│   Downloading matplotlib-3.3.3-cp36-cp36m-manylinux1_x86_64.whl (11.6 MB)
-│ Collecting cycler>=0.10
-│   Downloading cycler-0.10.0-py2.py3-none-any.whl (6.5 kB)
-│ Collecting kiwisolver>=1.0.1
-│   Downloading kiwisolver-1.3.1-cp36-cp36m-manylinux1_x86_64.whl (1.1 MB)
-│ Collecting pillow>=6.2.0
-│   Downloading Pillow-8.1.0-cp36-cp36m-manylinux1_x86_64.whl (2.2 MB)
-│ Collecting pyparsing!=2.0.4,!=2.1.2,!=2.1.6,>=2.0.3
-│   Downloading pyparsing-2.4.7-py2.py3-none-any.whl (67 kB)
-│ Collecting python-dateutil>=2.1
-│   Using cached python_dateutil-2.8.1-py2.py3-none-any.whl (227 kB)
-│ Collecting pandas
-│   Downloading pandas-1.1.5-cp36-cp36m-manylinux1_x86_64.whl (9.5 MB)
-│ Collecting pytz>=2017.2
-│   Using cached pytz-2020.5-py2.py3-none-any.whl (510 kB)
-│ Collecting pdpbox
-│   Downloading PDPbox-0.2.0.tar.gz (57.7 MB)
-│ Collecting PyPDF2
-│   Downloading PyPDF2-1.26.0.tar.gz (77 kB)
-│ Collecting shap
-│   Downloading shap-0.37.0.tar.gz (326 kB)
-│ Requirement already satisfied: tqdm>4.25.0 in /root/.julia/conda/3/lib/python3.6/site-packages (from shap) (4.55.1)
-│ Collecting slicer==0.0.3
-│   Downloading slicer-0.0.3-py3-none-any.whl (11 kB)
-│ Collecting sklearn
-│   Downloading sklearn-0.0.tar.gz (1.1 kB)
-│ Collecting tzlocal
-│   Downloading tzlocal-2.1-py2.py3-none-any.whl (16 kB)
-│ Collecting unidecode
-│   Downloading Unidecode-1.1.2-py2.py3-none-any.whl (239 kB)
-│ Collecting backcall
-│   Downloading backcall-0.2.0-py2.py3-none-any.whl (11 kB)
-│ Collecting decorator
-│   Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
-│ Collecting h5py
-│   Downloading h5py-3.1.0-cp36-cp36m-manylinux1_x86_64.whl (4.0 MB)
-│ Collecting cached-property
-│   Downloading cached_property-1.5.2-py2.py3-none-any.whl (7.6 kB)
-│ Collecting ipython-genutils
-│   Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
-│ Collecting numba
-│   Downloading numba-0.52.0-cp36-cp36m-manylinux2014_x86_64.whl (3.1 MB)
-│ Collecting llvmlite<0.36,>=0.35.0
-│   Downloading llvmlite-0.35.0-cp36-cp36m-manylinux2010_x86_64.whl (25.3 MB)
-│ Collecting pexpect
-│   Downloading pexpect-4.8.0-py2.py3-none-any.whl (59 kB)
-│ Collecting ptyprocess>=0.5
-│   Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
-│ Collecting pickleshare
-│   Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
-│ Collecting psutil
-│   Downloading psutil-5.8.0-cp36-cp36m-manylinux2010_x86_64.whl (291 kB)
-│ Collecting pygments
-│   Downloading Pygments-2.7.4-py3-none-any.whl (950 kB)
-│ Collecting pyyaml
-│   Downloading PyYAML-5.3.1.tar.gz (269 kB)
-│ Collecting wcwidth
-│   Downloading wcwidth-0.2.5-py2.py3-none-any.whl (30 kB)
-│ Building wheels for collected packages: pdpbox, PyPDF2, shap, sklearn, pyyaml
-│   Building wheel for pdpbox (setup.py): started
-│   Building wheel for pdpbox (setup.py): finished with status 'done'
-│   Created wheel for pdpbox: filename=PDPbox-0.2.0-py3-none-any.whl size=57690721 sha256=0c73c006be7984cf984063fe8ef3009f81068efe9e80281b713e951befce3990
-│   Stored in directory: /root/.cache/pip/wheels/23/d4/d0/7c7a2adaab2fa7c7108e86c0eb7272fa8e2cd0b6b6732d2e15
-│   Building wheel for PyPDF2 (setup.py): started
-│   Building wheel for PyPDF2 (setup.py): finished with status 'done'
-│   Created wheel for PyPDF2: filename=PyPDF2-1.26.0-py3-none-any.whl size=61085 sha256=4e17617ec7bf5cb9828cc4659a1a9cf44b53bb5d6d278db0aa89d422c6d0bc32
-│   Stored in directory: /root/.cache/pip/wheels/97/28/4b/142b7d8c98eeeb73534b9c5b6558ddd3bab3c2c8192aa7ab30
-│   Building wheel for shap (setup.py): started
-│   Building wheel for shap (setup.py): finished with status 'done'
-│   Created wheel for shap: filename=shap-0.37.0-cp36-cp36m-linux_x86_64.whl size=520860 sha256=828c21856a49c7a6d8a9ed2d55c440052dba62a73bb38d90fdea1932350b75dd
-│   Stored in directory: /root/.cache/pip/wheels/9f/f0/81/55d1fce3ccceacb520abc45e88f3d2de2959cd079f712b5f85
-│   Building wheel for sklearn (setup.py): started
-│   Building wheel for sklearn (setup.py): finished with status 'done'
-│   Created wheel for sklearn: filename=sklearn-0.0-py2.py3-none-any.whl size=1316 sha256=49da8c3bd0fe1b1f45e2eec8839c1f2bf4076c4197a334f839145b58d684646a
-│   Stored in directory: /root/.cache/pip/wheels/23/9d/42/5ec745cbbb17517000a53cecc49d6a865450d1f5cb16dc8a9c
-│   Building wheel for pyyaml (setup.py): started
-│   Building wheel for pyyaml (setup.py): finished with status 'done'
-│   Created wheel for pyyaml: filename=PyYAML-5.3.1-cp36-cp36m-linux_x86_64.whl size=44621 sha256=ef8142bbef45f3c29566b3f820e33abe4286f73658d03a7cbc906c3dae361b54
-│   Stored in directory: /root/.cache/pip/wheels/e5/9d/ad/2ee53cf262cba1ffd8afe1487eef788ea3f260b7e6232a80fc
-│ Successfully built pdpbox PyPDF2 shap sklearn pyyaml
-│ Installing collected packages: wcwidth, threadpoolctl, scipy, pytz, python-dateutil, pyparsing, ptyprocess, pillow, parso, llvmlite, kiwisolver, joblib, ipython-genutils, decorator, cycler, cached-property, traitlets, slicer, scikit-learn, pyyaml, pygments, psutil, prompt-toolkit, pickleshare, pexpect, pandas, numba, matplotlib, jedi, h5py, backcall, unidecode, tzlocal, sklearn, shap, PyPDF2, pdpbox, lightgbm, keras, ipython
-│   WARNING: The script pygmentize is installed in '/root/.local/bin' which is not on PATH.
-│   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
-│   WARNING: The script unidecode is installed in '/root/.local/bin' which is not on PATH.
-│   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
-│   WARNING: The scripts iptest, iptest3, ipython and ipython3 are installed in '/root/.local/bin' which is not on PATH.
-│   Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
-│ Successfully installed PyPDF2-1.26.0 backcall-0.2.0 cached-property-1.5.2 cycler-0.10.0 decorator-4.4.2 h5py-3.1.0 ipython-7.16.1 ipython-genutils-0.2.0 jedi-0.18.0 joblib-1.0.0 keras-2.4.3 kiwisolver-1.3.1 lightgbm-3.1.1 llvmlite-0.35.0 matplotlib-3.3.3 numba-0.52.0 pandas-1.1.5 parso-0.8.1 pdpbox-0.2.0 pexpect-4.8.0 pickleshare-0.7.5 pillow-8.1.0 prompt-toolkit-3.0.10 psutil-5.8.0 ptyprocess-0.7.0 pygments-2.7.4 pyparsing-2.4.7 python-dateutil-2.8.1 pytz-2020.5 pyyaml-5.3.1 scikit-learn-0.24.0 scipy-1.5.4 shap-0.37.0 sklearn-0.0 slicer-0.0.3 threadpoolctl-2.1.0 traitlets-4.3.3 tzlocal-2.1 unidecode-1.1.2 wcwidth-0.2.5
-│ Collecting git+https://github.com/AStupidBear/Skater.git
-│   Cloning https://github.com/AStupidBear/Skater.git to /tmp/pip-req-build-7t8ilhlf
-│   ERROR: Error [Errno 2] No such file or directory: 'git': 'git' while executing command git clone -q https://github.com/AStupidBear/Skater.git /tmp/pip-req-build-7t8ilhlf
-│ ERROR: Cannot find command 'git' - do you have 'git' installed and in your PATH?
-│ [ Info: Running `conda install -y python=3.6` in root environment
-│    Building Conda ─→ `~/.julia/packages/Conda/x5ml4/deps/build.log`
-│    Building PyCall → `~/.julia/packages/PyCall/tqyST/deps/build.log`
-│ ERROR: LoadError: failed process: Process(`/root/.julia/conda/3/bin/python -m pip install git+https://github.com/AStupidBear/Skater.git`, ProcessExited(1)) [1]
-│ 
-│ Stacktrace:
-│  [1] pipeline_error at ./process.jl:525 [inlined]
-│  [2] run(::Cmd; wait::Bool) at ./process.jl:440
-│  [3] run(::Cmd) at ./process.jl:438
-│  [4] top-level scope at /root/.julia/packages/MLInterpret/dR26R/deps/build.jl:36
-│  [5] include(::String) at ./client.jl:457
-│  [6] top-level scope at none:5
-│ in expression starting at /root/.julia/packages/MLInterpret/dR26R/deps/build.jl:36
-│ Installing dependency g++ via `apt-get install g++`:
-│ Installing dependency graphviz via `apt-get install graphviz`:
-│ Installing dependency python3-dev via `apt-get install python3-dev`:
-└ @ Pkg.Operations /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:949
-WARNING: Method definition getindex(PyCall.PyObject, Union{AbstractString, Symbol}) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/PyCall.jl:337 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:45.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Union{AbstractString, Symbol}) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/PyCall.jl:346 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:46.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:48.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:49.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer...) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:50.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:51.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:52.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer...) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:53.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition jlwrap_iterator(Any) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/pyiterator.jl:137 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:55.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition jlwrap_iterator(Any) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/pyiterator.jl:137 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:55.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:51.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:52.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Union{AbstractString, Symbol}) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/PyCall.jl:346 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:46.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition setindex!(PyCall.PyObject, Any, Integer...) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:53.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:48.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer, Integer) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:49.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Union{AbstractString, Symbol}) in module PyCall at /root/.julia/packages/PyCall/tqyST/src/PyCall.jl:337 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:45.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition getindex(PyCall.PyObject, Integer...) in module PyCall at deprecated.jl:70 overwritten in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:50.
-  ** incremental compilation may be fatally broken for this module **
-
-WARNING: Method definition (::Type{PyCall.PyObject})(Base.Colon) in module PyCallUtils at /root/.julia/packages/PyCallUtils/DufyN/src/PyCallUtils.jl:38 overwritten in module PandasLite at /root/.julia/packages/PandasLite/7e29y/src/PandasLite.jl:117.
-  ** incremental compilation may be fatally broken for this module **
-
-[ Info: Finished indexing.

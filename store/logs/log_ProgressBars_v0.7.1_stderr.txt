@@ -1,12 +1,0 @@
-[ Info: Indexing package ProgressBars 0.7.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%####                                                                       6.9%############                                                              17.6%#####################                                                     29.5%################################                                          44.5%##########################################                                59.0%####################################################                      72.8%#############################################################             85.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ProgressBars ─ v0.7.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [49802e3a] + ProgressBars v0.7.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [49802e3a] + ProgressBars v0.7.1
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

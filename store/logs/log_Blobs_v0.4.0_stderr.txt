@@ -1,21 +1,0 @@
-[ Info: Indexing package Blobs 0.4.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#########                                                                 12.5%#####################                                                     30.1%########################################                                  55.8%###########################################################               82.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MacroTools ─ v0.5.6
-  Installed Blobs ────── v0.4.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [163b9779] + Blobs v0.4.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [163b9779] + Blobs v0.4.0
-  [1914dd2f] + MacroTools v0.5.6
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-[ Info: Finished indexing.

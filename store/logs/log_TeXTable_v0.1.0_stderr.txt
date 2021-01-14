@@ -1,9 +1,0 @@
-[ Info: Indexing package TeXTable 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed TeXTable ─ v0.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [a350b66b] + TeXTable v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [a350b66b] + TeXTable v0.1.0
-[ Info: Finished indexing.

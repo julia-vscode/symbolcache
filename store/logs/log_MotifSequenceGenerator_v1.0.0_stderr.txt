@@ -1,50 +1,0 @@
-[ Info: Indexing package MotifSequenceGenerator 1.0.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ##                                                                         3.8%#########                                                                 13.8%###############                                                           22.0%########################                                                  34.5%################################                                          45.8%##########################################                                59.0%###################################################                       72.1%############################################################              84.7%####################################################################      94.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed DataAPI ──────────────── v1.4.0
-  Installed SortingAlgorithms ────── v0.3.1
-  Installed Combinatorics ────────── v1.0.2
-  Installed Compat ───────────────── v3.25.0
-  Installed OrderedCollections ───── v1.3.2
-  Installed DataStructures ───────── v0.18.8
-  Installed StatsBase ────────────── v0.33.2
-  Installed Missings ─────────────── v0.4.4
-  Installed MotifSequenceGenerator ─ v1.0.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [7d228ccb] + MotifSequenceGenerator v1.0.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [861a8166] + Combinatorics v1.0.2
-  [34da2185] + Compat v3.25.0
-  [9a962f9c] + DataAPI v1.4.0
-  [864edb3b] + DataStructures v0.18.8
-  [e1d29d7a] + Missings v0.4.4
-  [7d228ccb] + MotifSequenceGenerator v1.0.0
-  [bac558e1] + OrderedCollections v1.3.2
-  [a2af1166] + SortingAlgorithms v0.3.1
-  [2913bbd2] + StatsBase v0.33.2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [8bb1440f] + DelimitedFiles
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [a63ad114] + Mmap
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [1a1011a3] + SharedArrays
-  [6462fe0b] + Sockets
-  [2f01184e] + SparseArrays
-  [10745b16] + Statistics
-  [8dfed614] + Test
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

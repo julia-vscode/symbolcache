@@ -1,16 +1,0 @@
-[ Info: Indexing package ResumableFunctions 0.5.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  1.3%#########                                                                 13.8%#####################                                                     29.5%################################                                          45.2%###########################################                               60.9%######################################################                    75.9%#################################################################         91.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MacroTools ───────── v0.5.6
-  Installed ResumableFunctions ─ v0.5.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [c5292f4c] + ResumableFunctions v0.5.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [1914dd2f] + MacroTools v0.5.6
-  [c5292f4c] + ResumableFunctions v0.5.1
-  [2a0f44e3] + Base64
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-[ Info: Finished indexing.

@@ -1,12 +1,0 @@
-[ Info: Indexing package RootedTrees 0.0.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%######                                                                     8.8%#####################                                                     29.5%###################################                                       48.9%######################################################                    75.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed RootedTrees ─ v0.0.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [47965b36] + RootedTrees v0.0.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [47965b36] + RootedTrees v0.0.2
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-[ Info: Finished indexing.

@@ -1,30 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - pyftpdlib==1.5.6
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    pyftpdlib-1.5.6            |           py38_0         186 KB  invenia
-    ------------------------------------------------------------
-                                           Total:         186 KB
-
-The following NEW packages will be INSTALLED:
-
-  pyftpdlib          invenia/linux-64::pyftpdlib-1.5.6-py38_0
-
-
-
-Downloading and Extracting Packages
-pyftpdlib-1.5.6      | 186 KB    |            |   0% pyftpdlib-1.5.6      | 186 KB    | ########## | 100% pyftpdlib-1.5.6      | 186 KB    | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done

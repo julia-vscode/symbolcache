@@ -1,30 +1,0 @@
-[ Info: Indexing package ReSHOP_jll 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%####                                                                       5.6%##########                                                                15.1%#################                                                         23.8%########################                                                  34.5%################################                                          45.2%##########################################                                59.0%###################################################                       72.2%############################################################              84.7%######################################################################    97.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ReSHOP_jll ─ v0.1.0
-┌ Error: Hash Mismatch!
-│   Expected sha256:   8ba592fb2919fbb20ca9e74712b49d0e646924122a2ab0f2797527a5e7662f38
-│   Calculated sha256: c178c96201515c76ac900e49cb87598490805deec187cf9d94e6140ee248b551
-└ @ Pkg.PlatformEngines /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/PlatformEngines.jl:1248
-ERROR: LoadError: Unable to automatically install 'ReSHOP' from '/root/.julia/packages/ReSHOP_jll/2RAnA/Artifacts.toml'
-Stacktrace:
- [1] error(::String) at ./error.jl:33
- [2] ensure_artifact_installed(::String, ::Dict{String,Any}, ::String; platform::Pkg.BinaryPlatforms.Platform, verbose::Bool, quiet_download::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Artifacts.jl:899
- [3] ensure_all_artifacts_installed(::String; platform::Pkg.BinaryPlatforms.Platform, pkg_uuid::Nothing, include_lazy::Bool, verbose::Bool, quiet_download::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Artifacts.jl:963
- [4] download_artifacts(::Pkg.Types.Context, ::Array{String,1}; platform::Pkg.BinaryPlatforms.Linux, verbose::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:663
- [5] download_artifacts(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}; platform::Pkg.BinaryPlatforms.Linux, verbose::Bool) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:642
- [6] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}, ::Array{Base.UUID,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/Operations.jl:1141
- [7] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}; preserve::Pkg.Types.PreserveLevel, platform::Pkg.BinaryPlatforms.Linux, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:188
- [8] add(::Pkg.Types.Context, ::Array{Pkg.Types.PackageSpec,1}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:139
- [9] #add#21 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
- [10] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:67 [inlined]
- [11] #add#19 at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
- [12] add at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:65 [inlined]
- [13] add(; name::String, uuid::Nothing, version::VersionNumber, url::Nothing, rev::Nothing, path::Nothing, mode::Pkg.Types.PackageMode, subdir::Nothing, kwargs::Base.Iterators.Pairs{Union{},Union{},Tuple{},NamedTuple{(),Tuple{}}}) at /buildworker/worker/package_linux64/build/usr/share/julia/stdlib/v1.5/Pkg/src/API.jl:82
- [14] top-level scope at /SymbolServer/src/indexpackage.jl:26
- [15] include(::Function, ::Module, ::String) at ./Base.jl:380
- [16] include(::Module, ::String) at ./Base.jl:368
- [17] exec_options(::Base.JLOptions) at ./client.jl:296
- [18] _start() at ./client.jl:506
-in expression starting at /SymbolServer/src/indexpackage.jl:26

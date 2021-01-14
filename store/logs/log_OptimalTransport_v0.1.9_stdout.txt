@@ -1,84 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - pot
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    ca-certificates-2020.12.5  |       ha878542_0         137 KB  conda-forge
-    certifi-2020.12.5          |   py38h578d9bd_1         143 KB  conda-forge
-    conda-4.9.2                |   py38h578d9bd_0         3.0 MB  conda-forge
-    cycler-0.10.0              |             py_2           9 KB  conda-forge
-    freetype-2.10.4            |       h7ca028e_0         912 KB  conda-forge
-    icu-67.1                   |       he1b5a44_0        12.9 MB  conda-forge
-    kiwisolver-1.3.1           |   py38h82cb98a_0          86 KB  conda-forge
-    libgfortran-ng-7.5.0       |      hae1eefd_17          22 KB  conda-forge
-    libgfortran4-7.5.0         |      hae1eefd_17         1.3 MB  conda-forge
-    libpng-1.6.37              |       h21135ba_2         306 KB  conda-forge
-    matplotlib-base-3.2.2      |   py38h5d868c9_1         7.1 MB  conda-forge
-    pot-0.7.0                  |   py38h950e882_0         198 KB  conda-forge
-    pyparsing-2.4.7            |     pyh9f0ad1d_0          60 KB  conda-forge
-    python-dateutil-2.8.1      |             py_0         220 KB  conda-forge
-    python_abi-3.8             |           1_cp38           4 KB  conda-forge
-    scipy-1.5.2                |   py38h0b6359f_0        14.5 MB
-    tornado-6.1                |   py38h25fe258_0         646 KB  conda-forge
-    ------------------------------------------------------------
-                                           Total:        41.4 MB
-
-The following NEW packages will be INSTALLED:
-
-  cycler             conda-forge/noarch::cycler-0.10.0-py_2
-  freetype           conda-forge/linux-64::freetype-2.10.4-h7ca028e_0
-  icu                conda-forge/linux-64::icu-67.1-he1b5a44_0
-  kiwisolver         conda-forge/linux-64::kiwisolver-1.3.1-py38h82cb98a_0
-  libgfortran-ng     conda-forge/linux-64::libgfortran-ng-7.5.0-hae1eefd_17
-  libgfortran4       conda-forge/linux-64::libgfortran4-7.5.0-hae1eefd_17
-  libpng             conda-forge/linux-64::libpng-1.6.37-h21135ba_2
-  matplotlib-base    conda-forge/linux-64::matplotlib-base-3.2.2-py38h5d868c9_1
-  pot                conda-forge/linux-64::pot-0.7.0-py38h950e882_0
-  pyparsing          conda-forge/noarch::pyparsing-2.4.7-pyh9f0ad1d_0
-  python-dateutil    conda-forge/noarch::python-dateutil-2.8.1-py_0
-  python_abi         conda-forge/linux-64::python_abi-3.8-1_cp38
-  scipy              pkgs/main/linux-64::scipy-1.5.2-py38h0b6359f_0
-  tornado            conda-forge/linux-64::tornado-6.1-py38h25fe258_0
-
-The following packages will be UPDATED:
-
-  certifi            pkgs/main::certifi-2020.12.5-py38h06a~ --> conda-forge::certifi-2020.12.5-py38h578d9bd_1
-
-The following packages will be SUPERSEDED by a higher-priority channel:
-
-  ca-certificates    pkgs/main::ca-certificates-2020.12.8-~ --> conda-forge::ca-certificates-2020.12.5-ha878542_0
-  conda               pkgs/main::conda-4.9.2-py38h06a4308_0 --> conda-forge::conda-4.9.2-py38h578d9bd_0
-
-
-
-Downloading and Extracting Packages
-libgfortran-ng-7.5.0 | 22 KB     |            |   0% libgfortran-ng-7.5.0 | 22 KB     | #######4   |  74% libgfortran-ng-7.5.0 | 22 KB     | ########## | 100% 
-pot-0.7.0            | 198 KB    |            |   0% pot-0.7.0            | 198 KB    | 8          |   8% pot-0.7.0            | 198 KB    | ########## | 100% pot-0.7.0            | 198 KB    | ########## | 100% 
-kiwisolver-1.3.1     | 86 KB     |            |   0% kiwisolver-1.3.1     | 86 KB     | ########## | 100% 
-python-dateutil-2.8. | 220 KB    |            |   0% python-dateutil-2.8. | 220 KB    | ########## | 100% 
-cycler-0.10.0        | 9 KB      |            |   0% cycler-0.10.0        | 9 KB      | ########## | 100% 
-conda-4.9.2          | 3.0 MB    |            |   0% conda-4.9.2          | 3.0 MB    | ##9        |  29% conda-4.9.2          | 3.0 MB    | ########5  |  86% conda-4.9.2          | 3.0 MB    | ########## | 100% 
-python_abi-3.8       | 4 KB      |            |   0% python_abi-3.8       | 4 KB      | ########## | 100% 
-ca-certificates-2020 | 137 KB    |            |   0% ca-certificates-2020 | 137 KB    | ########## | 100% 
-pyparsing-2.4.7      | 60 KB     |            |   0% pyparsing-2.4.7      | 60 KB     | ########## | 100% 
-matplotlib-base-3.2. | 7.1 MB    |            |   0% matplotlib-base-3.2. | 7.1 MB    | #8         |  18% matplotlib-base-3.2. | 7.1 MB    | ####2      |  43% matplotlib-base-3.2. | 7.1 MB    | ######6    |  66% matplotlib-base-3.2. | 7.1 MB    | #########4 |  94% matplotlib-base-3.2. | 7.1 MB    | ########## | 100% 
-libgfortran4-7.5.0   | 1.3 MB    |            |   0% libgfortran4-7.5.0   | 1.3 MB    | ####1      |  41% libgfortran4-7.5.0   | 1.3 MB    | ########## | 100% libgfortran4-7.5.0   | 1.3 MB    | ########## | 100% 
-libpng-1.6.37        | 306 KB    |            |   0% libpng-1.6.37        | 306 KB    | ########## | 100% libpng-1.6.37        | 306 KB    | ########## | 100% 
-scipy-1.5.2          | 14.5 MB   |            |   0% scipy-1.5.2          | 14.5 MB   |            |   0% scipy-1.5.2          | 14.5 MB   | #          |  10% scipy-1.5.2          | 14.5 MB   | #9         |  19% scipy-1.5.2          | 14.5 MB   | ##8        |  28% scipy-1.5.2          | 14.5 MB   | ###8       |  38% scipy-1.5.2          | 14.5 MB   | ####7      |  48% scipy-1.5.2          | 14.5 MB   | #####5     |  56% scipy-1.5.2          | 14.5 MB   | ######8    |  69% scipy-1.5.2          | 14.5 MB   | ########1  |  81% scipy-1.5.2          | 14.5 MB   | #########3 |  93% scipy-1.5.2          | 14.5 MB   | ########## | 100% 
-certifi-2020.12.5    | 143 KB    |            |   0% certifi-2020.12.5    | 143 KB    | ########## | 100% 
-freetype-2.10.4      | 912 KB    |            |   0% freetype-2.10.4      | 912 KB    | ########## | 100% freetype-2.10.4      | 912 KB    | ########## | 100% 
-icu-67.1             | 12.9 MB   |            |   0% icu-67.1             | 12.9 MB   | 9          |  10% icu-67.1             | 12.9 MB   | ##4        |  24% icu-67.1             | 12.9 MB   | ###8       |  39% icu-67.1             | 12.9 MB   | #####3     |  53% icu-67.1             | 12.9 MB   | ######9    |  70% icu-67.1             | 12.9 MB   | ########5  |  85% icu-67.1             | 12.9 MB   | #########7 |  98% icu-67.1             | 12.9 MB   | ########## | 100% 
-tornado-6.1          | 646 KB    |            |   0% tornado-6.1          | 646 KB    | ########## | 100% tornado-6.1          | 646 KB    | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done

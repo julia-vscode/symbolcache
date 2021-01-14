@@ -1,16 +1,0 @@
-[ Info: Indexing package AbstractTensors 0.6.3...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      #=#=-#  #                                                                     -#O#- #   #                                                                   -=#=#   #   #                                                                 #                                                                          2.5%############                                                              16.9%########################                                                  34.5%######################################                                    53.3%#####################################################                     74.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed AbstractLattices ─ v0.2.1
-  Installed AbstractTensors ── v0.6.3
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [a8e43f4a] + AbstractTensors v0.6.3
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [398f06c4] + AbstractLattices v0.2.1
-  [a8e43f4a] + AbstractTensors v0.6.3
-  [8f399da3] + Libdl
-  [37e2e46d] + LinearAlgebra
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-[ Info: Finished indexing.

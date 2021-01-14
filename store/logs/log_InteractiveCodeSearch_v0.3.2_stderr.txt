@@ -1,33 +1,0 @@
-[ Info: Indexing package InteractiveCodeSearch 0.3.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##O=#  #                                                                      ##                                                                         3.8%##########                                                                15.1%#####################                                                     29.5%###################################                                       48.9%###################################################                       70.9%##################################################################        92.2%######################################################################## 100.0%
-  Resolving package versions...
-  Installed InteractiveCodeSearch ─ v0.3.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [54eb57ff] + InteractiveCodeSearch v0.3.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [54eb57ff] + InteractiveCodeSearch v0.3.2
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-┌ Warning: Matcher rofi not installed.
-│ See https://github.com/DaveDavenport/rofi for how to install rofi.
-│ 
-│ For terminal usage, `peco` is recommended.
-│ See https://github.com/peco/peco for how to install peco.
-│ 
-└ @ InteractiveCodeSearch ~/.julia/packages/InteractiveCodeSearch/irjIV/src/InteractiveCodeSearch.jl:514
-[ Info: Finished indexing.

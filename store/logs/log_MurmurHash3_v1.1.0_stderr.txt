@@ -1,10 +1,0 @@
-[ Info: Indexing package MurmurHash3 1.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%########                                                                  11.9%#######################                                                   32.0%#######################################                                   54.6%############################################################              84.7%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MurmurHash3 ─ v1.1.0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [b10b62ed] + MurmurHash3 v1.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b10b62ed] + MurmurHash3 v1.1.0
-[ Info: Finished indexing.

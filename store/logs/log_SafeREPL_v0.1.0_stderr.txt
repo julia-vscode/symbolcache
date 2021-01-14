@@ -1,17 +1,0 @@
-[ Info: Indexing package SafeREPL 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                                                                                                  0.6%####                                                                       6.3%########                                                                  11.9%##############                                                            19.4%###################                                                       27.0%#########################                                                 35.8%#################################                                         46.4%##########################################                                58.3%####################################################                      72.8%###############################################################           87.8%######################################################################## 100.0%
-  Resolving package versions...
-  Installed SafeREPL ───── v0.1.0
-  Installed SwapLiterals ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [5e6a0ad9] + SafeREPL v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [5e6a0ad9] + SafeREPL v0.1.0
-  [b9c42661] + SwapLiterals v0.1.1
-  [2a0f44e3] + Base64
-  [b77e0a4c] + InteractiveUtils
-  [d6f4376e] + Markdown
-  [3fa0cd96] + REPL
-  [6462fe0b] + Sockets
-[ Info: Finished indexing.

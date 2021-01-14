@@ -1,16 +1,0 @@
-[ Info: Indexing package ZygoteRules 0.1.0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ###                                                                        4.4%############                                                              16.9%#####################                                                     29.5%##############################                                            42.0%#######################################                                   55.2%################################################                          67.1%#######################################################                   77.2%#################################################################         91.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed ZygoteRules ─ v0.1.0
-  Installed MacroTools ── v0.5.6
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [700de1a5] + ZygoteRules v0.1.0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [1914dd2f] + MacroTools v0.5.6
-  [700de1a5] + ZygoteRules v0.1.0
-  [2a0f44e3] + Base64
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-[ Info: Finished indexing.

@@ -1,26 +1,0 @@
-[ Info: Indexing package Mjolnir 0.2.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ####                                                                       6.9%##############                                                            20.1%##########################                                                36.4%#######################################                                   55.2%######################################################                    75.9%#########################################################                 80.3%#################################################################         91.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed MacroTools ─ v0.5.6
-  Installed Mjolnir ──── v0.2.1
-  Installed IRTools ──── v0.4.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [1154507a] + Mjolnir v0.2.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7869d1d1] + IRTools v0.4.2
-  [1914dd2f] + MacroTools v0.5.6
-  [1154507a] + Mjolnir v0.2.1
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-WARNING: both All and Base export "Meta"; uses of it in module Mjolnir must be qualified
-WARNING: both All and Base export "Pipe"; uses of it in module Mjolnir must be qualified
-WARNING: both All and Core export "undef"; uses of it in module Mjolnir must be qualified
-[ Info: Finished indexing.

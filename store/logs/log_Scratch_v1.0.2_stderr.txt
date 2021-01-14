@@ -1,13 +1,0 @@
-[ Info: Indexing package Scratch 1.0.2...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%##########                                                                15.1%#################################                                         46.4%##########################################################                80.9%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Scratch ─ v1.0.2
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [6c6a2e73] + Scratch v1.0.2
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [6c6a2e73] + Scratch v1.0.2
-  [ade2ca70] + Dates
-  [de0858da] + Printf
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

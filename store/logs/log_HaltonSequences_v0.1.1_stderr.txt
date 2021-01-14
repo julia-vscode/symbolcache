@@ -1,21 +1,0 @@
-[ Info: Indexing package HaltonSequences 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.8%##############                                                            20.1%##################################                                        48.3%###########################################################               82.8%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Primes ────────── v0.4.0
-  Installed HaltonSequences ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [13907d55] + HaltonSequences v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [13907d55] + HaltonSequences v0.1.1
-  [27ebfcd6] + Primes v0.4.0
-  [2a0f44e3] + Base64
-  [8ba89e20] + Distributed
-  [b77e0a4c] + InteractiveUtils
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [9a3f8284] + Random
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [8dfed614] + Test
-[ Info: Finished indexing.

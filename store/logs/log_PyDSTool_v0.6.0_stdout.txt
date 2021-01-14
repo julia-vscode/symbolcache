@@ -1,59 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - pydstool
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    ca-certificates-2020.12.5  |       ha878542_0         137 KB  conda-forge
-    certifi-2020.12.5          |   py38h578d9bd_1         143 KB  conda-forge
-    conda-4.9.2                |   py38h578d9bd_0         3.0 MB  conda-forge
-    libgfortran-ng-7.5.0       |      hae1eefd_17          22 KB  conda-forge
-    libgfortran4-7.5.0         |      hae1eefd_17         1.3 MB  conda-forge
-    pydstool-0.91.0            |     pyh9f0ad1d_0         3.0 MB  conda-forge
-    python_abi-3.8             |           1_cp38           4 KB  conda-forge
-    scipy-1.5.2                |   py38h0b6359f_0        14.5 MB
-    ------------------------------------------------------------
-                                           Total:        22.1 MB
-
-The following NEW packages will be INSTALLED:
-
-  libgfortran-ng     conda-forge/linux-64::libgfortran-ng-7.5.0-hae1eefd_17
-  libgfortran4       conda-forge/linux-64::libgfortran4-7.5.0-hae1eefd_17
-  pydstool           conda-forge/noarch::pydstool-0.91.0-pyh9f0ad1d_0
-  python_abi         conda-forge/linux-64::python_abi-3.8-1_cp38
-  scipy              pkgs/main/linux-64::scipy-1.5.2-py38h0b6359f_0
-
-The following packages will be UPDATED:
-
-  certifi            pkgs/main::certifi-2020.12.5-py38h06a~ --> conda-forge::certifi-2020.12.5-py38h578d9bd_1
-
-The following packages will be SUPERSEDED by a higher-priority channel:
-
-  ca-certificates    pkgs/main::ca-certificates-2020.12.8-~ --> conda-forge::ca-certificates-2020.12.5-ha878542_0
-  conda               pkgs/main::conda-4.9.2-py38h06a4308_0 --> conda-forge::conda-4.9.2-py38h578d9bd_0
-
-
-
-Downloading and Extracting Packages
-ca-certificates-2020 | 137 KB    |            |   0% ca-certificates-2020 | 137 KB    | #1         |  12% ca-certificates-2020 | 137 KB    | ########## | 100% 
-certifi-2020.12.5    | 143 KB    |            |   0% certifi-2020.12.5    | 143 KB    | ########## | 100% 
-scipy-1.5.2          | 14.5 MB   |            |   0% scipy-1.5.2          | 14.5 MB   | 1          |   2% scipy-1.5.2          | 14.5 MB   | #1         |  12% scipy-1.5.2          | 14.5 MB   | ##3        |  23% scipy-1.5.2          | 14.5 MB   | ###7       |  37% scipy-1.5.2          | 14.5 MB   | ####6      |  46% scipy-1.5.2          | 14.5 MB   | #####8     |  58% scipy-1.5.2          | 14.5 MB   | #######    |  70% scipy-1.5.2          | 14.5 MB   | ########3  |  84% scipy-1.5.2          | 14.5 MB   | #########5 |  95% scipy-1.5.2          | 14.5 MB   | ########## | 100% 
-pydstool-0.91.0      | 3.0 MB    |            |   0% pydstool-0.91.0      | 3.0 MB    |            |   1% pydstool-0.91.0      | 3.0 MB    | ###9       |  39% pydstool-0.91.0      | 3.0 MB    | ########7  |  88% pydstool-0.91.0      | 3.0 MB    | ########## | 100% 
-python_abi-3.8       | 4 KB      |            |   0% python_abi-3.8       | 4 KB      | ########## | 100% 
-libgfortran-ng-7.5.0 | 22 KB     |            |   0% libgfortran-ng-7.5.0 | 22 KB     | ########## | 100% 
-libgfortran4-7.5.0   | 1.3 MB    |            |   0% libgfortran4-7.5.0   | 1.3 MB    | ##4        |  25% libgfortran4-7.5.0   | 1.3 MB    | #####6     |  56% libgfortran4-7.5.0   | 1.3 MB    | ########6  |  86% libgfortran4-7.5.0   | 1.3 MB    | ########## | 100% 
-conda-4.9.2          | 3.0 MB    |            |   0% conda-4.9.2          | 3.0 MB    | ##2        |  22% conda-4.9.2          | 3.0 MB    | ####7      |  48% conda-4.9.2          | 3.0 MB    | #######5   |  75% conda-4.9.2          | 3.0 MB    | ########## | 100% conda-4.9.2          | 3.0 MB    | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done
-Warning: matplotlib failed to import properly and so is not
-  providing a graphing interface

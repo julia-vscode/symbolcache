@@ -1,11 +1,0 @@
-[ Info: Indexing package BaremetalPi 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       ##                                                                         3.1%########                                                                  11.9%################                                                          22.6%########################                                                  33.9%##################################                                        48.3%#############################################                             62.7%##########################################################                80.9%###################################################################       93.5%######################################################################## 100.0%
-  Resolving package versions...
-  Installed BaremetalPi ─ v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [3a90a9a9] + BaremetalPi v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [3a90a9a9] + BaremetalPi v0.1.1
-  [a63ad114] + Mmap
-[ Info: Finished indexing.

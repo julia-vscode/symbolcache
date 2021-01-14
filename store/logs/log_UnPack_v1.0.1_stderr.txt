@@ -1,9 +1,0 @@
-[ Info: Indexing package UnPack 1.0.1...
-   Updating registry at `~/.julia/registries/General`
-  Resolving package versions...
-  Installed UnPack ─ v1.0.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [3a884ed6] + UnPack v1.0.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [3a884ed6] + UnPack v1.0.1
-[ Info: Finished indexing.

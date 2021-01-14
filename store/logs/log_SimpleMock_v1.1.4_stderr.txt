@@ -1,12 +1,0 @@
-[ Info: Indexing package SimpleMock 1.1.4...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         #                                                                          1.9%#################                                                         24.5%###########################                                               38.3%##################################################                        70.3%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Cassette ─── v0.3.4
-  Installed SimpleMock ─ v1.1.4
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [a896ed2c] + SimpleMock v1.1.4
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [7057c7e9] + Cassette v0.3.4
-  [a896ed2c] + SimpleMock v1.1.4
-[ Info: Finished indexing.

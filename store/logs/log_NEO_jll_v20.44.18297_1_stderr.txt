@@ -1,40 +1,0 @@
-[ Info: Indexing package NEO_jll 20.44.18297+1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%########                                                                  11.3%#####################                                                     29.5%##################################                                        47.7%##############################################                            65.3%############################################################              84.1%######################################################################## 100.0%
-  Resolving package versions...
-  Installed gmmlib_jll ──────────────────── v20.3.2+0
-  Installed Artifacts ───────────────────── v1.3.0
-  Installed libigc_jll ──────────────────── v1.0.5353+0
-  Installed oneAPI_Level_Zero_Headers_jll ─ v1.0.4+1
-  Installed JLLWrappers ─────────────────── v1.2.0
-  Installed NEO_jll ─────────────────────── v20.44.18297+1
-
-gzip: stdin: unexpected end of file
-tar: Child returned status 1
-tar: Error is not recoverable: exiting now
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [700fe977] + NEO_jll v20.44.18297+1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [692b3bcd] + JLLWrappers v1.2.0
-  [700fe977] + NEO_jll v20.44.18297+1
-  [09858cae] + gmmlib_jll v20.3.2+0
-  [94295238] + libigc_jll v1.0.5353+0
-  [f4bc562b] + oneAPI_Level_Zero_Headers_jll v1.0.4+1
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

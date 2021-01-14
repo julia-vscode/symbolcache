@@ -1,34 +1,0 @@
-[ Info: Indexing package WaveFD_jll 0.2.0+0...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                                                                                                    0.6%#                                                                          2.5%####                                                                       6.3%######                                                                     9.4%#########                                                                 13.8%##############                                                            19.4%#################                                                         23.8%####################                                                      28.9%########################                                                  33.9%#########################                                                 35.8%################################                                          44.5%######################################                                    54.0%#############################################                             62.7%#######################################################                   76.5%#################################################################         91.6%######################################################################## 100.0%
-  Resolving package versions...
-  Installed Artifacts ──────────────────── v1.3.0
-  Installed FFTW_jll ───────────────────── v3.3.9+7
-  Installed CompilerSupportLibraries_jll ─ v0.3.4+0
-  Installed JLLWrappers ────────────────── v1.2.0
-  Installed WaveFD_jll ─────────────────── v0.2.0+0
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [c8b78e2a] + WaveFD_jll v0.2.0+0
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [56f22d72] + Artifacts v1.3.0
-  [e66e0078] + CompilerSupportLibraries_jll v0.3.4+0
-  [f5851436] + FFTW_jll v3.3.9+7
-  [692b3bcd] + JLLWrappers v1.2.0
-  [c8b78e2a] + WaveFD_jll v0.2.0+0
-  [2a0f44e3] + Base64
-  [ade2ca70] + Dates
-  [b77e0a4c] + InteractiveUtils
-  [76f85450] + LibGit2
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [d6f4376e] + Markdown
-  [44cfe95a] + Pkg
-  [de0858da] + Printf
-  [3fa0cd96] + REPL
-  [9a3f8284] + Random
-  [ea8e919c] + SHA
-  [9e88b42a] + Serialization
-  [6462fe0b] + Sockets
-  [cf7118a7] + UUIDs
-  [4ec0a83e] + Unicode
-[ Info: Finished indexing.

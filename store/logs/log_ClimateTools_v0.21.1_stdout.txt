@@ -1,30 +1,0 @@
-Collecting package metadata (current_repodata.json): ...working... done
-Solving environment: ...working... done
-
-## Package Plan ##
-
-  environment location: /root/.julia/conda/3
-
-  added / updated specs:
-    - scipy
-
-
-The following packages will be downloaded:
-
-    package                    |            build
-    ---------------------------|-----------------
-    scipy-1.5.2                |   py38h0b6359f_0        14.5 MB
-    ------------------------------------------------------------
-                                           Total:        14.5 MB
-
-The following NEW packages will be INSTALLED:
-
-  scipy              pkgs/main/linux-64::scipy-1.5.2-py38h0b6359f_0
-
-
-
-Downloading and Extracting Packages
-scipy-1.5.2          | 14.5 MB   |            |   0% scipy-1.5.2          | 14.5 MB   |            |   0% scipy-1.5.2          | 14.5 MB   | 3          |   3% scipy-1.5.2          | 14.5 MB   | 9          |  10% scipy-1.5.2          | 14.5 MB   | #5         |  16% scipy-1.5.2          | 14.5 MB   | ##         |  20% scipy-1.5.2          | 14.5 MB   | ##4        |  24% scipy-1.5.2          | 14.5 MB   | ##7        |  28% scipy-1.5.2          | 14.5 MB   | ###1       |  32% scipy-1.5.2          | 14.5 MB   | ###7       |  37% scipy-1.5.2          | 14.5 MB   | ####2      |  43% scipy-1.5.2          | 14.5 MB   | ####9      |  50% scipy-1.5.2          | 14.5 MB   | #####5     |  55% scipy-1.5.2          | 14.5 MB   | ######2    |  63% scipy-1.5.2          | 14.5 MB   | ######8    |  69% scipy-1.5.2          | 14.5 MB   | #######4   |  75% scipy-1.5.2          | 14.5 MB   | #######9   |  80% scipy-1.5.2          | 14.5 MB   | ########5  |  85% scipy-1.5.2          | 14.5 MB   | ########9  |  90% scipy-1.5.2          | 14.5 MB   | #########4 |  94% scipy-1.5.2          | 14.5 MB   | #########8 |  99% scipy-1.5.2          | 14.5 MB   | ########## | 100% 
-Preparing transaction: ...working... done
-Verifying transaction: ...working... done
-Executing transaction: ...working... done

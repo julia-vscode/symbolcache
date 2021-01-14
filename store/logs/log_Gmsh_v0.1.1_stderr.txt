@@ -1,16 +1,0 @@
-[ Info: Indexing package Gmsh 0.1.1...
-   Updating registry at `~/.julia/registries/General`
-#=#=#                                                                         ##O#- #                                                                       #                                                                          1.9%##############                                                            19.4%####################################                                      50.2%########################################################                  79.0%######################################################################## 100.0%
-  Resolving package versions...
-  Installed BinaryProvider ─ v0.5.10
-  Installed Gmsh ─────────── v0.1.1
-Updating `~/.julia/environments/v1.5/Project.toml`
-  [705231aa] + Gmsh v0.1.1
-Updating `~/.julia/environments/v1.5/Manifest.toml`
-  [b99e7846] + BinaryProvider v0.5.10
-  [705231aa] + Gmsh v0.1.1
-  [8f399da3] + Libdl
-  [56ddb016] + Logging
-  [ea8e919c] + SHA
-   Building Gmsh → `~/.julia/packages/Gmsh/eZVOZ/deps/build.log`
-[ Info: Finished indexing.

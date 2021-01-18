@@ -1,0 +1,16 @@
+name: Index the registry
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '*/5 * * * *'
+
+jobs:
+  registryindex:
+    name: "Index the Julia General registry"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: julia-actions/setup-julia@v1
+      - run: julia -e 'using Pkg; Pkg.develop("SymbolServer")'
+      - run: julia ~/.julia/dev/SymbolServer/registryindexer/main.jl'

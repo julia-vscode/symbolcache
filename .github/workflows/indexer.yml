@@ -12,6 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: julia-actions/setup-julia@v1
+        with:
+          version: '1.5'
       - run: julia -e 'using Pkg; Pkg.develop("SymbolServer")'
       - run: julia ~/.julia/dev/SymbolServer/registryindexer/main.jl $GITHUB_WORKSPACE/store 1
       - name: Commit files

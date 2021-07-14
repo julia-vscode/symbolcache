@@ -17,7 +17,7 @@ jobs:
         with:
           version: '1.6'
       - run: julia -e 'using Pkg; Pkg.develop("SymbolServer")'
-      - run: julia ~/.julia/dev/SymbolServer/registryindexer/main.jl $GITHUB_WORKSPACE/store 1
+      - run: julia ~/.julia/dev/SymbolServer/registryindexer/main.jl $GITHUB_WORKSPACE/store 2
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

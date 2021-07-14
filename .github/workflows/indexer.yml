@@ -26,6 +26,7 @@ jobs:
           git commit -m "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
+        continue-on-error: true
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}

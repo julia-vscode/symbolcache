@@ -17,6 +17,8 @@ jobs:
         with:
           version: '1.7'
       - run: julia -e 'using Pkg; Pkg.develop("SymbolServer")'
+        env:
+          JULIA_PKG_SERVER: ""
       - run: julia ~/.julia/dev/SymbolServer/registryindexer/main.jl $GITHUB_WORKSPACE/store 2
       - name: Commit files
         run: |

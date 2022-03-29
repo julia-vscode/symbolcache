@@ -3,7 +3,7 @@ name: Index the registry
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */12 * * *'
 
 concurrency: indexing_stage
 
